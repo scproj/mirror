@@ -1,0 +1,1077 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>비제이 쿠말(Vijay Kumar): 비행 로봇의 미래 | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="비제이 쿠말(Vijay Kumar): 비행 로봇의 미래 | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: 펜실베니아 대학의 연구실에서 비제이 쿠말과 그의 팀은 꿀벌에서 영감을 얻은 자동 비행 로봇을 만들고 있습니다. 그들의 최근의 성과는 Precision Farming (정밀 농법)으로 벌떼같은 로봇들이 과수원의 모든 식물과 열매를 파악하고 재구성하며 분석하여 농부들에게 수확량을 향상시키고 농업용수 관리를 더 잘 할 수 있도록 제공합니다." name="description" />
+<meta content="비제이 쿠말(Vijay Kumar)" name="author" />
+<link href="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;비행 로봇의 미래&quot;" property="og:title" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/87f82eddb91d2c806ebb11465d846c47f481902c_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/87f82eddb91d2c806ebb11465d846c47f481902c_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: 펜실베니아 대학의 연구실에서 비제이 쿠말과 그의 팀은 꿀벌에서 영감을 얻은 자동 비행 로봇을 만들고 있습니다. 그들의 최근의 성과는 Precision Farming (정밀 농법)으로 벌떼같은 로봇들이 과수원의 모든 식물과 열매를 파악하고 재구성하며 분석하여 농부들에게 수확량을 향상시키고 농업용수 관리를 더 잘 할 수 있도록 제공합니다." property="og:description" />
+<meta content="http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk-ie.css?1449612281">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk.css?1449612281">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?372e9c1ad21862103d589d49af44d28b","Swipe":"Swipe.js?73df4e5005408bc203e969751fc55e26","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","tedx":"tedx.js?f71e6b01e6becadca27fe635865d10df","flot":"flot.js?f327c555b811f034d94bfac8b6931307","hbs":"hbs.js?e36c0e0e09a79031f61eb328fc4c5a7b","transit":"transit.js?68aa867b464466c3dc98c60e068b7f68","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","pages":"pages.js?1fc3f19849913b97ac49d754f65aec11","deferLink":"deferLink.js?7adfdb9374698e3ee45ae2f72a9554ff","libs":"libs.js?f72f9becee377a41f67a0821d60cbca5","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","jquery":"libs.js?f72f9becee377a41f67a0821d60cbca5","swfobject":"libs.js?f72f9becee377a41f67a0821d60cbca5","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","Mailcheck":"Mailcheck.js?e8314a0c5bb92079c911a261b2afb289","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","jqueryujs":"libs.js?f72f9becee377a41f67a0821d60cbca5","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","Backbone":"libs.js?f72f9becee377a41f67a0821d60cbca5","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","swatch":"swatch.js?afe36518ad071cd727e0d83732239cf1","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","search":"search.js?c35ef36e1163fdd700e9e4597c54670c","profiles":"profiles.js?97fae740b654fe9b080dc4f3a40845e2","newsletter":"newsletter.js?08d8ae7a1c6482d7beb3002fcfaacdc2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","ZeroClipboard":"ZeroClipboard.js?7c36a7eb020bbb97dafee4153f46c87d","spinjs":"spinjs.js?e1cc3dce984cd870d9d02be288d0dbdd","home":"home.js?a022cc3647e176df139a95305436b5c6","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","numeral":"numeral.js?a222da10e94e967e928aca44d69ce0f5","waypoints":"waypoints.js?70444276da7d7de57b7c670dc053f1f5","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Modernizr":"Modernizr.js?08cd3d9d0df1143464d1ca8ce01fed50","menuAim":"menuAim.js?2dae90e87689e70126a38328bac9a5ee","global":"global.js?32acea94e04f0857ff698086dbba7d47","dashboard_hotels":"dashboard_hotels.js?614e7f024aef5688437f667f857da860","dashboard":"dashboard.js?58449ad35e4a86ebfe91a29034a7dcc7","dq":"libs.js?f72f9becee377a41f67a0821d60cbca5","pages/dynamic/dummy":"pages/dynamic/dummy.js?db40c2c843286b433bfd906e6c74f1b3","talk":"talk.js?793f7a7423e25ccba43a4234f4e8d5b6","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","lodash":"libs.js?f72f9becee377a41f67a0821d60cbca5","surprise_me":"surprise_me.js?15d20c1a672006281855579474bac1f3","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","SwipeView":"SwipeView.js?4f04041392bfc7c535ae4f55e7b1e055","depot":"depot.js?429a4bc85cfbcc083d5278526d66123d","autosize":"autosize.js?609924fea6718a2ff0e8e32677bc132b","talks":"talks.js?7cfcd598f4b654af6f9e8e15e3d916c0","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Cookies":"Cookies.js?b331f247439cf974333a98958d35790d","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","embed":"embed.js?20b97011a03e61004d7d6e6c762667f9","settings":"settings.js?a16ac9e15c9eb86bf133c722366eb96e","touchPunch":"touchPunch.js?0374f5fc70a9e5ada6b9c6721e4ca424","moment":"moment.js?2901d956628d5071fcb01d19a2e6b9d6","dashboard_sessions":"dashboard_sessions.js?16f3e4102d4092e240177a42e696104c","crushinator":"crushinator.js?6780e5d6c8daac982c107577b713686a","hbs/handlebars":"libs.js?f72f9becee377a41f67a0821d60cbca5"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612281"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/vijay_kumar_the_future_of_flying_robots?language=ko'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Return to talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='vijay_kumar_the_future_of_flying_robots'>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='en'>English</option>
+<option value='hu'>Hungarian</option>
+<option value='ja'>Japanese</option>
+<option selected value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+</select>
+<p>
+Translated by
+<a href="http://www.ted.com/profiles/2591230">Jihyeon J. Kim</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1636047">Gemma EJ Lee</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots?language=ko' language='ko'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="789" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/87f82eddb91d2c806ebb11465d846c47f481902c_2880x1620.jpg?quality=89&amp;w=320" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:09</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>비제이 쿠말(Vijay Kumar)</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots?language=ko' lang='ko'>
+비행 로봇의 미래
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Oct 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='1280' id='t-1280'>제 연구실은 여기 날아다니는 것처럼
+자동 비행 로봇을 만듭니다.</span>
+<span class='talk-transcript__fragment' data-time='8720' id='t-8720'>오늘날 구매할 수 있는 
+상업용 드론과는 달리</span>
+<span class='talk-transcript__fragment' data-time='12440' id='t-12440'>이 로봇은 GPS를 
+탑재하고 있지 않습니다.</span>
+<span class='talk-transcript__fragment' data-time='16160' id='t-16160'>GPS없이는</span>
+<span class='talk-transcript__fragment' data-time='17400' id='t-17400'>이런 로봇이 자신의 위치를 
+파악하기 힘듭니다.</span>
+<span class='talk-transcript__fragment' data-time='22240' id='t-22240'>이 로봇은 자체 센서와 카메라, 
+레이저 스캐너를 가지고</span>
+<span class='talk-transcript__fragment' data-time='26930' id='t-26930'>주변 환경을 탐색합니다.</span>
+<span class='talk-transcript__fragment' data-time='28670' id='t-28670'>환경의 특이사항들을 탐지하고</span>
+<span class='talk-transcript__fragment' data-time='31760' id='t-31760'>그 사항들이 관련있는 곳에서</span>
+<span class='talk-transcript__fragment' data-time='34510' id='t-34510'>삼각측량법을 이용해서 결정합니다.</span>
+<span class='talk-transcript__fragment' data-time='36700' id='t-36700'>그러고 나서 이 특징들을 
+뒤에 보시는 것 같은</span>
+<span class='talk-transcript__fragment' data-time='40160' id='t-40160'>지도로 조합할 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='41940' id='t-41940'>이 지도는 로봇이 
+장애물의 위치를 알아서</span>
+<span class='talk-transcript__fragment' data-time='45860' id='t-45860'>충돌없이 날아다닐 수 있게 합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+01:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='49160' id='t-49160'>다음에 보여 드리고 싶은 것은</span>
+<span class='talk-transcript__fragment' data-time='51220' id='t-51220'>연구실에서 진행했던 몇 가지 실험인데</span>
+<span class='talk-transcript__fragment' data-time='54470' id='t-54470'>이 로봇이 장거리 비행을 
+할 수 있는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='58400' id='t-58400'>보시면 오른쪽 맨 위에 로봇이 
+카메라로 보는 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='63390' id='t-63390'>주 화면에는 이건 
+4배속으로 돌린 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='67160' id='t-67160'>주 화면에 지도를 
+만드는 것이 보입니다.</span>
+<span class='talk-transcript__fragment' data-time='69811' id='t-69811'>이것은 저희 연구실 
+복도의 고화질 지도입니다.</span>
+<span class='talk-transcript__fragment' data-time='74090' id='t-74090'>이것이 곧 연구실로 
+들어오는게 보일 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='76470' id='t-76470'>어지럽게 널린 물건들을 보고
+알 수 있으시죠.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+01:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='79330' id='t-79330'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+01:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='80410' id='t-80410'>여러분께 알려드릴 중요한 점은</span>
+<span class='talk-transcript__fragment' data-time='82392' id='t-82392'>이 로봇들이 5cm 해상도의
+고화질 지도를 만들어서</span>
+<span class='talk-transcript__fragment' data-time='88570' id='t-88570'>연구실이나 건물 밖에 있는 사람이</span>
+<span class='talk-transcript__fragment' data-time='92770' id='t-92770'>안에 들어가지도 않고 로봇을 보내고</span>
+<span class='talk-transcript__fragment' data-time='95980' id='t-95980'>건물 안에서 벌어지는 
+일을 알아내게 해 줍니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+01:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='100400' id='t-100400'>이런 로봇에 한 가지 문제가 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='103600' id='t-103600'>첫 번째 문제는 이것이 매우 큽니다.</span>
+<span class='talk-transcript__fragment' data-time='106120' id='t-106120'>크다보니 무겁습니다.</span>
+<span class='talk-transcript__fragment' data-time='108640' id='t-108640'>이 로봇들은 1파운드 당 
+100와트를 소모합니다.</span>
+<span class='talk-transcript__fragment' data-time='112360' id='t-112360'>그래서 임무수행 시간이 매우 짧습니다.</span>
+<span class='talk-transcript__fragment' data-time='116000' id='t-116000'>두 번째 문제는</span>
+<span class='talk-transcript__fragment' data-time='117450' id='t-117450'>이 로봇들이 매우 비싼 데</span>
+<span class='talk-transcript__fragment' data-time='121350' id='t-121350'>내장 센서, 레이저 스캐너, 
+카메라와 처리장치가 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='125280' id='t-125280'>그것 때문에 이 로봇가격이 치솟습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='129440' id='t-129440'>그래서 이런 질문을 해 봤습니다.</span>
+<span class='talk-transcript__fragment' data-time='132070' id='t-132070'>전자제품 매장의 어떤 소비재가</span>
+<span class='talk-transcript__fragment' data-time='135880' id='t-135880'>저렴하고, 가벼우며 내장 
+센서와 처리장치가 있을까요?</span>
+<span class='talk-transcript__fragment' data-time='144080' id='t-144080'>그래서 저희가 날아다니는 
+전화를 발명했습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='146720' id='t-146720'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='148680' id='t-148680'>이 로봇은 매장에서 구입할 수 있는 
+삼성 갤럭시 스마트폰을 썼고</span>
+<span class='talk-transcript__fragment' data-time='154870' id='t-154870'>앱스토어에서 앱을 다운로드 
+하기만 하면 됩니다.</span>
+<span class='talk-transcript__fragment' data-time='158910' id='t-158910'>로봇이 글자도 인식합니다. 
+여기서는 &quot;TED&quot;를 읽죠.</span>
+<span class='talk-transcript__fragment' data-time='163150' id='t-163150'>T와 E의 가장자리를 보며</span>
+<span class='talk-transcript__fragment' data-time='166100' id='t-166100'>자동비행을 하며 삼각측량을 합니다.</span>
+<span class='talk-transcript__fragment' data-time='170720' id='t-170720'>조이스틱이 로봇이 마구 
+움직이지 않게 조정합니다.</span>
+<span class='talk-transcript__fragment' data-time='173950' id='t-173950'>쥬세페가 로봇을 끌 수 있죠.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='175410' id='t-175410'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='178920' id='t-178920'>이러한 작은 로봇을 제작함과 더불어</span>
+<span class='talk-transcript__fragment' data-time='182740' id='t-182740'>여기서 보시는 이런 
+역동적인 행동도 실험합니다.</span>
+<span class='talk-transcript__fragment' data-time='187920' id='t-187920'>이 로봇은 초당 2-3m로 움직이며</span>
+<span class='talk-transcript__fragment' data-time='193200' id='t-193200'>방향을 바꿀 때 공격적으로 
+올라가거나 돕니다.</span>
+<span class='talk-transcript__fragment' data-time='196710' id='t-196710'>요점은 더 빨리 갈 수 있고 비구조화된 
+환경에서 움직일 수 있는</span>
+<span class='talk-transcript__fragment' data-time='201000' id='t-201000'>더 작은 로봇을 가질 수 
+있다는 겁니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='205120' id='t-205120'>다음 영상에서는</span>
+<span class='talk-transcript__fragment' data-time='207180' id='t-207180'>새나 독수리가 우아하게 날개와</span>
+<span class='talk-transcript__fragment' data-time='213090' id='t-213090'>눈, 다리를 조정해서 물 밖으로 
+먹이를 잡아 채는 걸 보시듯이</span>
+<span class='talk-transcript__fragment' data-time='217400' id='t-217400'>우리 로봇도 낚시를 할 수 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='219300' id='t-219300'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:51
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='220830' id='t-220830'>이 경우에는 갑자기 필리 
+치즈스테이크를 낚아 챕니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='224910' id='t-224910'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='227680' id='t-227680'>이 로봇이 초당 3m로 
+움직이는 걸 보시는데</span>
+<span class='talk-transcript__fragment' data-time='230960' id='t-230960'>걷는 속도보다 빠르며 
+팔, 발톱과 비행을</span>
+<span class='talk-transcript__fragment' data-time='236110' id='t-236110'>눈 깜짝할 사이에 조정해서 
+이렇게 하는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='242120' id='t-242120'>다른 실험에서는</span>
+<span class='talk-transcript__fragment' data-time='243320' id='t-243320'>로봇이 비행을 어떻게 조절하여</span>
+<span class='talk-transcript__fragment' data-time='247000' id='t-247000'>부유 하중을 통제하는 지 
+보여드리겠습니다.</span>
+<span class='talk-transcript__fragment' data-time='249410' id='t-249410'>창 넓이보다 실제로 더 큰 길이입니다.</span>
+<span class='talk-transcript__fragment' data-time='253680' id='t-253680'>이렇게 하기 위해서</span>
+<span class='talk-transcript__fragment' data-time='255330' id='t-255330'>고도를 높이고 조절하여</span>
+<span class='talk-transcript__fragment' data-time='259060' id='t-259060'>적재 하중을 흔들어 통과합니다.</span>
+<span class='talk-transcript__fragment' data-time='266920' id='t-266920'>물론 이것을 더욱 작게 하고 싶어서</span>
+<span class='talk-transcript__fragment' data-time='269180' id='t-269180'>특히 꿀벌에서 영감을 받았습니다.</span>
+<span class='talk-transcript__fragment' data-time='272240' id='t-272240'>이것은 느린 영상인데, 꿀벌을 보시면</span>
+<span class='talk-transcript__fragment' data-time='275510' id='t-275510'>아주 작은데 관성이 매우 가벼워서</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='279960' id='t-279960'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='281110' id='t-281110'>가령 제 손에 튕겨도 
+신경도 안 씁니다.</span>
+<span class='talk-transcript__fragment' data-time='284640' id='t-284640'>이것은 꿀벌의 행동을 
+흉내내는 소형 로봇입니다.</span>
+<span class='talk-transcript__fragment' data-time='288600' id='t-288600'>작을수록 더 좋은 것이</span>
+<span class='talk-transcript__fragment' data-time='289760' id='t-289760'>이렇게 소규모로 하면 
+관성이 더 낮아집니다.</span>
+<span class='talk-transcript__fragment' data-time='293340' id='t-293340'>관성이 낮아지면 --</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:05
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='294920' id='t-294920'>(윙윙거리는 로봇) (웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='297800' id='t-297800'>관성이 낮아지면, 
+충돌에 저항력이 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='300650' id='t-300650'>그것이 더욱 튼튼하게 해 줍니다.</span>
+<span class='talk-transcript__fragment' data-time='303800' id='t-303800'>저희는 꿀벌같은 소형 로봇을 만듭니다.</span>
+<span class='talk-transcript__fragment' data-time='306420' id='t-306420'>특히 이것은 25g밖에 안 됩니다.</span>
+<span class='talk-transcript__fragment' data-time='309840' id='t-309840'>전력도 6와트만 소모하지요.</span>
+<span class='talk-transcript__fragment' data-time='312440' id='t-312440'>초당 6m까지 움직일 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='314960' id='t-314960'>제가 이것을 이 크기에 표준화시키면</span>
+<span class='talk-transcript__fragment' data-time='317320' id='t-317320'>보잉787이 음속의 10배로 
+나는 것과 같습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='324000' id='t-324000'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='326070' id='t-326070'>제가 예시를 보여드리겠습니다.</span>
+<span class='talk-transcript__fragment' data-time='328840' id='t-328840'>이것이 최초의 계획된 공중 
+충돌일텐데요, 1/20 표준속입니다.</span>
+<span class='talk-transcript__fragment' data-time='334080' id='t-334080'>초당 2m의 상대속으로 갑니다.</span>
+<span class='talk-transcript__fragment' data-time='336942' id='t-336942'>이것이 기본 원리를 잘 설명해 줍니다.</span>
+<span class='talk-transcript__fragment' data-time='340200' id='t-340200'>2g짜리 탄소섬유로 두르면 
+프로펠러가 엉키는 걸 방지하지만</span>
+<span class='talk-transcript__fragment' data-time='345170' id='t-345170'>기본적으로 충돌이 흡수되고 
+로봇이 충돌에 반응합니다.</span>
+<span class='talk-transcript__fragment' data-time='350460' id='t-350460'>매우 작다는 건 또한 
+안전하다는 뜻입니다.</span>
+<span class='talk-transcript__fragment' data-time='353400' id='t-353400'>제 연구실에서 이 로봇을 개발했을 때</span>
+<span class='talk-transcript__fragment' data-time='355410' id='t-355410'>이런 대형 로봇도 시작했고</span>
+<span class='talk-transcript__fragment' data-time='357044' id='t-357044'>지금은 이런 소형 로봇에 매진합니다.</span>
+<span class='talk-transcript__fragment' data-time='359880' id='t-359880'>저희가 과거에 주문한 
+반창고 수를 그래프로 그리면</span>
+<span class='talk-transcript__fragment' data-time='363360' id='t-363360'>지금은 그래프가 차차 감소했을 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='365950' id='t-365950'>이 로봇이 매우 안전하기 때문입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+06:19
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='368760' id='t-368760'>소형 크기는 단점이 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='371220' id='t-371220'>자연은 이런 단점들을 여러가지 
+방법으로 보상할 방법을 찾았죠.</span>
+<span class='talk-transcript__fragment' data-time='375960' id='t-375960'>기본적인 원리는 큰 집단, 
+또는 떼를 짓는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='380320' id='t-380320'>연구실에서 비슷하게 인공적인 
+로봇 떼를 만들어 봤습니다.</span>
+<span class='talk-transcript__fragment' data-time='384270' id='t-384270'>이건 매우 힘들었는데</span>
+<span class='talk-transcript__fragment' data-time='385665' id='t-385665'>로봇의 연결망을 
+생각해야 했기 때문입니다.</span>
+<span class='talk-transcript__fragment' data-time='389360' id='t-389360'>각각의 로봇 안에서</span>
+<span class='talk-transcript__fragment' data-time='390640' id='t-390640'>감지, 의사소통, 신호처리의 
+상호작용을 생각해야 하는데</span>
+<span class='talk-transcript__fragment' data-time='396260' id='t-396260'>이 연결망은 통제 관리가 
+매우 어렵게 됩니다.</span>
+<span class='talk-transcript__fragment' data-time='402160' id='t-402160'>그래서 자연에서 필수적으로 알고리즘을 
+짜게 한 세 가지 조직 원리를 뽑았습니다.</span>
+<span class='talk-transcript__fragment' data-time='409640' id='t-409640'>첫 번째 원리는 로봇이 근접한 
+로봇을 인지해야 하는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='414160' id='t-414160'>다른 로봇들을 인식하고 
+소통할 수 있어야 합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='418040' id='t-418040'>이 영상은 그 기본 원리를 보여줍니다.</span>
+<span class='talk-transcript__fragment' data-time='420670' id='t-420670'>로봇이 네 대가 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='421990' id='t-421990'>한 로봇이 인간 조종사에게 
+그야 말로 납치되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='427217' id='t-427217'>그러나 로봇이 서로 상호작용하기 때문에</span>
+<span class='talk-transcript__fragment' data-time='429460' id='t-429460'>다른 로봇을 감지하고 
+기본적으로 따라갑니다.</span>
+<span class='talk-transcript__fragment' data-time='432430' id='t-432430'>여기 한 명이 이 추종로봇의 
+연결망을 주도합니다.</span>
+<span class='talk-transcript__fragment' data-time='440000' id='t-440000'>다시 말하면 모든 로봇이 
+어디로 갈지 알기 때문이 아니라</span>
+<span class='talk-transcript__fragment' data-time='445050' id='t-445050'>근접 로봇들의 위치에 
+그저 반응하기 때문인 겁니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='451720' id='t-451720'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='456280' id='t-456280'>다음 실험은 두 번째 
+조직 원리를 보여줍니다.</span>
+<span class='talk-transcript__fragment' data-time='462920' id='t-462920'>이 원리는 익명의 
+원리와 관계가 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='467400' id='t-467400'>중심 생각은</span>
+<span class='talk-transcript__fragment' data-time='471660' id='t-471660'>로봇들이 다른 로봇의 
+정체를 모른다는 것이죠.</span>
+<span class='talk-transcript__fragment' data-time='476440' id='t-476440'>이들이 원형을 만들도록 명령 받으면</span>
+<span class='talk-transcript__fragment' data-time='479030' id='t-479030'>이 과정에 몇 개의 로봇을 투입하거나</span>
+<span class='talk-transcript__fragment' data-time='482350' id='t-482350'>몇 개를 빼든지</span>
+<span class='talk-transcript__fragment' data-time='484950' id='t-484950'>각 로봇은 단지 다른 로봇에 반응합니다.</span>
+<span class='talk-transcript__fragment' data-time='488110' id='t-488110'>원형을 만들어야 하는 사실을 인지하지만</span>
+<span class='talk-transcript__fragment' data-time='493130' id='t-493130'>다른 로봇과 협력하여</span>
+<span class='talk-transcript__fragment' data-time='494930' id='t-494930'>중앙 통제가 없이 모양을 형성합니다.</span>
+<span class='talk-transcript__fragment' data-time='499520' id='t-499520'>이 생각들을 한데 모으면</span>
+<span class='talk-transcript__fragment' data-time='501890' id='t-501890'>세 번째 생각이 기본적으로 
+저희는 이 로봇들에게</span>
+<span class='talk-transcript__fragment' data-time='505830' id='t-505830'>실행해야 할 모양의 
+수학적 설명을 주는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='510140' id='t-510140'>이런 모양은 시간의 
+함수에 따라 다를 수 있는데</span>
+<span class='talk-transcript__fragment' data-time='513670' id='t-513670'>이 로봇들이 원형으로 움직이기 시작하고</span>
+<span class='talk-transcript__fragment' data-time='518190' id='t-518190'>직사각형 모양으로 
+바뀌고 직선으로 쭉 뻗어</span>
+<span class='talk-transcript__fragment' data-time='521470' id='t-521470'>타원형으로 다시 
+돌아가는 게 보이실 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='522879' id='t-522879'>로봇들이 순간적인 조정으로 하는 것인데</span>
+<span class='talk-transcript__fragment' data-time='526530' id='t-526530'>자연에서 보는 벌떼와 같은 것이죠.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+09:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='531080' id='t-531080'>왜 떼로 작업하느냐고요?</span>
+<span class='talk-transcript__fragment' data-time='533190' id='t-533190'>저희가 매우 흥미를 갖고 있는 두 가지 
+응용방법을 말씀드리겠습니다.</span>
+<span class='talk-transcript__fragment' data-time='538160' id='t-538160'>첫 번째는 농업과 관련되어 있는데</span>
+<span class='talk-transcript__fragment' data-time='540530' id='t-540530'>전 세계적으로 우리가 
+당면한 최대의 문제일 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='544760' id='t-544760'>여러분이 잘 아시듯이</span>
+<span class='talk-transcript__fragment' data-time='546000' id='t-546000'>지구상에 7명 중 
+한 명이 영양실조입니다.</span>
+<span class='talk-transcript__fragment' data-time='549920' id='t-549920'>경작할 수 있는 땅은 
+다 농사짓고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='553960' id='t-553960'>세계의 대부분 시스템의 
+효율성이 향상되고 있지만</span>
+<span class='talk-transcript__fragment' data-time='557140' id='t-557140'>생산 시스템의 효율성은 
+실제로 감소하고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='561080' id='t-561080'>대부분 물 부족, 작물 병, 기후 변화와</span>
+<span class='talk-transcript__fragment' data-time='565270' id='t-565270'>다른 몇 가지들 때문입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+09:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='567360' id='t-567360'>로봇이 무엇을 할 수 있을까요?</span>
+<span class='talk-transcript__fragment' data-time='569200' id='t-569200'>농업계에는 정밀 농법이라고 
+하는 방법을 채택합니다.</span>
+<span class='talk-transcript__fragment' data-time='573790' id='t-573790'>기본 원리는 과수원에 로봇을 비행시켜서</span>
+<span class='talk-transcript__fragment' data-time='579180' id='t-579180'>각 작물의 정밀한 
+모형을 구축하는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='582829' id='t-582829'>마치 개인별 맞춤 의학처럼</span>
+<span class='talk-transcript__fragment' data-time='584460' id='t-584460'>개별 환자들을 모두 다르게 
+치료하는 것을 상상하시는 것 처럼</span>
+<span class='talk-transcript__fragment' data-time='589320' id='t-589320'>저희가 하고 싶은 것이 
+개별 작물의 모형을 만들어서</span>
+<span class='talk-transcript__fragment' data-time='593040' id='t-593040'>농부에게 각 작물이 필요한 
+사항을 알려주는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='597190' id='t-597190'>이 경우에는 물, 비료,
+농약을 주는 것이죠.</span>
+<span class='talk-transcript__fragment' data-time='602640' id='t-602640'>여기 보시면 사과 농장을 
+비행하는 로봇이 보이는데</span>
+<span class='talk-transcript__fragment' data-time='606210' id='t-606210'>잠시 후에 두 대의 동료 로봇이</span>
+<span class='talk-transcript__fragment' data-time='608480' id='t-608480'>왼쪽에서 같은 일을 하고 
+있는게 보일 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='610800' id='t-610800'>이 로봇이 하는 일은 기본적으로 
+과수원의 지도를 제작하는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='614420' id='t-614420'>지도 안에는 과수원의 
+모든 작불이 들어 갑니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='617270' id='t-617270'>(윙윙거리는 로봇)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='618940' id='t-618940'>그 지도가 어떻게 생겼는지 보겠습니다.</span>
+<span class='talk-transcript__fragment' data-time='620890' id='t-620890'>다음 영상에서 이 로봇에 
+쓰이는 카메라가 보입니다.</span>
+<span class='talk-transcript__fragment' data-time='625200' id='t-625200'>맨 위 왼쪽에 뛰어난 
+컬러 카메라가 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='629640' id='t-629640'>왼쪽 중앙에는 적외선 
+카메라가 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='632900' id='t-632900'>아래 왼쪽에는 온도감지 카메라가 있죠.</span>
+<span class='talk-transcript__fragment' data-time='636700' id='t-636700'>주 패널에는 3차원으로 과수원의 모든 
+나무가 재구성된 것을 보고 계십니다.</span>
+<span class='talk-transcript__fragment' data-time='640060' id='t-640060'>센서가 나무 사이를 
+비행하면서 생긴 것이죠.</span>
+<span class='talk-transcript__fragment' data-time='647640' id='t-647640'>이런 정보를 갖추고 있으면 
+몇 가지를 할 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='652200' id='t-652200'>가장 중요한 첫 번째는 
+매우 단순합니다.</span>
+<span class='talk-transcript__fragment' data-time='656430' id='t-656430'>모든 나무의 열매를 세는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='659520' id='t-659520'>이렇게 하면 농부에게 
+모든 나무의 열매 수를 알려주고</span>
+<span class='talk-transcript__fragment' data-time='664010' id='t-664010'>과수원의 수확량을 추정하게 해 줘서</span>
+<span class='talk-transcript__fragment' data-time='668290' id='t-668290'>생산과정을 최적화 하게 해 줍니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='671640' id='t-671640'>두 번째로 할 수 있는 일은</span>
+<span class='talk-transcript__fragment' data-time='673220' id='t-673220'>작물의 모형을 따서 
+3차원으로 재구성하고</span>
+<span class='talk-transcript__fragment' data-time='677750' id='t-677750'>덮개 크기 추정치로</span>
+<span class='talk-transcript__fragment' data-time='680290' id='t-680290'>모든 작물의 잎 개수와 덮개 크기의 
+상관관계를 알아 보는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='684110' id='t-684110'>이것은 잎사귀 지표라고 합니다.</span>
+<span class='talk-transcript__fragment' data-time='686300' id='t-686300'>이런 잎사귀 지표를 아신다면</span>
+<span class='talk-transcript__fragment' data-time='688260' id='t-688260'>모든 작물의 가능한 광합성 
+수치를 측정하는 것이고</span>
+<span class='talk-transcript__fragment' data-time='693740' id='t-693740'>그럼 각 나무의 건강정도를 
+알 수 있는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='697520' id='t-697520'>시각 정보와 적외선 정보를 결합하면</span>
+<span class='talk-transcript__fragment' data-time='701710' id='t-701710'>NDVI같은 지표를 
+계산해 낼 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='705000' id='t-705000'>특히 이 경우에는 실제로</span>
+<span class='talk-transcript__fragment' data-time='707870' id='t-707870'>다른 작물만큼 좋지 않은 
+작물이 있음을 알 수 있죠.</span>
+<span class='talk-transcript__fragment' data-time='710910' id='t-710910'>이미지를 통해 쉽게 
+구별할 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='714980' id='t-714980'>그저 시각 이미지가 아니라</span>
+<span class='talk-transcript__fragment' data-time='717230' id='t-717230'>시각과 적외선 이미지를 
+결합하는 것이죠.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='720030' id='t-720030'>마지막으로</span>
+<span class='talk-transcript__fragment' data-time='721380' id='t-721380'>저희가 흥미를 갖고 있는 것이 
+백화 초기상태를 탐지하는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='725440' id='t-725440'>이것은 오렌지 나무인데</span>
+<span class='talk-transcript__fragment' data-time='726930' id='t-726930'>잎이 황색으로 보이시죠.</span>
+<span class='talk-transcript__fragment' data-time='729880' id='t-729880'>하지만 로봇이 위에서 
+비행하면 쉽게 발견하고</span>
+<span class='talk-transcript__fragment' data-time='733750' id='t-733750'>농부에게</span>
+<span class='talk-transcript__fragment' data-time='736740' id='t-736740'>과수원의 어느 부분에 
+문제가 있는지 보고합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='738800' id='t-738800'>이런 시스템은 정말 도움이 되는데</span>
+<span class='talk-transcript__fragment' data-time='741440' id='t-741440'>약 10% 정도 수확량을 향상시킬 
+것으로 전망하고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='747290' id='t-747290'>더욱 중요한 것은 물을 주는 것을</span>
+<span class='talk-transcript__fragment' data-time='750570' id='t-750570'>로봇 떼를 이용하면 
+25%정도 절감할 수 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='755200' id='t-755200'>마지막으로 실제로 미래를 만들고 있는 
+분들에게 박수를 보내셨으면 좋겠습니다.</span>
+<span class='talk-transcript__fragment' data-time='760910' id='t-760910'>야쉬 물가온카, 시캉 리유와 
+쥬세페 로이아노가</span>
+<span class='talk-transcript__fragment' data-time='765830' id='t-765830'>보셨던 세 가지 시범을 
+담당해 주셨습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='769400' id='t-769400'>감사합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='770610' id='t-770610'>(박수)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

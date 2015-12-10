@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Jedidah Isler: The untapped genius that could change science for the better</title>
+  <description>Jedidah Isler dreamt of becoming an astrophysicist since she was a young girl, but the odds were against her: At that time, only 18 black women in the United States had ever earned a PhD in a physics-related discipline. In this personal talk, she shares the story of how she became the first black woman to earn a PhD in astrophysics from Yale -- and her deep belief in the value of diversity to science and other STEM fields. "Do not think for one minute that because you are who you are, you cannot be who you imagine yourself to be," she says. "Hold fast to those dreams and let them carry you into a world you can't even imagine."</description>
+  <url>http://www.ted.com/talks/jedidah_isler_the_untapped_genius_that_could_change_science_for_the_better</url>
+  <author-name>Jedidah Isler</author-name>
+  <author-url>http://www.ted.com/speakers/jedidah_isler</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/306ea5355fecad1f9571b1821d84938186fbb03a_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/jedidah_isler_the_untapped_genius_that_could_change_science_for_the_better.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

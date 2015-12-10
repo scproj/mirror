@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>힐러리 코탐(Hilary Cottam): 망가진 사회적 서비스를 고치는 방법 </title>
+  <description>가족이 위기에 처했을 때 - 실업, 약물, 나쁜 관계 그리고 불운 - 사회적 서비스 체계가 가족이 다시 본 궤도로 돌아갈 수 있도록 도와야 합니다. 힐러리 코탐에 따르면, 영국에는 위기에 처한 가족들이 70개가 넘는 부서를 통해 서비스를 받을 수 있지만, 이중 어떤 것도 차이를 만들지 못한다고 지적합니다. 사회복지사인 코탐은 문제의 깊이가 깊고, 복잡한 사회적 문제들을 해결할 방법에 대해서 생각할 거리를 제공합니다.  도움이 필요한 사람들과 도움을 줄 수 있는 사람들 사이에 어떻게 지지적이고, 열정적인 관계를 구축 할 수 있을까요? </description>
+  <url>http://www.ted.com/talks/hilary_cottam_social_services_are_broken_how_we_can_fix_them?language=ko</url>
+  <author-name>힐러리 코탐(Hilary Cottam)</author-name>
+  <author-url>http://www.ted.com/speakers/hilary_cottam</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/30e3c5f4df291fb83a62aa86c845836f5b770761_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/hilary_cottam_social_services_are_broken_how_we_can_fix_them.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

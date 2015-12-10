@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>스콧 딘스모어(Scott Dinsmore): 당신이 좋아하는 일을 어떻게 찾을까</title>
+  <description>스콧 딘스모어는 직장을 그만두고 괴로웠습니다. 그러나 4년 동안 일을 찾는 과정은 재미있고 의미있는 일이었습니다. 그가 이 여정에서 익한 것을 들으면서 당신에게 무엇이 중요한지 알게 될 것입니다.  </description>
+  <url>http://www.ted.com/talks/scott_dinsmore_how_to_find_work_you_love?language=ko</url>
+  <author-name>스콧 딘스모어(Scott Dinsmore)</author-name>
+  <author-url>http://www.ted.com/speakers/scott_dinsmore</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/0a10f577bc9e505ae6556f252e6292c531fe2cda_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/scott_dinsmore_how_to_find_work_you_love.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

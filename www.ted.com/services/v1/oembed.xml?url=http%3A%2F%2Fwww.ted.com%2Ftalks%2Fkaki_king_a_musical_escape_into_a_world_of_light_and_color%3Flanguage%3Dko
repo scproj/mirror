@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>카키 킹(Kaki King): 빛과 색의 세계로의 음악적 탈출</title>
+  <description>카키 킹은 그녀 자신만의 장르에서 기타의 신에 버금갈지도 모릅니다. 그녀는 “목은 신체의 연결고리”라는 획기적인 멀티미디어 작품에서, 프로젝터로 그녀의 기타에 이미지를 배치시킨 디지털 기술과 고대 전통적 연주를 융합합니다. 기타의 목부분을 키보드처럼 사용하면서 그녀는 청중들을 빛과 소리의 음악적 여정으로 안내하며 정교한 멜로디를 연주합니다. 그녀는 이것을 화필 같은 기타라고 일컫습니다.</description>
+  <url>http://www.ted.com/talks/kaki_king_a_musical_escape_into_a_world_of_light_and_color?language=ko</url>
+  <author-name>카키 킹(Kaki King)</author-name>
+  <author-url>http://www.ted.com/speakers/kaki_king</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/a26d196d26342e69bef1d8d451b555a0a5394760_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/kaki_king_a_musical_escape_into_a_world_of_light_and_color.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

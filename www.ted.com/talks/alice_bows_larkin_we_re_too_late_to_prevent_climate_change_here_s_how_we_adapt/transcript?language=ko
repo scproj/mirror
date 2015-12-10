@@ -1,0 +1,1104 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>앨리스 보우즈-라킨(Alice Bows-Larkin): 기후변화는 지금 당장 일어나고 있습니다. 여기에 우리가 가야 할 방향을 제시합니다. | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="앨리스 보우즈-라킨(Alice Bows-Larkin): 기후변화는 지금 당장 일어나고 있습니다. 여기에 우리가 가야 할 방향을 제시합니다. | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: 당신이 경험한 가장 더운 날을 생각해 보십시오. 이제 거기서 10, 12도 더 뜨거운 것을 상상해 보십시오. 기후 연구자인 앨리스 보우즈-라킨에 의하면, 이러한 것이 우리가 지금 바로 온실가스 배출을 단절하지 않으면 겪게 될 일이라고 합니다. 그녀는 우리가 일들을 다르게 해야 할 때가 되었다고 합니다. 전체 시스템의 변화를 말이죠. 그리고 경제 성장과 기후 안정화를 맞바꾸는 것을 진지하게 고려해야 한다고 말합니다." name="description" />
+<meta content="앨리스 보우즈-라킨(Alice Bows-Larkin)" name="author" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript?language=uk" hreflang="uk" rel="alternate" />
+<meta content="Transcript of &quot;기후변화는 지금 당장 일어나고 있습니다. 여기에 우리가 가야 할 방향을 제시합니다.&quot;" property="og:title" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/f6879e1c78d4a069735bf745ecfede71ccf4a352_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/f6879e1c78d4a069735bf745ecfede71ccf4a352_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: 당신이 경험한 가장 더운 날을 생각해 보십시오. 이제 거기서 10, 12도 더 뜨거운 것을 상상해 보십시오. 기후 연구자인 앨리스 보우즈-라킨에 의하면, 이러한 것이 우리가 지금 바로 온실가스 배출을 단절하지 않으면 겪게 될 일이라고 합니다. 그녀는 우리가 일들을 다르게 해야 할 때가 되었다고 합니다. 전체 시스템의 변화를 말이죠. 그리고 경제 성장과 기후 안정화를 맞바꾸는 것을 진지하게 고려해야 한다고 말합니다." property="og:description" />
+<meta content="http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk-ie.css?1449612282">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk.css?1449612282">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?372e9c1ad21862103d589d49af44d28b","Swipe":"Swipe.js?73df4e5005408bc203e969751fc55e26","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","tedx":"tedx.js?f71e6b01e6becadca27fe635865d10df","flot":"flot.js?f327c555b811f034d94bfac8b6931307","hbs":"hbs.js?e36c0e0e09a79031f61eb328fc4c5a7b","transit":"transit.js?68aa867b464466c3dc98c60e068b7f68","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","pages":"pages.js?1fc3f19849913b97ac49d754f65aec11","deferLink":"deferLink.js?7adfdb9374698e3ee45ae2f72a9554ff","libs":"libs.js?f72f9becee377a41f67a0821d60cbca5","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","jquery":"libs.js?f72f9becee377a41f67a0821d60cbca5","swfobject":"libs.js?f72f9becee377a41f67a0821d60cbca5","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","Mailcheck":"Mailcheck.js?e8314a0c5bb92079c911a261b2afb289","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","jqueryujs":"libs.js?f72f9becee377a41f67a0821d60cbca5","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","Backbone":"libs.js?f72f9becee377a41f67a0821d60cbca5","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","swatch":"swatch.js?afe36518ad071cd727e0d83732239cf1","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","search":"search.js?c35ef36e1163fdd700e9e4597c54670c","profiles":"profiles.js?97fae740b654fe9b080dc4f3a40845e2","newsletter":"newsletter.js?08d8ae7a1c6482d7beb3002fcfaacdc2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","ZeroClipboard":"ZeroClipboard.js?7c36a7eb020bbb97dafee4153f46c87d","spinjs":"spinjs.js?e1cc3dce984cd870d9d02be288d0dbdd","home":"home.js?a022cc3647e176df139a95305436b5c6","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","numeral":"numeral.js?a222da10e94e967e928aca44d69ce0f5","waypoints":"waypoints.js?70444276da7d7de57b7c670dc053f1f5","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Modernizr":"Modernizr.js?08cd3d9d0df1143464d1ca8ce01fed50","menuAim":"menuAim.js?2dae90e87689e70126a38328bac9a5ee","global":"global.js?32acea94e04f0857ff698086dbba7d47","dashboard_hotels":"dashboard_hotels.js?614e7f024aef5688437f667f857da860","dashboard":"dashboard.js?58449ad35e4a86ebfe91a29034a7dcc7","dq":"libs.js?f72f9becee377a41f67a0821d60cbca5","pages/dynamic/dummy":"pages/dynamic/dummy.js?db40c2c843286b433bfd906e6c74f1b3","talk":"talk.js?793f7a7423e25ccba43a4234f4e8d5b6","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","lodash":"libs.js?f72f9becee377a41f67a0821d60cbca5","surprise_me":"surprise_me.js?15d20c1a672006281855579474bac1f3","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","SwipeView":"SwipeView.js?4f04041392bfc7c535ae4f55e7b1e055","depot":"depot.js?429a4bc85cfbcc083d5278526d66123d","autosize":"autosize.js?609924fea6718a2ff0e8e32677bc132b","talks":"talks.js?7cfcd598f4b654af6f9e8e15e3d916c0","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Cookies":"Cookies.js?b331f247439cf974333a98958d35790d","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","embed":"embed.js?20b97011a03e61004d7d6e6c762667f9","settings":"settings.js?a16ac9e15c9eb86bf133c722366eb96e","touchPunch":"touchPunch.js?0374f5fc70a9e5ada6b9c6721e4ca424","moment":"moment.js?2901d956628d5071fcb01d19a2e6b9d6","dashboard_sessions":"dashboard_sessions.js?16f3e4102d4092e240177a42e696104c","crushinator":"crushinator.js?6780e5d6c8daac982c107577b713686a","hbs/handlebars":"libs.js?f72f9becee377a41f67a0821d60cbca5"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612282"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt?language=ko'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Return to talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt'>
+<option value='ar'>Arabic</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='nl'>Dutch</option>
+<option value='en'>English</option>
+<option value='fr'>French</option>
+<option value='he'>Hebrew</option>
+<option value='it'>Italian</option>
+<option selected value='ko'>Korean</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ru'>Russian</option>
+<option value='es'>Spanish</option>
+<option value='uk'>Ukrainian</option>
+</select>
+<p>
+Translated by
+<a href="http://www.ted.com/profiles/1929550">Bill Kil</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/2591230">Jihyeon J. Kim</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt?language=ko' language='ko'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="863" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/f6879e1c78d4a069735bf745ecfede71ccf4a352_2880x1620.jpg?quality=89&amp;w=320" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">14:23</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>앨리스 보우즈-라킨(Alice Bows-Larkin)</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/alice_bows_larkin_we_re_too_late_to_prevent_climate_change_here_s_how_we_adapt?language=ko' lang='ko'>
+기후변화는 지금 당장 일어나고 있습니다. 여기에 우리가 가야 할 방향을 제시합니다.
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Oct 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Persuasive
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='480' id='t-480'>우리는 일생동안 모두 
+기후변화에 기여했습니다.</span>
+<span class='talk-transcript__fragment' data-time='5920' id='t-5920'>우리가 해온 행동, 선택, 일상생활들이</span>
+<span class='talk-transcript__fragment' data-time='9480' id='t-9480'>온실가스의 배출을 촉진해 왔습니다.</span>
+<span class='talk-transcript__fragment' data-time='14120' id='t-14120'>이러한 생각은 우리에게
+꽤나 강력한 메세지를 줍니다.</span>
+<span class='talk-transcript__fragment' data-time='17200' id='t-17200'>하지만 동시에 이러한 생각을 하다보면</span>
+<span class='talk-transcript__fragment' data-time='19800' id='t-19800'>우리가 만들어온 모든 결정들에,</span>
+<span class='talk-transcript__fragment' data-time='21820' id='t-21820'>예컨대, 우리가 어디로, 얼마나,
+어떻게 여행을 다니는지,</span>
+<span class='talk-transcript__fragment' data-time='28720' id='t-28720'>가정과 직장에서는 
+어떤 에너지를 사용하는지,</span>
+<span class='talk-transcript__fragment' data-time='34480' id='t-34480'>아니면 단순한 생활방식에도 
+죄책감을 느낄 수가 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='39800' id='t-39800'>하지만 사고를 완전히 전환해서</span>
+<span class='talk-transcript__fragment' data-time='43160' id='t-43160'>우리가 이미 기후에 
+부정적인 영향을 준 것을 인정하고,</span>
+<span class='talk-transcript__fragment' data-time='49000' id='t-49000'>이제부터라도 이러한 영향을 줄여서 
+닥쳐올 기후 변화를 줄일 수 있다는</span>
+<span class='talk-transcript__fragment' data-time='54320' id='t-54320'>결론을 얻을 수도 있습니다</span>
+<span class='talk-transcript__fragment' data-time='57320' id='t-57320'>우리는 선택지를 갖고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='58800' id='t-58800'>먼저 이제부터라도
+기후 변화를 심각하게 받아들여서</span>
+<span class='talk-transcript__fragment' data-time='63240' id='t-63240'>온실가스 배출을 확연히
+단절하거나 완화함으로써</span>
+<span class='talk-transcript__fragment' data-time='67920' id='t-67920'>닥쳐올 기후변화를 줄일 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='73120' id='t-73120'>반대로 이제까지 그래왔듯 
+기후변화를 무시할 수 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+01:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='78720' id='t-78720'>하지만 그렇게 한다면 우리는 미래에</span>
+<span class='talk-transcript__fragment' data-time='81370' id='t-81370'>훨씬 혹독한 기후변화를
+겪어야 할 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='86320' id='t-86320'>그뿐만이 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='87560' id='t-87560'>인구 대 온실가스 배출 비율이 
+높은 국가의 국민들로서</span>
+<span class='talk-transcript__fragment' data-time='90960' id='t-90960'>우리의 선택은 세계의 다른 
+이들에게도 영향을 미칠 것입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+01:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='95120' id='t-95120'>하지만 이미 우리에게는</span>
+<span class='talk-transcript__fragment' data-time='97560' id='t-97560'>기후변화가 일어나지 않는
+선택지는 남아있지 않습니다.</span>
+<span class='talk-transcript__fragment' data-time='101280' id='t-101280'>지난 20여 년간 정부 협상가들과 
+정책 입안자들은 기후변화를 논의하면서</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='109440' id='t-109440'>산업화 전보다 기온이
+섭씨2도 상승하는 시나리오를</span>
+<span class='talk-transcript__fragment' data-time='113520' id='t-113520'>피하는 것을 목표로 해왔습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='116520' id='t-116520'>여기서 섭씨2도는</span>
+<span class='talk-transcript__fragment' data-time='117540' id='t-117540'>인류와 환경에 다방면에서 위험한
+지표가 나타날 수 있는 온도입니다.</span>
+<span class='talk-transcript__fragment' data-time='125760' id='t-125760'>즉 2도는 위험한
+기후변화의 기준점입니다.</span>
+<span class='talk-transcript__fragment' data-time='130544' id='t-130544'>위험한 기후변화의 
+기준은 주관적인 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='132760' id='t-132760'>극단적인 기후현상이 세계 
+각 국에 발생한다고 가정할 때</span>
+<span class='talk-transcript__fragment' data-time='137440' id='t-137440'>이 현상이 사회적 기반이 잘 되어있고</span>
+<span class='talk-transcript__fragment' data-time='141440' id='t-141440'>지역 인구도 보험으로 잘 보호
+받는 지역에 발생한다면</span>
+<span class='talk-transcript__fragment' data-time='144520' id='t-144520'>그 영향은 사회에 지장을
+주는 정도일 것입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='148160' id='t-148160'>소요사태가 생기거나
+추가비용이 생길 수 있고</span>
+<span class='talk-transcript__fragment' data-time='151440' id='t-151440'>몇 명의 사상자가 생길 수도 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='153600' id='t-153600'>하지만 동일한 현상이
+사회적 기반이 열악하고</span>
+<span class='talk-transcript__fragment' data-time='159160' id='t-159160'>지역 인구도 보험의
+보호를 잘 받지 못하거나</span>
+<span class='talk-transcript__fragment' data-time='161400' id='t-161400'>사회적 지지 체계가
+약한 지역에 발생한다면</span>
+<span class='talk-transcript__fragment' data-time='163840' id='t-163840'>동일한 현상이 치명적인
+영향을 주게 될 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='168320' id='t-168320'>상당수가 주거지를 잃을 것이고, 
+상당수의 사망자가 발생할 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='175800' id='t-175800'>이것은 산업혁명부터 현재까지 
+화석연료의 사용과 산업발전에 의한</span>
+<span class='talk-transcript__fragment' data-time='181576' id='t-181576'>이산화탄소의 연도별 
+배출량 그래프입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='186840' id='t-186840'>여기서 가장 충격적인 사실은</span>
+<span class='talk-transcript__fragment' data-time='189570' id='t-189570'>배출량이 기하급수적으로
+증가한다는 사실입니다.</span>
+<span class='talk-transcript__fragment' data-time='193160' id='t-193160'>1950년 이후 시점을 살펴보면,</span>
+<span class='talk-transcript__fragment' data-time='197400' id='t-197400'>1988년에는 기후 변화에
+관한 정부간 패널을,</span>
+<span class='talk-transcript__fragment' data-time='203920' id='t-203920'>1992년에는 리오지구정상희의를 개최했고</span>
+<span class='talk-transcript__fragment' data-time='207320' id='t-207320'>몇 년 뒤 2009년에는 
+코펜하겐협정에서</span>
+<span class='talk-transcript__fragment' data-time='212000' id='t-212000'>세계공동체적 견지와 과학적 방법에 의한
+기온 2도 상승 방지를 협의했습니다.</span>
+<span class='talk-transcript__fragment' data-time='220680' id='t-220680'>그리고 2012년에는
+Rio+20 행사가 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='224640' id='t-224640'>이러한 단체 행동들과 다른 노력들에 
+불구하고 배출량은 꾸준히 증가했습니다.</span>
+<span class='talk-transcript__fragment' data-time='232920' id='t-232920'>오히려 현재까지의 배출 추세와
+세계경제 동향을 종합해보면,</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='243280' id='t-243280'>오히려 우리는 기온
+2도 상승만이 아니라</span>
+<span class='talk-transcript__fragment' data-time='248690' id='t-248690'>4도 상승을 향해 나아가고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='252400' id='t-252400'>여기서 잠시 논의를 멈추고</span>
+<span class='talk-transcript__fragment' data-time='254380' id='t-254380'>지구 평균기온이 4도 상승할 때
+생길 일들을 알아보겠습니다.</span>
+<span class='talk-transcript__fragment' data-time='258600' id='t-258600'>지구의 표면은 대부분
+바다로 이루어져 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='262560' id='t-262560'>바다는 육지보다 비열이 높기 때문에</span>
+<span class='talk-transcript__fragment' data-time='266620' id='t-266620'>육지의 평균 기온은 바다보다 높습니다.</span>
+<span class='talk-transcript__fragment' data-time='271640' id='t-271640'>또, 인간은 지구의 평균기온을 
+직접적으로 느끼지 못합니다.</span>
+<span class='talk-transcript__fragment' data-time='277200' id='t-277200'>우리는 단지 기온을</span>
+<span class='talk-transcript__fragment' data-time='278200' id='t-278200'>더운 날, 추운 날, 비오는 날로만
+나누어서 느낍니다.</span>
+<span class='talk-transcript__fragment' data-time='280606' id='t-280606'>저처럼 맨체스터에 산다면 
+이러한 날씨 변화를 잘 느낄 수 있죠.</span>
+<span class='talk-transcript__fragment' data-time='282696' id='t-282696'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='283800' id='t-283800'>이제 여러분이 도시 한가운데
+서있다고 가정합시다.</span>
+<span class='talk-transcript__fragment' data-time='286480' id='t-286480'>뭄바이, 베이징, 뉴욕, 런던 등 
+세계 각국에 있다고 상상하세요.</span>
+<span class='talk-transcript__fragment' data-time='291480' id='t-291480'>오늘은 여러분이 여태
+경험해본 가장 더운 날입니다.</span>
+<span class='talk-transcript__fragment' data-time='295040' id='t-295040'>태양이 내리쬐고 여러분은 열을 뿜는 
+콘크리트와 유리로 둘러싸여 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='299640' id='t-299640'>이제 같은 날에 기온이</span>
+<span class='talk-transcript__fragment' data-time='302400' id='t-302400'>6, 8, 10, 12도
+더 높다고 생각해보십시오.</span>
+<span class='talk-transcript__fragment' data-time='308920' id='t-308920'>그런 것이 4도 상승 시나리오에서 
+우리가 겪게 될 일들입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='315960' id='t-315960'>이러한 극단적인 온도 및 함께 
+닥칠 자연재해의 문제점은</span>
+<span class='talk-transcript__fragment' data-time='323680' id='t-323680'>우리 사회 기반시설이 이러한 상황에 
+대비하지 못하고 있다는 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='328520' id='t-328520'>예를 들어 도로와 철로 시스템은, 
+우리가 사는 지역에 맞추어</span>
+<span class='talk-transcript__fragment' data-time='332640' id='t-332640'>예상되는 적당량의 충격만을 견디면서 
+장기간 유지되도록 설계되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='336960' id='t-336960'>그러나 닥쳐올 문제는
+이를 뛰어넘을 것입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='339240' id='t-339240'>발전소는 특정한
+온도의 물로 냉각시켜야만</span>
+<span class='talk-transcript__fragment' data-time='343880' id='t-343880'>효율적이고 지속적으로 
+운용 가능하게 설계됩니다.</span>
+<span class='talk-transcript__fragment' data-time='346880' id='t-346880'>빌딩은 특정한 온도 범위에서
+안정적으로 서있도록 설계됩니다.</span>
+<span class='talk-transcript__fragment' data-time='351400' id='t-351400'>4도 상승 시나리오에서 이러한
+설계는 심각한 위협을 받을 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='356840' id='t-356840'>우리 사회 기반시설은 이러한 사건에 
+대비하여 설계되지 않았기 때문입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+06:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='362440' id='t-362440'>이제 4도 상승 시나리오에 
+의해 생길 수 있는</span>
+<span class='talk-transcript__fragment' data-time='366980' id='t-366980'>간접적인 영향도 알아보겠습니다.</span>
+<span class='talk-transcript__fragment' data-time='370640' id='t-370640'>식량안보에서 예를 들겠습니다.</span>
+<span class='talk-transcript__fragment' data-time='373920' id='t-373920'>세계 일부 지역에서는
+기온이 4도 상승하면</span>
+<span class='talk-transcript__fragment' data-time='377840' id='t-377840'>옥수수와 밀 생산량은 40% 감소하고</span>
+<span class='talk-transcript__fragment' data-time='383160' id='t-383160'>쌀 생산량은 30% 감소할 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='386160' id='t-386160'>이러한 지표는 전세계 식량안보에 
+큰 재앙이 될 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='390680' id='t-390680'>결국 전체적으로 볼 때 4도
+상승 시나리오 하에 생길 일들은</span>
+<span class='talk-transcript__fragment' data-time='397440' id='t-397440'>세계 공동체에 큰 위협이 될 것입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+06:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='403840' id='t-403840'>다시 4도 상승과 2도 
+상승 그래프로 돌아옵시다.</span>
+<span class='talk-transcript__fragment' data-time='408960' id='t-408960'>우리에게 2도 상승 경로에 
+집중할 이유가 있을까요?</span>
+<span class='talk-transcript__fragment' data-time='412920' id='t-412920'>상당수의 학계 동료들이나
+과학자들이 말하기를</span>
+<span class='talk-transcript__fragment' data-time='415760' id='t-415760'>우리는 2도 상승을 피할 수 있는 
+시점을 이미 지나쳤다고 합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='419857' id='t-419857'>그러나 저는 제가 직접 수행한</span>
+<span class='talk-transcript__fragment' data-time='422280' id='t-422280'>에너지 시스템, 식품 체계,
+항공, 해운에 관한 연구를 들어,</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='427600' id='t-427600'>아직 우리에게 적게나마</span>
+<span class='talk-transcript__fragment' data-time='429810' id='t-429810'>2도 온도 상승을 피할 수 있는 
+기회가 있다고 말하고자 합니다.</span>
+<span class='talk-transcript__fragment' data-time='435320' id='t-435320'>다만 이를 위해서는 수치들을 
+정확히 읽을 필요가 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='439840' id='t-439840'>다시 그래프들을 보면, 노란 원 안에</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='443080' id='t-443080'>4도 온도상승을 
+나타내는 빨간 경로와</span>
+<span class='talk-transcript__fragment' data-time='445946' id='t-445946'>2도 온도상승을
+나타내는 초록색 경로가</span>
+<span class='talk-transcript__fragment' data-time='448946' id='t-448946'>순간적으로 분리되는
+지점을 확인할 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='453040' id='t-453040'>이는 누적 배출량과
+탄소 예산에 의한 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='457640' id='t-457640'>예를 들자면 이곳 회장의 조명과
+프로젝터로 인해 전기가 사용되면</span>
+<span class='talk-transcript__fragment' data-time='462650' id='t-462650'>이산화탄소가 배출될 것이고,</span>
+<span class='talk-transcript__fragment' data-time='465773' id='t-465773'>이 이산화탄소는 대기 중에
+매우 오래 남아있게 됩니다.</span>
+<span class='talk-transcript__fragment' data-time='469643' id='t-469643'>일부는 한 세기를, 또는
+그 이상을 남아있을 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='473240' id='t-473240'>남아있는 이산화탄소가 쌓이므로 
+온실가스는 축적되는 경향이 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='477760' id='t-477760'>이를 통해 그래프에서
+새로운 사실을 알 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='480600' id='t-480600'>첫 번째로, 미래 특정 시점에서
+배출량 수치가 얼마인지가 아닌</span>
+<span class='talk-transcript__fragment' data-time='484640' id='t-484640'>그래프 아래의 면적이 중요하다는
+사실을 알 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='487640' id='t-487640'>이 결과가 중요한 이유는
+우리가 2049년에</span>
+<span class='talk-transcript__fragment' data-time='489855' id='t-489855'>에너지 문제를 해결할
+놀라운 기술을 개발한다고 해도</span>
+<span class='talk-transcript__fragment' data-time='494880' id='t-494880'>배출량은 달라지지 않는다는
+뜻이기 때문입니다.</span>
+<span class='talk-transcript__fragment' data-time='498880' id='t-498880'>그 전까지 이산화탄소가
+축적되기 때문입니다.</span>
+<span class='talk-transcript__fragment' data-time='502690' id='t-502690'>빨간 선으로 나타난 4도 상승
+시나리오 곡선을 오래 따라갈수록</span>
+<span class='talk-transcript__fragment' data-time='510140' id='t-510140'>그 부담은 나중에 더욱 가중되어</span>
+<span class='talk-transcript__fragment' data-time='513380' id='t-513380'>그래프 아래의 면적, 즉 탄소
+예산을 같게 하기 위한 경로인</span>
+<span class='talk-transcript__fragment' data-time='517960' id='t-517960'>빨간 선으로 나타난 그래프는 
+더 가파르게 감소해야 합니다.</span>
+<span class='talk-transcript__fragment' data-time='522080' id='t-522080'>다르게 말하면 우리가 중•단기 
+내에 배출량을 줄이지 않는다면</span>
+<span class='talk-transcript__fragment' data-time='525840' id='t-525840'>후에 배출량을 더 극단적으로
+줄여야 한다는 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='530600' id='t-530600'>또한 에너지 시스템을 탈탄소화하기 
+위한 노력도 필요합니다.</span>
+<span class='talk-transcript__fragment' data-time='534200' id='t-534200'>그러나 결국 우리가 배출량을
+중•단기 내에 줄이기 시작하지 않으면</span>
+<span class='talk-transcript__fragment' data-time='538120' id='t-538120'>이러한 노력을 더욱
+앞당겨야만 할 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='541080' id='t-541080'>우리에게 큰 과제가 주어진
+것을 알 수 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+09:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='546080' id='t-546080'>두 번째로, 에너지 정책의 
+방향을 잡을 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='549760' id='t-549760'>여러분이 인구 대 배출 비율이 
+높은 지역에 살고 있다면</span>
+<span class='talk-transcript__fragment' data-time='553720' id='t-553720'>지역의 에너지 수요를 줄여야 합니다.</span>
+<span class='talk-transcript__fragment' data-time='557800' id='t-557800'>이는 세계의 복합한 이해관계로 인하여</span>
+<span class='talk-transcript__fragment' data-time='560120' id='t-560120'>에너지를 탈탄소화하기
+위한 대형 공업 기반시설의 설치가</span>
+<span class='talk-transcript__fragment' data-time='568000' id='t-568000'>단기간에 이루어질
+수 없기 때문입니다.</span>
+<span class='talk-transcript__fragment' data-time='570680' id='t-570680'>그러므로 원자력 발전,
+탄소포집 및 저장기술,</span>
+<span class='talk-transcript__fragment' data-time='575040' id='t-575040'>바이오연료, 풍력 발전, 조력 발전을
+선택하는 것은 의미가 없는데</span>
+<span class='talk-transcript__fragment' data-time='579756' id='t-579756'>이것들은 모두 시간을
+필요로 하기 때문입니다.</span>
+<span class='talk-transcript__fragment' data-time='583720' id='t-583720'>그래프 아래의 면적이 중요하기 때문에
+우리는 에너지 효율뿐 아니라</span>
+<span class='talk-transcript__fragment' data-time='588240' id='t-588240'>에너지 보존, 즉 보다 적은
+에너지를 사용해야 합니다.</span>
+<span class='talk-transcript__fragment' data-time='593200' id='t-593200'>에너지 소비를 줄이는 데 성공한다면,</span>
+<span class='talk-transcript__fragment' data-time='595440' id='t-595440'>에너지 공급 측면에서
+기술 개선을 하는 동안</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='599381' id='t-599381'>필요한 에너지 공급량이
+적어지기 때문에,</span>
+<span class='talk-transcript__fragment' data-time='604340' id='t-604340'>기술 개선을 위한 수고도
+줄어들 것입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='609720' id='t-609720'>복지와 형평에 관한 문제도
+간과해서는 안 됩니다.</span>
+<span class='talk-transcript__fragment' data-time='615960' id='t-615960'>생활수준의 개선이 필요한
+지역이 많습니다.</span>
+<span class='talk-transcript__fragment' data-time='621440' id='t-621440'>그러나 현재는 에너지 시스템이
+화석연료에 의존하기 때문에</span>
+<span class='talk-transcript__fragment' data-time='626200' id='t-626200'>경제가 성장하면 배출량도 증가합니다.</span>
+<span class='talk-transcript__fragment' data-time='629320' id='t-629320'>전세계가 같이 사용할 일정량의
+탄소 예산이 주어지기 때문에,</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='632920' id='t-632920'>어떤 지역이 배출량을 늘린다면</span>
+<span class='talk-transcript__fragment' data-time='636330' id='t-636330'>다른 지역에서는 
+배출량을 줄여야 합니다.</span>
+<span class='talk-transcript__fragment' data-time='641000' id='t-641000'>이는 부국에 많은 문제를 안깁니다.</span>
+<span class='talk-transcript__fragment' data-time='645920' id='t-645920'>왜냐하면 연구에 의하면,
+인구 대 배출 비율이 높은</span>
+<span class='talk-transcript__fragment' data-time='651815' id='t-651815'>북아메리카, 유럽,
+오스트레일리아와 같은 곳은</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='655880' id='t-655880'>섭씨2도 상승 시나리오를 피하기 위해</span>
+<span class='talk-transcript__fragment' data-time='661076' id='t-661076'>배출량을 즉시 10% 
+줄여야 하기 때문입니다.</span>
+<span class='talk-transcript__fragment' data-time='666126' id='t-666126'>더 이해하기 쉽게 알아보겠습니다.</span>
+<span class='talk-transcript__fragment' data-time='667920' id='t-667920'>경제학자인 니콜라스 스턴에 의하면</span>
+<span class='talk-transcript__fragment' data-time='669760' id='t-669760'>연당 이산화탄소 배출량이
+1% 이상 감소한 경우는</span>
+<span class='talk-transcript__fragment' data-time='673000' id='t-673000'>경제후퇴나 경제적 동요가
+있던 때밖에 없다고 합니다.</span>
+<span class='talk-transcript__fragment' data-time='679000' id='t-679000'>사회가 고탄소 기반시설을
+가지고 있다면</span>
+<span class='talk-transcript__fragment' data-time='682260' id='t-682260'>경제 성장에 따라 배출량도 증가하므로,</span>
+<span class='talk-transcript__fragment' data-time='685265' id='t-685265'>경제 성장에 큰 지장이 생길 것입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='694040' id='t-694040'>저와 케빈 앤더슨이 2011년에 
+발표한 논문을 인용하겠습니다.</span>
+<span class='talk-transcript__fragment' data-time='700240' id='t-700240'>&quot;2도 온도상승을 막기 위해서는</span>
+<span class='talk-transcript__fragment' data-time='705610' id='t-705610'>부국들은 긴축재정을 통해 당분간
+경제 성장을 멈춰야 합니다.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:07
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='716360' id='t-716360'>제 메시지는 우리가 이때까지 해왔던 
+것들을 다르게 해야 한다는 것이기에</span>
+<span class='talk-transcript__fragment' data-time='721760' id='t-721760'>선뜻 받아들이기 힘들 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='725440' id='t-725440'>이것은 점진적인 변화만
+말하는 것이 아닙니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='729960' id='t-729960'>이것은 평범하게 해온 
+일을 다르게 하는 것,</span>
+<span class='talk-transcript__fragment' data-time='732450' id='t-732450'>전체 시스템을 바꾸는 것,</span>
+<span class='talk-transcript__fragment' data-time='734280' id='t-734280'>가끔은 무언가를 덜하는
+것을 말하는 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='738000' id='t-738000'>그리고 이 변화는 세계에 있는
+모두에게 적용되어야 합니다.</span>
+<span class='talk-transcript__fragment' data-time='743040' id='t-743040'>변화는 지역에서 
+정치인에게 건의하는 것,</span>
+<span class='talk-transcript__fragment' data-time='746160' id='t-746160'>직장에서 상사에게 
+또는 상사로서 말하는 것,</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='749680' id='t-749680'>일상에서 친구나 가족과 말하는 것,</span>
+<span class='talk-transcript__fragment' data-time='751800' id='t-751800'>또는 우리의 생활 방식을
+바꾸는 것일 수도 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='755280' id='t-755280'>중요한 것은 정말 눈에 보일 정도의
+변화를 겪어야 한다는 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='758920' id='t-758920'>현재로서 우리는 4도 상승
+시나리오를 따라가고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='763160' id='t-763160'>2도 상승 시나리오를
+피하기 위해서는</span>
+<span class='talk-transcript__fragment' data-time='766520' id='t-766520'>지금 당장에라도 행동을
+시작해야 할 것입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='770120' id='t-770120'>감사합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:02
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='771360' id='t-771360'>(박수)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='780827' id='t-780827'>앨리스, 당신이 말하고자 하는 것은</span>
+<span class='talk-transcript__fragment' data-time='783280' id='t-783280'>부국들이 2020년이나
+2025년이 아니라</span>
+<span class='talk-transcript__fragment' data-time='787700' id='t-787700'>지금 당장 배출량을
+10% 줄이지 않으면</span>
+<span class='talk-transcript__fragment' data-time='791640' id='t-791640'>4도 이상 상승 시나리오로
+직행하게 된다는 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='796160' id='t-796160'>2070년까지 배출량을 70% 감축하는 
+것에 대한 의견을 듣고 싶습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='799920' id='t-799920'>네. 그건 2도 상승 시나리오를
+피하는 것에 근접하지도 못합니다.</span>
+<span class='talk-transcript__fragment' data-time='803520' id='t-803520'>수많은 모델 연구에 의해</span>
+<span class='talk-transcript__fragment' data-time='805600' id='t-805600'>우리가 갈 방향이
+명확해졌음에도 불구하고,</span>
+<span class='talk-transcript__fragment' data-time='808600' id='t-808600'>많은 사람들은 전세계가</span>
+<span class='talk-transcript__fragment' data-time='811720' id='t-811720'>배출량을 바로 줄일 수
+있다고 낙관하고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='814720' id='t-814720'>이는 지나친 영웅주의적 시각입니다.</span>
+<span class='talk-transcript__fragment' data-time='818080' id='t-818080'>연구를 할수록 분명한 것은,
+배출량은 축적되기 때문에</span>
+<span class='talk-transcript__fragment' data-time='820866' id='t-820866'>단기적인 대책이
+중요하다는 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='822832' id='t-822832'>그래야 정말 변화가 생깁니다.</span>
+<span class='talk-transcript__fragment' data-time='824491' id='t-824491'>예를 들어 중국 같은 대형국가가</span>
+<span class='talk-transcript__fragment' data-time='825920' id='t-825920'>성장을 멈추는 시기를
+몇 년만 늦추어도</span>
+<span class='talk-transcript__fragment' data-time='828920' id='t-828920'>탈탄소화를 시작해야 하는
+시점이 크게 변합니다.</span>
+<span class='talk-transcript__fragment' data-time='831960' id='t-831960'>그래서 저는 변화를 위한
+기점은 알 수 없다고 보고</span>
+<span class='talk-transcript__fragment' data-time='834480' id='t-834480'>단기로 어떠한 행동을
+취할 지가 중요하다고 봅니다.</span>
+<span class='talk-transcript__fragment' data-time='837464' id='t-837464'>그럼에도 우리들은
+안타깝게도 거시적 시각으로</span>
+<span class='talk-transcript__fragment' data-time='840760' id='t-840760'>에너지 수요량을 줄이기 위한 
+수순을 밟지 않고 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='843998' id='t-843998'>앨리스, TED에 나와서
+데이터를 공유해줘서 감사합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='845830' id='t-845830'>감사합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='846930' id='t-846930'>(박수)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

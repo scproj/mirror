@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Alyson McGregor: Why medicine often has dangerous side effects for women</title>
+  <description>You might not know this: Many of the medicines we take -- common drugs like Ambien and everyday aspirin -- were only ever tested on men. And the unknown side effects for women can be dangerous, even deadly. Alyson McGregor studies the differences between male and female patients; in this fascinating talk she explains how the male model became our framework for medical research ... and what women and men need to ask their doctors to get the right care for their bodies.</description>
+  <url>http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women</url>
+  <author-name>Alyson McGregor</author-name>
+  <author-url>http://www.ted.com/speakers/alyson_mcgregor</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/e335393e5a1024a6e5f5bcd29d823d76166c6f4f_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>John Green: The nerd's guide to learning everything online</title>
+  <description>Some of us learn best in the classroom, and some of us ... well, we don't. But we still love to learn -- we just need to find the way that works for us. In this charming, personal talk, author John Green shares the community of learning that he found in online video.</description>
+  <url>http://www.ted.com/talks/john_green_the_nerd_s_guide_to_learning_everything_online</url>
+  <author-name>John Green</author-name>
+  <author-url>http://www.ted.com/speakers/john_green</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/deb321385b5321a76c9dae739bd0732d51f818e0_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/john_green_the_nerd_s_guide_to_learning_everything_online.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

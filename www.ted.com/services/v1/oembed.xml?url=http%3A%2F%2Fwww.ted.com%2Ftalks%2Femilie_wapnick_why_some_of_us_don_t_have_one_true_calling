@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Emilie Wapnick: Why some of us don't have one true calling</title>
+  <description>What do you want to be when you grow up? Well, if you're not sure you want to do just one thing for the rest of your life, you're not alone. In this illuminating talk, writer and artist Emilie Wapnick describes the kind of people she calls "multipotentialites" -- who have a range of interests and jobs over one lifetime. Are you one?</description>
+  <url>http://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling</url>
+  <author-name>Emilie Wapnick</author-name>
+  <author-url>http://www.ted.com/speakers/emilie_wapnick</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/40e9d0dea5f239ac7331e03102c1c35e8c216cfb_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

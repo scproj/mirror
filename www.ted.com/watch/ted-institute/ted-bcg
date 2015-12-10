@@ -1,0 +1,1644 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>TED@BCG | TED Institute | Watch | TED</title>
+<meta content="TED@BCG | TED Institute | Watch | TED" name="title" />
+<meta content="TED is a nonprofit devoted to Ideas Worth Spreading - through TED.com, our annual conferences, the annual TED Prize and local TEDx events." name="description" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design, Institute, BCG" name="keywords" />
+<meta content="http://assets.tedcdn.com/images/ted_amp_network.gif" name="thumbnail" />
+<meta content="http://assets.tedcdn.com/images/ted_amp_network.gif" property="og:image" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED@BCG | TED Institute | Watch | TED" property="og:title" />
+<meta content="TED is a nonprofit devoted to Ideas Worth Spreading - through TED.com, our annual conferences, the annual TED Prize and local TEDx events." property="og:description" />
+<meta content="http://www.ted.com/watch/ted-institute/ted-bcg" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/pages-ie.css?1449612281">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/pages.css?1449612281">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"Backbone":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","embed":"embed.js?23f83514c0a631545d35c263790da013","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","swatch":"swatch.js?af26d6cbf9673f6060dfc8b18154c39c","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","libs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","touchPunch":"touchPunch.js?47b6211b7aef9750ac4f6613a4256cc9","deferLink":"deferLink.js?e753127d1427d48d2dba8b3f593baec2","swfobject":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","dq":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","surprise_me":"surprise_me.js?07929707d7c91175cb34732107402b0b","jqueryujs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","SwipeView":"SwipeView.js?3d6ab40c7f02be91047f9e6802690af6","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Swipe":"Swipe.js?b746c9e9c38bd13ef622cfeed09ba6bf","Mailcheck":"Mailcheck.js?4752d459b0ac03f738bb7db1571d9a00","depot":"depot.js?6d97c6ff1eb27088493186e2db478ee0","ZeroClipboard":"ZeroClipboard.js?65f3b285606bcf3acd44bb2c25a6406d","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","pages":"pages.js?17cdddd45428c47b7469c56c84257ae1","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","hbs":"hbs.js?62ffd6dc422a088483ef7863de071d9e","talk":"talk.js?51221de80bbdf101073772b806dcd5d2","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","Cookies":"Cookies.js?ec959f431471b295566bcf6ad4298fcb","spinjs":"spinjs.js?0f67f5820075f88643c601a4284d14b2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","tedx":"tedx.js?27a3d0c882820e1a4ee6a7aad1d95d48","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","autosize":"autosize.js?c463a94f6da61cb86e53ea61dbcb6735","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","dashboard_hotels":"dashboard_hotels.js?d19435a801331067f5048d1c7b3bb747","crushinator":"crushinator.js?2b8d78a40a52bb661b0b4fcf32e166c9","home":"home.js?1241a7e9294d8677392f76b903746a75","settings":"settings.js?e3325b55ee4c74c02a9feaf0e5bcba53","moment":"moment.js?408f6a21d69b26bb98a3c705e51e7764","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","profiles":"profiles.js?456ec8e9c630a07c9b3a83c468f029c3","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","numeral":"numeral.js?611d7abced1fea00d28e10252bff308e","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","global":"global.js?a8f475509c478d1b04dd10477b2510e3","dashboard_sessions":"dashboard_sessions.js?ec189bd2ee9f9489834ccd2aee456c31","Modernizr":"Modernizr.js?8d4a21cfb9a3fcefdabddaac961016fe","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","menuAim":"menuAim.js?a94480af4d342b45c24626ac8f6a1f80","dashboard":"dashboard.js?286613b789f90d9c8b906950c59bfb05","pages/dynamic/dummy":"pages/dynamic/dummy.js?3967fae7f441a192ac0a2b697e4e7a3d","playlists":"playlists.js?bd6b90efccb6b196b5ce73684719c8c3","lodash":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","flot":"flot.js?cc487fa44adf9da4523f900fe26c7c0d","search":"search.js?06cfabf03223b309e632669510068bde","jquery":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","newsletter":"newsletter.js?51e416cf51603cd78b8ab750e35c8f5f","transit":"transit.js?1bb6034bee2f350ddcc3876a929ed54c","talks":"talks.js?d20a21859341240c8901c77effade7f8","waypoints":"waypoints.js?a6a99f3a64e668c5afdfe0aaa1245215","hbs/handlebars":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="pages"
+</script>
+<script async="async" data-main="pages" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612281"></script></head>
+<body class='pages-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main pages-main' role='main'>
+<!-- PB:T: one_column_no_nav -->
+<div class='container'>
+<div class='m1 module'>
+<nav class='breadcrumb m4 show-lg'>Watch&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;<a class="breadcrumb__link" href="/watch/ted-institute" rel=" up">TED Institute</a>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;</nav>
+
+<h1 class='h1 h1--alt m2'>
+TED@BCG
+</h1>
+<!-- PB:B: copy --><div class='p2'>
+<p>TED@BCG was an event produced by TED in conjunction with our partner, The Boston Consulting Group. The event gathered together leaders from business, academia and society who have been at the forefront of change and transformation. The TED@BCG series of events were held in London in June 2015, Berlin in October 2014 and Singapore and San Francisco in October 2013. <a href="/about/programs-initiatives/ted-institute">Learn more about the TED Institute</a></p>
+
+</div>
+
+
+</div>
+
+<!-- PB:B: carousel --><div class='pages-module'>
+
+<div class='pages-carousel' id='carousel-f0a50ccb9055552d757a'>
+<div class='swipe'>
+<div class='swipe__pages'>
+<div class='swipe__page'>
+<div class='pages-carousel__spacer'>
+<div class='pages-carousel__spacer__inner'></div>
+</div>
+<div class='pages-carousel__image' style='background-image:url(//pb-assets.tedcdn.com/system/baubles/files/000/003/095/original/tedtalks_sandrine_thuret_carousel.jpg?1444323463);'></div>
+<div class='pages-carousel__content inverse module'>
+<div class='pages-carousel__kicker e1'>TED@BCG London 
+</div>
+<a class='pages-carousel__heading' href='/talks/sandrine_thuret_you_can_grow_new_brain_cells_here_s_how'>Sandrine Thuret: You can grow new brain cells. Here's how</a>
+<div class='pages-carousel__text'>
+<div class='pages-carousel__body'>
+<p>Can we, as adults, grow new neurons? Neuroscientist Sandrine Thuret says that we can, and she offers research and practical advice on how we can help our brains better perform neurogenesis—improving mood, increasing memory formation and preventing the decline associated with aging along the way. </p>
+
+</div>
+</div>
+<a class='pages-carousel__link button button--dark' href='/talks/sandrine_thuret_you_can_grow_new_brain_cells_here_s_how'>TED@BCG London</a>
+</div>
+</div>
+<div class='swipe__page'>
+<div class='pages-carousel__spacer'>
+<div class='pages-carousel__spacer__inner'></div>
+</div>
+<div class='pages-carousel__image' style='background-image:url(//pb-assets.tedcdn.com/system/baubles/files/000/003/032/original/TED_BCG_London_Yves_Morieux_carousel.jpg?1441229743);'></div>
+<div class='pages-carousel__content inverse module'>
+<div class='pages-carousel__kicker e1'>TED@BCG London
+</div>
+<a class='pages-carousel__heading' href='/talks/yves_morieux_how_too_many_rules_at_work_keep_you_from_getting_things_done'>Yves Morieux: How too many rules at work keep you from getting things done </a>
+<div class='pages-carousel__text'>
+<div class='pages-carousel__body'>
+<p>Modern work — from waiting tables to crunching numbers to designing products — is about solving brand-new problems every day, flexibly and collaboratively. But as Yves Morieux shows in this insightful talk, too often, an overload of rules, processes and metrics keeps us from doing our best work together. Meet the new frontier of productivity: cooperation. </p>
+
+</div>
+</div>
+<a class='pages-carousel__link button button--dark' href='/talks/yves_morieux_how_too_many_rules_at_work_keep_you_from_getting_things_done'>Watch this talk</a>
+</div>
+</div>
+<div class='swipe__page'>
+<div class='pages-carousel__spacer'>
+<div class='pages-carousel__spacer__inner'></div>
+</div>
+<div class='pages-carousel__image' style='background-image:url(//pb-assets.tedcdn.com/system/baubles/files/000/002/016/original/InstituteCarouselBCGBerlinDanieleQuercia.jpg?1420579214);'></div>
+<div class='pages-carousel__content inverse module'>
+<div class='pages-carousel__kicker e1'>TED@BCG Berlin 
+</div>
+<a class='pages-carousel__heading' href='/talks/daniele_quercia_happy_maps'>Daniele Quercia: Happy Maps</a>
+<div class='pages-carousel__text'>
+<div class='pages-carousel__body'>
+<p>Mapping apps help us find the fastest route to where we’re going. But what if we’d rather wander? Researcher Daniele Quercia demos “happy maps” that take into account not only the route you want to take, but how you want to feel along the way. </p>
+
+</div>
+</div>
+<a class='pages-carousel__link button button--dark' href='/talks/daniele_quercia_happy_maps'>Watch this talk</a>
+</div>
+</div>
+<div class='swipe__page'>
+<div class='pages-carousel__spacer'>
+<div class='pages-carousel__spacer__inner'></div>
+</div>
+<div class='pages-carousel__image' style='background-image:url(//pb-assets.tedcdn.com/system/baubles/files/000/001/893/original/InstituteCarouselBCGBerlinRainerStrack.jpg?1418938962);'></div>
+<div class='pages-carousel__content inverse module'>
+<div class='pages-carousel__kicker e1'>TED@BCG Berlin
+</div>
+<a class='pages-carousel__heading' href='/talks/rainer_strack_the_surprising_workforce_crisis_of_2030_and_how_to_start_solving_it_now'>Rainer Strack: The workforce crisis of 2030 — and how to start solving it now </a>
+<div class='pages-carousel__text'>
+<div class='pages-carousel__body'>
+<p>It sounds counterintuitive, but by 2030, many of the world's largest economies will have more jobs than adult citizens to do those jobs. In this data-filled — and quite charming — talk, human resources expert Rainer Strack suggests that countries ought to look across borders for mobile and willing job seekers. But to do that, they need to start by changing the culture in their businesses. </p>
+
+</div>
+</div>
+<a class='pages-carousel__link button button--dark' href='/talks/rainer_strack_the_surprising_workforce_crisis_of_2030_and_how_to_start_solving_it_now'>Watch this talk</a>
+</div>
+</div>
+<div class='swipe__page'>
+<div class='pages-carousel__spacer'>
+<div class='pages-carousel__spacer__inner'></div>
+</div>
+<div class='pages-carousel__image' style='background-image:url(//pb-assets.tedcdn.com/system/baubles/files/000/000/349/original/InstituteCarouselBCGSFRoselindeTorres.jpg);'></div>
+<div class='pages-carousel__content inverse module'>
+<div class='pages-carousel__kicker e1'>TED@BCG San Francisco
+</div>
+<a class='pages-carousel__heading' href='/talks/roselinde_torres_what_it_takes_to_be_a_great_leader'>Roselinde Torres: What it takes to be a great leader</a>
+<div class='pages-carousel__text'>
+<div class='pages-carousel__body'>
+<p>There are many leadership programs available today, from 1-day workshops to corporate training programs. But chances are, these won't really help. In this clear, candid talk, Roselinde Torres describes 25 years observing truly great leaders at work, and shares the three simple but crucial questions would-be company chiefs need to ask to thrive in the future.</p>
+
+</div>
+</div>
+<a class='pages-carousel__link button button--dark' href='/talks/roselinde_torres_what_it_takes_to_be_a_great_leader'>Watch this talk</a>
+</div>
+</div>
+<div class='swipe__page'>
+<div class='pages-carousel__spacer'>
+<div class='pages-carousel__spacer__inner'></div>
+</div>
+<div class='pages-carousel__image' style='background-image:url(//pb-assets.tedcdn.com/system/baubles/files/000/000/346/original/InstituteCarouselBCGSFAnneMilgram.jpg);'></div>
+<div class='pages-carousel__content inverse module'>
+<div class='pages-carousel__kicker e1'>TED@BCG San Francisco
+</div>
+<a class='pages-carousel__heading' href='/talks/anne_milgram_why_smart_statistics_are_the_key_to_fighting_crime'>Anne Milgram: Why smart statistics are the key to fighting crime</a>
+<div class='pages-carousel__text'>
+<div class='pages-carousel__body'>
+<p>When she became the attorney general of New Jersey in 2007, Anne Milgram quickly discovered a few startling facts: not only did her team not really know who they were putting in jail, but they had no way of understanding if their decisions were actually making the public safer. And so began her ongoing, inspirational quest to bring data analytics and statistical analysis to the US criminal justice system.</p>
+
+</div>
+</div>
+<a class='pages-carousel__link button button--dark' href='/talks/anne_milgram_why_smart_statistics_are_the_key_to_fighting_crime'>Watch this talk</a>
+</div>
+</div>
+<div class='swipe__page'>
+<div class='pages-carousel__spacer'>
+<div class='pages-carousel__spacer__inner'></div>
+</div>
+<div class='pages-carousel__image' style='background-image:url(//pb-assets.tedcdn.com/system/baubles/files/000/000/352/original/InstituteCarouselBCGSINHarishManwani.jpg);'></div>
+<div class='pages-carousel__content inverse module'>
+<div class='pages-carousel__kicker e1'>TED@BCG Singapore
+</div>
+<a class='pages-carousel__heading' href='/talks/harish_manwani_profit_s_not_always_the_point'>Harish Manwani: Profit’s not always the point</a>
+<div class='pages-carousel__text'>
+<div class='pages-carousel__body'>
+<p>You might not expect the chief operating officer of a major global corporation to look too far beyond either the balance sheet or the bottom line. But Harish Manwani, COO of Unilever, makes a passionate argument that doing so to include value, purpose and sustainability in top-level decision-making is not just savvy, it's the only way to run a 21st century business responsibly.</p>
+
+</div>
+</div>
+<a class='pages-carousel__link button button--dark' href='/talks/harish_manwani_profit_s_not_always_the_point'>Watch this talk</a>
+</div>
+</div>
+<div class='swipe__page'>
+<div class='pages-carousel__spacer'>
+<div class='pages-carousel__spacer__inner'></div>
+</div>
+<div class='pages-carousel__image' style='background-image:url(//pb-assets.tedcdn.com/system/baubles/files/000/000/353/original/InstituteCarouselBCGSINRoseGeorge.jpg);'></div>
+<div class='pages-carousel__content inverse module'>
+<div class='pages-carousel__kicker e1'>TED@BCG Singapore
+</div>
+<a class='pages-carousel__heading' href='/talks/rose_george_inside_the_secret_shipping_industry'>Rose George: Inside the secret shipping industry</a>
+<div class='pages-carousel__text'>
+<div class='pages-carousel__body'>
+<p>Almost everything we own and use, at some point, travels to us by container ship, through a vast network of ocean routes and ports that most of us know almost nothing about. Journalist Rose George tours us through the world of shipping, the underpinning of consumer civilization.</p>
+
+</div>
+</div>
+<a class='pages-carousel__link button button--dark' href='/talks/rose_george_inside_the_secret_shipping_industry'>Watch this talk</a>
+</div>
+</div>
+</div>
+</div>
+<a class='pages-carousel__flipper pages-carousel__flipper--prev' href='#prev'><i class="icon icon_circle-left pages-carousel__flipper__icon" title="Previous"></i><span class="screen-reader-text">Previous</span></a>
+<a class='pages-carousel__flipper pages-carousel__flipper--next' href='#next'><i class="icon icon_circle-right pages-carousel__flipper__icon" title="Next"></i><span class="screen-reader-text">Next</span></a>
+</div>
+</div>
+<script>q("pages.carousel",{"id":"carousel-f0a50ccb9055552d757a","auto":true,"delay":8000,"interval":6000,"hoverPause":true})</script>
+
+
+<!-- PB:B: horizontal_rule --><hr class='pages-hr'>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--ted-bcg-london">TED@BCG London
+</h3>
+
+<!-- PB:B: gallery --><div class='pages-module pages-video-gallery'>
+
+<div class='row row-lg-6up row-sm-4up'>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/sandrine_thuret_you_can_grow_new_brain_cells_here_s_how"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="664" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/092/original/tedtalks_sandrine_thuret_icon.jpg?1444322362?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:04</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Sandrine Thuret</div>
+<h4 class='h9'>
+<a href="/talks/sandrine_thuret_you_can_grow_new_brain_cells_here_s_how">You can grow new brain cells. Here's how 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="473" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/081/original/TED_talks_samuelcohen_icon.jpg?1443812044?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">07:53</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Samuel Cohen</div>
+<h4 class='h9'>
+<a href="/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it">Alzheimer's is not normal aging — and we can cure it 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/yves_morieux_how_too_many_rules_at_work_keep_you_from_getting_things_done"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="998" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/027/original/TEDInstitute_BCGLondon_YvesMorieux.jpg?1441141343?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">16:38</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Yves Morieux</div>
+<h4 class='h9'>
+<a href="/talks/yves_morieux_how_too_many_rules_at_work_keep_you_from_getting_things_done">How too many rules at work keep you from getting things done 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/diana-dosik-why-we-need-to-treat-our-employees-thoughtfully"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="589" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/972/original/TEDInstitute_BCGLondon_DianaDosik.jpg?1440103787?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">09:49</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Diana Dosik</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/diana-dosik-why-we-need-to-treat-our-employees-thoughtfully">Why we need to treat our employees as thoughtfully as our customers 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/douglas-beal-an-alternative-to-gdp"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="693" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/973/original/TEDInstitute_BCGLondon_DouglasBeal.jpg?1440103792?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:33</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Douglas Beal</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/douglas-beal-an-alternative-to-gdp">An alternative to GDP that encompasses our wellbeing 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/emma-bridgewater-how-an-entrepreneurial-potter-helped-save-beauty"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="896" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/974/original/TEDInstitute_BCGLondon_EmmaBridgewater.jpg?1440103797?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">14:56</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Emma Bridgewater</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/emma-bridgewater-how-an-entrepreneurial-potter-helped-save-beauty">How an entrepreneurial potter helped save beauty in a dying city 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/joachim-horn-a-solution-to-building-a-generation-of-inventors"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="533" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/975/original/TEDInstitute_BCGLondon_JoachimHorn.jpg?1440103802?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">08:53</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Joachim Horn</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/joachim-horn-a-solution-to-building-a-generation-of-inventors">A solution to building a generation of inventors 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/knut-haanaes-to-perfect-or-to-explore"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="631" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/976/original/TEDInstitute_BCGLondon_KnutHaanaes.jpg?1440103808?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">10:31</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Knut Haanaes</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/knut-haanaes-to-perfect-or-to-explore">To perfect or to explore? 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/luc-de-brabandere-reimagining-creative-thinking"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="839" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/977/original/TEDInstitute_BCGLondon_LucdeBrabandere.jpg?1440103815?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:59</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Luc de Brabandere</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/luc-de-brabandere-reimagining-creative-thinking">Reimagining creative thinking
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/markus-lorenz-industry-4-0"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="569" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/978/original/TEDInstitute_BCGLondon_MarkusLorenz.jpg?1440103821?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">09:29</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Markus Lorenz</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/markus-lorenz-industry-4-0">Industry 4.0: how intelligent machines will transform everything we know 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/mathieu-lamiaux-imagining-a-new-future-for-health-systems-in-africa"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="688" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/979/original/TEDInstitute_BCGLondon_MathiauLamiaux.jpg?1440103829?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:28</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Mathieu Lamiaux</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/mathieu-lamiaux-imagining-a-new-future-for-health-systems-in-africa">Imagining a new future for health systems in Africa 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/patty-mccord-lessons-from-a-silicon-valley-maverick"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="685" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/980/original/TEDInstitute_BCGLondon_PattyMcCord.jpg?1440103837?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:25</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Patty McCord</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/patty-mccord-lessons-from-a-silicon-valley-maverick">Lessons from a Silicon Valley maverick: new ways of working and collaborating 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/philip-krinks-finding-your-personal-mission-in-life"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="447" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/981/original/TEDInstitute_BCGLondon_PhilipKrinks.jpg?1440103842?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">07:27</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Philip Krinks</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/philip-krinks-finding-your-personal-mission-in-life">Finding your personal mission in life 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/sarah-willersdorf-what-brands-can-learn-from-online-dating"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="666" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/982/original/TEDInstitute_BCGLondon_SarahWillersdorf.jpg?1440103848?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:06</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Sarah Willersdorf</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/sarah-willersdorf-what-brands-can-learn-from-online-dating">What brands can learn from online dating 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/shalini-unnikrishnan-we-need-to-turn-our-response-to-crisis-inside-out"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="603" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/983/original/TEDInstitute_BCGLondon_ShaliniUnnikrishnan.jpg?1440103851?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">10:03</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Shalini Unnikrishnan</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/shalini-unnikrishnan-we-need-to-turn-our-response-to-crisis-inside-out">We need to turn our response to crisis inside out 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/vikram-bhalla-family-businesses-are-here-to-stay"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="699" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/984/original/TEDInstitute_BCGLondon.jpg?1440103855?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:39</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Vikram Bhalla</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/vikram-bhalla-family-businesses-are-here-to-stay">Family businesses are here to stay, and thrive 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: horizontal_rule --><hr class='pages-hr'>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--ted-bcg-berlin">TED@BCG Berlin
+</h3>
+
+<!-- PB:B: gallery --><div class='pages-module pages-video-gallery'>
+
+<div class='row row-lg-6up row-sm-4up'>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/daniele_quercia_happy_maps"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="440" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/017/original/Institute_BCG_Berlin_DanieleQuercia_Thumb.jpg?1420579335?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">07:20</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Daniele Quercia</div>
+<h4 class='h9'>
+<a href="/talks/daniele_quercia_happy_maps">Happy maps
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/rainer_strack_the_surprising_workforce_crisis_of_2030_and_how_to_start_solving_it_now"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="767" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/873/original/Institute_BCG_Berlin_RainerStrack_Thumb.jpg?1418926844?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:47</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Rainer Strack</div>
+<h4 class='h9'>
+<a href="/talks/rainer_strack_the_surprising_workforce_crisis_of_2030_and_how_to_start_solving_it_now">The workforce crisis of 2030 — and how to start solving it now
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/alexander-tuerpitz-virtualizing-employment-in-saudi-arabia"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="660" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/874/original/Institute_BCG_Berlin_AlexanderTuerpitz_Thumb.jpg?1418927152?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:00</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Alexander Tuerpitz</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/alexander-tuerpitz-virtualizing-employment-in-saudi-arabia">Virtualizing employment in Saudi Arabia 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/alison-sander-megatrends-the-art-and-science-of-trend-tracking"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="740" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/875/original/Institute_BCG_Berlin_AlisonSander_Thumb.jpg?1418927181?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:20</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Alison Sander</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/alison-sander-megatrends-the-art-and-science-of-trend-tracking">Megatrends - the art and science of trend tracking 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/anil-raj-bringing-power-to-millions"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="451" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/876/original/Institute_BCG_Berlin_AnilRaj_Thumb.jpg?1418927198?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">07:31</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Anil Raj</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/anil-raj-bringing-power-to-millions">Bringing power to millions 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/antonella-mei-pochtler-travel-transportation-in-the-not-so-distant-future"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1096" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/877/original/Institute_BCG_Berlin_AntonellaMei-Pochtler_Thumb.jpg?1418927225?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">18:16</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Antonella Mei-Pochtler</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/antonella-mei-pochtler-travel-transportation-in-the-not-so-distant-future">Travel and transportation in the not so distant future 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/carey-kolaja-dream-bigger-a-vision-for-truly-secure-and-seamless-transactions"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="827" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/878/original/Institute_BCG_Berlin_CareyKolaja_Thumb.jpg?1418927247?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:47</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Carey Kolaja</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/carey-kolaja-dream-bigger-a-vision-for-truly-secure-and-seamless-transactions">Dream bigger - a vision for truly secure and seamless transactions 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/dario-gil-the-next-area-of-cognitive-systems"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="652" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/880/original/Institute_BCG_Berlin_DarioGil_Thumb.jpg?1418927292?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">10:52</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Dario Gil</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/dario-gil-the-next-area-of-cognitive-systems">The next area of cognitive systems 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/jay-cousins-too-big-to-live"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="653" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/881/original/Institute_BCG_Berlin_JayCousins_Thumb.jpg?1418927313?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">10:53</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Jay Cousins</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/jay-cousins-too-big-to-live">Too big to live 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/julia-kloiber-let-s-build-better-digital-tools-for-our-cities"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="594" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/882/original/Institute_BCG_Berlin_JuliaKloiber_Thumb.jpg?1418927355?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">09:54</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Julia Kloiber</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/julia-kloiber-let-s-build-better-digital-tools-for-our-cities">Let´s build better digital tools for our cities! 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/karalee-close-will-healthcare-embrace-digital-or-will-we-die-waiting"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="817" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/883/original/Institute_BCG_Berlin_KaraleeClose_Thumb.jpg?1418927376?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:37</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Karalee Close</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/karalee-close-will-healthcare-embrace-digital-or-will-we-die-waiting">Will healthcare embrace digital or will we die waiting? 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/karin-nilsdotter-the-sky-is-not-the-limit-why-investing-in-space-still-matters"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="462" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/884/original/Institute_BCG_Berlin_KarinNilsdotter_Thumb.jpg?1418927395?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">07:42</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Karin Nilsdotter</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/karin-nilsdotter-the-sky-is-not-the-limit-why-investing-in-space-still-matters">The sky is not the limit - why investing in space still matters 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/kristi-rogers-where-are-our-digital-ads-really-going"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="668" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/885/original/Institute_BCG_Berlin_KristiRogers_Thumb.jpg?1418927414?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:08</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Kristi Rogers</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/kristi-rogers-where-are-our-digital-ads-really-going">Where are our digital ads really going? 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/martin-reeves-your-strategy-needs-a-strategy"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="661" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/886/original/Institute_BCG_Berlin_MartinReeves_Thumb.jpg?1418933213?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:01</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Martin Reeves</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/martin-reeves-your-strategy-needs-a-strategy">Your strategy needs a strategy 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/mikael-fogelstrom-graphene-from-a-layer-of-atoms-to-applications"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="699" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/887/original/Institute_BCG_Berlin_MikaelFogelstrom_Thumb.jpg?1418933237?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:39</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Mikael Fogelstrom</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/mikael-fogelstrom-graphene-from-a-layer-of-atoms-to-applications">Graphene, from a layer of atoms to applications 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/patrick-forth-technology-distruption-meets-the-change-monster-who-wins"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="747" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/888/original/Institute_BCG_Berlin_PatrickForth_Thumb.jpg?1418933276?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:27</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Patrick Forth</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/patrick-forth-technology-distruption-meets-the-change-monster-who-wins">Technology disruption meets the change monster...who wins? 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/peter-kirn-from-beethoven-to-kinect-linking-music-to-our-bodies"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="444" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/889/original/Institute_BCG_Berlin_PeterKirn_Thumb.jpg?1418933316?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">07:24</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Peter Kirn</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/peter-kirn-from-beethoven-to-kinect-linking-music-to-our-bodies">From Beethoven to Kinect, linking music to our bodies 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/rochelle-king-the-complex-relationship-between-data-and-design-in-ux"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="203" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/890/original/Institute_BCG_Berlin_RochelleKing_Thumb.jpg?1418933345?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">03:23</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Rochelle King</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/rochelle-king-the-complex-relationship-between-data-and-design-in-ux">The complex relationship between data and design in UX 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/sarah-cairns-smith-finally-tech-solutions-to-economic-development"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="694" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/891/original/Institute_BCG_Berlin_SarahCairns-Smith_Thumb.jpg?1418933367?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:34</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Sarah Cairns-Smith</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/sarah-cairns-smith-finally-tech-solutions-to-economic-development">Finally, tech solutions to economic development 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/stefan-gross-selbeck-business-model-innovation"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="731" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/892/original/Institute_BCG_Berlin_StefanGross-Thumb.jpg?1418933395?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:11</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Stefan Gross-Selbeck</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/stefan-gross-selbeck-business-model-innovation">Business model innovation: beating yourself at your own game 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/a-taste-of-ted-bcg-berlin"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="191" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/903/original/ted_bcgberlin_sizzlereel_thumb.jpg?1419350719?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">03:11</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'></div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/a-taste-of-ted-bcg-berlin">A Taste of TED@BCG Berlin
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/4-principles-for-better-business-building"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="137" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/084/original/BCG---4-Principles-thumb.jpg?1423008282?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">02:17</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'></div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/4-principles-for-better-business-building">4 principles for better business-building 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/how-should-a-ceo-lead-a-musical-exploration"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="109" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/085/original/BCG---CEO-leadership-thumb.jpg?1423008303?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">01:49</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'></div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/how-should-a-ceo-lead-a-musical-exploration">How should a CEO lead? A musical exploration 
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: horizontal_rule --><hr class='pages-hr'>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--ted-bcg-san-francisco">TED@BCG San Francisco
+</h3>
+
+<!-- PB:B: gallery --><div class='pages-module pages-video-gallery'>
+
+<div class='row row-lg-6up row-sm-4up'>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/philip_evans_how_data_will_transform_business"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="837" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/449/original/9ba1a6e04055da62e0efcd23254cc3e960b94517_240x180.jpg?1411495973?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:57</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Philip Evans</div>
+<h4 class='h9'>
+<a href="/talks/philip_evans_how_data_will_transform_business">How data will transform business
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/roselinde_torres_what_it_takes_to_be_a_great_leader"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="559" src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/84075682f1b8cf15aa7460548a4b61fedc4cb736_240x180.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">09:19</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Roselinde Torres</div>
+<h4 class='h9'>
+<a href="/talks/roselinde_torres_what_it_takes_to_be_a_great_leader">What it takes to be a great leader
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/dan_berkenstock_the_world_is_one_big_dataset_now_how_to_photograph_it"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="584" src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/df79640770a6974c2178e1708747a144c43ca7d1_240x180.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">09:44</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Dan Berkenstock</div>
+<h4 class='h9'>
+<a href="/talks/dan_berkenstock_the_world_is_one_big_dataset_now_how_to_photograph_it">The world is one big dataset. Now, how to photograph it ...
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/anne_milgram_why_smart_statistics_are_the_key_to_fighting_crime"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="761" src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/3e820be716ef041e7bd7792bbfc5b5753d4e0dbf_240x180.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:41</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Anne Milgram</div>
+<h4 class='h9'>
+<a href="/talks/anne_milgram_why_smart_statistics_are_the_key_to_fighting_crime">Why smart statistics are the key to fighting crime
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="721" src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/ebe6dc533509fb045e77d0668a35ab8082375b5b_240x180.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:01</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Yves Morieux</div>
+<h4 class='h9'>
+<a href="/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify">As work gets more complex, 6 rules to simplify
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/ryan_holladay_to_hear_this_music_you_have_to_be_there_literally"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="389" src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/d98c17773da6f84e9f915895c270c7ffd2de3778_240x180.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">06:29</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Ryan Holladay</div>
+<h4 class='h9'>
+<a href="/talks/ryan_holladay_to_hear_this_music_you_have_to_be_there_literally">To hear this music you have to be there. Literally
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/marco_annunziata_welcome_to_the_age_of_the_industrial_internet"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="756" src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/e779a0988892a708baada15e8b75e7557245235b_240x180.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:36</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Marco Annunziata</div>
+<h4 class='h9'>
+<a href="/talks/marco_annunziata_welcome_to_the_age_of_the_industrial_internet">Welcome to the age of the industrial internet
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/james-curleigh-how-to-enhance-and-expand-a-global-brand"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="550" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/338/original/InstituteBCGSanFranciscoJamesCurleighThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">09:10</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>James Curleigh</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/james-curleigh-how-to-enhance-and-expand-a-global-brand">How to enhance and expand a global brand
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/joe-davis-passing-the-super-bowl"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="402" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/337/original/InstituteBCGSanFranciscoJoeDavisThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">06:42</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Joe Davis</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/joe-davis-passing-the-super-bowl">Passing the Super Bowl
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/del-harvey-protecting-privacy-at-twitter"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="510" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/339/original/InstituteBCGSanFranciscoDelHarveyThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">08:30</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Del Harvey</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/del-harvey-protecting-privacy-at-twitter">Protecting privacy at Twitter
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/alan-iny-reigniting-creativity-in-business"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="468" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/340/original/InstituteBCGSanFranciscoAlanInyThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">07:48</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Alan Iny</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/alan-iny-reigniting-creativity-in-business">Reigniting creativity in business
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/leslie-perlow-thriving-in-an-overconnected-world"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="826" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/336/original/InstituteBCGSanFranciscoLesliePerlowThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:46</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Leslie Perlow</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/leslie-perlow-thriving-in-an-overconnected-world">Thriving in an overconnected world
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/vishal-sikka-the-beauty-and-power-of-algorithms"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="645" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/334/original/InstituteBCGSanFranciscoVishalSikkaThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">10:45</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Vishal Sikka</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/vishal-sikka-the-beauty-and-power-of-algorithms">The beauty and power of algorithms
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/michael-silverstein-the-future-of-food"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="576" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/335/original/InstituteBCGSanFranciscoMichaelSilversteinThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">09:36</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Michael Silverstein</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/michael-silverstein-the-future-of-food">The future of food
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/wendy-woods-collective-cooperation-in-the-social-sector"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="591" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/333/original/InstituteBCGSanFranciscoWendyWoodsThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">09:51</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Wendy Woods</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/wendy-woods-collective-cooperation-in-the-social-sector">Collective cooperation in the social sector
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: horizontal_rule --><hr class='pages-hr'>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--ted-bcg-singapore">TED@BCG Singapore
+</h3>
+
+<!-- PB:B: gallery --><div class='pages-module pages-video-gallery'>
+
+<div class='row row-lg-6up row-sm-4up'>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/harish_manwani_profit_s_not_always_the_point"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="838" src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/405c655998ebd51adf0f6e3565b07bffc4c5738e_240x180.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:58</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Harish Manwani</div>
+<h4 class='h9'>
+<a href="/talks/harish_manwani_profit_s_not_always_the_point">Profit’s not always the point
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/rose_george_inside_the_secret_shipping_industry"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="683" src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/82de7ec6c1bd1a7b65f2cff45461822a6a3b43c2_240x180.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:23</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Rose George</div>
+<h4 class='h9'>
+<a href="/talks/rose_george_inside_the_secret_shipping_industry">Inside the secret shipping industry
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/talks/stefan_larsson_what_doctors_can_learn_from_each_other"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="776" src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/1a0462e7dfad0c4e30f5e2c74dfb31673e376b80_240x180.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:56</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Stefan Larsson</div>
+<h4 class='h9'>
+<a href="/talks/stefan_larsson_what_doctors_can_learn_from_each_other">What doctors can learn from each other
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/vincent-chin-exploring-more-effective-ways-to-measure-a-nation-s-success"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="792" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/325/original/InstituteBCGSingaporeVincentChinThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:12</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Vincent Chin</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/vincent-chin-exploring-more-effective-ways-to-measure-a-nation-s-success">Exploring more effective ways to measure a nation's success
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/david-michael-how-to-connect-with-the-emerging-chinese-middle-class"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="736" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/332/original/InstituteBCGSingaporeDavidMichaelThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:16</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>David Michael</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/david-michael-how-to-connect-with-the-emerging-chinese-middle-class">How to connect with the emerging Chinese middle class
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/takashi-mitachi-three-lessons-that-businesses-can-learn-from-natural-disasters"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="601" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/328/original/InstituteBCGSingaporeTakashiMitachiThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">10:01</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Takashi Mitachi</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/takashi-mitachi-three-lessons-that-businesses-can-learn-from-natural-disasters">Three lessons that businesses can learn from natural disasters
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/yong-kwek-ping-the-challenge-of-due-diligence-in-china"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="584" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/324/original/InstituteBCGSingaporeYongKwekPingThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">09:44</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Yong Kwek Ping</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/yong-kwek-ping-the-challenge-of-due-diligence-in-china">The challenge of due diligence in China
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/durreen-shahnaz-how-capitalism-and-philanthropy-can-collaborate-to-solve-big-problems"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="692" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/331/original/InstituteBCGSingaporeDurreenShahnazThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:32</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Durreen Shahnaz</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/durreen-shahnaz-how-capitalism-and-philanthropy-can-collaborate-to-solve-big-problems">How capitalism and philanthropy can collaborate to solve big problems
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/tan-su-shan-the-evolving-nature-of-banking"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="744" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/327/original/InstituteBCGSingaporeTanSuShanThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:24</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Tan Su Shan</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/tan-su-shan-the-evolving-nature-of-banking">The evolving nature of banking
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/janmejaya-sinha-what-s-really-happening-in-emerging-markets"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="624" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/330/original/InstituteBCGSingaporeJanmejayaSinhaThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">10:24</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Janmejaya Sinha</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/janmejaya-sinha-what-s-really-happening-in-emerging-markets">What's really happening in emerging markets
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/tjun-tang-how-to-reinvent-the-funding-of-new-ventures-in-china"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="781" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/326/original/InstituteBCGSingaporeTjunTangThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:01</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Tjun Tang</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/tjun-tang-how-to-reinvent-the-funding-of-new-ventures-in-china">How to reinvent the funding of new ventures in China
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+<div class='col'>
+<div class='pages-video-gallery__item'>
+<div class='m3 media media--sm-v'>
+<div class='media__image media__image--thumb'>
+<a href="/watch/ted-institute/ted-bcg/kim-yeonhee-business-not-as-usual-the-key-to-success-for-korean-global-leaders"><span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="596" src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/000/329/original/InstituteBCGSingaporeKimYeonheeThumb.jpg?" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">09:56</span></span>
+</a></div>
+<div class='media__message'>
+<div class='e1'>Kim Yeonhee</div>
+<h4 class='h9'>
+<a href="/watch/ted-institute/ted-bcg/kim-yeonhee-business-not-as-usual-the-key-to-success-for-korean-global-leaders">Business not as usual: The key to success for Korean global leaders
+</a></h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: horizontal_rule --><hr class='pages-hr'>
+
+
+<!-- PB:B: link --><a class='media pages-featured-link' href='/about/programs-initiatives/ted-institute'>
+<i class="icon icon_circle-right media__image pages-featured-link__icon"></i>
+<div class='media__message module'>
+<h4 class='h7'>About TED Institute</h4>
+<p>Learn more about how to host a TED Institute event.</p>
+</div>
+</a>
+
+</div></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

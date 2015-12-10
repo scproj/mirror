@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>미아 버드송(Mia Birdsong): 우리가 가난에 대해 말하는 이야기는 진실이 아닙니다</title>
+  <description>국제공동체의 일원으로서, 우리는 가난을 끝내고 싶습니다. 미아 버드송은 훌륭한 출발점을 제시하고 있습니다. 그것은 가난한 사람들이 매일 투쟁하는 기술과, 동력, 진취성을 존중하는 것입니다. 그녀는 우리에게 가난한 사람들을 다시 한번 돌아보라고 합니다 : 그들은 가난하지만, 포기하지 않습니다.</description>
+  <url>http://www.ted.com/talks/mia_birdsong_the_story_we_tell_about_poverty_isn_t_true?language=ko</url>
+  <author-name>미아 버드송(Mia Birdsong)</author-name>
+  <author-url>http://www.ted.com/speakers/mia_birdsong</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/122219aab2c6ecf8bbbab874f2f9aacad16c1966_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/mia_birdsong_the_story_we_tell_about_poverty_isn_t_true.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

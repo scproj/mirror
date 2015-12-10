@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Cesar Harada: How I teach kids to love science</title>
+  <description>At the Harbour School in Hong Kong, TED Senior Fellow Cesar Harada teaches citizen science and invention to the next generation of environmentalists. He's moved his classroom into an industrial mega-space where imaginative kids work with wood, metal, chemistry, biology, optics and, occasionally, power tools to create solutions to the threats facing the world's oceans. There, he instills a universal lesson that his own parents taught him at a young age: "You can make a mess, but you have to clean up after yourself."</description>
+  <url>http://www.ted.com/talks/cesar_harada_how_i_teach_kids_to_love_science</url>
+  <author-name>Cesar Harada</author-name>
+  <author-url>http://www.ted.com/speakers/cesar_harada</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/8c7c6d524962ad7fcdbaf2f097abadebc207f490_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/cesar_harada_how_i_teach_kids_to_love_science.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

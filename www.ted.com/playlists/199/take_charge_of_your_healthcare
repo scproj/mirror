@@ -1,0 +1,1131 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Take charge of your health care | Playlist | TED.com</title>
+<meta content="Take charge of your health care | Playlist | TED.com" name="title" />
+<meta content="app-id=376183339,app-argument=http://www.ted.com/playlists/199/take_charge_of_your_healthcare" name="apple-itunes-app" />
+<meta content="You may be the patient. But that doesn’t mean you shouldn’t be an active participant in getting the best possible care." name="description" />
+<meta content="health, health, health care, health care, life, life" name="keywords" />
+<meta content="video" name="medium" />
+<meta content="TED" name="author" />
+<meta content="10 TED Talks on taking charge of your health care" property="og:title" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/take_charge_of_your_healthcare_1200x627.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/take_charge_of_your_healthcare_1200x627.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="You may be the patient. But that doesn’t mean you shouldn’t be an active participant in getting the best possible care. These speakers have ideas on how." property="og:description" />
+<meta content="video.other" property="og:type" />
+<meta content="8299" property="video:duration" />
+<meta content="1444842127" property="video:release_date" />
+<meta content="health" property="video:tag" />
+<meta content="health care" property="video:tag" />
+<meta content="life" property="video:tag" />
+<meta content="376183339" name="twitter:app:id:iphone" />
+<meta content="376183339" name="twitter:app:id:ipad" />
+<meta content="com.ted.android" name="twitter:app:id:googleplay" />
+<meta content="TED" name="twitter:app:name:ipad" />
+<meta content="TED" name="twitter:app:name:iphone" />
+<meta content="TED" name="twitter:app:name:googleplay" />
+<meta content="ted://x-callback-url/playlist?playlistID=199&amp;source=twitter" name="twitter:app:url:ipad" />
+<meta content="ted://x-callback-url/playlist?playlistID=199&amp;source=twitter" name="twitter:app:url:iphone" />
+<meta content="TED" property="al:ios:app_name" />
+<meta content="376183339" property="al:ios:app_store_id" />
+<meta content="ted://x-callback-url/playlist?playlistID=199&amp;source=facebook" property="al:ios:url" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="http://www.ted.com/playlists/199/take_charge_of_your_healthcare" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/playlist-ie.css?1449612282">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/playlist.css?1449612282">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612281,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?bd6b90efccb6b196b5ce73684719c8c3","Swipe":"Swipe.js?b746c9e9c38bd13ef622cfeed09ba6bf","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","tedx":"tedx.js?27a3d0c882820e1a4ee6a7aad1d95d48","flot":"flot.js?cc487fa44adf9da4523f900fe26c7c0d","hbs":"hbs.js?62ffd6dc422a088483ef7863de071d9e","transit":"transit.js?1bb6034bee2f350ddcc3876a929ed54c","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","pages":"pages.js?17cdddd45428c47b7469c56c84257ae1","deferLink":"deferLink.js?e753127d1427d48d2dba8b3f593baec2","libs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","jquery":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","swfobject":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","Mailcheck":"Mailcheck.js?4752d459b0ac03f738bb7db1571d9a00","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","jqueryujs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","Backbone":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","swatch":"swatch.js?af26d6cbf9673f6060dfc8b18154c39c","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","search":"search.js?06cfabf03223b309e632669510068bde","profiles":"profiles.js?456ec8e9c630a07c9b3a83c468f029c3","newsletter":"newsletter.js?51e416cf51603cd78b8ab750e35c8f5f","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","ZeroClipboard":"ZeroClipboard.js?65f3b285606bcf3acd44bb2c25a6406d","spinjs":"spinjs.js?0f67f5820075f88643c601a4284d14b2","home":"home.js?1241a7e9294d8677392f76b903746a75","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","numeral":"numeral.js?611d7abced1fea00d28e10252bff308e","waypoints":"waypoints.js?a6a99f3a64e668c5afdfe0aaa1245215","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Modernizr":"Modernizr.js?8d4a21cfb9a3fcefdabddaac961016fe","menuAim":"menuAim.js?a94480af4d342b45c24626ac8f6a1f80","global":"global.js?a8f475509c478d1b04dd10477b2510e3","dashboard_hotels":"dashboard_hotels.js?d19435a801331067f5048d1c7b3bb747","dashboard":"dashboard.js?286613b789f90d9c8b906950c59bfb05","dq":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","pages/dynamic/dummy":"pages/dynamic/dummy.js?3967fae7f441a192ac0a2b697e4e7a3d","talk":"talk.js?51221de80bbdf101073772b806dcd5d2","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","lodash":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","surprise_me":"surprise_me.js?07929707d7c91175cb34732107402b0b","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","SwipeView":"SwipeView.js?3d6ab40c7f02be91047f9e6802690af6","depot":"depot.js?6d97c6ff1eb27088493186e2db478ee0","autosize":"autosize.js?c463a94f6da61cb86e53ea61dbcb6735","talks":"talks.js?d20a21859341240c8901c77effade7f8","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Cookies":"Cookies.js?ec959f431471b295566bcf6ad4298fcb","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","embed":"embed.js?23f83514c0a631545d35c263790da013","settings":"settings.js?e3325b55ee4c74c02a9feaf0e5bcba53","touchPunch":"touchPunch.js?47b6211b7aef9750ac4f6613a4256cc9","moment":"moment.js?408f6a21d69b26bb98a3c705e51e7764","dashboard_sessions":"dashboard_sessions.js?ec189bd2ee9f9489834ccd2aee456c31","crushinator":"crushinator.js?2b8d78a40a52bb661b0b4fcf32e166c9","hbs/handlebars":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="playlists";TED["zone"]={"api_key":"playlist_page_2","ga_category":"videoplayer","ad_unit_path":"playlists","ad_targeting":{}}
+</script>
+<script async="async" data-main="playlists" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612282"></script></head>
+<body class='playlists-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main playlists-main' role='main'>
+<script>
+  __ga('set', "dimension5", 199);
+</script>
+<div class='player-hero player-hero--unactivated' id='player-hero'>
+<div class='player-hero__contents'>
+<div class='player-hero__banner'>
+<div class='player'>
+<div class='player__container'>
+<div class='player-pip'>
+<div class='player-pip__container'>
+<div class='player__container__placeholder'></div>
+</div>
+</div>
+<div class='player__container__cursor-killer'></div>
+<div class='controls--mini'></div>
+</div>
+</div>
+<div class='player-hero__poster' id='player-hero-poster' style='background-image:url(https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/take_charge_of_your_healthcare.jpg?quality=89&amp;w=500)'>
+<div id='player-hero-poster-video'></div>
+</div>
+<div class='player-hero__preroll'>
+<div class='player-hero__preroll__wrapper'>
+<div class='player-hero__preroll__container' id='player-hero-preroll-video'></div>
+</div>
+</div>
+<script>
+  function playerHeroPlay() {
+    document.getElementById('player-hero').className += ' player-hero--early-request';
+  }
+</script>
+<a class='player-hero__play' href='#' id='player-hero-play' onclick='playerHeroPlay()' ontouchend='playerHeroPlay()' role='button' tabindex='1' title='Play'>
+<div class='g-button-play player-hero__play__button player-hero__play__button--animated'>
+<svg x="0" y="0" width="100px" height="100px" viewBox="0 0 200 200" class="play play--ripple">
+ <circle fill="transparent" stroke="#FFFFFF" stroke-width="8" cx="100" cy="100" r="96"/>
+ <circle clip-path="url(#clipper)" fill="url(#ripple)" cx="100" cy="100" r="130" />
+  <polygon fill="#FFFFFF" points="70.993,60.347 153.398,102.384 70.993,144.42   "/>
+</svg>
+<svg x="0" y="0" width="0" height="0">
+  <defs>
+    <clipPath id="clipper">
+      <circle cx="100" cy="100" r="93" />
+    </clipPath>
+    <radialGradient id="ripple">
+      <stop offset="0%" stop-color="#000" stop-opacity="0.25">
+        <animate attributeName="offset" values="0;0.70" begin="0.2s" dur="2.1s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="5%" stop-color="#888" stop-opacity="0.35">
+        <animate attributeName="offset" values="0.05;0.75" begin="0" dur="2.1s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="10%" stop-color="#000" stop-opacity="0.25">
+        <animate attributeName="offset" values="0.10;1" begin="0" dur="2.1s" repeatCount="indefinite" />
+      </stop>
+    </radialGradient>
+  </defs>
+</svg>
+</div>
+</a>
+<div class='player-hero__early-request'>
+<div class='player-hero__early-request__content'>
+Loading&hellip;
+</div>
+</div>
+<div class='player-hero__tools'>
+<div class='player-hero__tools__list'>
+<div class='player-hero__tools__list__actions module'>
+<a class='player-hero__tools__tool watch-later-button' href='#' id='player-hero-wl' role='button'>
+<i class="icon icon_circle-watchlater player-hero__tools__icon watch-later-button__icon"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+<a class='player-hero__tools__tool favorite-button' href='#' id='player-hero-favorite' role='button'>
+<i class="icon icon_circle-favorite player-hero__tools__icon favorite-button__icon"></i>
+<span class='favorite-button__label'>
+Favorite
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class='player-hero__details playlist-hero__details'>
+<div class='player-hero__details__table player-hero__details__image'>
+<div class='player-hero__details__cell'>
+<a class='play-button' href='#' onclick='playerHeroPlay()' ontouchend='playerHeroPlay()'>
+<img class='player-hero__details__image__content' src='https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/take_charge_of_your_healthcare.jpg?quality=89&amp;w=500'>
+</a>
+</div>
+</div>
+<div class='player-hero__details__table'>
+<div class='player-hero__details__cell'>
+<h1>
+<div class='playlist-hero__preable'>
+Playlist
+(10 talks)
+</div>
+<div class='player-hero__title playlist-hero__title'>
+Take charge of your health care
+</div>
+</h1>
+<div class='playlist-hero__description'>
+You may be the patient. But that doesn’t mean you shouldn’t be an active participant in getting the best possible care.
+</div>
+<ul class='sl show-lg playlist-hero__tools'>
+<li class='playlist-hero__tool playlist-hero__tool--play'>
+<a class='play-button playlist-hero__tool__link' href='#' onclick='playerHeroPlay()' ontouchend='playerHeroPlay()'>
+<div class='playlist-hero__button'><i class="icon icon_circle-play playlist-hero__button__icon playlist-hero__button__icon--flat"></i><i class='icon playlist-hero__button__icon playlist-hero__button__icon--animated'>
+<svg width="70" height="70" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clipper">
+      <circle cx="256" cy="256" r="246" />
+    </clipPath>
+
+    <linearGradient id="shimmer" x1="0" x2="100%" y1="0" y2="40%">
+      <stop offset="0%" stop-color="#222">
+        <animate attributeName="offset" values="0;0;0.7" begin="0" dur="2s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="15%" stop-color="#666">
+        <animate attributeName="offset" values="0.15;0.15;0.85" begin="0" dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="30%" stop-color="#222">
+        <animate attributeName="offset" values="0.3;0.3;1" begin="0" dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#222"></stop>
+    </linearGradient>
+  </defs>
+
+  <circle clip-path="url(#clipper)" fill="url(#shimmer)" cx="256" cy="256" r="512" fill-opacity="0.33" />
+  <path fill="#FFFFFF" d="M255.99 12C121.247 12 12 121.247 12 256s109.247 244 243.99 244C390.753 500 500 390.753 500 256S390.753 12 255.99 12zm0 464.203c-121.597 0-220.193-98.597-220.193-220.203 0-121.617 98.597-220.192 220.193-220.192 121.627 0 220.213 98.576 220.213 220.192 0 121.606-98.586 220.203-220.213 220.203z" />
+  <path fill="#FFFFFF" d="M172.91 144.972l221.19 111.03L172.91 367.03V144.972z" />
+</svg>
+</i></div>
+<span class='play-button__label'>Watch now</span>
+</a>
+</li>
+<li class='playlist-hero__tool'>
+<a class='watch-later-button playlist-hero__tool__link' href='#' id='playlist-hero-wl'>
+<i class="icon icon_circle-watchlater playlist-hero__tool__icon watch-later-button__icon"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+</li>
+<li class='playlist-hero__tool'>
+<a class='favorite-button playlist-hero__tool__link' href='#' id='playlist-hero-favorite'>
+<i class="icon icon_circle-favorite playlist-hero__tool__icon favorite-button__icon"></i>
+<span class='favorite-button__label'>
+Favorite
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+<div class='controls--maxi'></div>
+</div>
+
+<div class='container'>
+<div class='playlist-top'>
+<div class='playlist-sharing'>
+<ul class='icon-belt'>
+<li class='icon-belt__item'>
+<span class='talk-sharing__label talk-sharing__label--cta show-lg'>
+<span class='talk-sharing__label__block'>
+Share this
+</span>
+<span class='talk-sharing__label__block'>
+playlist
+</span>
+</span>
+</li>
+<li class='icon-belt__item icon-belt__item--twitter'>
+<a class='icon-belt__link playlist-sharing__link ga-link' data-service-label='Twitter' data-service-name='twitter' href='//twitter.com/intent/tweet?url=http%3A%2F%2Fwww.ted.com%2Fplaylists%2F199%2Ftake_charge_of_your_healthcare&amp;text=Take%20charge%20of%20your%20health%20care' target='_blank'>
+<i class="icon icon_circle-twitter-fill " title="Share on Twitter"></i><span class="screen-reader-text">Share on Twitter</span>
+</a>
+</li>
+<li class='icon-belt__item icon-belt__item--facebook'>
+<a class='icon-belt__link playlist-sharing__link ga-link' data-service-label='Facebook' data-service-name='facebook' href='//www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.ted.com%2Fplaylists%2F199%2Ftake_charge_of_your_healthcare' target='_blank'>
+<i class="icon icon_circle-facebook-fill " title="Share via Facebook"></i><span class="screen-reader-text">Share via Facebook</span>
+</a>
+</li>
+<li class='icon-belt__item'>
+<a class='icon-belt__link playlist-sharing__link ga-link' data-service-label='Email' data-service-name='email' href='//api.addthis.com/oexchange/0.8/forward/email/offer?url=http%3A%2F%2Fwww.ted.com%2Fplaylists%2F199%2Ftake_charge_of_your_healthcare&amp;title=Take%20charge%20of%20your%20health%20care' target='_blank'>
+<i class="icon icon_circle-email-fill " title="Share by Email"></i><span class="screen-reader-text">Share by Email</span>
+</a>
+</li>
+<li class='icon-belt__item'>
+<a class='icon-belt__link' href='#' id='sharing-other'>
+<i class="icon icon_circle-more-fill "></i><span class="screen-reader-text">Other sharing services</span>
+</a>
+</li>
+</ul>
+</div>
+
+<div id='sponsorship-bug-placeholder'>
+<script>
+  g('ads.createCompanionSlot', {
+    adUnit:      "/5641/ted2/playlists",
+    containerId: "sponsorship-bug-placeholder",
+    key:         "bug",
+    size:        [[120,60]],
+    targeting:   {}
+  });
+</script>
+
+</div>
+</div>
+</div>
+<div class='container'>
+<div class='row'>
+<div class='col-lg-8'>
+<h2 class='playlist-title'>
+Playlist (10 talks):
+Take charge of your health care
+</h2>
+<ul class='playlist-talks' id='playlist'>
+<li class='playlist-talks__talk' data-talk-id='1711' id='talk-1711'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/eric_dishman_health_care_should_be_a_team_sport' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="959" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/c0694f2a60d1de3e606ab3c8f368ef037b39766d_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">15:59</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/eric_dishman" target="_blank">Eric Dishman</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/eric_dishman_health_care_should_be_a_team_sport' target='_blank'>
+Health care should be a team sport
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+When Eric Dishman was in college, doctors told him he had 2 to 3 years to live. That was a long time ago. Now, Dishman puts his experience and his expertise as a medical tech specialist together to suggest a bold idea for reinventing health care — by putting the patient at the center of a treatment team.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/eric_dishman_health_care_should_be_a_team_sport' target='_blank'>
+<span>
+106 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='2076' id='talk-2076'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/rishi_manchanda_what_makes_us_get_sick_look_upstream' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="1093" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/9238ca0d06f68e5d8127c5c0236ea4d5ae8ea55d_2400x1800.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">18:13</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/rishi_manchanda" target="_blank">Rishi Manchanda</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/rishi_manchanda_what_makes_us_get_sick_look_upstream' target='_blank'>
+What makes us get sick? Look upstream
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Rishi Manchanda has worked as a doctor in South Central Los Angeles for a decade, where he’s come to realize: His job isn’t just about treating a patient’s symptoms, but about getting to the root cause of what is making them ill—the “upstream" factors like a poor diet, a stressful job, a lack of fresh air. It’s a powerful call for doctors to pay attention to a patient's life outside the exam room.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/rishi_manchanda_what_makes_us_get_sick_look_upstream' target='_blank'>
+<span>
+74 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='1181' id='talk-1181'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/dave_debronkart_meet_e_patient_dave' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="991" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/f88e5356ce534bda61de99617beaaebce332c71a_800x600.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">16:31</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/dave_debronkart" target="_blank">Dave deBronkart</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/dave_debronkart_meet_e_patient_dave' target='_blank'>
+Meet e-Patient Dave
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+When Dave deBronkart learned he had a rare and terminal cancer, he turned to a group of fellow patients online — and found the medical treatment that saved his life. Now he calls on all patients to talk with one another, know their own health data, and make health care better one e-Patient at a time.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/dave_debronkart_meet_e_patient_dave' target='_blank'>
+<span>
+196 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='2056' id='talk-2056'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/talithia_williams_own_your_body_s_data' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="1023" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/afc9b259845ec1b543419871e10753d4d9044fda_2400x1800.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">17:03</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/talithia_williams" target="_blank">Talithia Williams</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/talithia_williams_own_your_body_s_data' target='_blank'>
+Own your body's data
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+The new breed of high-tech self-monitors (measuring heartrate, sleep, steps per day) might seem targeted at competitive athletes. But Talithia Williams, a statistician, makes a compelling case that all of us should be measuring and recording simple data about our bodies every day — because our own data can reveal much more than even our doctors may know.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/talithia_williams_own_your_body_s_data' target='_blank'>
+<span>
+62 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='1661' id='talk-1661'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/lee_cronin_print_your_own_medicine' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="186" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/d6b7bdd5b7a67e79bf003753a9b550c4fae59531_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">03:06</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/lee_cronin" target="_blank">Lee Cronin</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/lee_cronin_print_your_own_medicine' target='_blank'>
+Print your own medicine
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Chemist Lee Cronin is working on a 3D printer that, instead of objects, is able to print molecules. An exciting potential long-term application: printing your own medicine using chemical inks.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/lee_cronin_print_your_own_medicine' target='_blank'>
+<span>
+198 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='759' id='talk-759'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/jamie_heywood_the_big_idea_my_brother_inspired' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="1014" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/146160_800x600.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">16:54</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/jamie_heywood" target="_blank">Jamie Heywood</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/jamie_heywood_the_big_idea_my_brother_inspired' target='_blank'>
+The big idea my brother inspired
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+When Jamie Heywood's brother was diagnosed with ALS, he devoted his life to fighting the disease as well. The Heywood brothers built an ingenious website where people share and track data on their illnesses — and they discovered that the collective data had enormous power to comfort, explain and predict.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/jamie_heywood_the_big_idea_my_brother_inspired' target='_blank'>
+<span>
+95 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='1359' id='talk-1359'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/lucien_engelen_crowdsource_your_health' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="372" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/e90b5747445db650e2f003d6d52cbeccafa0852c_800x600.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">06:12</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/lucien_engelen" target="_blank">Lucien Engelen</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/lucien_engelen_crowdsource_your_health' target='_blank'>
+Crowdsource your health
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+You can use your smartphone to find a local ATM, but what if you need a defibrillator? Lucien Engelen shows us online innovations that are changing the way we save lives, including a crowdsourced map of local defibrillators.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/lucien_engelen_crowdsource_your_health' target='_blank'>
+<span>
+42 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='1419' id='talk-1419'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/tal_golesworthy_how_i_repaired_my_own_heart' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="794" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/55d3e2b1e1eab39cda812f1d03d5d0de30d8700e_800x600.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:14</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/tal_golesworthy" target="_blank">Tal Golesworthy</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/tal_golesworthy_how_i_repaired_my_own_heart' target='_blank'>
+How I repaired my own heart
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Tal Golesworthy is a boiler engineer — he knows piping and plumbing. When he needed surgery to repair a life-threatening problem with his aorta, he mixed his engineering skills with his doctors' medical knowledge to design a better repair job.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/tal_golesworthy_how_i_repaired_my_own_heart' target='_blank'>
+<span>
+142 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='1585' id='talk-1585'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/john_wilbanks_let_s_pool_our_medical_data' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="985" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/ee7314164d2ba80271cd05a8ab1f5deeb29c7f90_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">16:25</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/john_wilbanks" target="_blank">John Wilbanks</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/john_wilbanks_let_s_pool_our_medical_data' target='_blank'>
+Let's pool our medical data
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+When you're getting medical treatment, or taking part in medical testing, privacy is important; strict laws limit what researchers can see and know about you. But what if your medical data could be used — anonymously — by anyone seeking to test a hypothesis? John Wilbanks wonders if the desire to protect our privacy is slowing research, and if opening up medical data could lead to a wave of health care innovation.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/john_wilbanks_let_s_pool_our_medical_data' target='_blank'>
+<span>
+92 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='1910' id='talk-1910'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/paula_johnson_his_and_hers_healthcare' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="882" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/c0695fc0aa70c576b970a4d205d2fa22aed16415_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">14:42</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/paula_johnson" target="_blank">Paula Johnson</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/paula_johnson_his_and_hers_healthcare' target='_blank'>
+His and hers … healthcare
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Every cell in the human body has a sex, which means that men and women are different right down to the cellular level. Yet too often, research and medicine ignore this insight — and the often startlingly different ways in which the two sexes respond to disease or treatment. As pioneering doctor Paula Johnson describes in this thought-provoking talk, lumping everyone in together means we essentially leave women's health to chance. It's time to rethink.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/paula_johnson_his_and_hers_healthcare' target='_blank'>
+<span>
+113 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+
+</div>
+<div class='col-lg-4'>
+<div class='talk-ad' id='ad-unit'>
+<script>
+  g('ads.createCompanionSlot', {
+    adUnit:      "/5641/ted2/playlists",
+    containerId: "ad-unit",
+    key:         "companion",
+    size:        [[300,250]],
+    targeting:   {}
+  });
+</script>
+
+</div>
+<div class='playlist-ad' id='ad-unit-mobile'></div>
+<div class='playlist-suggestions'>
+<h3 class='h8 m3'>Playlists to watch&hellip;</h3>
+<ul class='sl playlist-suggestions__list row'>
+<li class='playlist-suggestions__item col-sm-6'>
+<a class='playlist-suggestion media media--lg-v' data-ga-category='playlist.relatedPlaylist' href='/playlists/315/talks_to_help_you_manage_stres'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class="playlist-suggestion__image thumb__image" play="false" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/help_manage_stress.jpg?w=160" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<div class='p4'>Playlist</div>
+<h4 class='h9'>Talks to help you manage stress</h4>
+<div class='meta'>5 talks</div>
+</div>
+</a>
+</li>
+<li class='playlist-suggestions__item col-sm-6'>
+<a class='playlist-suggestion media media--lg-v' data-ga-category='playlist.relatedPlaylist' href='/playlists/208/10_ideas_for_ending_hiv_aids'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class="playlist-suggestion__image thumb__image" play="false" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/10_ideas_to_end_hiv_aids.jpg?w=160" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<div class='p4'>Playlist</div>
+<h4 class='h9'>11 ideas for ending HIV/AIDS</h4>
+<div class='meta'>11 talks</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<ul class='sl playlist-suggestions__list row'>
+<li class='playlist-suggestions__item col-sm-6'>
+<a class='playlist-suggestion media media--lg-v' data-ga-category='playlist.relatedPlaylist' href='/playlists/313/talks_to_help_you_find_your_pu'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class="playlist-suggestion__image thumb__image" play="false" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/find_your_purpose.jpg?w=160" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<div class='p4'>Playlist</div>
+<h4 class='h9'>Talks to help you find your purpose</h4>
+<div class='meta'>7 talks</div>
+</div>
+</a>
+</li>
+<li class='playlist-suggestions__item col-sm-6'>
+<a class='playlist-suggestion media media--lg-v' data-ga-category='playlist.relatedPlaylist' href='/playlists/312/weird_facts_about_the_human_bo'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class="playlist-suggestion__image thumb__image" play="false" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/weird_facts_about_the_body.jpg?w=160" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<div class='p4'>Playlist</div>
+<h4 class='h9'>Weird facts about the human body</h4>
+<div class='meta'>13 talks</div>
+</div>
+</a>
+</li>
+</ul>
+<a class='l1' href='/playlists'>Browse more playlists</a>
+
+</div>
+</div>
+</div>
+<div id='master-gpt' style='height:0'>
+<script>
+  g('ads.displayMasterAd', {
+    adUnit:      "/5641/ted2/playlists",
+    containerId: "master-gpt",
+    targeting:   {"playlist":"take_charge_of_your_healthcare","id":1711,"talk":"eric_dishman_health_care_should_be_a_team_sport","tag":"health care,heart health,technology","year":"2013","event":"TED@Intel"}
+  });
+</script>
+</div>
+
+<script>q("permalink.init",{"playlist":{"id":199,"share":"http://www.ted.com/playlists/199/take_charge_of_your_healthcare","title":"Take charge of your health care","duration":8299,"curator":"","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/take_charge_of_your_healthcare.jpg?quality=89\u0026w=160","slug":"take_charge_of_your_healthcare"},"talks":[{"id":1711,"duration":959,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/EricDishman_2013S-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2013S/Blank/EricDishman_2013S-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2013S/Blank/EricDishman_2013S-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2013S/Blank/EricDishman_2013S-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2013S/Blank/EricDishman_2013S-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2013S/Blank/EricDishman_2013S-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2013S/Blank/EricDishman_2013S-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2013S/Blank/EricDishman_2013S-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTED%40Intel%26id%3D1711%26tag%3Dhealth%2Bcare%2Cheart%2Bhealth%2Ctechnology%26talk%3Deric_dishman_health_care_should_be_a_team_sport%26year%3D2013\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/1711.m3u8","metadata":"https://hls.ted.com/talks/1711.json"}},"targeting":{"id":1711,"talk":"eric_dishman_health_care_should_be_a_team_sport","tag":"health care,heart health,technology","year":"2013","event":"TED@Intel"},"canonical":"http://www.ted.com/talks/eric_dishman_health_care_should_be_a_team_sport","external":null,"name":"Eric Dishman: Health care should be a team sport","title":"Health care should be a team sport","speaker":"Eric Dishman","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/c0694f2a60d1de3e606ab3c8f368ef037b39766d_1600x1200.jpg?quality=89\u0026w=600","slug":"eric_dishman_health_care_should_be_a_team_sport","event":"TED@Intel","filmed":1364342400,"published":1365692066},{"id":2076,"duration":1093,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/RishiManchanda_2014S-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2014S/Blank/RishiManchanda_2014S-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2014S/Blank/RishiManchanda_2014S-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2014S/Blank/RishiManchanda_2014S-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2014S/Blank/RishiManchanda_2014S-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2014S/Blank/RishiManchanda_2014S-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2014S/Blank/RishiManchanda_2014S-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2014S/Blank/RishiManchanda_2014S-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDSalon%2BNY2014%26id%3D2076%26tag%3Dhealth%2Chealth%2Bcare%26talk%3Drishi_manchanda_what_makes_us_get_sick_look_upstream%26year%3D2014\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/2076.m3u8","metadata":"https://hls.ted.com/talks/2076.json"}},"targeting":{"id":2076,"talk":"rishi_manchanda_what_makes_us_get_sick_look_upstream","tag":"health,health care","year":"2014","event":"TEDSalon NY2014"},"canonical":"http://www.ted.com/talks/rishi_manchanda_what_makes_us_get_sick_look_upstream","external":null,"name":"Rishi Manchanda: What makes us get sick? Look upstream","title":"What makes us get sick? Look upstream","speaker":"Rishi Manchanda","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/9238ca0d06f68e5d8127c5c0236ea4d5ae8ea55d_2400x1800.jpg?quality=89\u0026w=600","slug":"rishi_manchanda_what_makes_us_get_sick_look_upstream","event":"TEDSalon NY2014","filmed":1407369600,"published":1410793203},{"id":1181,"duration":991,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bengali","endonym":"বাংলা","languageCode":"bn","ianaCode":"bn","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/DavedeBronkart_2010X-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2010X/Blank/DavedeBronkart_2010X-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2010X/Blank/DavedeBronkart_2010X-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2010X/Blank/DavedeBronkart_2010X-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2010X/Blank/DavedeBronkart_2010X-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2010X/Blank/DavedeBronkart_2010X-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2010X/Blank/DavedeBronkart_2010X-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2010X/Blank/DavedeBronkart_2010X-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDxMaastricht%26id%3D1181%26tag%3DTEDx%2Ccollaboration%2Cculture%2Cdata%2Chealth%2Bcare%2Cscience%2Ctechnology%26talk%3Ddave_debronkart_meet_e_patient_dave%26year%3D2011\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/1181.m3u8","metadata":"https://hls.ted.com/talks/1181.json"}},"targeting":{"id":1181,"talk":"dave_debronkart_meet_e_patient_dave","tag":"TEDx,collaboration,culture,data,health care,science,technology","year":"2011","event":"TEDxMaastricht"},"canonical":"http://www.ted.com/talks/dave_debronkart_meet_e_patient_dave","external":null,"name":"Dave deBronkart: Meet e-Patient Dave","title":"Meet e-Patient Dave","speaker":"Dave deBronkart","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/f88e5356ce534bda61de99617beaaebce332c71a_800x600.jpg?quality=89\u0026w=600","slug":"dave_debronkart_meet_e_patient_dave","event":"TEDxMaastricht","filmed":1301875200,"published":1309363260},{"id":2056,"duration":1023,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/TalithiaWilliams_2014X-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2014X/Blank/TalithiaWilliams_2014X-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2014X/Blank/TalithiaWilliams_2014X-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2014X/Blank/TalithiaWilliams_2014X-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2014X/Blank/TalithiaWilliams_2014X-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2014X/Blank/TalithiaWilliams_2014X-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2014X/Blank/TalithiaWilliams_2014X-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2014X/Blank/TalithiaWilliams_2014X-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDxClaremontColleges%26id%3D2056%26tag%3DTEDx%2Cdata%2Chealth%2Cheart%2Bhealth%2Cstatistics%26talk%3Dtalithia_williams_own_your_body_s_data%26year%3D2014\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/2056.m3u8","metadata":"https://hls.ted.com/talks/2056.json"}},"targeting":{"id":2056,"talk":"talithia_williams_own_your_body_s_data","tag":"TEDx,data,health,heart health,statistics","year":"2014","event":"TEDxClaremontColleges"},"canonical":"http://www.ted.com/talks/talithia_williams_own_your_body_s_data","external":null,"name":"Talithia Williams: Own your body's data","title":"Own your body's data","speaker":"Talithia Williams","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/afc9b259845ec1b543419871e10753d4d9044fda_2400x1800.jpg?quality=89\u0026w=600","slug":"talithia_williams_own_your_body_s_data","event":"TEDxClaremontColleges","filmed":1392163200,"published":1407769811},{"id":1661,"duration":186,"languages":[{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Burmese","endonym":"မြန်မာဘာသာ","languageCode":"my","ianaCode":"my","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Chinese, Yue","endonym":"中文 (粵語)","languageCode":"zh","ianaCode":"zh","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Mongolian","endonym":"Монгол","languageCode":"mn","ianaCode":"mn","isRtl":false},{"languageName":"Norwegian Bokmal","endonym":"Norsk bokmål","languageCode":"nb","ianaCode":"nb","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Slovenian","endonym":"Slovenščina","languageCode":"sl","ianaCode":"sl","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/LeeCronin_2012G-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2012G/Blank/LeeCronin_2012G-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2012G/Blank/LeeCronin_2012G-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2012G/Blank/LeeCronin_2012G-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2012G/Blank/LeeCronin_2012G-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2012G/Blank/LeeCronin_2012G-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2012G/Blank/LeeCronin_2012G-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2012G/Blank/LeeCronin_2012G-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDGlobal%2B2012%26id%3D1661%26tag%3Dchemistry%2Chealth%2Bcare%2Cmedical%2Bresearch%2Cmedicine%2Cscience%26talk%3Dlee_cronin_print_your_own_medicine%26year%3D2012\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/1661.m3u8","metadata":"https://hls.ted.com/talks/1661.json"}},"targeting":{"id":1661,"talk":"lee_cronin_print_your_own_medicine","tag":"chemistry,health care,medical research,medicine,science","year":"2012","event":"TEDGlobal 2012"},"canonical":"http://www.ted.com/talks/lee_cronin_print_your_own_medicine","external":null,"name":"Lee Cronin: Print your own medicine","title":"Print your own medicine","speaker":"Lee Cronin","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/d6b7bdd5b7a67e79bf003753a9b550c4fae59531_1600x1200.jpg?quality=89\u0026w=600","slug":"lee_cronin_print_your_own_medicine","event":"TEDGlobal 2012","filmed":1340668800,"published":1360252949},{"id":759,"duration":1014,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/JamieHeywood_2009P-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2009P/Blank/JamieHeywood_2009P-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2009P/Blank/JamieHeywood_2009P-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2009P/Blank/JamieHeywood_2009P-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2009P/Blank/JamieHeywood_2009P-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2009P/Blank/JamieHeywood_2009P-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2009P/Blank/JamieHeywood_2009P-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2009P/Blank/JamieHeywood_2009P-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDMED%2B2009%26id%3D759%26tag%3Dcollaboration%2Ccommunity%2Centrepreneur%2Chealth%2Chealth%2Bcare%2Cmedia%2Cmedicine%26talk%3Djamie_heywood_the_big_idea_my_brother_inspired%26year%3D2009\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/759.m3u8","metadata":"https://hls.ted.com/talks/759.json"}},"targeting":{"id":759,"talk":"jamie_heywood_the_big_idea_my_brother_inspired","tag":"collaboration,community,entrepreneur,health,health care,media,medicine","year":"2009","event":"TEDMED 2009"},"canonical":"http://www.ted.com/talks/jamie_heywood_the_big_idea_my_brother_inspired","external":null,"name":"Jamie Heywood: The big idea my brother inspired","title":"The big idea my brother inspired","speaker":"Jamie Heywood","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/146160_800x600.jpg?quality=89\u0026w=600","slug":"jamie_heywood_the_big_idea_my_brother_inspired","event":"TEDMED 2009","filmed":1255171140,"published":1265103420},{"id":1359,"duration":372,"languages":[{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"French (Canada)","endonym":"Français canadien","languageCode":"fr-ca","ianaCode":"fr-CA","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/LucienEngelen_2011X-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2011X/Blank/LucienEngelen_2011X-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2011X/Blank/LucienEngelen_2011X-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2011X/Blank/LucienEngelen_2011X-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2011X/Blank/LucienEngelen_2011X-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2011X/Blank/LucienEngelen_2011X-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2011X/Blank/LucienEngelen_2011X-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2011X/Blank/LucienEngelen_2011X-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDxMaastricht%26id%3D1359%26tag%3DTEDx%2Chealth%2Chealth%2Bcare%2Cmedicine%2Cpublic%2Bhealth%2Ctechnology%26talk%3Dlucien_engelen_crowdsource_your_health%26year%3D2011\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/1359.m3u8","metadata":"https://hls.ted.com/talks/1359.json"}},"targeting":{"id":1359,"talk":"lucien_engelen_crowdsource_your_health","tag":"TEDx,health,health care,medicine,public health,technology","year":"2011","event":"TEDxMaastricht"},"canonical":"http://www.ted.com/talks/lucien_engelen_crowdsource_your_health","external":null,"name":"Lucien Engelen: Crowdsource your health","title":"Crowdsource your health","speaker":"Lucien Engelen","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/e90b5747445db650e2f003d6d52cbeccafa0852c_800x600.jpg?quality=89\u0026w=600","slug":"lucien_engelen_crowdsource_your_health","event":"TEDxMaastricht","filmed":1301875200,"published":1329322072},{"id":1419,"duration":794,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"French (Canada)","endonym":"Français canadien","languageCode":"fr-ca","ianaCode":"fr-CA","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Slovenian","endonym":"Slovenščina","languageCode":"sl","ianaCode":"sl","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/TalGolesworthy_2011X-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2011X/Blank/TalGolesworthy_2011X-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2011X/Blank/TalGolesworthy_2011X-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2011X/Blank/TalGolesworthy_2011X-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2011X/Blank/TalGolesworthy_2011X-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2011X/Blank/TalGolesworthy_2011X-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2011X/Blank/TalGolesworthy_2011X-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2011X/Blank/TalGolesworthy_2011X-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDxKrakow%26id%3D1419%26tag%3DTEDx%2Cengineering%2Chealth%2Cheart%2Bhealth%2Cinnovation%2Cmedicine%2Cscience%2Ctechnology%26talk%3Dtal_golesworthy_how_i_repaired_my_own_heart%26year%3D2011\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/1419.m3u8","metadata":"https://hls.ted.com/talks/1419.json"}},"targeting":{"id":1419,"talk":"tal_golesworthy_how_i_repaired_my_own_heart","tag":"TEDx,engineering,health,heart health,innovation,medicine,science,technology","year":"2011","event":"TEDxKrakow"},"canonical":"http://www.ted.com/talks/tal_golesworthy_how_i_repaired_my_own_heart","external":null,"name":"Tal Golesworthy: How I repaired my own heart","title":"How I repaired my own heart","speaker":"Tal Golesworthy","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/55d3e2b1e1eab39cda812f1d03d5d0de30d8700e_800x600.jpg?quality=89\u0026w=600","slug":"tal_golesworthy_how_i_repaired_my_own_heart","event":"TEDxKrakow","filmed":1318291200,"published":1334242836},{"id":1585,"duration":985,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/JohnWilbanks_2012G-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2012G/Blank/JohnWilbanks_2012G-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2012G/Blank/JohnWilbanks_2012G-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2012G/Blank/JohnWilbanks_2012G-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2012G/Blank/JohnWilbanks_2012G-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2012G/Blank/JohnWilbanks_2012G-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2012G/Blank/JohnWilbanks_2012G-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2012G/Blank/JohnWilbanks_2012G-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDGlobal%2B2012%26id%3D1585%26tag%3Dhealth%2Chealth%2Bcare%2Cmedical%2Bresearch%2Copen-source%26talk%3Djohn_wilbanks_let_s_pool_our_medical_data%26year%3D2012\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/1585.m3u8","metadata":"https://hls.ted.com/talks/1585.json"}},"targeting":{"id":1585,"talk":"john_wilbanks_let_s_pool_our_medical_data","tag":"health,health care,medical research,open-source","year":"2012","event":"TEDGlobal 2012"},"canonical":"http://www.ted.com/talks/john_wilbanks_let_s_pool_our_medical_data","external":null,"name":"John Wilbanks: Let's pool our medical data","title":"Let's pool our medical data","speaker":"John Wilbanks","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/ee7314164d2ba80271cd05a8ab1f5deeb29c7f90_1600x1200.jpg?quality=89\u0026w=600","slug":"john_wilbanks_let_s_pool_our_medical_data","event":"TEDGlobal 2012","filmed":1340928000,"published":1350399604},{"id":1910,"duration":882,"languages":[{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Belarusian","endonym":"Беларуская мова","languageCode":"be","ianaCode":"be","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Malay","endonym":"Bahasa melayu","languageCode":"ms","ianaCode":"ms","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Slovenian","endonym":"Slovenščina","languageCode":"sl","ianaCode":"sl","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/PaulaJohnson_2013W-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2013W/Blank/PaulaJohnson_2013W-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2013W/Blank/PaulaJohnson_2013W-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2013W/Blank/PaulaJohnson_2013W-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2013W/Blank/PaulaJohnson_2013W-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2013W/Blank/PaulaJohnson_2013W-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2013W/Blank/PaulaJohnson_2013W-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2013W/Blank/PaulaJohnson_2013W-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDWomen%2B2013%26id%3D1910%26tag%3Ddepression%2Chealth%2Cheart%2Bhealth%2Cwomen%26talk%3Dpaula_johnson_his_and_hers_healthcare%26year%3D2013\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/1910.m3u8","metadata":"https://hls.ted.com/talks/1910.json"}},"targeting":{"id":1910,"talk":"paula_johnson_his_and_hers_healthcare","tag":"depression,health,heart health,women","year":"2013","event":"TEDWomen 2013"},"canonical":"http://www.ted.com/talks/paula_johnson_his_and_hers_healthcare","external":null,"name":"Paula Johnson: His and hers … healthcare","title":"His and hers … healthcare","speaker":"Paula Johnson","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/c0695fc0aa70c576b970a4d205d2fa22aed16415_1600x1200.jpg?quality=89\u0026w=600","slug":"paula_johnson_his_and_hers_healthcare","event":"TEDWomen 2013","filmed":1386201600,"published":1390406834}]})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

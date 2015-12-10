@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Nancy Lublin: The heartbreaking text that inspired a crisis help line</title>
+  <description>When a young woman texted DoSomething.org with a heartbreaking cry for help, the organization responded by opening a nationwide Crisis Text Line to provide an outlet for people in pain. Nearly 10 million text messages later, the organization is using the privacy and power of text messaging to help people with issues such as addiction, suicidal thoughts, eating disorders, sexual abuse and more. The data collected in the process is reshaping policy and preparing schools and law enforcement to better handle spikes in crises.</description>
+  <url>http://www.ted.com/talks/nancy_lublin_the_heartbreaking_text_that_inspired_a_crisis_help_line</url>
+  <author-name>Nancy Lublin</author-name>
+  <author-url>http://www.ted.com/speakers/nancy_lublin</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/aee2635c7d5db1deb31ade002b452624b97eb2f3_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/nancy_lublin_the_heartbreaking_text_that_inspired_a_crisis_help_line.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

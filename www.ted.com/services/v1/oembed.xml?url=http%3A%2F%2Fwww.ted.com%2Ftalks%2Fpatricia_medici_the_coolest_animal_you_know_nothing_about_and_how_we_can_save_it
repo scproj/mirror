@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Patrícia Medici: The coolest animal you know nothing about ... and how we can save it</title>
+  <description>Although the tapir is one of the world's largest land mammals, the lives of these solitary, nocturnal creatures have remained a mystery. Known as "the living fossil," the very same tapir that roams the forests and grasslands of South America today arrived on the evolutionary scene more than 5 million years ago. But threats from poachers, deforestation and pollution, especially in quickly industrializing Brazil, threaten this longevity. In this insightful talk, conservation biologist, tapir expert and TED Fellow Patrícia Medici shares her work with these amazing animals and challenges us with a question: Do we want to be responsible for their extinction?</description>
+  <url>http://www.ted.com/talks/patricia_medici_the_coolest_animal_you_know_nothing_about_and_how_we_can_save_it</url>
+  <author-name>Patrícia Medici</author-name>
+  <author-url>http://www.ted.com/speakers/patricia_medici</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/ff10273d3267526af29d569f43ee24b92456a638_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/patricia_medici_the_coolest_animal_you_know_nothing_about_and_how_we_can_save_it.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

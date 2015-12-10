@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>About TEDxChange | TEDx Program | Programs &amp; Initiatives | About | TED</title>
+<meta content="About TEDxChange | TEDx Program | Programs &amp; Initiatives | About | TED" name="title" />
+<meta content="TED is a nonprofit devoted to Ideas Worth Spreading - through TED.com, our annual conferences, the annual TED Prize and local TEDx events." name="description" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<meta content="http://assets.tedcdn.com/images/ted_amp_network.gif" name="thumbnail" />
+<meta content="http://assets.tedcdn.com/images/ted_amp_network.gif" property="og:image" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="About TEDxChange | TEDx Program | Programs &amp; Initiatives | About | TED" property="og:title" />
+<meta content="TED is a nonprofit devoted to Ideas Worth Spreading - through TED.com, our annual conferences, the annual TED Prize and local TEDx events." property="og:description" />
+<meta content="http://www.ted.com/about/programs-initiatives/tedx-program/tedxchange" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/pages-ie.css?1449612282">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/pages.css?1449612282">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"Backbone":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","embed":"embed.js?23f83514c0a631545d35c263790da013","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","swatch":"swatch.js?af26d6cbf9673f6060dfc8b18154c39c","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","libs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","touchPunch":"touchPunch.js?47b6211b7aef9750ac4f6613a4256cc9","deferLink":"deferLink.js?e753127d1427d48d2dba8b3f593baec2","swfobject":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","dq":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","surprise_me":"surprise_me.js?07929707d7c91175cb34732107402b0b","jqueryujs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","SwipeView":"SwipeView.js?3d6ab40c7f02be91047f9e6802690af6","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Swipe":"Swipe.js?b746c9e9c38bd13ef622cfeed09ba6bf","Mailcheck":"Mailcheck.js?4752d459b0ac03f738bb7db1571d9a00","depot":"depot.js?6d97c6ff1eb27088493186e2db478ee0","ZeroClipboard":"ZeroClipboard.js?65f3b285606bcf3acd44bb2c25a6406d","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","pages":"pages.js?17cdddd45428c47b7469c56c84257ae1","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","hbs":"hbs.js?62ffd6dc422a088483ef7863de071d9e","talk":"talk.js?51221de80bbdf101073772b806dcd5d2","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","Cookies":"Cookies.js?ec959f431471b295566bcf6ad4298fcb","spinjs":"spinjs.js?0f67f5820075f88643c601a4284d14b2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","tedx":"tedx.js?27a3d0c882820e1a4ee6a7aad1d95d48","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","autosize":"autosize.js?c463a94f6da61cb86e53ea61dbcb6735","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","dashboard_hotels":"dashboard_hotels.js?d19435a801331067f5048d1c7b3bb747","crushinator":"crushinator.js?2b8d78a40a52bb661b0b4fcf32e166c9","home":"home.js?1241a7e9294d8677392f76b903746a75","settings":"settings.js?e3325b55ee4c74c02a9feaf0e5bcba53","moment":"moment.js?408f6a21d69b26bb98a3c705e51e7764","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","profiles":"profiles.js?456ec8e9c630a07c9b3a83c468f029c3","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","numeral":"numeral.js?611d7abced1fea00d28e10252bff308e","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","global":"global.js?a8f475509c478d1b04dd10477b2510e3","dashboard_sessions":"dashboard_sessions.js?ec189bd2ee9f9489834ccd2aee456c31","Modernizr":"Modernizr.js?8d4a21cfb9a3fcefdabddaac961016fe","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","menuAim":"menuAim.js?a94480af4d342b45c24626ac8f6a1f80","dashboard":"dashboard.js?286613b789f90d9c8b906950c59bfb05","pages/dynamic/dummy":"pages/dynamic/dummy.js?3967fae7f441a192ac0a2b697e4e7a3d","playlists":"playlists.js?bd6b90efccb6b196b5ce73684719c8c3","lodash":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","flot":"flot.js?cc487fa44adf9da4523f900fe26c7c0d","search":"search.js?06cfabf03223b309e632669510068bde","jquery":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","newsletter":"newsletter.js?51e416cf51603cd78b8ab750e35c8f5f","transit":"transit.js?1bb6034bee2f350ddcc3876a929ed54c","talks":"talks.js?d20a21859341240c8901c77effade7f8","waypoints":"waypoints.js?a6a99f3a64e668c5afdfe0aaa1245215","hbs/handlebars":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="pages"
+</script>
+<script async="async" data-main="pages" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612282"></script></head>
+<body class='pages-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main pages-main' role='main'>
+<!-- PB:T: two_column_75_25_left_nav -->
+<div class='container'>
+<div class='row'>
+<div class='col-lg-3'>
+<nav class='submenu' id='submenu'>
+<h3 class='submenu__heading'><a class='l3 submenu__link submenu__heading__link' href='/about/programs-initiatives/tedx-program'>TEDx Program</a></h3>
+<div class='submenu__lists'>
+<ul class='submenu__list'>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/about/programs-initiatives/tedx-program/tedx-in-the-developing-world">TEDx in the developing world
+</a><ul class='submenu__list'>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/about/programs-initiatives/tedx-program/tedx-in-the-developing-world/tedx-in-a-box">TEDx in a box
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/about/programs-initiatives/tedx-program/tedx-in-the-developing-world/tedxchange-scholarship">TEDxChange Scholarship
+</a></li>
+</ul>
+
+</li>
+<li class='submenu__item submenu__item--active'>
+<a class="l3 submenu__link" href="/about/programs-initiatives/tedx-program/tedxchange">TEDxChange
+</a><ul class='submenu__list'>
+</ul>
+
+</li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/about/programs-initiatives/tedx-program/tedx-for-sponsors">TEDx for sponsors
+</a></li>
+</ul>
+
+</div>
+</nav>
+<script>q("pages.submenu")</script>
+
+</div>
+<div class='col-lg-9 pages-content'>
+<div class='m1 module'>
+<nav class='breadcrumb m4 show-lg'>About&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;<a class="breadcrumb__link" href="/about/programs-initiatives" rel=" up up">Programs &amp; Initiatives</a>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;<a class="breadcrumb__link" href="/about/programs-initiatives/tedx-program" rel=" up">TEDx Program</a>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;</nav>
+
+<h1 class='h1 h1--alt m2'>
+About TEDxChange
+</h1>
+<!-- PB:B: copy --><div class='p2'>
+<p>TEDxChange is a yearly event hosted by the Bill and Melinda Gates Foundation that addresses themes of health and development. This year we are launching the TEDxChange Pilot Program. Twelve TEDx events from around the world will work together to curate their own TEDxChange sessions at their events. The topics will be vast - ranging from vaccines, polio, malaria, HIV/AIDS to maternal/newborn child health, education, and agricultural development.</p>
+
+</div>
+
+
+</div>
+
+<div class='row'>
+<div class='col col-lg-sidebarred'>
+<!-- PB:B: video --><h3 class="h4 m3">About TEDxChange and the Pilot Program </h3>
+<div class='pages-module pages-video-embed'>
+<div style='max-width:640px'>
+<div class='pages-video-embed__video'>
+<iframe allowFullScreen class='pages-video-embed__video__object' frameborder='0' src='//www.youtube.com/embed/zoBaQqSzNEM'></iframe>
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--tedxchange-pilot-program-talks">TEDxChange Pilot Program Talks 
+</h3>
+
+<!-- PB:B: copy --><div class='copy text-left'>
+<p>We encourage you to spread the spirit of TEDxChange to your local communities. Here are some ways you can share these ideas :</p>
+
+</div>
+
+
+
+<!-- PB:B: list --><ul class="pl"><li class='copy'>
+If you are a TEDx organizer, share the spirit of global change by <strong>playing a TEDxChange talk at your standard TEDx event</strong>!
+</li>
+<li class='copy'>
+If you are not a TEDx organizer, <strong>share TEDxChange talks with your networks</strong>, and engage them in discussion about the ideas that excite you. 
+</li>
+</ul>
+
+<!-- PB:B: copy --><div class='copy text-left'>
+<p>Here are some great TEDxChange talks to choose from:</p>
+
+</div>
+
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="/talks/meera_vijayann_find_your_voice_against_gender_violence"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/019/original/TEDx-change-find-your-voice.jpg?1420584146?w=320" alt="TEDxChange talk: Meera Vijayann" class="image"></a></h6>
+
+<h6 class="h12 m5">Meera Vijayann</h6>
+
+<h5 class="h10 m5"><a href="/talks/meera_vijayann_find_your_voice_against_gender_violence">Find your voice against gender violence</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=h5SZivUUGM4"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/020/original/TEDx-change-defeat-diseases-of-poverty.jpg?1420584511?w=320" alt="TEDxChange talk: Elisa Lopez Varela" class="image"></a></h6>
+
+<h6 class="h12 m5">Elisa Lopez Varela</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=h5SZivUUGM4">Science on the spot to defeat diseases of poverty</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=t83cGMe76tc"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/021/original/TEDx-change-child-poverty-in-Spain.gif?1420585434?w=320" alt="TEDxChange talk: Gonzalo Fanjul - The silent emergency of child poverty in Spain" class="image"></a></h6>
+
+<h6 class="h12 m5">Gonzalo Fanjul</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=t83cGMe76tc">The silent emergency of child poverty in Spain</a></h5>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=uf34p-QCNEQ"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/025/original/TEDx-change-My-story-for-vaccines.gif?1420653453?w=320" alt="TEDxChange talk: Utibe Effiong - My story for vaccines" class="image"></a></h6>
+
+<h6 class="h12 m5">Utibe Effiong</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=uf34p-QCNEQ">My story for vaccines</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=ylanF8FMJAM"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/026/original/TEDx-change-designing-for-real-life.gif?1420653553?w=320" alt="TEDxChange talk: Thomas Sutton - Closing the gap -- designing for real life" class="image"></a></h6>
+
+<h6 class="h12 m5">Thomas Sutton</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=ylanF8FMJAM">Closing the gap -- designing for real life</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=OJptdCCrcr4"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/027/original/TEDx-change-fight-against-AIDS.gif?1420653776?w=320" alt="TEDxChange talk: Carolin Silbernagl - Embedding the fight against AIDS into our daily digital life" class="image"></a></h6>
+
+<h6 class="h12 m5">Carolin Silbernagl</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=OJptdCCrcr4">Embedding the fight against AIDS into our daily digital life</a></h5>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=BQnOTJH3w4s"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/022/original/TEDx-change-another-Ibrahim.gif?1420652736?w=320" alt="TEDxChange talk: Bisi Alimi - There should never be another Ibrahim" class="image"></a></h6>
+
+<h6 class="h12 m5">Bisi Alimi</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=BQnOTJH3w4s">There should never be another Ibrahim</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=8yPQr12Bv8M"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/023/original/TEDx-change-Hope-and-impediments.gif?1420652921?w=320" alt="TEDxChange talk: Valentino Achak Deng - Hope and impediments" class="image"></a></h6>
+
+<h6 class="h12 m5">Valentino Achak Deng</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=8yPQr12Bv8M">Hope and impediments</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=kS_h-7wW9is"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/024/original/TEDx-change-phone-health.gif?1420653051?w=320" alt="TEDxChange talk: Isaac Holeman - A phone in the hand of every health worker" class="image"></a></h6>
+
+<h6 class="h12 m5">Isaac Holeman</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=kS_h-7wW9is">A phone in the hand of every health worker</a></h5>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=ULzzNEne63E&amp;index=1&amp;list=PLgYMbG1qZiZQktOD-6g7XseoWNa9miRcU"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/028/original/TEDx-change-Djantoli.gif?1420653939?w=320" alt="TEDxChange talk: Djantoli, une balance et un téléphone portable pour sauver des vies " class="image"></a></h6>
+
+<h6 class="h12 m5">Lucie de Clerck</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=ULzzNEne63E&amp;index=1&amp;list=PLgYMbG1qZiZQktOD-6g7XseoWNa9miRcU">Djantoli, une balance et un téléphone portable pour sauver des vies </a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=iIuoLXQBvSc&amp;list=PLgYMbG1qZiZQktOD-6g7XseoWNa9miRcU&amp;index=2"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/029/original/TEDx-change-Ideasbox.gif?1420654031?w=320" alt="TEDxChange talk: Ideasbox, remettre de la culture et de la vie dans les camps de réfugiés" class="image"></a></h6>
+
+<h6 class="h12 m5">Jérémy Lachal</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=iIuoLXQBvSc&amp;list=PLgYMbG1qZiZQktOD-6g7XseoWNa9miRcU&amp;index=2">Ideasbox, remettre de la culture et de la vie dans les camps de réfugiés</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=tTcrwOjAo30&amp;list=PLgYMbG1qZiZQktOD-6g7XseoWNa9miRcU&amp;index=3"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/030/original/TEDx-change-Comment.gif?1420654102?w=320" alt="TEDxChange talk: Comment un ver marin m’a révélé le secret du sang universel" class="image"></a></h6>
+
+<h6 class="h12 m5">Franck Zal</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=tTcrwOjAo30&amp;list=PLgYMbG1qZiZQktOD-6g7XseoWNa9miRcU&amp;index=3">Comment un ver marin m’a révélé le secret du sang universel</a></h5>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=706tS6pW0BA&amp;list=PLgYMbG1qZiZQktOD-6g7XseoWNa9miRcU&amp;index=4"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/031/original/TEDx-change-SIMPLON.gif?1420654226?w=320" alt="TEDxChange talk: SIMPLON, le code informatique pour révéler les talents" class="image"></a></h6>
+
+<h6 class="h12 m5">Erwan Kezzar</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=706tS6pW0BA&amp;list=PLgYMbG1qZiZQktOD-6g7XseoWNa9miRcU&amp;index=4">SIMPLON, le code informatique pour révéler les talents</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=GoqxIIdJsuQ&amp;index=5&amp;list=PLgYMbG1qZiZQktOD-6g7XseoWNa9miRcU"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/032/original/TEDx-change-Kinshasa.gif?1420654323?w=320" alt="TEDxChange talk: Des rues de Kinshasa aux tapis rouges des Oscars" class="image"></a></h6>
+
+<h6 class="h12 m5">Rachel Mwanza</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=GoqxIIdJsuQ&amp;index=5&amp;list=PLgYMbG1qZiZQktOD-6g7XseoWNa9miRcU">Des rues de Kinshasa aux tapis rouges des Oscars</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=0Lf6glgKt3Q"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/033/original/TEDx-change-iron-fish.gif?1420654415?w=320" alt="TEDxChange talk: The lucky iron fish" class="image"></a></h6>
+
+<h6 class="h12 m5">Dr. Christopher Charles</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=0Lf6glgKt3Q">The lucky iron fish</a></h5>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=eDUmE1X5sWM"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/273/original/TEDx-TEDxChange-PatrickNdimubanzi.jpg?1425572697?w=320" alt="TEDxChange talk: To build a country" class="image"></a></h6>
+
+<h6 class="h12 m5">Patrick Ndimubanzi</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=eDUmE1X5sWM">To build a country</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=2wD_VW7hHDY"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/272/original/TEDx-TEDxChange-FatimaBMuhammad.jpg?1425572670?w=320" alt="TEDxChange talk: Empowered women will change our world" class="image"></a></h6>
+
+<h6 class="h12 m5">Fatima B Muhammad</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=2wD_VW7hHDY">Empowered women will change our world</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=6GxLOzWmgsg"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/274/original/TEDx-TEDxChange-PaolaGianturco.jpg?1425572709?w=320" alt="TEDxChange talk: Women who light the dark" class="image"></a></h6>
+
+<h6 class="h12 m5">Paola Gianturco</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=6GxLOzWmgsg">Women who light the dark</a></h5>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=OWQfFZSdhFo"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/336/original/TEDx-TEDxChange-Mildred-Apenyo.jpg?1425932183?w=320" alt="TEDxChange talk: Women and Spaces" class="image"></a></h6>
+
+<h6 class="h12 m5">Mildred Apenyo</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=OWQfFZSdhFo">Women and Spaces</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=hUmFRwvnosc"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/337/original/TEDx-TEDxChange-Raymond-Besiga.jpg?1425932203?w=320" alt="TEDxChange talk: Technology and the sharing economy. An African perspective." class="image"></a></h6>
+
+<h6 class="h12 m5">Raymond Besiga</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=hUmFRwvnosc">Technology and the sharing economy. An African perspective.</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=EewDGvnzt8c"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/335/original/TEDx-TEDxChange-Irene-Ikomu.jpg?1425932167?w=320" alt="TEDxChange talk: Resolutions" class="image"></a></h6>
+
+<h6 class="h12 m5">Irene Ikomu</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=EewDGvnzt8c">Resolutions</a></h5>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=sza2Iw7vX0A"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/334/original/TEDx-TEDxChange-Gerald-Abila-.jpg?1425932149?w=320" alt="TEDxChange talk: Harnessing innovative technology to open access to law and justice." class="image"></a></h6>
+
+<h6 class="h12 m5">Gerald Abila</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=sza2Iw7vX0A">Harnessing innovative technology to open access to law and justice.</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=daYIu67BOYc"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/333/original/TEDx-TEDxChange-_Solomon-King.jpg?1425932123?w=320" alt="TEDxChange talk: Changing the Destiny of African Science Students through Robotics?" class="image"></a></h6>
+
+<h6 class="h12 m5">Solomon King</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=daYIu67BOYc">Changing the Destiny of African Science Students through Robotics?</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=79hznbVuegc"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/546/original/TEDx-TEDxChange-Stav.jpg?1430754183?w=320" alt="TEDxChange talk: What is your Moonshot" class="image"></a></h6>
+
+<h6 class="h12 m5">Gustav Praekelt</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=79hznbVuegc">What is your Moonshot</a></h5>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=Hc4_1K34Tp0"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/547/original/TEDx-TEDxChange-Mandy.jpg?1430754218?w=320" alt="TEDxChange talk: Building the next generation of Africa's women leaders" class="image"></a></h6>
+
+<h6 class="h12 m5">Mandy Pakkiri</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=Hc4_1K34Tp0">Building the next generation of Africa's women leaders</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=mvV5BJeDHmo"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/548/original/TEDx-TEDxChange-Judy.jpg?1430754243?w=320" alt="TEDxChange talk: Could a Mobile App help fight Ebola" class="image"></a></h6>
+
+<h6 class="h12 m5">Judy Hofmeyr</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=mvV5BJeDHmo">Could a Mobile App help fight EbolaTITLE</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=ueUijXlz-3w"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/549/original/TEDx-TEDxChange-Sisonke.jpg?1430754265?w=320" alt="TEDxChange talk: Mad at Mandela" class="image"></a></h6>
+
+<h6 class="h12 m5">Sisonke Msimang</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=ueUijXlz-3w">Mad at Mandela</a></h5>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=dWkFM-XCmVQ"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/552/original/TEDx-TEDxChange-Deckler.jpg?1431355117?w=320" alt="TEDxChange talk: Towards a more democratic architecture" class="image"></a></h6>
+
+<h6 class="h12 m5">Thorsten Deckler</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=dWkFM-XCmVQ">Towards a more democratic architecture</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=V35Vw29tay0"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/057/original/tedwalledcity_sangitavyas.jpg?1442341061?w=320" alt="TEDxChange talk: Sangita Vyas - The surprising truth of open defecation in India" class="image"></a></h6>
+
+<h6 class="h12 m5">Sangita Vyas</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=V35Vw29tay0">The surprising truth of open defecation in India</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=8cNoqu6pS3Q"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/059/original/tedxwalledcity_srinivaschary.jpg?1442341109?w=320" alt="TEDxChange talk: How handwashing can save 100,000 lives - Srinivas Chary" class="image"></a></h6>
+
+<h6 class="h12 m5">Srinivas Chary</h6>
+
+<h5 class="h10 m5"><a href="https://www.youtube.com/watch?v=8cNoqu6pS3Q">How handwashing can save 100,000 lives</a></h5>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=gM5humt3_3M"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/058/original/tedxwalledcity_kondavishweshwarreddy.jpg?1442341081?w=320" alt="TEDxChange talk: Konda Vishweshwar Reddy - The need for urgent innovation in WASH" class="image"></a></h6>
+
+<h6 class="h12 m5">Konda Vishweshwar Reddy</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=gM5humt3_3M">The need for urgent innovation in WASH</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=2tdDW9Pjbsk"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/096/original/tedxcwalledcity_talks_pb_salim.jpg?1444331026?w=320" alt="TEDxChange talk: P B Salim - Making India open defecation free - one district at a time" class="image"></a></h6>
+
+<h6 class="h12 m5">P B Salim</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=2tdDW9Pjbsk">Making India open defecation free - one district at a time</a></h5>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h6 class="h12 m5"><a href="http://www.youtube.com/watch?v=QKvyB-EWWQg"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/104/original/tedxchange_ashifshaikh.jpg?1445018189?w=320" alt="TEDxChange talk: India's inhuman practice of manual scavenging and untouchability - Ashif Shaikh" class="image"></a></h6>
+
+<h6 class="h12 m5">Ashif Shaikh</h6>
+
+<h5 class="h10 m5"><a href="http://www.youtube.com/watch?v=QKvyB-EWWQg">India's inhuman practice of manual scavenging and untouchability</a></h5>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: horizontal_rule --><hr class='pages-hr'>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+<h3 class="h4 m3">Organizers taking part in the Pilot Program</h3>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><p>These TEDx event organizers are piloting the TEDxChange Pilot Program in their communities. Visit their event pages to learn more. </p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/30576a2b27e0b9a2b6c295b1a7f2c1b2411344df_165x165.jpg?w=320" alt="TEDxChange organizer: Stephan Balzer" class="image"><br>
+<strong>Stephan Balzer</strong><br>
+<a href="/tedx/events/12160">TEDxBerlin</a></p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/f464d4da933fd2d591bda8070c25abca631d19b4_165x165.jpg?w=320" alt="TEDxChange organizer: Antonella Broglia" class="image"><br>
+<strong>Antonella Broglia</strong><br>
+<a href="/tedx/events/10739">TEDxMadrid</a></p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/3f547c484f75914ab3ba09b21048fce75763f47f_165x165.jpg?w=320" alt="TEDxChange organizer: Bruno Ruganzu" class="image"><br>
+<strong>Bruno Ruganzu</strong><br>
+<a href="/tedx/events/11456">TEDxKampala</a></p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/123ba8e1b6ed2159fe14b457b49e471cd916d63b_165x165.jpg?w=320" alt="TEDxChange organizer: Tom O'Leary" class="image"><br>
+<strong>Tom O'Leary</strong><br>
+<a href="/tedx/events/10532">TEDxHousesOf<br>
+Parliament</a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/b74affbc19db22ccb8956a8fbee6c895d21fb3fe_165x165.jpg?w=320" alt="TEDxChange organizer: Michel Levy-Provencal" class="image"><br>
+<strong>Michel Levy-Provencal</strong><br>
+<a href="/tedx/events/11360">TEDxParis</a></p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/d4567b004aece63419a0c245e815c8595ca7a388_165x165.jpg?w=320" alt="TEDxChange organizer: Natascia Radice" class="image"><br>
+<strong>Natascia Radice</strong><br>
+<a href="/tedx/groups/101">TEDxDubai</a></p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/da0253470ca26034a58f64e1666746e1c25aaa56_165x165.jpg?w=320" alt="TEDxChange organizer: Gaurav Gupta" class="image"><br>
+<strong>Gaurav Gupta</strong><br>
+<a href="/tedx/groups/941">TEDxWalledCity</a></p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/6c12a1407a6d97528fc52706cdf53f6aaaf63a14_165x165.jpg?w=320" alt="TEDxChange organizer: Nate Mook" class="image"><br>
+<strong>Nate Mook</strong><br>
+<a href="/tedx/events/12032">TEDxMidAtlantic</a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/210083_165x165.jpg?w=320" alt="TEDxChange organizer: Chikwe Ihekweazu" class="image"><br>
+<strong>Chikwe Ihekweazu</strong><br>
+<a href="/tedx/groups/276">TEDxEuston</a></p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/6616d5f9847bbd618da07994f68997dfee86633d_165x165.jpg?w=320" alt="TEDxChange organizer: James Flanagan" class="image"><br>
+<strong>James Flanagan</strong><br>
+<a href="/tedx/groups/136">TEDxBeijing</a></p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/bf72fb9c03732f426bab0ebd86485f52b6f74d62_165x165.jpg?w=320" alt="TEDxChange organizer: Kelo Kubu" class="image"><br>
+<strong>Kelo Kubu</strong><br>
+<a href="/tedx/events/11892">TEDxSoweto</a></p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/images.ted.com/images/ted/b11d1ce5c277a87d72043d437f8f9147b6d307b5_165x165.jpg?w=320" alt="TEDxChange organizer: Bruno Cheuiche Vieira da Cunha" class="image"><br>
+<strong>Bruno Cheuiche Vieira da Cunha</strong><br>
+<a href="/tedx/groups/1419">TEDxFloripa</a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+
+<p>We look forward to hearing all thoughts, questions and feedback as the TEDxChange Pilot Program develops. Please feel free to contact TEDx Global Partnerships Development with questions and comments at <a href="mailto:Felicity@ted.com">Felicity@ted.com</a>. </p>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class='col col-lg-sidebar'>
+<!-- PB:B: heading --><h4 class="h7 m5" id="h3--past-tedxchange-events">Past TEDxChange events
+</h4>
+
+<!-- PB:B: copy --><div class='clearfix'>
+<figure class='Figure Figure--left' style='max-width: 30%'>
+<a href="/about/programs-initiatives/tedx-program/tedxchange/tedxchange-2013" target="_self"><img alt='TEDxChange 2013 stage' class='Figure__image' src='//pb-assets.tedcdn.com/system/baubles/files/000/002/749/original/tedxchange_2013_stage.jpg?1438280188'>
+</a></figure>
+<div class='copy text-left'>
+<p><strong>TEDxChange 2013</strong> took place on April 3, 2013 at The Gates Foundation headquarters in Seattle, Washington. The event, themed “Positive Disruption,” invited speakers to discuss and explore fresh perspectives on global health, development and education. <strong><a href="/about/programs-initiatives/tedx-program/tedxchange/tedxchange-2013">Learn more</a></strong></p>
+
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

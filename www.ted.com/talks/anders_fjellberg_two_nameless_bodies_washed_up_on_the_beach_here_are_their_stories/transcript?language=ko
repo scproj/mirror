@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>앤더스 프젤버그: 해변에 쓸려온 이름 모르는 두 시신. 그 사연을 들려드립니다 | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="앤더스 프젤버그: 해변에 쓸려온 이름 모르는 두 시신. 그 사연을 들려드립니다 | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: 노르웨이와 네덜란드 해안에 같은 잠수복을 입은 두 구의 시신이 떠내려 왔을 때, 저널리스트 앤더스 프젤버그와 사진작가 톰 크리스챤슨이 이들이 누구였는지 조사하기 시작했습니다. 노르웨이의  “Dagbladet” 에 실린 보고 내용은 모두 이름과 사연이 있고 모든 사람은 특별한 사람이라는 것을 알게 해 줍니다." name="description" />
+<meta content="앤더스 프젤버그" name="author" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=lt" hreflang="lt" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript?language=uk" hreflang="uk" rel="alternate" />
+<meta content="Transcript of &quot;해변에 쓸려온 이름 모르는 두 시신. 그 사연을 들려드립니다&quot;" property="og:title" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/414f232fce96dc6a85d03cbab4eda2302ebbb675_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/414f232fce96dc6a85d03cbab4eda2302ebbb675_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: 노르웨이와 네덜란드 해안에 같은 잠수복을 입은 두 구의 시신이 떠내려 왔을 때, 저널리스트 앤더스 프젤버그와 사진작가 톰 크리스챤슨이 이들이 누구였는지 조사하기 시작했습니다. 노르웨이의  “Dagbladet” 에 실린 보고 내용은 모두 이름과 사연이 있고 모든 사람은 특별한 사람이라는 것을 알게 해 줍니다." property="og:description" />
+<meta content="http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk-ie.css?1449612281">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk.css?1449612281">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?372e9c1ad21862103d589d49af44d28b","Swipe":"Swipe.js?73df4e5005408bc203e969751fc55e26","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","tedx":"tedx.js?f71e6b01e6becadca27fe635865d10df","flot":"flot.js?f327c555b811f034d94bfac8b6931307","hbs":"hbs.js?e36c0e0e09a79031f61eb328fc4c5a7b","transit":"transit.js?68aa867b464466c3dc98c60e068b7f68","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","pages":"pages.js?1fc3f19849913b97ac49d754f65aec11","deferLink":"deferLink.js?7adfdb9374698e3ee45ae2f72a9554ff","libs":"libs.js?f72f9becee377a41f67a0821d60cbca5","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","jquery":"libs.js?f72f9becee377a41f67a0821d60cbca5","swfobject":"libs.js?f72f9becee377a41f67a0821d60cbca5","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","Mailcheck":"Mailcheck.js?e8314a0c5bb92079c911a261b2afb289","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","jqueryujs":"libs.js?f72f9becee377a41f67a0821d60cbca5","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","Backbone":"libs.js?f72f9becee377a41f67a0821d60cbca5","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","swatch":"swatch.js?afe36518ad071cd727e0d83732239cf1","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","search":"search.js?c35ef36e1163fdd700e9e4597c54670c","profiles":"profiles.js?97fae740b654fe9b080dc4f3a40845e2","newsletter":"newsletter.js?08d8ae7a1c6482d7beb3002fcfaacdc2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","ZeroClipboard":"ZeroClipboard.js?7c36a7eb020bbb97dafee4153f46c87d","spinjs":"spinjs.js?e1cc3dce984cd870d9d02be288d0dbdd","home":"home.js?a022cc3647e176df139a95305436b5c6","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","numeral":"numeral.js?a222da10e94e967e928aca44d69ce0f5","waypoints":"waypoints.js?70444276da7d7de57b7c670dc053f1f5","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Modernizr":"Modernizr.js?08cd3d9d0df1143464d1ca8ce01fed50","menuAim":"menuAim.js?2dae90e87689e70126a38328bac9a5ee","global":"global.js?32acea94e04f0857ff698086dbba7d47","dashboard_hotels":"dashboard_hotels.js?614e7f024aef5688437f667f857da860","dashboard":"dashboard.js?58449ad35e4a86ebfe91a29034a7dcc7","dq":"libs.js?f72f9becee377a41f67a0821d60cbca5","pages/dynamic/dummy":"pages/dynamic/dummy.js?db40c2c843286b433bfd906e6c74f1b3","talk":"talk.js?793f7a7423e25ccba43a4234f4e8d5b6","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","lodash":"libs.js?f72f9becee377a41f67a0821d60cbca5","surprise_me":"surprise_me.js?15d20c1a672006281855579474bac1f3","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","SwipeView":"SwipeView.js?4f04041392bfc7c535ae4f55e7b1e055","depot":"depot.js?429a4bc85cfbcc083d5278526d66123d","autosize":"autosize.js?609924fea6718a2ff0e8e32677bc132b","talks":"talks.js?7cfcd598f4b654af6f9e8e15e3d916c0","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Cookies":"Cookies.js?b331f247439cf974333a98958d35790d","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","embed":"embed.js?20b97011a03e61004d7d6e6c762667f9","settings":"settings.js?a16ac9e15c9eb86bf133c722366eb96e","touchPunch":"touchPunch.js?0374f5fc70a9e5ada6b9c6721e4ca424","moment":"moment.js?2901d956628d5071fcb01d19a2e6b9d6","dashboard_sessions":"dashboard_sessions.js?16f3e4102d4092e240177a42e696104c","crushinator":"crushinator.js?6780e5d6c8daac982c107577b713686a","hbs/handlebars":"libs.js?f72f9becee377a41f67a0821d60cbca5"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612281"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories?language=ko'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Return to talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories'>
+<option value='en'>English</option>
+<option value='fr'>French</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='ja'>Japanese</option>
+<option selected value='ko'>Korean</option>
+<option value='lt'>Lithuanian</option>
+<option value='fa'>Persian</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='uk'>Ukrainian</option>
+</select>
+<p>
+Translated by
+<a href="http://www.ted.com/profiles/2591230">Jihyeon J. Kim</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/5079421">Ju Hye Lim</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories?language=ko' language='ko'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="881" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/414f232fce96dc6a85d03cbab4eda2302ebbb675_2880x1620.jpg?quality=89&amp;w=320" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">14:41</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>앤더스 프젤버그</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories?language=ko' lang='ko'>
+해변에 쓸려온 이름 모르는 두 시신. 그 사연을 들려드립니다
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Oct 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Courageous
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='2240' id='t-2240'>바로 여기가</span>
+<span class='talk-transcript__fragment' data-time='3710' id='t-3710'>리스타 근처의 작은 마을 엘입니다.</span>
+<span class='talk-transcript__fragment' data-time='7840' id='t-7840'>노르웨이의 최남단에 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='11320' id='t-11320'>올해 2월 2일에</span>
+<span class='talk-transcript__fragment' data-time='13760' id='t-13760'>이 마을에 사는 어르신이</span>
+<span class='talk-transcript__fragment' data-time='16000' id='t-16000'>최근 지나간 폭풍에 무엇이 해변으로 
+쓸려 왔는지 보러 나가 봤습니다.</span>
+<span class='talk-transcript__fragment' data-time='22080' id='t-22080'>물 가 바로 옆 풀밭에서</span>
+<span class='talk-transcript__fragment' data-time='25280' id='t-25280'>잠수복을 발견했습니다.</span>
+<span class='talk-transcript__fragment' data-time='27920' id='t-27920'>회색과 검은색이었고 
+싸구려처럼 보인다고 생각했죠.</span>
+<span class='talk-transcript__fragment' data-time='32240' id='t-32240'>잠수복 각 다리부분 밖으로</span>
+<span class='talk-transcript__fragment' data-time='34320' id='t-34320'>두개의 흰 뼈가 나와 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='38120' id='t-38120'>분명히 인골이었습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='42160' id='t-42160'>노르웨이에서는 보통 사망자의 
+신원이 빨리 밝혀집니다.</span>
+<span class='talk-transcript__fragment' data-time='45320' id='t-45320'>그래서 경찰이 수색해 보았습니다.</span>
+<span class='talk-transcript__fragment' data-time='46880' id='t-46880'>지역 실종 보고</span>
+<span class='talk-transcript__fragment' data-time='48500' id='t-48500'>국내 실종 보고</span>
+<span class='talk-transcript__fragment' data-time='49820' id='t-49820'>관련있을 법한 사건들을 살펴봤습니다.</span>
+<span class='talk-transcript__fragment' data-time='52460' id='t-52460'>아무것도 찾지 못했죠.</span>
+<span class='talk-transcript__fragment' data-time='54920' id='t-54920'>그래서 DNA검사를 했고</span>
+<span class='talk-transcript__fragment' data-time='56440' id='t-56440'>인터폴을 통해 국제적으로 수사했습니다.</span>
+<span class='talk-transcript__fragment' data-time='59600' id='t-59600'>아무 것도 찾지 못했습니다.</span>
+<span class='talk-transcript__fragment' data-time='62240' id='t-62240'>실종된 사람이 아니었던 것 같았습니다.</span>
+<span class='talk-transcript__fragment' data-time='66520' id='t-66520'>이름 없는 무덤으로 향한 
+투명인간 이었습니다.</span>
+<span class='talk-transcript__fragment' data-time='72000' id='t-72000'>그러다 한 달 후에</span>
+<span class='talk-transcript__fragment' data-time='73760' id='t-73760'>노르웨이 경찰이 네덜란드 
+경찰에게서 소식을 받았습니다.</span>
+<span class='talk-transcript__fragment' data-time='78080' id='t-78080'>몇 달후에 그들이 시신을 찾았는데</span>
+<span class='talk-transcript__fragment' data-time='80720' id='t-80720'>똑같은 잠수복의 이 사람이 
+누군지 알지 못했습니다.</span>
+<span class='talk-transcript__fragment' data-time='85791' id='t-85791'>네덜란드 경찰은 잠수복을 추적했습니다.</span>
+<span class='talk-transcript__fragment' data-time='88720' id='t-88720'>RFID칩이 잠수복에 함께 붙어 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='92120' id='t-92120'>그래서 그 잠수복이 같은 손님이 
+동시에 산 것임을 알게 되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='99396' id='t-99396'>2014년 10월 7일에</span>
+<span class='talk-transcript__fragment' data-time='102160' id='t-102160'>영국해협 옆 칼레라는 
+프랑스 도시에서요.</span>
+<span class='talk-transcript__fragment' data-time='105760' id='t-105760'>알아낸 게 이게 전부였습니다.</span>
+<span class='talk-transcript__fragment' data-time='108960' id='t-108960'>그 손님은 현금으로 지불했죠.</span>
+<span class='talk-transcript__fragment' data-time='110640' id='t-110640'>가게에는 CCTV영상도 없었습니다.</span>
+<span class='talk-transcript__fragment' data-time='113280' id='t-113280'>미해결 사건이 되었습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='115840' id='t-115840'>저희는 이 이야기를 들었고</span>
+<span class='talk-transcript__fragment' data-time='117080' id='t-117080'>그것이 동료 사진작가인 톰 크리스챤슨과
+저의 호기심을 자극했습니다.</span>
+<span class='talk-transcript__fragment' data-time='119573' id='t-119573'>물론 확실한 의문이 있었죠: 
+이들은 누구였을까요?</span>
+<span class='talk-transcript__fragment' data-time='123440' id='t-123440'>그때는 칼레에 대해 거의 몰랐지만</span>
+<span class='talk-transcript__fragment' data-time='125464' id='t-125464'>금새 알게 되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='128320' id='t-128320'>칼레는 두 가지로 유명합니다.</span>
+<span class='talk-transcript__fragment' data-time='131280' id='t-131280'>유럽대륙에서 영국에 
+가장 가까운 지점이고</span>
+<span class='talk-transcript__fragment' data-time='134120' id='t-134120'>많은 이민자와 난민들이 
+난민촌에 거주하며</span>
+<span class='talk-transcript__fragment' data-time='137680' id='t-137680'>필사적으로 영국으로 건너가려고 합니다.</span>
+<span class='talk-transcript__fragment' data-time='140920' id='t-140920'>바로 여기서 두 사람의 신원에 대한 
+가능한 이야기가 나왔고</span>
+<span class='talk-transcript__fragment' data-time='145880' id='t-145880'>경찰도 마찬가지 가설을 세웠습니다.</span>
+<span class='talk-transcript__fragment' data-time='148280' id='t-148280'>여러분이나 저 아니면 누구든지 
+유럽에 확실한 연고가 있는데</span>
+<span class='talk-transcript__fragment' data-time='151495' id='t-151495'>프랑스 해안너머 실종이 되면 
+사람들이 바로 알 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='154610' id='t-154610'>친구들이나 가족이 실종신고를 하면</span>
+<span class='talk-transcript__fragment' data-time='156750' id='t-156750'>경찰이 수색하고 언론이 알게 됩니다.</span>
+<span class='talk-transcript__fragment' data-time='159330' id='t-159330'>그럼 여러분들 사진이 
+거리에 붙게 될겁니다.</span>
+<span class='talk-transcript__fragment' data-time='161630' id='t-161630'>흔적없이 실종되는 게 어렵습니다.</span>
+<span class='talk-transcript__fragment' data-time='165120' id='t-165120'>하지만 여러분이 시리아의 
+전쟁을 피해서 가족을 떠났다면</span>
+<span class='talk-transcript__fragment' data-time='170000' id='t-170000'>그들이 꼭 여러분의 
+행방을 아는 건 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='172080' id='t-172080'>매일 도착하는 
+수 천명의 사람들 사이에서</span>
+<span class='talk-transcript__fragment' data-time='174120' id='t-174120'>불법체류하고 있을 지 알지 못합니다.</span>
+<span class='talk-transcript__fragment' data-time='177440' id='t-177440'>여러분이 어느 날 사라져도 
+아무도 모를 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='181600' id='t-181600'>여러분이 사라진 줄 모르기 때문에 
+경찰이 수색하지 않을 겁니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='186160' id='t-186160'>바로 그런 일이 시리아에서 온 
+샤디 오마르 카타프와</span>
+<span class='talk-transcript__fragment' data-time='188870' id='t-188870'>무아즈 발키에게 벌어진 일이었습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='192768' id='t-192768'>저와 톰은 올해 4월에 
+처음으로 칼레에 갔고</span>
+<span class='talk-transcript__fragment' data-time='195630' id='t-195630'>3개월의 조사끝에 
+시리아의 내전을 피해 도망온</span>
+<span class='talk-transcript__fragment' data-time='199130' id='t-199130'>두 젊은이의 이야기를 할 수 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='201940' id='t-201940'>결국 칼레에 와서</span>
+<span class='talk-transcript__fragment' data-time='203720' id='t-203720'>잠수복을 사서는 영국에 
+가고자 영국해협을 건너려다</span>
+<span class='talk-transcript__fragment' data-time='207070' id='t-207070'>익사하고 말았죠.</span>
+<span class='talk-transcript__fragment' data-time='211280' id='t-211280'>이 이야기는 모든 이가 
+이름을 가지고 있고</span>
+<span class='talk-transcript__fragment' data-time='214440' id='t-214440'>사연이 있으며 의미있는 
+사람임을 보여줍니다.</span>
+<span class='talk-transcript__fragment' data-time='217480' id='t-217480'>이것은 또한 오늘날 유럽에서 난민의 
+삶이 어떤지 보여주는 이야기입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:54
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='223100' id='t-223100'>여기에서 저의 조사가 시작되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='225040' id='t-225040'>여기가 칼레입니다.</span>
+<span class='talk-transcript__fragment' data-time='226570' id='t-226570'>약 3,500에서 5천명이 
+끔찍한 환경에서 살고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='231376' id='t-231376'>유럽 최악의 난민촌이라고 
+알려져 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='234320' id='t-234320'>식량이나 식수가 거의 없고</span>
+<span class='talk-transcript__fragment' data-time='237350' id='t-237350'>보건이 제한적입니다.</span>
+<span class='talk-transcript__fragment' data-time='238860' id='t-238860'>질병과 감염이 만연하죠.</span>
+<span class='talk-transcript__fragment' data-time='241920' id='t-241920'>모두 여기에서 망명하기 
+위해 영국으로 가려 합니다.</span>
+<span class='talk-transcript__fragment' data-time='246586' id='t-246586'>배나 유로터널로 가기 위해 
+트럭 뒤에 숨어서 시도합니다.</span>
+<span class='talk-transcript__fragment' data-time='252440' id='t-252440'>아니면 밤에 열차를 몰래 타려고</span>
+<span class='talk-transcript__fragment' data-time='254750' id='t-254750'>터널 터미널에 몰래 숨어 들어갑니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='257519' id='t-257519'>대부분은 언어때문에 
+영국으로 가고 싶어 합니다.</span>
+<span class='talk-transcript__fragment' data-time='260480' id='t-260480'>거기서 삶을 시작하는게 
+쉬울거라 생각합니다.</span>
+<span class='talk-transcript__fragment' data-time='264000' id='t-264000'>일하고 싶고 공부하고 싶어 합니다.</span>
+<span class='talk-transcript__fragment' data-time='265700' id='t-265700'>삶을 살아나가고 싶어 합니다.</span>
+<span class='talk-transcript__fragment' data-time='267390' id='t-267390'>많은 사람들이 고등교육을 
+받았고 숙련 노동자입니다.</span>
+<span class='talk-transcript__fragment' data-time='270400' id='t-270400'>칼레에 가서 난민들과 
+얘기해보면 변호사, 정치인</span>
+<span class='talk-transcript__fragment' data-time='274160' id='t-274160'>공학자, 그래픽 디자이너, 농부, 
+군인들을 만날 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='277130' id='t-277130'>모든 분야의 사람들이 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='279520' id='t-279520'>하지만 난민이나 이민자를 말할 때 
+이들이 어떤 사람들인지는 묻혀 버립니다.</span>
+<span class='talk-transcript__fragment' data-time='286416' id='t-286416'>그저 통계로만 말하니까요.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='289440' id='t-289440'>세계적으로 6천만명의 난민이 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='291640' id='t-291640'>약 50만명이 올해에 지중해를 
+건너 유럽으로 왔고</span>
+<span class='talk-transcript__fragment' data-time='295676' id='t-295676'>대략 4천명이 칼레에 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='298440' id='t-298440'>하지만 이것은 숫자이죠.</span>
+<span class='talk-transcript__fragment' data-time='299960' id='t-299960'>이 사람들이 누구인지, 
+어디서 왜 왔는지는</span>
+<span class='talk-transcript__fragment' data-time='303800' id='t-303800'>숫자가 알려주지 않습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='307640' id='t-307640'>먼저 이 중 한 사람을 
+말씀드리겠습니다.</span>
+<span class='talk-transcript__fragment' data-time='310520' id='t-310520'>시리아 출신 22살의 
+무아즈 알 발키입니다.</span>
+<span class='talk-transcript__fragment' data-time='314120' id='t-314120'>두 시신의 의문을 풀기 
+위해 처음 칼레에 와서</span>
+<span class='talk-transcript__fragment' data-time='317040' id='t-317040'>그의 이야기를 들었습니다.</span>
+<span class='talk-transcript__fragment' data-time='319840' id='t-319840'>얼마 후에 들은 이야기가</span>
+<span class='talk-transcript__fragment' data-time='322000' id='t-322000'>영국 브래드포드에 살았던 시리아 남자가</span>
+<span class='talk-transcript__fragment' data-time='325320' id='t-325320'>수 개월간 조카 무아즈를 
+애타게 찾았다는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='329120' id='t-329120'>마지막으로 무아즈의 소식을 들은 것이</span>
+<span class='talk-transcript__fragment' data-time='333120' id='t-333120'>2014년 10월 7일이었다고 합니다.</span>
+<span class='talk-transcript__fragment' data-time='335800' id='t-335800'>바로 그 날이 잠수복을 
+구매한 날이었습니다.</span>
+<span class='talk-transcript__fragment' data-time='339240' id='t-339240'>그래서 저희는 그 곳에 
+가서 삼촌을 만났고</span>
+<span class='talk-transcript__fragment' data-time='341400' id='t-341400'>그의 DNA 샘플을 검사했습니다.</span>
+<span class='talk-transcript__fragment' data-time='343520' id='t-343520'>후에 요르단에 사는 무아즈의 
+친척 DNA샘플을 얻었습니다.</span>
+<span class='talk-transcript__fragment' data-time='348600' id='t-348600'>분석결과 네덜란드 해변에서 
+발견된 잠수복의 시신이</span>
+<span class='talk-transcript__fragment' data-time='354626' id='t-354626'>무아즈 알 발키라고 나왔습니다.</span>
+<span class='talk-transcript__fragment' data-time='357720' id='t-357720'>저희가 이 조사를 하는 동안 
+무아즈의 사연을 알게 되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='363320' id='t-363320'>1991년 시리아 수도 
+다마스커스에서 태어났습니다.</span>
+<span class='talk-transcript__fragment' data-time='367240' id='t-367240'>중산층 가정에서 자랐고</span>
+<span class='talk-transcript__fragment' data-time='369122' id='t-369122'>아버지는 화학 공학자로서</span>
+<span class='talk-transcript__fragment' data-time='371813' id='t-371813'>시리아에서 정치 반대파에 
+속해 11년간 복역하였습니다.</span>
+<span class='talk-transcript__fragment' data-time='376120' id='t-376120'>아버지가 수감중일 때</span>
+<span class='talk-transcript__fragment' data-time='377760' id='t-377760'>무아즈는 여동생 셋을 
+책임지고 돌봤습니다.</span>
+<span class='talk-transcript__fragment' data-time='381040' id='t-381040'>그런 사람이라고 사람들이 말했습니다.</span>
+<span class='talk-transcript__fragment' data-time='383040' id='t-383040'>무아즈는 전기공학자가 되기 위해 
+다마스커스 대학에서 공부했습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+06:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='388446' id='t-388446'>시리아 내전이 몇 년되자</span>
+<span class='talk-transcript__fragment' data-time='390440' id='t-390440'>가족들을 다마스커스를 빠져나와 
+이웃국가 요르단으로 갔습니다.</span>
+<span class='talk-transcript__fragment' data-time='394600' id='t-394600'>아버지가 요르단에서 
+직업을 구하지 못하자</span>
+<span class='talk-transcript__fragment' data-time='397160' id='t-397160'>무아즈는 학업을 계속할 수 없었습니다.</span>
+<span class='talk-transcript__fragment' data-time='399160' id='t-399160'>그래서 생각하길, &quot;내가 
+가족을 위해 할 수 있는 최선은</span>
+<span class='talk-transcript__fragment' data-time='402480' id='t-402480'>학업을 마치고 직업을 
+구할 수 있는 곳으로 가는거야.&quot;</span>
+<span class='talk-transcript__fragment' data-time='405240' id='t-405240'>하고 생각했습니다.</span>
+<span class='talk-transcript__fragment' data-time='406800' id='t-406800'>그래서 그는 터키로 갔습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+06:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='408240' id='t-408240'>터키에서 대학에 들어가지 못했습니다.</span>
+<span class='talk-transcript__fragment' data-time='411440' id='t-411440'>요르단을 난민자격으로 일단 떠나니 
+다시 들어갈 수가 없었습니다.</span>
+<span class='talk-transcript__fragment' data-time='416240' id='t-416240'>그래서 삼촌이 사는 
+영국으로 가기로 합니다.</span>
+<span class='talk-transcript__fragment' data-time='420466' id='t-420466'>알제리로 가서 리비아로 걸어가고</span>
+<span class='talk-transcript__fragment' data-time='423600' id='t-423600'>밀수업자에게 돈을 주고 
+배로 이탈리아로 갑니다.</span>
+<span class='talk-transcript__fragment' data-time='427440' id='t-427440'>거기에서 덩케르크로 갔는데</span>
+<span class='talk-transcript__fragment' data-time='429360' id='t-429360'>영국해협 쪽 칼레 바로 
+옆에 있는 도시입니다.</span>
+<span class='talk-transcript__fragment' data-time='433955' id='t-433955'>저희가 알기로 트럭에 숨어서 영국 해협 
+건너가길 적어도 12번을 실패했습니다.</span>
+<span class='talk-transcript__fragment' data-time='439520' id='t-439520'>하지만 어느 때에 
+희망을 포기했었을 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='443360' id='t-443360'>그가 살아있던 마지막 밤은</span>
+<span class='talk-transcript__fragment' data-time='445440' id='t-445440'>덩케르크의 기차역 근처 
+싸구려 호텔에서 지냈습니다.</span>
+<span class='talk-transcript__fragment' data-time='449520' id='t-449520'>기록에서 그의 이름을 찾았는데 
+혼자 보냈던것 같습니다.</span>
+<span class='talk-transcript__fragment' data-time='453680' id='t-453680'>그 다음날 칼레에 가서 스포츠 용품점에</span>
+<span class='talk-transcript__fragment' data-time='457640' id='t-457640'>저녁 8시가 되기 몇 분전에</span>
+<span class='talk-transcript__fragment' data-time='460120' id='t-460120'>샤디 카타프와 함께 갔습니다.</span>
+<span class='talk-transcript__fragment' data-time='461680' id='t-461680'>둘 다 잠수복을 구입했고</span>
+<span class='talk-transcript__fragment' data-time='463720' id='t-463720'>가게의 여성이</span>
+<span class='talk-transcript__fragment' data-time='465160' id='t-465160'>생전의 그들을 마지막으로 
+본 사람이었습니다.</span>
+<span class='talk-transcript__fragment' data-time='469760' id='t-469760'>샤디가 어디에서 무아즈를 
+만났는지 알아내려고 했지만</span>
+<span class='talk-transcript__fragment' data-time='473080' id='t-473080'>알 수가 없었습니다.</span>
+<span class='talk-transcript__fragment' data-time='475520' id='t-475520'>하지만 둘이 비슷한 사연이 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='477640' id='t-477640'>샤디에 대해 처음 들은 것은</span>
+<span class='talk-transcript__fragment' data-time='479910' id='t-479910'>독일에 사촌이 무아즈 이야기를 페이스북에서 
+아랍어 번역본을 읽고 난 후입니다.</span>
+<span class='talk-transcript__fragment' data-time='486040' id='t-486040'>그래서 그와 연락이 닿았습니다.</span>
+<span class='talk-transcript__fragment' data-time='488920' id='t-488920'>무아즈보다 몇 살 위인 샤디는</span>
+<span class='talk-transcript__fragment' data-time='491480' id='t-491480'>역시 다마스커스에서 자랐습니다.</span>
+<span class='talk-transcript__fragment' data-time='493880' id='t-493880'>노동자같은 사람이었습니다.</span>
+<span class='talk-transcript__fragment' data-time='495440' id='t-495440'>타이어 수리점을 운영했었고 
+나중에 인쇄소에서 일했습니다.</span>
+<span class='talk-transcript__fragment' data-time='498880' id='t-498880'>그의 대가족과 함께 살았지만</span>
+<span class='talk-transcript__fragment' data-time='500800' id='t-500800'>내전 초기에 집이 폭격을 받았습니다.</span>
+<span class='talk-transcript__fragment' data-time='503760' id='t-503760'>그래서 가족들이 야무크 캠프라는 
+다마스커스 지역으로 피신했습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+08:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='511040' id='t-511040'>야무크는 지구상에서 살기에 
+최악인 곳이라고 합니다.</span>
+<span class='talk-transcript__fragment' data-time='517240' id='t-517240'>군대가 폭격을 했고 포위를 당했으며</span>
+<span class='talk-transcript__fragment' data-time='520039' id='t-520039'>ISIS가 들이 닥쳤고</span>
+<span class='talk-transcript__fragment' data-time='521445' id='t-521445'>수 년동안 생필품이 끊겼습니다.</span>
+<span class='talk-transcript__fragment' data-time='524320' id='t-524320'>작년에 유엔 관계자가 
+다녀갔는데 말하길,</span>
+<span class='talk-transcript__fragment' data-time='526487' id='t-526487'>&quot;사람들이 풀을 모두 먹어서 
+남은 풀도 없었습니다.&quot; 라고 했습니다.</span>
+<span class='talk-transcript__fragment' data-time='533440' id='t-533440'>15만명 중에서</span>
+<span class='talk-transcript__fragment' data-time='535840' id='t-535840'>만 8천명만 아직 
+야무크에 있다고 합니다.</span>
+<span class='talk-transcript__fragment' data-time='539960' id='t-539960'>샤디와 여동생들은 빠져 나왔습니다.</span>
+<span class='talk-transcript__fragment' data-time='542040' id='t-542040'>부모님은 아직도 그 안에 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+09:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='546400' id='t-546400'>샤디와 여동생 하나가 
+리비야로 피신했습니다.</span>
+<span class='talk-transcript__fragment' data-time='549960' id='t-549960'>이것은 가다피 몰락 이후였습니다.</span>
+<span class='talk-transcript__fragment' data-time='551651' id='t-551651'>하지만 리비야에 전면적 
+내전이 번지기 직전이었죠.</span>
+<span class='talk-transcript__fragment' data-time='556000' id='t-556000'>리비야에 마지막 안정상태에서</span>
+<span class='talk-transcript__fragment' data-time='559480' id='t-559480'>샤디는 스쿠버 다이빙을 배웠고 
+대부분 수중에서 지냈던 것 같습니다.</span>
+<span class='talk-transcript__fragment' data-time='565800' id='t-565800'>그는 완전히 바다에 푹 빠졌고</span>
+<span class='talk-transcript__fragment' data-time='568680' id='t-568680'>마침내 리비야에 더는 있을 수 
+없다고 생각했습니다.</span>
+<span class='talk-transcript__fragment' data-time='571920' id='t-571920'>2014년 8월 말에</span>
+<span class='talk-transcript__fragment' data-time='574200' id='t-574200'>이탈리아에 와서 잠수부
+일을 구하길 바랬습니다.</span>
+<span class='talk-transcript__fragment' data-time='578600' id='t-578600'>현실은 그리 쉽지 않았습니다.</span>
+<span class='talk-transcript__fragment' data-time='581520' id='t-581520'>그의 여정이 어땠는지는 모릅니다.</span>
+<span class='talk-transcript__fragment' data-time='583360' id='t-583360'>가족과 연락이 어려웠기 때문인데</span>
+<span class='talk-transcript__fragment' data-time='585730' id='t-585730'>그래도 그가 힘든 상황이었음은 압니다.</span>
+<span class='talk-transcript__fragment' data-time='588120' id='t-588120'>9월 말 즈음에</span>
+<span class='talk-transcript__fragment' data-time='589520' id='t-589520'>프랑스의 어느 거리에서 
+살고 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='592840' id='t-592840'>10월 7일, 벨기에의 
+사촌에게 전화를 걸어</span>
+<span class='talk-transcript__fragment' data-time='595880' id='t-595880'>상황을 설명합니다.</span>
+<span class='talk-transcript__fragment' data-time='597880' id='t-597880'>&quot;나 칼레에 있는데, 와서 내 가방하고 
+노트북컴퓨터를 가지고 가줘.</span>
+<span class='talk-transcript__fragment' data-time='603080' id='t-603080'>영국으로 건너가는데 
+밀수업자에게 낼 돈이 없어.</span>
+<span class='talk-transcript__fragment' data-time='607040' id='t-607040'>하지만 잠수복을 사서 
+수영해서 갈거야.&quot; 라고 했습니다.</span>
+<span class='talk-transcript__fragment' data-time='610560' id='t-610560'>물론 사촌은 말리려고 했지만</span>
+<span class='talk-transcript__fragment' data-time='613040' id='t-613040'>샤디의 휴대폰 밧데리가 다 되고</span>
+<span class='talk-transcript__fragment' data-time='615200' id='t-615200'>전화는 다시 켤 수 없었습니다.</span>
+<span class='talk-transcript__fragment' data-time='619520' id='t-619520'>샤디의 유해는 3개월 뒤</span>
+<span class='talk-transcript__fragment' data-time='623600' id='t-623600'>800km 밖에서</span>
+<span class='talk-transcript__fragment' data-time='625560' id='t-625560'>노르웨이의 잠수복에서 발견됩니다.</span>
+<span class='talk-transcript__fragment' data-time='628560' id='t-628560'>아직 노르웨이에서 
+장례식이 대기중이지만</span>
+<span class='talk-transcript__fragment' data-time='630720' id='t-630720'>가족은 아무도 참석할 수가 없습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='635080' id='t-635080'>샤디와 무아즈의 이야기가 죽음에 관한 
+것이라고 많이들 생각할 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='640800' id='t-640800'>하지만 저는 그렇게 생각지 않습니다.</span>
+<span class='talk-transcript__fragment' data-time='642040' id='t-642040'>제게는 우리 모두가 가진 두 가지 
+질문에 대한 이야기라고 봅니다.</span>
+<span class='talk-transcript__fragment' data-time='647450' id='t-647450'>무엇이 더 나은 삶인가와</span>
+<span class='talk-transcript__fragment' data-time='649300' id='t-649300'>그렇게 하려면 내가 
+무엇을 기꺼이 할 것인가이죠.</span>
+<span class='talk-transcript__fragment' data-time='652760' id='t-652760'>제게, 아마도 여러분들 대부분에게</span>
+<span class='talk-transcript__fragment' data-time='654510' id='t-654510'>더 나은 삶이란</span>
+<span class='talk-transcript__fragment' data-time='656120' id='t-656120'>의미있는 것을 할 수 
+있는 걸 말할 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='659080' id='t-659080'>그것이 가족이나 친구와 
+더 많은 시간을 보내든</span>
+<span class='talk-transcript__fragment' data-time='662104' id='t-662104'>외국을 여행하는 것이든</span>
+<span class='talk-transcript__fragment' data-time='663640' id='t-663640'>아니면 새로운 기기를 사거나</span>
+<span class='talk-transcript__fragment' data-time='666000' id='t-666000'>새로운 운동화를 사기 위해 
+돈을 버는 것이든지요.</span>
+<span class='talk-transcript__fragment' data-time='667720' id='t-667720'>이건 거의 쉽게 할 수 있는 일입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='671840' id='t-671840'>하지만 여러분이 전쟁을 피해 다닌다면</span>
+<span class='talk-transcript__fragment' data-time='673800' id='t-673800'>두 질문의 답은 완전히 달라집니다.</span>
+<span class='talk-transcript__fragment' data-time='677800' id='t-677800'>더 나은 삶이란 안전한 삶입니다.</span>
+<span class='talk-transcript__fragment' data-time='680080' id='t-680080'>존엄성이 있는 삶입니다.</span>
+<span class='talk-transcript__fragment' data-time='682440' id='t-682440'>더 나은 삶이란 집에 
+폭격이 없는 것이며</span>
+<span class='talk-transcript__fragment' data-time='685120' id='t-685120'>납치의 위협이 없는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='686680' id='t-686680'>그것은 아이들을 학교에, 
+대학에 보내는 것을 의미하거나</span>
+<span class='talk-transcript__fragment' data-time='690339' id='t-690339'>여러분이나 사랑하는 사람을 
+부양할 직업을 찾는 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='694760' id='t-694760'>더 나은 삶이란 무의 상태에 비해</span>
+<span class='talk-transcript__fragment' data-time='698400' id='t-698400'>미래의 가능성이 있는 것이며</span>
+<span class='talk-transcript__fragment' data-time='700720' id='t-700720'>그것이 강한 동기가 됩니다.</span>
+<span class='talk-transcript__fragment' data-time='703480' id='t-703480'>몇 주 아니 몇 달을 
+외국인 신분으로 지내면서</span>
+<span class='talk-transcript__fragment' data-time='706956' id='t-706956'>이런 상상을 하는게 어렵지 않았습니다.</span>
+<span class='talk-transcript__fragment' data-time='711056' id='t-711056'>길거리에서 노숙하거나</span>
+<span class='talk-transcript__fragment' data-time='712800' id='t-712800'>말도 안되는 차별적 이름인 &quot;정글&quot;이라고 하는 
+끔찍한 임시 난민촌에서 지내는게 어떨지요.</span>
+<span class='talk-transcript__fragment' data-time='718640' id='t-718640'>우리 대부분은 뭐든지 
+기꺼이 하려 할겁니다.</span>
+<span class='talk-transcript__fragment' data-time='723200' id='t-723200'>샤디와 무아즈에게</span>
+<span class='talk-transcript__fragment' data-time='725450' id='t-725450'>얼어버릴 것 같은 영국 해협의 바닷물 
+속으로 들어갈 때 물어볼 수 있다면</span>
+<span class='talk-transcript__fragment' data-time='729510' id='t-729510'>그들은 아마도, &quot;이건 위험을 
+감수할 만 해요.&quot;라고 할 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='733160' id='t-733160'>그들에겐 다른 선택이 없었으니까요.</span>
+<span class='talk-transcript__fragment' data-time='737400' id='t-737400'>그것이 절박함입니다.</span>
+<span class='talk-transcript__fragment' data-time='739680' id='t-739680'>하지만 2015년 서유럽에 
+사는 난민들의 현실입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='745760' id='t-745760'>감사합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='746920' id='t-746920'>(박수)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:48
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='757910' id='t-757910'>브루노 지우사니: 감사합니다. 앤더스.</span>
+<span class='talk-transcript__fragment' data-time='759550' id='t-759550'>이 분은 톰 크리스챤슨인데</span>
+<span class='talk-transcript__fragment' data-time='760770' id='t-760770'>여러분이 보신 대부분의 사진을 
+촬영하고 보도를 함께 했습니다.</span>
+<span class='talk-transcript__fragment' data-time='764130' id='t-764130'>(박수)</span>
+<span class='talk-transcript__fragment' data-time='765680' id='t-765680'>톰, 최근에 칼레에 다시 가셨죠.</span>
+<span class='talk-transcript__fragment' data-time='768040' id='t-768040'>이번이 세 번째였습니다.</span>
+<span class='talk-transcript__fragment' data-time='769690' id='t-769690'>기사가 나가고 난 뒤였는데요.</span>
+<span class='talk-transcript__fragment' data-time='771740' id='t-771740'>무엇이 바뀌었나요? 
+거기서 무엇을 보셨습니까?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='773910' id='t-773910'>톰 크리스챤슨: 칼레에 처음 갔을 때
+약 천5백명의 난민이 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='778023' id='t-778023'>그들은 매우 힘들었지만 
+긍정적이었고 희망이 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='781690' id='t-781690'>지난 번에 난민촌이 대략 
+4천에서 5천으로 늘어났습니다.</span>
+<span class='talk-transcript__fragment' data-time='786800' id='t-786800'>계속 거주할 것 같았습니다.</span>
+<span class='talk-transcript__fragment' data-time='788290' id='t-788290'>NGO가 도착해서 
+작은 학교을 열었습니다.</span>
+<span class='talk-transcript__fragment' data-time='791240' id='t-791240'>문제는 난민들이 오랫동안 머물렀고</span>
+<span class='talk-transcript__fragment' data-time='794640' id='t-794640'>프랑스 정부는 국경을 봉쇄해서</span>
+<span class='talk-transcript__fragment' data-time='799560' id='t-799560'>정글이 더 커지고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='802640' id='t-802640'>난민들 사이에서 포기와 
+절망도 커지고 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='806880' id='t-806880'>BG: 다시 가실 계획이십니까?
+TC: 네.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='810430' id='t-810430'>BG: 그리고 보도도 계속 하고요?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='812840' id='t-812840'>BG: 앤더스, 저는 전직 언론인입니다.</span>
+<span class='talk-transcript__fragment' data-time='814570' id='t-814570'>현재 위기의 출판업자들의 자금삭감의 
+상황에서 저는 놀랐습니다.</span>
+<span class='talk-transcript__fragment' data-time='819830' id='t-819830'>Dagbladet이 이 이야기의 
+자료를 동의해 주셨습니다.</span>
+<span class='talk-transcript__fragment' data-time='823800' id='t-823800'>책임을 갖는 신문들에 
+대해서 말하는 것이죠.</span>
+<span class='talk-transcript__fragment' data-time='826682' id='t-826682'>하지만 편집자에게 어떻게 파셨습니까?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='830360' id='t-830360'>앤더스: 처음엔 쉽지 않았습니다.</span>
+<span class='talk-transcript__fragment' data-time='832400' id='t-832400'>어떤 걸 알아낼 지 
+알 수가 없었으니까요.</span>
+<span class='talk-transcript__fragment' data-time='836400' id='t-836400'>첫 번째 사람이 누구인지 
+알 수 있게 되자마자</span>
+<span class='talk-transcript__fragment' data-time='842196' id='t-842196'>그가 원했던 것에 대한 
+단서를 얻을 수 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='845240' id='t-845240'>여러분이 갈 곳은 어디든 가고 
+해야 할 일은 뭐든지 하는 것이죠.</span>
+<span class='talk-transcript__fragment' data-time='848280' id='t-848280'>이 일을 마치기 위해서요.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='851720' id='t-851720'>BG: 그게 책임을 갖는 편집장입니다.</span>
+<span class='talk-transcript__fragment' data-time='854080' id='t-854080'>그런데 이야기가 몇 유럽 국가에서</span>
+<span class='talk-transcript__fragment' data-time='856724' id='t-856724'>번역 출판됐고 앞으로 계속 될 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='860000' id='t-860000'>여러분들의 이야기를 듣고 
+싶습니다. 앤더스, 톰, 감사합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:34
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='863560' id='t-863560'>(박수)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>매트 케니언: 나는 어떻게 US정부에 이라크 시민들에 대한 추모를 끼워 넣었는가</title>
+  <description>15만에서 백만명의 이라크 시민들이 2003년 미국이 주도한 침략에서 죽었다고 추정됩니다. 예술가인 매트 케니언은 그들을 위한 추모비를 만들고 싶었습니다. 하지만 큰 비석를 세우는 대신, 그는 그의 추모비를 작고 쉽게 복제가능하게 만들었습니다. 그는 이것을 권력의 중심부에 숨겨 넣는데에 오 년이란 시간을 썼습니다-- 전쟁 중 재직하던 미국 법무장관에게 직접 손으로 전해주는 걸 포함해서요. 그 장면은 카메라에 찍혔습니다. </description>
+  <url>http://www.ted.com/talks/matt_kenyon_how_i_snuck_a_memorial_for_iraqi_civilians_into_the_us_government?language=ko</url>
+  <author-name>매트 케니언</author-name>
+  <author-url>http://www.ted.com/speakers/matt_kenyon</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/d7d793269bb36045068b871bc71626c7c2af3568_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/matt_kenyon_how_i_snuck_a_memorial_for_iraqi_civilians_into_the_us_government.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

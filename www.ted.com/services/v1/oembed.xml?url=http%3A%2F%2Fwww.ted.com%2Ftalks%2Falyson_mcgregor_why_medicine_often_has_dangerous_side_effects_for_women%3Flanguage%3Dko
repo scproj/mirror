@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>앨리슨 맥그레거 (Alyson McGregor): 왜 약은 종종 여성에게 위험한 부작용이 있는가.</title>
+  <description>지난 100년 간 승인되어 시장에 출시된 약품들은 남성 환자에게만 실험되어, 여성들에게는 복용량이 잘못 측정되거나 치명적인 부작용을 낳게 되었습니다. 남성과 여성 사이의 중요한 생리적 차이점은 최근에 와서야 의학분야에서 고려대상이 되었습니다. 응급의학과 의사인 앨리슨 맥그레거는 이 차이를 연구합니다. 이 매력적인 강연에서 앨리슨은 남성 표본이 의학 연구의 토대가 되게 만든 역사와 남성과 여성의 차이를 이해하는 것이 두 성별 모두를 위해 더 효과적인 치료법을 제공할 수 있다는 것에 대해 논의합니다.</description>
+  <url>http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women?language=ko</url>
+  <author-name>앨리슨 맥그레거 (Alyson McGregor)</author-name>
+  <author-url>http://www.ted.com/speakers/alyson_mcgregor</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/e335393e5a1024a6e5f5bcd29d823d76166c6f4f_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

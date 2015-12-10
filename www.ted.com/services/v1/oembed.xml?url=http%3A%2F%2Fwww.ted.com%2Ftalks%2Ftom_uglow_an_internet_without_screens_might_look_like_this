@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Tom Uglow: An Internet without screens might look like this</title>
+  <description>Designer Tom Uglow is creating a future in which humanity's love for natural solutions and simple tools can coexist with our need for information and the devices that provide us with it. "Reality is richer than screens," he says. "We can have a happy place filled with the information we love that feels as natural as switching on lightbulb."</description>
+  <url>http://www.ted.com/talks/tom_uglow_an_internet_without_screens_might_look_like_this</url>
+  <author-name>Tom Uglow</author-name>
+  <author-url>http://www.ted.com/speakers/tom_uglow</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/eec8fef8a7b85da747da1cdc95207dc1c8056bef_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/tom_uglow_an_internet_without_screens_might_look_like_this.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

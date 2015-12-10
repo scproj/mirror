@@ -1,0 +1,1128 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>존 론슨: 온라인 상의 모욕이 통제를 벗어날 때 생기는 일 | TED Talk | TED.com</title>
+<meta content="존 론슨: 온라인 상의 모욕이 통제를 벗어날 때 생기는 일 | TED Talk | TED.com" name="title" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=ko" rel="canonical" />
+<meta content="app-id=376183339,app-argument=http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=ko" name="apple-itunes-app" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=sq" hreflang="sq" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=pl" hreflang="pl" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=uk" hreflang="uk" rel="alternate" />
+<meta content="오랜 시간 동안, 존 론슨은 트위터가 침묵하는 사람들에게 발언권을 주었다는 사실을 즐겼습니다... 소셜미디어 플랫폼은 우리에게 소리를 내고, 부정의에 맞서 싸울 기회를 주었습니다. 하지만 언젠가부터 상황이 바뀌었습니다. 이 열정적이고 유창한 강연에서 론슨은 우리가 얼마나 자주 폭도처럼 행동하는지 설명합니다 - 그리고 지금이야말로 온라인 상에서 타인과 소통하는 방식에 대해 다시 생각해볼 때라고 말합니다." name="description" />
+<meta content="TED, talks, culture, humanity, social media, society, technology" name="keywords" />
+<meta content="video" name="medium" />
+<meta content="존 론슨" name="author" />
+<link href="http://www.ted.com/services/v1/oembed.json?url=http%3A%2F%2Fwww.ted.com%2Ftalks%2Fjon_ronson_what_happens_when_online_shaming_spirals_out_of_control%3Flanguage%3Dko" rel="alternate" title="oEmbed Profile" type="application/json+oembed" />
+<link href="http://www.ted.com/services/v1/oembed.xml?url=http%3A%2F%2Fwww.ted.com%2Ftalks%2Fjon_ronson_what_happens_when_online_shaming_spirals_out_of_control%3Flanguage%3Dko" rel="alternate" title="oEmbed Profile" type="application/xml+oembed" />
+<meta content="201021956610141" property="fb:app_id" />
+<meta content="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=ko" property="og:url" />
+<meta content="온라인 상의 모욕이 통제를 벗어날 때 생기는 일" property="og:title" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/bd82943883da85a6df233090923b3699ee9f6f14_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/bd82943883da85a6df233090923b3699ee9f6f14_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="video.other" property="og:type" />
+<meta content="1031" property="video:duration" />
+<meta content="culture" property="video:tag" />
+<meta content="humanity" property="video:tag" />
+<meta content="social media" property="video:tag" />
+<meta content="society" property="video:tag" />
+<meta content="technology" property="video:tag" />
+<meta content="1437404385" property="video:release_date" />
+<meta content="summary_large_image" name="twitter:card" />
+<meta content="@tedtalks" name="twitter:site" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/bd82943883da85a6df233090923b3699ee9f6f14_2880x1620.jpg?w=1200" property="twitter:image" />
+<meta content="376183339" name="twitter:app:id:iphone" />
+<meta content="376183339" name="twitter:app:id:ipad" />
+<meta content="com.ted.android" name="twitter:app:id:googleplay" />
+<meta content="TED" name="twitter:app:name:ipad" />
+<meta content="TED" name="twitter:app:name:iphone" />
+<meta content="TED" name="twitter:app:name:googleplay" />
+<meta content="ted://x-callback-url/talk?talkID=2302&amp;source=twitter" name="twitter:app:url:ipad" />
+<meta content="ted://x-callback-url/talk?talkID=2302&amp;source=twitter" name="twitter:app:url:iphone" />
+<meta content="http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=ko" name="twitter:app:url:googleplay" />
+<meta content="TED" property="al:ios:app_name" />
+<meta content="376183339" property="al:ios:app_store_id" />
+<meta content="ted://x-callback-url/talk?talkID=2302&amp;source=facebook" property="al:ios:url" />
+<meta content="TED" property="al:android:app_name" />
+<meta content="com.ted.android" property="al:android:package" />
+<meta content="http://applinks.org/documentation" property="al:web:url" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="오랜 시간 동안, 존 론슨은 트위터가 침묵하는 사람들에게 발언권을 주었다는 사실을 즐겼습니다... 소셜미디어 플랫폼은 우리에게 소리를 내고, 부정의에 맞서 싸울 기회를 주었습니다. 하지만 언젠가부터 상황이 바뀌었습니다. 이 열정적이고 유창한 강연에서 론슨은 우리가 얼마나 자주 폭도처럼 행동하는지 설명합니다 - 그리고 지금이야말로 온라인 상에서 타인과 소통하는 방식에 대해 다시 생각해볼 때라고 말합니다." property="og:description" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk-ie.css?1449612282">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk.css?1449612282">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?372e9c1ad21862103d589d49af44d28b","Swipe":"Swipe.js?73df4e5005408bc203e969751fc55e26","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","tedx":"tedx.js?f71e6b01e6becadca27fe635865d10df","flot":"flot.js?f327c555b811f034d94bfac8b6931307","hbs":"hbs.js?e36c0e0e09a79031f61eb328fc4c5a7b","transit":"transit.js?68aa867b464466c3dc98c60e068b7f68","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","pages":"pages.js?1fc3f19849913b97ac49d754f65aec11","deferLink":"deferLink.js?7adfdb9374698e3ee45ae2f72a9554ff","libs":"libs.js?f72f9becee377a41f67a0821d60cbca5","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","jquery":"libs.js?f72f9becee377a41f67a0821d60cbca5","swfobject":"libs.js?f72f9becee377a41f67a0821d60cbca5","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","Mailcheck":"Mailcheck.js?e8314a0c5bb92079c911a261b2afb289","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","jqueryujs":"libs.js?f72f9becee377a41f67a0821d60cbca5","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","Backbone":"libs.js?f72f9becee377a41f67a0821d60cbca5","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","swatch":"swatch.js?afe36518ad071cd727e0d83732239cf1","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","search":"search.js?c35ef36e1163fdd700e9e4597c54670c","profiles":"profiles.js?97fae740b654fe9b080dc4f3a40845e2","newsletter":"newsletter.js?08d8ae7a1c6482d7beb3002fcfaacdc2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","ZeroClipboard":"ZeroClipboard.js?7c36a7eb020bbb97dafee4153f46c87d","spinjs":"spinjs.js?e1cc3dce984cd870d9d02be288d0dbdd","home":"home.js?a022cc3647e176df139a95305436b5c6","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","numeral":"numeral.js?a222da10e94e967e928aca44d69ce0f5","waypoints":"waypoints.js?70444276da7d7de57b7c670dc053f1f5","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Modernizr":"Modernizr.js?08cd3d9d0df1143464d1ca8ce01fed50","menuAim":"menuAim.js?2dae90e87689e70126a38328bac9a5ee","global":"global.js?32acea94e04f0857ff698086dbba7d47","dashboard_hotels":"dashboard_hotels.js?614e7f024aef5688437f667f857da860","dashboard":"dashboard.js?58449ad35e4a86ebfe91a29034a7dcc7","dq":"libs.js?f72f9becee377a41f67a0821d60cbca5","pages/dynamic/dummy":"pages/dynamic/dummy.js?db40c2c843286b433bfd906e6c74f1b3","talk":"talk.js?793f7a7423e25ccba43a4234f4e8d5b6","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","lodash":"libs.js?f72f9becee377a41f67a0821d60cbca5","surprise_me":"surprise_me.js?15d20c1a672006281855579474bac1f3","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","SwipeView":"SwipeView.js?4f04041392bfc7c535ae4f55e7b1e055","depot":"depot.js?429a4bc85cfbcc083d5278526d66123d","autosize":"autosize.js?609924fea6718a2ff0e8e32677bc132b","talks":"talks.js?7cfcd598f4b654af6f9e8e15e3d916c0","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Cookies":"Cookies.js?b331f247439cf974333a98958d35790d","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","embed":"embed.js?20b97011a03e61004d7d6e6c762667f9","settings":"settings.js?a16ac9e15c9eb86bf133c722366eb96e","touchPunch":"touchPunch.js?0374f5fc70a9e5ada6b9c6721e4ca424","moment":"moment.js?2901d956628d5071fcb01d19a2e6b9d6","dashboard_sessions":"dashboard_sessions.js?16f3e4102d4092e240177a42e696104c","crushinator":"crushinator.js?6780e5d6c8daac982c107577b713686a","hbs/handlebars":"libs.js?f72f9becee377a41f67a0821d60cbca5"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script>
+<script async="async" data-main="talk" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612282"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<script>
+  __ga('set', "dimension2", 2302);
+</script>
+<div class='player-hero player-hero--unactivated' id='player-hero'>
+<div class='player-hero__contents'>
+<div class='player-hero__banner'>
+<div class='player'>
+<div class='player__container'>
+<div class='player-pip'>
+<div class='player-pip__container'>
+<div class='player__container__placeholder'></div>
+<a class='player-pip__watch-next ga-link' data-ga-category='talk.relatedTalk' data-ga-label='/talks/jon_ronson_strange_answers_to_the_psychopath_test - stickybar' href='/talks/jon_ronson_strange_answers_to_the_psychopath_test'>
+<div class='player-pip__watch-next__label'>
+Watch next
+</div>
+<div class='player-pip__watch-next__title'>
+Jon Ronson:
+Strange answers to the psychopath test
+</div>
+<div class='player-pip__watch-next__arrow'>
+<i class="icon icon_arrow-alt-right player-pip__watch-next__arrow" title="arrow"></i><span class="screen-reader-text">arrow</span>
+</div>
+</a>
+</div>
+</div>
+<div class='player__container__cursor-killer'></div>
+<div class='controls--mini'></div>
+</div>
+</div>
+<div class='player-hero__poster' id='player-hero-poster'>
+<img class='player-hero__image player-hero__image--16x9' src='https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/bd82943883da85a6df233090923b3699ee9f6f14_2880x1620.jpg?quality=89&amp;w=800'>
+<div id='player-hero-poster-video'></div>
+</div>
+<div class='player-hero__preroll'>
+<div class='player-hero__preroll__wrapper'>
+<div class='player-hero__preroll__container' id='player-hero-preroll-video'></div>
+</div>
+</div>
+<script>
+  function playerHeroPlay() {
+    document.getElementById('player-hero').className += ' player-hero--early-request';
+  }
+</script>
+<a class='player-hero__play' href='#' id='player-hero-play' onclick='playerHeroPlay()' ontouchend='playerHeroPlay()' role='button' tabindex='1' title='Play'>
+<div class='g-button-play player-hero__play__button player-hero__play__button--animated'>
+<svg x="0" y="0" width="100px" height="100px" viewBox="0 0 200 200" class="play play--ripple">
+ <circle fill="transparent" stroke="#FFFFFF" stroke-width="8" cx="100" cy="100" r="96"/>
+ <circle clip-path="url(#clipper)" fill="url(#ripple)" cx="100" cy="100" r="130" />
+  <polygon fill="#FFFFFF" points="70.993,60.347 153.398,102.384 70.993,144.42   "/>
+</svg>
+<svg x="0" y="0" width="0" height="0">
+  <defs>
+    <clipPath id="clipper">
+      <circle cx="100" cy="100" r="93" />
+    </clipPath>
+    <radialGradient id="ripple">
+      <stop offset="0%" stop-color="#000" stop-opacity="0.25">
+        <animate attributeName="offset" values="0;0.70" begin="0.2s" dur="2.1s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="5%" stop-color="#888" stop-opacity="0.35">
+        <animate attributeName="offset" values="0.05;0.75" begin="0" dur="2.1s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="10%" stop-color="#000" stop-opacity="0.25">
+        <animate attributeName="offset" values="0.10;1" begin="0" dur="2.1s" repeatCount="indefinite" />
+      </stop>
+    </radialGradient>
+  </defs>
+</svg>
+</div>
+</a>
+<div class='player-hero__early-request'>
+<div class='player-hero__early-request__content'>
+Loading&hellip;
+</div>
+</div>
+<div class='player-hero__tools'>
+<div class='player-hero__tools__list'>
+<div class='player-hero__tools__list__actions module'>
+<a class='player-hero__tools__tool watch-later-button' href='#' id='player-hero-wl' role='button'>
+<i class="icon icon_circle-watchlater player-hero__tools__icon watch-later-button__icon"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+<a class='player-hero__tools__tool favorite-button' href='#' id='player-hero-favorite' role='button'>
+<i class="icon icon_circle-favorite player-hero__tools__icon favorite-button__icon"></i>
+<span class='favorite-button__label'>
+Favorite
+</span>
+</a>
+<a class='player-hero__tools__tool download-button' href='#' role='button'>
+<i class="icon icon_circle-download player-hero__tools__icon"></i>
+<span>Download</span>
+</a>
+<a class='player-hero__tools__tool rate-button' href='#' role='button'>
+<i class="icon icon_circle-rate player-hero__tools__icon"></i>
+<span>Rate</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class='player-hero__details player-hero__details--short'>
+<h1 class='player-hero__header'>
+<div class='player-hero__speaker' lang='ko'>
+<span class='player-hero__speaker__content'>
+존 론슨:
+</span>
+</div>
+<div class='player-hero__title' lang='ko'>
+<span class='player-hero__title__content'>
+온라인 상의 모욕이 통제를 벗어날 때 생기는 일
+</span>
+</div>
+</h1>
+<div class='player-hero__meta'>
+<strong>
+TEDGlobalLondon
+</strong>
+&middot;
+<span>
+17:11
+</span>
+&middot;
+<span>
+<strong class='player-hero__meta__label'>Filmed</strong>
+Jun 2015
+</span>
+<div class='player-hero__meta__links'>
+<div class='player-hero__meta__link'>
+<span class='l3 player-hero__meta__transcript-link player-hero__meta__transcript-link--unclickable' id='hero-subtitle-link'>
+<i class="icon icon_subtitle player-hero__meta__transcript-icon"></i>
+20 subtitle languages
+</span>
+<span class='l3 player-hero__meta__transcript-link' id='hero-subtitle-help' style='padding-left:1px'>
+<i class="icon icon_circle-help-fill player-hero__meta__transcript-icon player-hero__meta__transcript-icon--small" title="Help with subtitles"></i><span class="screen-reader-text">Help with subtitles</span>
+</span>
+</div>
+<div class='player-hero__meta__link'>
+<a class='l3 player-hero__meta__transcript-link' href='/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control/transcript?language=ko' id='hero-transcript-link'>
+<i class="icon icon_transcript player-hero__meta__transcript-icon"></i>
+<span class='player-hero__meta__transcript-label'>View interactive transcript</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class='controls--maxi'></div>
+<a class='player-hero__teaser ga-link' data-ga-category='talk.relatedTalk' data-ga-label='/talks/jon_ronson_strange_answers_to_the_psychopath_test - permanext' href='/talks/jon_ronson_strange_answers_to_the_psychopath_test'>
+<div class='player-hero__teaser__label'>
+Watch next...
+</div>
+<div class='player-hero__teaser__title'>
+Jon Ronson:
+Strange answers to the psychopath test
+</div>
+<i class="icon icon_arrow-alt-right player-hero__teaser__arrow" title="arrow"></i><span class="screen-reader-text">arrow</span>
+</a>
+</div>
+
+<div class='talk-article talk-article--main' id='talk' itemscope itemtype='http://schema.org/VideoObject'>
+<link href='http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control' itemprop='url'>
+<meta content='온라인 상의 모욕이 통제를 벗어날 때 생기는 일' itemprop='name'>
+<meta content='오랜 시간 동안, 존 론슨은 트위터가 침묵하는 사람들에게 발언권을 주었다는 사실을 즐겼습니다... 소셜미디어 플랫폼은 우리에게 소리를 내고, 부정의에 맞서 싸울 기회를 주었습니다. 하지만 언젠가부터 상황이 바뀌었습니다. 이 열정적이고 유창한 강연에서 론슨은 우리가 얼마나 자주 폭도처럼 행동하는지 설명합니다 - 그리고 지금이야말로 온라인 상에서 타인과 소통하는 방식에 대해 다시 생각해볼 때라고 말합니다.' itemprop='description'>
+<meta content='PT17M11S' itemprop='duration'>
+<link content='https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/bd82943883da85a6df233090923b3699ee9f6f14_2880x1620.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/jon_ronson' itemprop='url'>
+<meta content='Jon Ronson' itemprop='name'>
+<link href='http://tedcdnpe-a.akamaihd.net/images/ted/1a9145251fdbbeeaef17871bae36fc14733f2b06_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed-ssl.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control.html' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='http://creativecommons.org/licenses/by-nc-nd/3.0/' itemprop='license'>
+
+<div id='talk-pusher'>
+<div class='container talk-top'>
+<div class='talk-top__tools'>
+<div class='talk-sharing' id='sharing'>
+<div class='talk-sharing__global'>
+<div class='talk-sharing__tools'>
+<div class='talk-sharing__cta show-lg'>
+Share this idea
+</div>
+<a class='talk-sharing__tool talk-sharing__watch-later watch-later-button' href='#' role='button'>
+<i class="icon icon_circle-watchlater talk-sharing__tool__icon watch-later-button__icon watch-later-button__icon--reverse" title="Watch Later"></i><span class="screen-reader-text">Watch Later</span>
+<div class='talk-sharing__tool__label'>Later</div>
+</a>
+<a class='talk-sharing__tool talk-sharing__download download-button' href='#' role='button'>
+<i class="icon icon_circle-download talk-sharing__tool__icon" title="Download"></i><span class="screen-reader-text">Download</span>
+<div class='talk-sharing__tool__label'>Download</div>
+</a>
+<a class='talk-sharing__tool talk-sharing__rate rate-button' href='#' role='button'>
+<i class="icon icon_circle-rate talk-sharing__tool__icon" title="Rate"></i><span class="screen-reader-text">Rate</span>
+<div class='talk-sharing__tool__label'>Rate</div>
+</a>
+<a class='talk-sharing__tool talk-sharing__twitter talk-sharing__link ga-link' data-service-label='Twitter' data-service-name='twitter' href='//twitter.com/intent/tweet?url=http%3A%2F%2Fwww.ted.com%2Ftalks%2Fjon_ronson_what_happens_when_online_shaming_spirals_out_of_control%3Flanguage%3Dko&amp;text=%EC%A1%B4%20%EB%A1%A0%EC%8A%A8%3A%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EC%83%81%EC%9D%98%20%EB%AA%A8%EC%9A%95%EC%9D%B4%20%ED%86%B5%EC%A0%9C%EB%A5%BC%20%EB%B2%97%EC%96%B4%EB%82%A0%20%EB%95%8C%20%EC%83%9D%EA%B8%B0%EB%8A%94%20%EC%9D%BC' target='_blank'>
+<i class="icon icon_circle-twitter-fill talk-sharing__tool__icon" title="Share on Twitter"></i><span class="screen-reader-text">Share on Twitter</span>
+<div class='talk-sharing__tool__label'>Twitter</div>
+</a>
+<a class='talk-sharing__tool talk-sharing__facebook talk-sharing__link ga-link' data-service-label='Facebook' data-service-name='facebook' href='//www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.ted.com%2Ftalks%2Fjon_ronson_what_happens_when_online_shaming_spirals_out_of_control%3Flanguage%3Dko' target='_blank'>
+<i class="icon icon_circle-facebook-fill talk-sharing__tool__icon" title="Share via Facebook"></i><span class="screen-reader-text">Share via Facebook</span>
+<div class='talk-sharing__tool__label'>Facebook</div>
+</a>
+<a class='talk-sharing__tool talk-sharing__email talk-sharing__link ga-link' data-service-label='Email' data-service-name='email' href='//api.addthis.com/oexchange/0.8/forward/email/offer?url=http%3A%2F%2Fwww.ted.com%2Ftalks%2Fjon_ronson_what_happens_when_online_shaming_spirals_out_of_control%3Flanguage%3Dko&amp;title=%EC%A1%B4%20%EB%A1%A0%EC%8A%A8%3A%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EC%83%81%EC%9D%98%20%EB%AA%A8%EC%9A%95%EC%9D%B4%20%ED%86%B5%EC%A0%9C%EB%A5%BC%20%EB%B2%97%EC%96%B4%EB%82%A0%20%EB%95%8C%20%EC%83%9D%EA%B8%B0%EB%8A%94%20%EC%9D%BC' target='_blank'>
+<i class="icon icon_circle-email-fill talk-sharing__tool__icon" title="Share by Email"></i><span class="screen-reader-text">Share by Email</span>
+<div class='talk-sharing__tool__label'>Email</div>
+</a>
+<a class='talk-sharing__tool talk-sharing__embed talk-sharing__link ga-link' data-service-label='Embed' data-service-name='embed' href='#' role='button' target='_blank'>
+<i class="icon icon_circle-embed-fill talk-sharing__tool__icon" title="Embed this talk"></i><span class="screen-reader-text">Embed this talk</span>
+<div class='talk-sharing__tool__label'>Embed</div>
+</a>
+<a class='talk-sharing__tool talk-sharing__other' href='#' id='sharing-other' role='button'>
+<div class='hide-lg'>
+<i class="icon icon_circle-share talk-sharing__tool__icon"></i><span class="screen-reader-text">Other sharing services</span>
+<div class='talk-sharing__tool__label'>Share</div>
+</div>
+<div class='show-lg'>
+<i class="icon icon_circle-more-fill talk-sharing__tool__icon"></i><span class="screen-reader-text">Other sharing services</span>
+<div class='talk-sharing__tool__label'>More</div>
+</div>
+</a>
+</div>
+<div class='talk-sharing__count' id='sharing-count'>
+<span class='talk-sharing__value'>
+1,283,857
+</span>
+<span class='talk-sharing__label'>
+<span class='talk-sharing__label__block'>
+Total
+</span>
+<span class='talk-sharing__label__block'>
+views
+</span>
+</span>
+</div>
+<script>q("talkPage.initBreakdown",[{"label":"TED.com","value":19},{"label":"TED apps","value":8},{"label":"iTunes","value":45},{"label":"YouTube","value":21},{"label":"Other","value":7}])</script>
+<div class='talk-sharing__your-impact'>
+<div class='talk-sharing__your-impact__barchart'>
+<i class="icon icon_barchart " title="Your impact"></i><span class="screen-reader-text">Your impact</span>
+</div>
+<div class='talk-sharing__label'>
+<div class='talk-sharing__label__block'>Share this talk and</div>
+<div class='talk-sharing__label__block'>track your influence!</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id='sponsorship-bug-placeholder'>
+<script>
+  g('ads.createCompanionSlot', {
+    adUnit:      "/5641/ted2/talk",
+    containerId: "sponsorship-bug-placeholder",
+    key:         "bug",
+    size:        [[120,60]],
+    targeting:   {}
+  });
+</script>
+
+</div>
+</div>
+<div class='talk-subsection'>
+<div class='talk-top__details'>
+<p class='talk-description' lang='ko'>
+오랜 시간 동안, 존 론슨은 트위터가 침묵하는 사람들에게 발언권을 주었다는 사실을 즐겼습니다... 소셜미디어 플랫폼은 우리에게 소리를 내고, 부정의에 맞서 싸울 기회를 주었습니다. 하지만 언젠가부터 상황이 바뀌었습니다. 이 열정적이고 유창한 강연에서 론슨은 우리가 얼마나 자주 폭도처럼 행동하는지 설명합니다 - 그리고 지금이야말로 온라인 상에서 타인과 소통하는 방식에 대해 다시 생각해볼 때라고 말합니다.
+</p>
+<div class='talk-more'>
+<ul class='sl'>
+<li class='l3 talk-more__item'>
+<a class='talk-more__link' href='/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control/transcript?language=ko' id='open-transcript'><i class="icon icon_transcript talk-more__icon talk-more__icon__transcript" title="Interactive transcript"></i><span class="screen-reader-text">Interactive transcript</span><span class='talk-more__label'>Interactive transcript</span></a>
+</li>
+</ul>
+</div>
+<div class='talk-speakers'>
+<div class='talk-speaker media'>
+<a class='talk-speaker__image media__image media__image--thumb' href='/speakers/jon_ronson'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/1a9145251fdbbeeaef17871bae36fc14733f2b06_254x191.jpg?" /><span class="thumb__aligner"></span></span></span></span>
+</a>
+<div class='talk-speaker__details media__message'>
+<div class='talk-speaker__name h10'>
+<a class="l3 talk-speaker__link" href="/speakers/jon_ronson">Jon Ronson</a>
+</div>
+<div class='talk-speaker__description'>
+Writer and filmmaker
+</div>
+<div class='talk-speaker__bio'>
+Jon Ronson is a writer and documentary filmmaker who dips into every flavor of madness, extremism and obsession.
+<a class="l3 talk-speaker__link" href="/speakers/jon_ronson">Full bio</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class='talk-subsection talk-topics'>
+<ul class='talk-topics__list'>
+<li class='talk-topics__item talk-topics__title'>
+<div class='talk-topics__label'>Similar topics</div>
+</li>
+<li class='talk-topics__item'>
+<a class='l3 talk-topics__link ga-link' data-ga-category='talk.relatedTopic' href='/topics/culture'>
+Culture
+</a>
+</li>
+<li class='talk-topics__item'>
+<a class='l3 talk-topics__link ga-link' data-ga-category='talk.relatedTopic' href='/topics/humanity'>
+Humanity
+</a>
+</li>
+<li class='talk-topics__item'>
+<a class='l3 talk-topics__link ga-link' data-ga-category='talk.relatedTopic' href='/topics/social+media'>
+Social media
+</a>
+</li>
+<li class='talk-topics__item'>
+<a class='l3 talk-topics__link ga-link' data-ga-category='talk.relatedTopic' href='/topics/society'>
+Society
+</a>
+</li>
+<li class='talk-topics__item'>
+<a class='l3 talk-topics__link ga-link' data-ga-category='talk.relatedTopic' href='/topics/technology'>
+Technology
+</a>
+</li>
+</ul>
+</div>
+<div class='talk-subsection talk-event'>
+This talk was presented at an official TED conference, and was featured by our editors on the home page.
+</div>
+</div>
+<div class='talk-section talk-top__related'>
+<div class='talk-ad' id='ad-unit'>
+<script>
+  g('ads.createCompanionSlot', {
+    adUnit:      "/5641/ted2/talk",
+    containerId: "ad-unit",
+    key:         "companion",
+    size:        [[300,250]],
+    targeting:   {}
+  });
+</script>
+
+</div>
+<div class='m3'>
+<div class='heading'>
+<div class='h8 heading__body'>Playlists to watch</div>
+<span class='heading__deco'>
+<div class='h8 heading__deco__sizer'></div>
+<a class='l3' href='/playlists'>Browse all</a>
+</span>
+</div>
+
+</div>
+<div class='talk-playlists'>
+<ul class='sl row row-sm-3up row-skinny'>
+<li class='col m3'>
+<div class='media media--lg-v'>
+<a class='media__image media__image--thumb ga-link talk-playlists__image' data-ga-category='talk.relatedPlaylist' href='/playlists/283/talks_to_watch_when_the_intern'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/talks_to_watch_when_the_internet_is_making_you_mad.jpg?w=146" /><span class="thumb__aligner"></span></span></span></span>
+</a>
+<div class='media__message'>
+<h4>
+<div class='h10 talk-playlists__title'>
+<a class='undec ga-link' data-ga-category='talk.relatedPlaylist' href='/playlists/283/talks_to_watch_when_the_intern'>
+Talks to watch when the Internet is making you mad
+</a>
+</div>
+<div class='text-secondary talk-playlists__details'>
+<a class='undec ga-link' data-ga-category='talk.relatedPlaylist' href='/playlists/283/talks_to_watch_when_the_intern'>
+Playlist
+(6 talks)
+</a>
+</div>
+</h4>
+</div>
+</div>
+</li>
+<li class='col m3'>
+<div class='media media--lg-v'>
+<a class='media__image media__image--thumb ga-link talk-playlists__image' data-ga-category='talk.relatedPlaylist' href='/playlists/144/should_we_redesign_humans'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/should_we_redesign_humans_update.jpg?w=146" /><span class="thumb__aligner"></span></span></span></span>
+</a>
+<div class='media__message'>
+<h4>
+<div class='h10 talk-playlists__title'>
+<a class='undec ga-link' data-ga-category='talk.relatedPlaylist' href='/playlists/144/should_we_redesign_humans'>
+Should we redesign humans?
+</a>
+</div>
+<div class='text-secondary talk-playlists__details'>
+<a class='undec ga-link' data-ga-category='talk.relatedPlaylist' href='/playlists/144/should_we_redesign_humans'>
+Playlist
+(11 talks)
+</a>
+</div>
+</h4>
+</div>
+</div>
+</li>
+<li class='col m3'>
+<div class='media media--lg-v'>
+<a class='media__image media__image--thumb ga-link talk-playlists__image' data-ga-category='talk.relatedPlaylist' href='/playlists/51/steve_case_10_unforgettable_t'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/steve_case_playlists.jpg?w=146" /><span class="thumb__aligner"></span></span></span></span>
+</a>
+<div class='media__message'>
+<h4>
+<div class='h10 talk-playlists__title'>
+<a class='undec ga-link' data-ga-category='talk.relatedPlaylist' href='/playlists/51/steve_case_10_unforgettable_t'>
+Steve Case: 10 unforgettable talks
+</a>
+</div>
+<div class='text-secondary talk-playlists__details'>
+<a class='undec ga-link' data-ga-category='talk.relatedPlaylist' href='/playlists/51/steve_case_10_unforgettable_t'>
+Playlist
+(10 talks)
+</a>
+</div>
+</h4>
+</div>
+</div>
+</li>
+</ul>
+</div>
+
+</div>
+</div>
+</div>
+<div class='ad-mobile' id='ad-unit-mobile'></div>
+<div class='container'>
+<div class='talk-section'>
+<h3 class='talk-section__title'>
+<span>Related talks</span>
+</h3>
+<div class='talk-related'>
+<div class='row row-sm-4up row-lg-6up row-skinny'>
+<div class='col talk-related__item'>
+<div class='media media--xs-h media--sm-v'>
+<a class='ga-link media__image media__image--thumb talk-next__image' data-ga-category='talk.relatedTalk' href='/talks/jon_ronson_strange_answers_to_the_psychopath_test'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1081" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/eaa7589ad922853aaddcb4a4804d4c0b11c66dd5_1600x1200.jpg?w=280" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">18:01</span></span>
+</a>
+<div class='media__message talk-next__message'>
+<h4>
+<a class='ga-link l3 talk-next__link' data-ga-category='talk.relatedTalk' href='/talks/jon_ronson_strange_answers_to_the_psychopath_test'>
+<div class='talk-next__speaker'>
+Jon Ronson
+</div>
+<div class='talk-next__title'>
+Strange answers to the psychopath test
+</div>
+</a>
+</h4>
+</div>
+</div>
+</div>
+<div class='col talk-related__item'>
+<div class='media media--xs-h media--sm-v'>
+<a class='ga-link media__image media__image--thumb talk-next__image' data-ga-category='talk.relatedTalk' href='/talks/del_harvey_the_strangeness_of_scale_at_twitter'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="559" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/630d123572ec57fd0a35a1b15016cf4a3d1ec40f_1600x1200.jpg?w=280" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">09:19</span></span>
+</a>
+<div class='media__message talk-next__message'>
+<h4>
+<a class='ga-link l3 talk-next__link' data-ga-category='talk.relatedTalk' href='/talks/del_harvey_the_strangeness_of_scale_at_twitter'>
+<div class='talk-next__speaker'>
+Del Harvey
+</div>
+<div class='talk-next__title'>
+Protecting Twitter users (sometimes from themselves)
+</div>
+</a>
+</h4>
+</div>
+</div>
+</div>
+<div class='col talk-related__item'>
+<div class='media media--xs-h media--sm-v'>
+<a class='ga-link media__image media__image--thumb talk-next__image' data-ga-category='talk.relatedTalk' href='/talks/monica_lewinsky_the_price_of_shame'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="1346" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/7adb146402a457282081af7f165e3912e6bab151_2880x1620.jpg?w=280" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">22:26</span></span>
+</a>
+<div class='media__message talk-next__message'>
+<h4>
+<a class='ga-link l3 talk-next__link' data-ga-category='talk.relatedTalk' href='/talks/monica_lewinsky_the_price_of_shame'>
+<div class='talk-next__speaker'>
+Monica Lewinsky
+</div>
+<div class='talk-next__title'>
+The price of shame
+</div>
+</a>
+</h4>
+</div>
+</div>
+</div>
+<div class='col talk-related__item'>
+<div class='media media--xs-h media--sm-v'>
+<a class='ga-link media__image media__image--thumb talk-next__image' data-ga-category='talk.relatedTalk' href='/talks/jedidah_isler_the_untapped_genius_that_could_change_science_for_the_better'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="822" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/af8ac79447ce0b5c25a32f0f47e62e4c320ff408_2880x1620.jpg?w=280" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">13:42</span></span>
+</a>
+<div class='media__message talk-next__message'>
+<h4>
+<a class='ga-link l3 talk-next__link' data-ga-category='talk.relatedTalk' href='/talks/jedidah_isler_the_untapped_genius_that_could_change_science_for_the_better'>
+<div class='talk-next__speaker'>
+Jedidah Isler
+</div>
+<div class='talk-next__title'>
+The untapped genius that could change science for the better
+</div>
+</a>
+</h4>
+</div>
+</div>
+</div>
+<div class='col talk-related__dangler talk-related__item'>
+<div class='media media--xs-h media--sm-v'>
+<a class='ga-link media__image media__image--thumb talk-next__image' data-ga-category='talk.relatedTalk' href='/talks/chieko_asakawa_how_new_technology_helps_blind_people_explore_the_world'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="569" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/742a188dfebaad322d02dfd7ee578fc58af03bb3_2880x1620.jpg?w=280" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">09:29</span></span>
+</a>
+<div class='media__message talk-next__message'>
+<h4>
+<a class='ga-link l3 talk-next__link' data-ga-category='talk.relatedTalk' href='/talks/chieko_asakawa_how_new_technology_helps_blind_people_explore_the_world'>
+<div class='talk-next__speaker'>
+Chieko Asakawa
+</div>
+<div class='talk-next__title'>
+How new technology helps blind people explore the world
+</div>
+</a>
+</h4>
+</div>
+</div>
+</div>
+<div class='col talk-related__dangler talk-related__item'>
+<div class='media media--xs-h media--sm-v'>
+<a class='ga-link media__image media__image--thumb talk-next__image' data-ga-category='talk.relatedTalk' href='/talks/jessica_shortall_how_america_fails_new_parents_and_their_babies'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="945" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/fcefb83d4caebcc2dd427dd3cd10cd14401f6e60_2880x1620.jpg?w=280" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">15:45</span></span>
+</a>
+<div class='media__message talk-next__message'>
+<h4>
+<a class='ga-link l3 talk-next__link' data-ga-category='talk.relatedTalk' href='/talks/jessica_shortall_how_america_fails_new_parents_and_their_babies'>
+<div class='talk-next__speaker'>
+Jessica Shortall
+</div>
+<div class='talk-next__title'>
+The US needs paid family leave — for the sake of its future
+</div>
+</a>
+</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='container'>
+<div class='talk-section'>
+<h3 class='talk-section__title'>
+<span>Learn more</span>
+</h3>
+<div class='row'>
+<div class='col-lg-3'>
+<a class='talk-learnmore media ga-link' data-ga-action='click' data-ga-category='talk.extras' data-ga-label='learnMore:book|http://www.amazon.com/So-Youve-Been-Publicly-Shamed/dp/1594487138/ref=as_li_tf_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0520271440&amp;linkCode=as2&amp;tag=teco06-20' href='http://target.georiot.com/Proxy.ashx?TSID=12033&amp;GR_URL=http%3A%2F%2Fwww.amazon.com%2FSo-Youve-Been-Publicly-Shamed%2Fdp%2F1594487138%2Fref%3Das_li_tf_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D9325%26creativeASIN%3D0520271440%26linkCode%3Das2%26tag%3Dteco06-20' target='_blank'>
+<i class="icon icon_arrow-alt-right learnmore_arrow" title="Arrow"></i><span class="screen-reader-text">Arrow</span>
+<div class='media__image'>
+<img alt="F2c44bf9b7b9c1eda31b72593fcb87bf63ac2e75 450x677" class="talk-learnmore__book-cover" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/f2c44bf9b7b9c1eda31b72593fcb87bf63ac2e75_450x677.jpg?w=190" />
+</div>
+<div class='media__message'>
+<div class='h9 talk-learnmore__title m4'>So You've Been Publicly Shamed</div>
+<div class='talk-learnmore__dek'>
+Jon Ronson
+<div class='talk-learnmore__publisher'>
+Riverhead Books<br>2015</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class='area'>
+<div class='container'>
+<div class='talk-section'>
+<h3 class='talk-section__title' id='discussion'>
+<span>Discuss</span>
+</h3>
+<div class='row'>
+<div class='col-lg-8'>
+<div class='h11'>
+118 comments
+</div>
+<p class='talk-section__description'>
+Enthusiastically agree? Respectfully beg to differ?
+Have your say here.
+</p>
+<div class='talk-comments'>
+<div class='talk-comments__content'>
+<div class='thread' id='thread'>
+<div class='thread__new'>
+<div class='loggedin-only'>
+<textarea class='thread__new__input' rows='6'></textarea>
+<div class='thread__new__alert'></div>
+<div class='thread__new__buttons'>
+<span class='thread__new__count'>2000</span>
+characters remaining
+<button class='button thread__new__button'>Submit</button>
+</div>
+</div>
+<div class='loggedout-only'>
+<a class='button l3 auth-login' href='/session/new'>Log in to comment</a>
+<span class='thread__loggedout-only__cta'>
+Don't have an account?
+<a class='l3' href='/users/new'>Sign up now</a>
+&mdash; it's fast and free.
+</span>
+</div>
+</div>
+<div class='thread__sorts'>
+<span class='thread__sorts__label'>Sort comments by</span>
+<label class='thread__sorts__option'>
+<input checked class='thread__sorts__option__input' name='thread-sort' type='radio' value='newest'>
+<span class='thread__sorts__option__label'>Newest</span>
+</label>
+<label class='thread__sorts__option'>
+<input class='thread__sorts__option__input' name='thread-sort' type='radio' value='rated'>
+<span class='thread__sorts__option__label'>Upvotes</span>
+</label>
+</div>
+<div class='thread__comments'></div>
+<div class='thread__no-comments'>
+There are currently no comments for this talk.
+</div>
+<div class='talk-comments__more'>
+<a class='button button--wide thread__more' href='#'>Show more comments</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='col-lg-4'>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id='master-gpt' style='height:0'>
+<script>
+  g('ads.displayMasterAd', {
+    adUnit:      "/5641/ted2/talk",
+    containerId: "master-gpt",
+    targeting:   {"id":2302,"talk":"jon_ronson_what_happens_when_online_shaming_spirals_out_of_control","tag":"culture,humanity,social media,society,technology","year":"2015","event":"TEDGlobalLondon"}
+  });
+</script>
+</div>
+
+<script>q("talkPage.init",{"talks":[{"id":2302,"duration":1031,"languages":[{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/JonRonson_2015G-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2015G/Blank/JonRonson_2015G-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2015G/Blank/JonRonson_2015G-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2015G/Blank/JonRonson_2015G-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2015G/Blank/JonRonson_2015G-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2015G/Blank/JonRonson_2015G-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2015G/Blank/JonRonson_2015G-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2015G/Blank/JonRonson_2015G-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDGlobalLondon%26id%3D2302%26tag%3Dculture%2Chumanity%2Csocial%2Bmedia%2Csociety%2Ctechnology%26talk%3Djon_ronson_what_happens_when_online_shaming_spirals_out_of_control%26year%3D2015\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/2302.m3u8","metadata":"https://hls.ted.com/talks/2302.json"}},"targeting":{"id":2302,"talk":"jon_ronson_what_happens_when_online_shaming_spirals_out_of_control","tag":"culture,humanity,social media,society,technology","year":"2015","event":"TEDGlobalLondon"},"canonical":"http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control","external":null,"name":"존 론슨: 온라인 상의 모욕이 통제를 벗어날 때 생기는 일","title":"온라인 상의 모욕이 통제를 벗어날 때 생기는 일","speaker":"존 론슨","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/bd82943883da85a6df233090923b3699ee9f6f14_2880x1620.jpg?quality=89\u0026w=600","slug":"jon_ronson_what_happens_when_online_shaming_spirals_out_of_control","event":"TEDGlobalLondon","filmed":1434412800,"published":1437404385,"nativeDownloads":{"low":"http://download.ted.com/talks/JonRonson_2015G-light.mp4?apikey=489b859150fc58263f17110eeb44ed5fba4a3b22","medium":"http://download.ted.com/talks/JonRonson_2015G.mp4?apikey=489b859150fc58263f17110eeb44ed5fba4a3b22","high":"http://download.ted.com/talks/JonRonson_2015G-480p.mp4?apikey=489b859150fc58263f17110eeb44ed5fba4a3b22"},"subtitledDownloads":{"sq":{"name":"Albanian","low":"http://download.ted.com/talks/JonRonson_2015G-low-sq.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-sq.mp4"},"ar":{"name":"Arabic","low":"http://download.ted.com/talks/JonRonson_2015G-low-ar.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-ar.mp4"},"bg":{"name":"Bulgarian","low":"http://download.ted.com/talks/JonRonson_2015G-low-bg.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-bg.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"http://download.ted.com/talks/JonRonson_2015G-low-zh-tw.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-zh-tw.mp4"},"hr":{"name":"Croatian","low":"http://download.ted.com/talks/JonRonson_2015G-low-hr.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-hr.mp4"},"nl":{"name":"Dutch","low":"http://download.ted.com/talks/JonRonson_2015G-low-nl.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-nl.mp4"},"en":{"name":"English","low":"http://download.ted.com/talks/JonRonson_2015G-low-en.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-en.mp4"},"fr":{"name":"French","low":"http://download.ted.com/talks/JonRonson_2015G-low-fr.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-fr.mp4"},"he":{"name":"Hebrew","low":"http://download.ted.com/talks/JonRonson_2015G-low-he.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-he.mp4"},"hu":{"name":"Hungarian","low":"http://download.ted.com/talks/JonRonson_2015G-low-hu.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-hu.mp4"},"ja":{"name":"Japanese","high":"http://download.ted.com/talks/JonRonson_2015G-480p-ja.mp4"},"ko":{"name":"Korean","low":"http://download.ted.com/talks/JonRonson_2015G-low-ko.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-ko.mp4"},"pl":{"name":"Polish","high":"http://download.ted.com/talks/JonRonson_2015G-480p-pl.mp4","low":"http://download.ted.com/talks/JonRonson_2015G-low-pl.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"http://download.ted.com/talks/JonRonson_2015G-low-pt-br.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-pt-br.mp4"},"sr":{"name":"Serbian","low":"http://download.ted.com/talks/JonRonson_2015G-low-sr.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-sr.mp4"},"es":{"name":"Spanish","low":"http://download.ted.com/talks/JonRonson_2015G-low-es.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-es.mp4"},"sv":{"name":"Swedish","low":"http://download.ted.com/talks/JonRonson_2015G-low-sv.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-sv.mp4"},"tr":{"name":"Turkish","low":"http://download.ted.com/talks/JonRonson_2015G-low-tr.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-tr.mp4"},"uk":{"name":"Ukrainian","low":"http://download.ted.com/talks/JonRonson_2015G-low-uk.mp4","high":"http://download.ted.com/talks/JonRonson_2015G-480p-uk.mp4"}},"audioDownload":"http://download.ted.com/talks/JonRonson_2015G.mp3?apikey=489b859150fc58263f17110eeb44ed5fba4a3b22","shareUrl":"http://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control?language=ko"}],"language":"ko","ratings":[{"id":22,"name":"Fascinating","count":213},{"id":24,"name":"Persuasive","count":197},{"id":3,"name":"Courageous","count":234},{"id":8,"name":"Informative","count":252},{"id":23,"name":"Jaw-dropping","count":52},{"id":7,"name":"Funny","count":20},{"id":1,"name":"Beautiful","count":37},{"id":10,"name":"Inspiring","count":148},{"id":21,"name":"Unconvincing","count":27},{"id":26,"name":"Obnoxious","count":6},{"id":2,"name":"Confusing","count":2},{"id":9,"name":"Ingenious","count":9},{"id":11,"name":"Longwinded","count":3},{"id":25,"name":"OK","count":31}],"relatedTalks":[{"image":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/eaa7589ad922853aaddcb4a4804d4c0b11c66dd5_1600x1200.jpg?quality=75\u0026w=500","speaker":"Jon Ronson","title":"Strange answers to the psychopath test","duration":1081,"slug":"jon_ronson_strange_answers_to_the_psychopath_test"},{"image":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/630d123572ec57fd0a35a1b15016cf4a3d1ec40f_1600x1200.jpg?quality=75\u0026w=500","speaker":"Del Harvey","title":"Protecting Twitter users (sometimes from themselves)","duration":559,"slug":"del_harvey_the_strangeness_of_scale_at_twitter"},{"image":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/7adb146402a457282081af7f165e3912e6bab151_2880x1620.jpg?quality=75\u0026w=500","speaker":"Monica Lewinsky","title":"The price of shame","duration":1346,"slug":"monica_lewinsky_the_price_of_shame"},{"image":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/af8ac79447ce0b5c25a32f0f47e62e4c320ff408_2880x1620.jpg?quality=75\u0026w=500","speaker":"Jedidah Isler","title":"The untapped genius that could change science for the better","duration":822,"slug":"jedidah_isler_the_untapped_genius_that_could_change_science_for_the_better"},{"image":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/742a188dfebaad322d02dfd7ee578fc58af03bb3_2880x1620.jpg?quality=75\u0026w=500","speaker":"Chieko Asakawa","title":"How new technology helps blind people explore the world","duration":569,"slug":"chieko_asakawa_how_new_technology_helps_blind_people_explore_the_world"},{"image":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/fcefb83d4caebcc2dd427dd3cd10cd14401f6e60_2880x1620.jpg?quality=75\u0026w=500","speaker":"Jessica Shortall","title":"The US needs paid family leave -- for the sake of its future","duration":945,"slug":"jessica_shortall_how_america_fails_new_parents_and_their_babies"},{"image":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/ef001fcaa620822c0c70b0c2a991ec26e5350f07_2880x1620.jpg?quality=75\u0026w=500","speaker":"Marina Abramović","title":"An art made of trust, vulnerability and connection","duration":951,"slug":"marina_abramovic_an_art_made_of_trust_vulnerability_and_connection"},{"image":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/f90e60dda1de661c95eeb11775c76d30568cd3d5_2880x1620.jpg?quality=75\u0026w=500","speaker":"Genevieve von Petzinger","title":"Why are these 32 symbols found in ancient caves all over Europe?","duration":725,"slug":"genevieve_von_petzinger_why_are_these_32_symbols_found_in_ancient_caves_all_over_europe"},{"image":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/fdfeb3082f3bf3cb3a35f8df39347c79b0aeb37d_2880x1620.jpg?quality=75\u0026w=500","speaker":"Anote Tong","title":"My country will be underwater soon -- unless we work together","duration":1275,"slug":"anote_tong_my_country_will_be_underwater_soon_unless_we_work_together"},{"image":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/fdc5961387a74f59d7785e515eda25ccb76ff52f_2880x1620.jpg?quality=75\u0026w=500","speaker":"Chelsea Shields","title":"How I'm working for change inside my church","duration":756,"slug":"chelsea_shields_how_i_m_working_for_change_inside_my_church"}],"threadId":26922})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

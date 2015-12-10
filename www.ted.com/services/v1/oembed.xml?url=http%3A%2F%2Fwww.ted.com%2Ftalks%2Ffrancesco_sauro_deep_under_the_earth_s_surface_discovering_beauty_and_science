@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Francesco Sauro: Deep under the Earth's surface, discovering beauty and science</title>
+  <description>Cave explorer and geologist Francesco Sauro travels to the hidden continent under our feet, surveying deep, dark places inside the earth that humans have never been able to reach before. In the spectacular tepuis of South America, he finds new minerals and insects that have evolved in isolation, and he uses his knowledge of these alien worlds to train astronauts.</description>
+  <url>http://www.ted.com/talks/francesco_sauro_deep_under_the_earth_s_surface_discovering_beauty_and_science</url>
+  <author-name>Francesco Sauro</author-name>
+  <author-url>http://www.ted.com/speakers/francesco_sauro</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/db520b45e8ca98992b838d4c29b0201221bb3e0d_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/francesco_sauro_deep_under_the_earth_s_surface_discovering_beauty_and_science.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

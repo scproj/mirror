@@ -1,0 +1,1060 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>프란시스 랄슨(Frances Larson): 공개참수가 수 백만개의 조회수를 받는 이유 | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="프란시스 랄슨(Frances Larson): 공개참수가 수 백만개의 조회수를 받는 이유 | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: 불편하지만 매력적인 역사 속으로의 산책에서 프란시스 랄슨은 인류와 공개 처형, 특히 참수형과의 이상한 관계에 대해 고찰합니다. 그녀가 보여주듯, 공개처형은 관중을 끌어모았고 처음에는 광장이었으나 이제는 유투브로 모이게 되었습니다. 공개처형은 무엇 때문에 끔찍하면서도 동시에 그만큼 흥미진진할까요?" name="description" />
+<meta content="프란시스 랄슨(Frances Larson)" name="author" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=hi" hreflang="hi" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=sv" hreflang="sv" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript?language=uk" hreflang="uk" rel="alternate" />
+<meta content="Transcript of &quot;공개참수가 수 백만개의 조회수를 받는 이유&quot;" property="og:title" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/781042f87671357480c70b7fc64d8898eae86efd_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/781042f87671357480c70b7fc64d8898eae86efd_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: 불편하지만 매력적인 역사 속으로의 산책에서 프란시스 랄슨은 인류와 공개 처형, 특히 참수형과의 이상한 관계에 대해 고찰합니다. 그녀가 보여주듯, 공개처형은 관중을 끌어모았고 처음에는 광장이었으나 이제는 유투브로 모이게 되었습니다. 공개처형은 무엇 때문에 끔찍하면서도 동시에 그만큼 흥미진진할까요?" property="og:description" />
+<meta content="http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk-ie.css?1449612282">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk.css?1449612282">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"Backbone":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","embed":"embed.js?23f83514c0a631545d35c263790da013","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","swatch":"swatch.js?af26d6cbf9673f6060dfc8b18154c39c","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","libs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","touchPunch":"touchPunch.js?47b6211b7aef9750ac4f6613a4256cc9","deferLink":"deferLink.js?e753127d1427d48d2dba8b3f593baec2","swfobject":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","dq":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","surprise_me":"surprise_me.js?07929707d7c91175cb34732107402b0b","jqueryujs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","SwipeView":"SwipeView.js?3d6ab40c7f02be91047f9e6802690af6","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Swipe":"Swipe.js?b746c9e9c38bd13ef622cfeed09ba6bf","Mailcheck":"Mailcheck.js?4752d459b0ac03f738bb7db1571d9a00","depot":"depot.js?6d97c6ff1eb27088493186e2db478ee0","ZeroClipboard":"ZeroClipboard.js?65f3b285606bcf3acd44bb2c25a6406d","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","pages":"pages.js?17cdddd45428c47b7469c56c84257ae1","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","hbs":"hbs.js?62ffd6dc422a088483ef7863de071d9e","talk":"talk.js?51221de80bbdf101073772b806dcd5d2","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","Cookies":"Cookies.js?ec959f431471b295566bcf6ad4298fcb","spinjs":"spinjs.js?0f67f5820075f88643c601a4284d14b2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","tedx":"tedx.js?27a3d0c882820e1a4ee6a7aad1d95d48","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","autosize":"autosize.js?c463a94f6da61cb86e53ea61dbcb6735","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","dashboard_hotels":"dashboard_hotels.js?d19435a801331067f5048d1c7b3bb747","crushinator":"crushinator.js?2b8d78a40a52bb661b0b4fcf32e166c9","home":"home.js?1241a7e9294d8677392f76b903746a75","settings":"settings.js?e3325b55ee4c74c02a9feaf0e5bcba53","moment":"moment.js?408f6a21d69b26bb98a3c705e51e7764","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","profiles":"profiles.js?456ec8e9c630a07c9b3a83c468f029c3","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","numeral":"numeral.js?611d7abced1fea00d28e10252bff308e","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","global":"global.js?a8f475509c478d1b04dd10477b2510e3","dashboard_sessions":"dashboard_sessions.js?ec189bd2ee9f9489834ccd2aee456c31","Modernizr":"Modernizr.js?8d4a21cfb9a3fcefdabddaac961016fe","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","menuAim":"menuAim.js?a94480af4d342b45c24626ac8f6a1f80","dashboard":"dashboard.js?286613b789f90d9c8b906950c59bfb05","pages/dynamic/dummy":"pages/dynamic/dummy.js?3967fae7f441a192ac0a2b697e4e7a3d","playlists":"playlists.js?bd6b90efccb6b196b5ce73684719c8c3","lodash":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","flot":"flot.js?cc487fa44adf9da4523f900fe26c7c0d","search":"search.js?06cfabf03223b309e632669510068bde","jquery":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","newsletter":"newsletter.js?51e416cf51603cd78b8ab750e35c8f5f","transit":"transit.js?1bb6034bee2f350ddcc3876a929ed54c","talks":"talks.js?d20a21859341240c8901c77effade7f8","waypoints":"waypoints.js?a6a99f3a64e668c5afdfe0aaa1245215","hbs/handlebars":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612282"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/frances_larson_why_public_beheadings_get_millions_of_views?language=ko'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Return to talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='frances_larson_why_public_beheadings_get_millions_of_views'>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='hr'>Croatian</option>
+<option value='en'>English</option>
+<option value='fr'>French</option>
+<option value='hi'>Hindi</option>
+<option value='ja'>Japanese</option>
+<option selected value='ko'>Korean</option>
+<option value='fa'>Persian</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='sv'>Swedish</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+</select>
+<p>
+Translated by
+<a href="http://www.ted.com/profiles/5079421">Ju Hye Lim</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/2591230">Jihyeon J. Kim</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views?language=ko' language='ko'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="957" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/781042f87671357480c70b7fc64d8898eae86efd_2880x1620.jpg?quality=89&amp;w=320" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">15:57</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>프란시스 랄슨(Frances Larson)</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views?language=ko' lang='ko'>
+공개참수가 수 백만개의 조회수를 받는 이유
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Sep 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Persuasive
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='960' id='t-960'>작년에</span>
+<span class='talk-transcript__fragment' data-time='2240' id='t-2240'>모든 사람들이 똑같은
+프로를 보았습니다.</span>
+<span class='talk-transcript__fragment' data-time='4920' id='t-4920'>&quot;왕좌의 게임&quot;을 말하는게 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='7160' id='t-7160'>TV를 못 끌 정도로 마음을 사로잡은</span>
+<span class='talk-transcript__fragment' data-time='10120' id='t-10120'>무섭고 현실적인 드라마였습니다.</span>
+<span class='talk-transcript__fragment' data-time='13400' id='t-13400'>이 드라마는 살인범들이 만들었고</span>
+<span class='talk-transcript__fragment' data-time='16120' id='t-16120'>인터넷을 통해 전세계와 공유되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='20080' id='t-20080'>그들의 이름은 이제 익숙합니다.</span>
+<span class='talk-transcript__fragment' data-time='22560' id='t-22560'>제임스 폴리, 스티븐 소틀로프, 
+데이빗 헤인즈, 알란 헤니그, 피터 카시그</span>
+<span class='talk-transcript__fragment' data-time='29480' id='t-29480'>하루나 유카와, 켄지 고토 요고</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:44
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='33120' id='t-33120'>이들은 이슬람 국가에서
+잔인하게 참수되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='37486' id='t-37486'>하지만 그들이 동떨어진, 암흑의 시대의</span>
+<span class='talk-transcript__fragment' data-time='41280' id='t-41280'>사람들이라고 생각한다면 틀린 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='45846' id='t-45846'>그들은 독특하게 현대적입니다.</span>
+<span class='talk-transcript__fragment' data-time='48600' id='t-48600'>왜냐하면 살인자들은 백만 명의 사람들이</span>
+<span class='talk-transcript__fragment' data-time='51480' id='t-51480'>채널을 고정하고 보리라는 걸
+잘 알고 행동했기 때문입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+01:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='55680' id='t-55680'>신문에서는 그들을
+야만인과 미개인이라 불렀습니다.</span>
+<span class='talk-transcript__fragment' data-time='59040' id='t-59040'>한 인간이 다른 인간을 제압하고</span>
+<span class='talk-transcript__fragment' data-time='62520' id='t-62520'>칼로 목을 베어 죽이는 이미지가</span>
+<span class='talk-transcript__fragment' data-time='64800' id='t-64800'>우리 생각에 고대의 원시적인
+관습에 해당하기 때문입니다.</span>
+<span class='talk-transcript__fragment' data-time='69120' id='t-69120'>우리의 도시적이고 문명화된
+방식과는 정반대로요.</span>
+<span class='talk-transcript__fragment' data-time='74240' id='t-74240'>우리는 그런 짓을 하지 않습니다.</span>
+<span class='talk-transcript__fragment' data-time='77960' id='t-77960'>하지만 그게 모순입니다.</span>
+<span class='talk-transcript__fragment' data-time='79800' id='t-79800'>우리는 참수형이 우리와
+관련없다고 생각합니다.</span>
+<span class='talk-transcript__fragment' data-time='82480' id='t-82480'>보려고 화면을 클릭하면서도 말이죠.</span>
+<span class='talk-transcript__fragment' data-time='86280' id='t-86280'>하지만 우리와 상관이 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='89840' id='t-89840'>이슬람 국가의 참수형은</span>
+<span class='talk-transcript__fragment' data-time='92320' id='t-92320'>구식도 아니고 동떨어진 것도 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='95040' id='t-95040'>전세계적인 21세기의 사건입니다.</span>
+<span class='talk-transcript__fragment' data-time='98080' id='t-98080'>우리의 거실과 책상 위에서
+컴퓨터 화면에서 일어나는</span>
+<span class='talk-transcript__fragment' data-time='103040' id='t-103040'>21세기의 사건입니다.</span>
+<span class='talk-transcript__fragment' data-time='105400' id='t-105400'>그들은 우리와 연결시켜주는 
+기술의 힘에 완전히 의존합니다.</span>
+<span class='talk-transcript__fragment' data-time='110880' id='t-110880'>그리고 우리가 좋든 싫든
+그걸 보는 모두가 쇼의 일부입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='117280' id='t-117280'>많은 사람들이 보죠.</span>
+<span class='talk-transcript__fragment' data-time='121560' id='t-121560'>정확히 얼만지는 모릅니다.</span>
+<span class='talk-transcript__fragment' data-time='123120' id='t-123120'>당연히 세기 힘들죠.</span>
+<span class='talk-transcript__fragment' data-time='125800' id='t-125800'>하지만 2014년 8월에 영국에서
+실시한 여론조사에 따르면</span>
+<span class='talk-transcript__fragment' data-time='131480' id='t-131480'>1200만명 정도가</span>
+<span class='talk-transcript__fragment' data-time='137320' id='t-137320'>제임스 폴리 참수형 영상이 올라간 지</span>
+<span class='talk-transcript__fragment' data-time='140800' id='t-140800'>며칠 이내 시청했다고 합니다.</span>
+<span class='talk-transcript__fragment' data-time='144600' id='t-144600'>이건 그냥 처음 며칠동안 
+영국에서만 본 숫자에 불과합니다.</span>
+<span class='talk-transcript__fragment' data-time='149680' id='t-149680'>미국에서도 2014년 11월에 
+비슷한 여론조사를 했는데</span>
+<span class='talk-transcript__fragment' data-time='154960' id='t-154960'>응답자 중 9%의 사람들이
+참수형 영상을 보았고</span>
+<span class='talk-transcript__fragment' data-time='160520' id='t-160520'>23%의 사람들이</span>
+<span class='talk-transcript__fragment' data-time='162800' id='t-162800'>영상을 봤지만 죽기 전에
+껐다고 했습니다.</span>
+<span class='talk-transcript__fragment' data-time='168720' id='t-168720'>9%는 볼 수 있는 사람들 중
+소수일지도 모르지만</span>
+<span class='talk-transcript__fragment' data-time='173720' id='t-173720'>여전히 많은 숫자입니다.</span>
+<span class='talk-transcript__fragment' data-time='176800' id='t-176800'>그리고 물론 그 수는
+계속 늘어나고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='179560' id='t-179560'>매 주, 매 달마다</span>
+<span class='talk-transcript__fragment' data-time='181720' id='t-181720'>더 많은 사람들이 계속 다운받고
+시청할 것이기 때문이죠.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:17
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='186600' id='t-186600'>11년 전으로 돌아가보면</span>
+<span class='talk-transcript__fragment' data-time='188560' id='t-188560'>유투브나 페이스북같은
+사이트가 생기기 전에도</span>
+<span class='talk-transcript__fragment' data-time='192040' id='t-192040'>상황은 비슷했습니다</span>
+<span class='talk-transcript__fragment' data-time='193800' id='t-193800'>다니엘 펄, 닉 버그, 폴 존슨과 같은</span>
+<span class='talk-transcript__fragment' data-time='197200' id='t-197200'>무고한 시민들이 참수당했을 떄</span>
+<span class='talk-transcript__fragment' data-time='201160' id='t-201160'>이라크 전쟁 중에 영상이
+배포되었습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='204800' id='t-204800'>닉 버그의 참수형은</span>
+<span class='talk-transcript__fragment' data-time='206480' id='t-206480'>빠른 속도로 인터넷에서 가장 많이
+검색한 검색어 중 하나가 되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='212200' id='t-212200'>하루 만에 구글, 라이코스, 야후같은</span>
+<span class='talk-transcript__fragment' data-time='215240' id='t-215240'>검색엔진에서 검색어 순위가 
+상위권에 들어갔습니다.</span>
+<span class='talk-transcript__fragment' data-time='220360' id='t-220360'>참수당한 그 다음주에는</span>
+<span class='talk-transcript__fragment' data-time='223560' id='t-223560'>미국에서 이 검색어들이
+10위 안의 검색어들이었습니다.</span>
+<span class='talk-transcript__fragment' data-time='228880' id='t-228880'>버그의 참수영상은 일주일간
+가장 많이 검색된 단어였고</span>
+<span class='talk-transcript__fragment' data-time='233800' id='t-233800'>5월 한달을 통틀어 2번째로
+가장 많이 검색된 단어였습니다.</span>
+<span class='talk-transcript__fragment' data-time='238440' id='t-238440'>1위는 &quot;아메리칸 아이돌&quot;이었습니다.</span>
+<span class='talk-transcript__fragment' data-time='242640' id='t-242640'>알카에다와 연결된 닉 버그의 참수영상을
+첫 번째로 보여준 웹사이트는</span>
+<span class='talk-transcript__fragment' data-time='247360' id='t-247360'>접속이 폭주해 이틀 만에
+닫아야 했습니다.</span>
+<span class='talk-transcript__fragment' data-time='253600' id='t-253600'>네덜란드인인 사이트 
+소유자는 일일 조회수가</span>
+<span class='talk-transcript__fragment' data-time='257760' id='t-257760'>이라크 참수영상이 공개될 때마다</span>
+<span class='talk-transcript__fragment' data-time='262600' id='t-262600'>30만명에서 75만명으로
+늘어난다고 했습니다.</span>
+<span class='talk-transcript__fragment' data-time='266440' id='t-266440'>그는 18개월 후 기자들에게</span>
+<span class='talk-transcript__fragment' data-time='269600' id='t-269600'>영상이 몇 백만번이나
+다운로드되었다고 말했습니다.</span>
+<span class='talk-transcript__fragment' data-time='273000' id='t-273000'>이건 한 웹사이트에 불과합니다.</span>
+<span class='talk-transcript__fragment' data-time='275760' id='t-275760'>이라크 전쟁 중에 참수영상이</span>
+<span class='talk-transcript__fragment' data-time='278280' id='t-278280'>공개될 때 마다 비슷한 패턴이
+계속 목격되었습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='284880' id='t-284880'>소셜미디어 덕분에 이런 이미지는
+그 어느 때보다 접근가능합니다.</span>
+<span class='talk-transcript__fragment' data-time='289920' id='t-289920'>하지만 더 과거로 돌아가보면</span>
+<span class='talk-transcript__fragment' data-time='293480' id='t-293480'>공개 참수의 역사에서 처음으로
+새로운 형태의 관중을 만들어낸 건</span>
+<span class='talk-transcript__fragment' data-time='298640' id='t-298640'>카메라였다는 걸 볼 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='302840' id='t-302840'>아주 오래 전인 1939년 6월 17일에</span>
+<span class='talk-transcript__fragment' data-time='305920' id='t-305920'>카메라가 나타나자마자</span>
+<span class='talk-transcript__fragment' data-time='309680' id='t-309680'>그 효과는 즉각적이고 성공적이었습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:24
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='313400' id='t-313400'>그 날, 프랑스에서 최초의
+공개처형 영상이 만들어졌습니다.</span>
+<span class='talk-transcript__fragment' data-time='319680' id='t-319680'>베르사유에 있는 생 피에르 
+감옥 밖에서 독일 연쇄살인마인</span>
+<span class='talk-transcript__fragment' data-time='325440' id='t-325440'>유진 바이드만의 단두대 처형이었습니다.</span>
+<span class='talk-transcript__fragment' data-time='330240' id='t-330240'>바이드만은 새벽녘에
+처형되기로 되어 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='333240' id='t-333240'>그 당시에는 관례적이었습니다.</span>
+<span class='talk-transcript__fragment' data-time='335440' id='t-335440'>하지만 사형 집행인이 신입이어서</span>
+<span class='talk-transcript__fragment' data-time='338040' id='t-338040'>준비하는 데 걸리는 시간을
+과소평가했습니다.</span>
+<span class='talk-transcript__fragment' data-time='341920' id='t-341920'>그래서 새벽 4시 30에 처형되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='346080' id='t-346080'>6월의 아침이었기 때문에</span>
+<span class='talk-transcript__fragment' data-time='348480' id='t-348480'>사진 찍기에 빛이 충분했고,</span>
+<span class='talk-transcript__fragment' data-time='351880' id='t-351880'>관중의 한 사람이 장면을 녹화했습니다.</span>
+<span class='talk-transcript__fragment' data-time='356040' id='t-356040'>당국이 모르는 사이에요.</span>
+<span class='talk-transcript__fragment' data-time='359040' id='t-359040'>사진도 몇 장 찍혔습니다.</span>
+<span class='talk-transcript__fragment' data-time='363360' id='t-363360'>그리고 오늘날까지도 영상과 사진을</span>
+<span class='talk-transcript__fragment' data-time='367520' id='t-367520'>온라인에서 볼 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='370960' id='t-370960'>비어드만의 처형을 구경한 관중들을</span>
+<span class='talk-transcript__fragment' data-time='374400' id='t-374400'>언론은 &quot;통제불능&quot;이고 
+&quot;역겹&quot;다고 말했습니다.</span>
+<span class='talk-transcript__fragment' data-time='378400' id='t-378400'>하지만 이들은 정지화면으로 
+처형을 상세하게</span>
+<span class='talk-transcript__fragment' data-time='382600' id='t-382600'>보고 또 볼 수 있는
+언급되지 않은</span>
+<span class='talk-transcript__fragment' data-time='385240' id='t-385240'>수 천의 사람들에 비하면 
+아무것도 아니었습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+06:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='391120' id='t-391120'>카메라가 이런 장면을 더 
+잘 볼 수 있게 했을지 모르지만</span>
+<span class='talk-transcript__fragment' data-time='396000' id='t-396000'>이것은 단순히 카메라에 
+관한 것이 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='398680' id='t-398680'>역사 속으로 더 깊이 들어가보면</span>
+<span class='talk-transcript__fragment' data-time='401120' id='t-401120'>공개 형벌집행과 참수형이 있었던 만큼의</span>
+<span class='talk-transcript__fragment' data-time='403320' id='t-403320'>오랜 세월동안 그걸 보기 위한 
+관중도 존재했습니다.</span>
+<span class='talk-transcript__fragment' data-time='409920' id='t-409920'>매우 최근인 19세기 초반의 런던에서는</span>
+<span class='talk-transcript__fragment' data-time='413080' id='t-413080'>보통의 교수형은 4-5천명의 
+사람들이 구경했고</span>
+<span class='talk-transcript__fragment' data-time='417760' id='t-417760'>유명한 범죄자의 사형은
+4-5만명이 구경했습니다.</span>
+<span class='talk-transcript__fragment' data-time='423080' id='t-423080'>그 당시 영국에서 흔치 않았던 참수형은</span>
+<span class='talk-transcript__fragment' data-time='427520' id='t-427520'>더 많은 사람들을 끌어모았습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='429840' id='t-429840'>1820년 5월에</span>
+<span class='talk-transcript__fragment' data-time='432920' id='t-432920'>카토가 음모가들로 알려진
+5명의 남자들이</span>
+<span class='talk-transcript__fragment' data-time='436960' id='t-436960'>런던에서 영국 정부의 의원의</span>
+<span class='talk-transcript__fragment' data-time='439120' id='t-439120'>암살을 공모한 죄로 처형되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='442440' id='t-442440'>목이 매여진 뒤 참수당했습니다.</span>
+<span class='talk-transcript__fragment' data-time='446120' id='t-446120'>소름끼치는 장면이었습니다.</span>
+<span class='talk-transcript__fragment' data-time='448120' id='t-448120'>각자 차례로 머리가 베어져
+군중들 위로 들어올려졌습니다.</span>
+<span class='talk-transcript__fragment' data-time='452520' id='t-452520'>그리고 10만명의 사람들이</span>
+<span class='talk-transcript__fragment' data-time='454720' id='t-454720'>웸블리 스타디움에 들어가는
+만 명보다 10배나 많은 수입니다.</span>
+<span class='talk-transcript__fragment' data-time='458360' id='t-458360'>보러 모였습니다.</span>
+<span class='talk-transcript__fragment' data-time='460320' id='t-460320'>거리는 사람들로 가득 찼고</span>
+<span class='talk-transcript__fragment' data-time='462600' id='t-462600'>사람들은 지붕이나 창문을 빌리고</span>
+<span class='talk-transcript__fragment' data-time='466840' id='t-466840'>거리의 수레나 마차 위로 올라갔습니다.</span>
+<span class='talk-transcript__fragment' data-time='469880' id='t-469880'>가로등도 타고 올라갔습니다.</span>
+<span class='talk-transcript__fragment' data-time='472000' id='t-472000'>인기 많은 처형일에는
+압사당한 사람들도 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+08:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='478120' id='t-478120'>공개 처형과 참수형의 역사를 통틀어서</span>
+<span class='talk-transcript__fragment' data-time='481560' id='t-481560'>보러 오는 사람들 중 다수가</span>
+<span class='talk-transcript__fragment' data-time='484920' id='t-484920'>열광하거나 기껏해야 감흥이 
+없다는 것을 증거가 말해줍니다.</span>
+<span class='talk-transcript__fragment' data-time='493520' id='t-493520'>역겨워하는 경우는 거의 없습니다.</span>
+<span class='talk-transcript__fragment' data-time='497160' id='t-497160'>역겨워하고 끔찍해하더라도</span>
+<span class='talk-transcript__fragment' data-time='501400' id='t-501400'>사람들은 여전히 보러 
+나오는 것을 멈추지 않습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+08:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='506600' id='t-506600'>참수형을 보고도 감흥이 없을 수 있는</span>
+<span class='talk-transcript__fragment' data-time='509840' id='t-509840'>심지어는 실망하는 
+사람들의 능력을 보여주는</span>
+<span class='talk-transcript__fragment' data-time='515159' id='t-515159'>가장 충격적인 예는</span>
+<span class='talk-transcript__fragment' data-time='517520' id='t-517520'>1792년에 프랑스에서
+그 유명한 참수 기계인</span>
+<span class='talk-transcript__fragment' data-time='523000' id='t-523000'>단두대가 도입된 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='526240' id='t-526240'>21세기에 사는 우리에겐</span>
+<span class='talk-transcript__fragment' data-time='528880' id='t-528880'>단두대가 극악무도한 기계처럼
+보일 수도 있겠지만</span>
+<span class='talk-transcript__fragment' data-time='532400' id='t-532400'>그것을 처음 본 관중에게는
+사실 실망을 안겨주었습니다.</span>
+<span class='talk-transcript__fragment' data-time='538880' id='t-538880'>그들은 사람들이 잘리고
+불에 타고 천천히 분해되는,</span>
+<span class='talk-transcript__fragment' data-time='545440' id='t-545440'>오랫동안 질질 끄는 고통스러운
+집행을 보는 것에 익숙했습니다.</span>
+<span class='talk-transcript__fragment' data-time='550920' id='t-550920'>그들에게 단두대를 사용하는 건</span>
+<span class='talk-transcript__fragment' data-time='553920' id='t-553920'>너무 빨라서 볼 게 없었습니다.</span>
+<span class='talk-transcript__fragment' data-time='557120' id='t-557120'>칼날이 떨어지고 목이 바구니로 떨어져서
+순식간에 시야에서 사라졌습니다.</span>
+<span class='talk-transcript__fragment' data-time='562360' id='t-562360'>그리고 그들은 소리쳤습니다.</span>
+<span class='talk-transcript__fragment' data-time='564080' id='t-564080'>&quot;교수대를 다시 내놓아라,
+나무로 된 교수대를 다시 내놓아라.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+09:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='569360' id='t-569360'>유럽과 미국의 고통스러운
+공개 처형이 없어진 것은</span>
+<span class='talk-transcript__fragment' data-time='574560' id='t-574560'>부분적으로는 범죄자를 더 인간적으로
+대하기 위해서이기도 했지만</span>
+<span class='talk-transcript__fragment' data-time='578520' id='t-578520'>그래야 마땅한 방식으로
+행동하기를 거부하는</span>
+<span class='talk-transcript__fragment' data-time='583280' id='t-583280'>군중때문인 것도 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='585560' id='t-585560'>처형일은 너무나 자주</span>
+<span class='talk-transcript__fragment' data-time='587920' id='t-587920'>엄숙한 의식이라기보다
+축제같았습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:03
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='592520' id='t-592520'>오늘날, 유럽과 미국에서 공개처형은
+상상도 할 수 없습니다.</span>
+<span class='talk-transcript__fragment' data-time='597360' id='t-597360'>하지만 우리가 더 이상
+그렇게 행동하지 않으며</span>
+<span class='talk-transcript__fragment' data-time='600120' id='t-600120'>이젠 상황이 다르다고 생각하지 않도록</span>
+<span class='talk-transcript__fragment' data-time='602200' id='t-602200'>조심하게 만들 수 있는
+다른 시나리오들이 있죠.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:16
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='605560' id='t-605560'>자살격려사건들을 예로 들어보죠.</span>
+<span class='talk-transcript__fragment' data-time='610200' id='t-610200'>이 때에 군중들은 자살하기 위해</span>
+<span class='talk-transcript__fragment' data-time='612400' id='t-612400'>공공건물의 꼭대기에 올라간 사람을</span>
+<span class='talk-transcript__fragment' data-time='616040' id='t-616040'>보기 위해 모여들고</span>
+<span class='talk-transcript__fragment' data-time='618480' id='t-618480'>군중 속의 사람들은 
+소리지르고 야유합니다.</span>
+<span class='talk-transcript__fragment' data-time='621480' id='t-621480'>&quot;빨리 해! 어서 뛰어내려!&quot;</span>
+<span class='talk-transcript__fragment' data-time='624600' id='t-624600'>이것은 많이 알려진 현상입니다.</span>
+<span class='talk-transcript__fragment' data-time='628120' id='t-628120'>1981년에 한 논문은 21건의
+자살 협박 중 10건에서</span>
+<span class='talk-transcript__fragment' data-time='634400' id='t-634400'>군중들의 자살격려와
+조롱이 있었다고 합니다.</span>
+<span class='talk-transcript__fragment' data-time='639280' id='t-639280'>올해에도 언론에서 보도된
+사건들이 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='644880' id='t-644880'>널리 보도된 사건이었는데</span>
+<span class='talk-transcript__fragment' data-time='647680' id='t-647680'>올해 3월에 텔포드와
+슈롭셔에서 일어났습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='650680' id='t-650680'>오늘날 이런 일이 일어나면</span>
+<span class='talk-transcript__fragment' data-time='652320' id='t-652320'>사람들은 핸드폰으로
+사진과 동영상을 찍습니다.</span>
+<span class='talk-transcript__fragment' data-time='655760' id='t-655760'>그리고 인터넷에 동영상을 올리죠.</span>
+<span class='talk-transcript__fragment' data-time='660120' id='t-660120'>참수 영상을 올리는 악랄한
+살인마들의 경우에는</span>
+<span class='talk-transcript__fragment' data-time='663840' id='t-663840'>인터넷은 새로운 형태의
+군중을 만들었습니다.</span>
+<span class='talk-transcript__fragment' data-time='667560' id='t-667560'>오늘날, 사건은 먼 곳에서
+가깝지 않은 때에 일어나서</span>
+<span class='talk-transcript__fragment' data-time='672600' id='t-672600'>시청자들이 일어나고 있는 일에
+거리감과 단절감을 느끼게 합니다.</span>
+<span class='talk-transcript__fragment' data-time='677236' id='t-677236'>나랑은 상관이 없어.</span>
+<span class='talk-transcript__fragment' data-time='678960' id='t-678960'>이미 일어났잖아.</span>
+<span class='talk-transcript__fragment' data-time='681400' id='t-681400'>우리는 또 전례없는
+친밀감을 느끼게 됩니다,</span>
+<span class='talk-transcript__fragment' data-time='684960' id='t-684960'>오늘날 우리는 모두
+맨 앞자리를 제공받습니다.</span>
+<span class='talk-transcript__fragment' data-time='687680' id='t-687680'>모두 혼자서 원하는 시간과
+장소에서 시청할 수 있죠.</span>
+<span class='talk-transcript__fragment' data-time='691440' id='t-691440'>우리가 화면을 클릭했다는 걸
+아무도 알 필요가 없습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='696520' id='t-696520'>다른 사람들로부터 사건 
+자체로부터의 단절감은</span>
+<span class='talk-transcript__fragment' data-time='701526' id='t-701526'>우리의 시청할 수 있는 능력을
+이해하는 데 핵심적인 열쇠입니다.</span>
+<span class='talk-transcript__fragment' data-time='705080' id='t-705080'>인터넷이 개인의 도덕적 책임을
+부식시키는 거리감을</span>
+<span class='talk-transcript__fragment' data-time='709680' id='t-709680'>만들어내는 방법에는
+여러가지가 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='714680' id='t-714680'>우리가 온라인에서 하는 활동은
+종종 실생활과 대조를 이룹니다.</span>
+<span class='talk-transcript__fragment' data-time='718400' id='t-718400'>우리가 온라인에서 하는 것들이
+덜 현실적인 양 말이죠.</span>
+<span class='talk-transcript__fragment' data-time='722280' id='t-722280'>인터넷에서 교류할 때 우리는</span>
+<span class='talk-transcript__fragment' data-time='725280' id='t-725280'>행동에 책임을 덜 느낍니다.</span>
+<span class='talk-transcript__fragment' data-time='728640' id='t-728640'>익명이고 눈에 보이지 않기 때문에</span>
+<span class='talk-transcript__fragment' data-time='732760' id='t-732760'>우리는 행동에 책임을 덜 느낍니다.</span>
+<span class='talk-transcript__fragment' data-time='736800' id='t-736800'>인터넷은 우리가 주로 
+일상생활에서 기피하는</span>
+<span class='talk-transcript__fragment' data-time='741440' id='t-741440'>것들을 더 쉽게 우연히
+마주치게 합니다.</span>
+<span class='talk-transcript__fragment' data-time='745080' id='t-745080'>오늘날, 무엇을 보는지 알기도 전에
+영상은 이미 재생되고 있을 수 있고</span>
+<span class='talk-transcript__fragment' data-time='749960' id='t-749960'>일상생활에서나 다른 사람이
+같이 있었다면</span>
+<span class='talk-transcript__fragment' data-time='754000' id='t-754000'>보지 않았을 것들이
+보고싶어질 수도 있죠.</span>
+<span class='talk-transcript__fragment' data-time='758120' id='t-758120'>행위가 사전에 녹화되어</span>
+<span class='talk-transcript__fragment' data-time='761040' id='t-761040'>멀리 떨어진 시간과 공간에서 벌어진다면</span>
+<span class='talk-transcript__fragment' data-time='765280' id='t-765280'>그걸 시청하는 건 소극적인
+행동으로 보일 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='769280' id='t-769280'>내가 할 수 있는 건 더 이상 없어.</span>
+<span class='talk-transcript__fragment' data-time='771120' id='t-771120'>이미 일어났는걸.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:04
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='773160' id='t-773160'>이 모든 것이 우리가 
+인터넷 사용자로서 더 쉽게</span>
+<span class='talk-transcript__fragment' data-time='776480' id='t-776480'>죽음에 대한 호기심에 항복하고</span>
+<span class='talk-transcript__fragment' data-time='780320' id='t-780320'>개인적 경계를 넓혀</span>
+<span class='talk-transcript__fragment' data-time='783040' id='t-783040'>우리의 충격을 시험하고
+탐구하게 만듭니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='789360' id='t-789360'>하지만 우리는 시청할 때
+소극적이지 않습니다.</span>
+<span class='talk-transcript__fragment' data-time='791720' id='t-791720'>정반대로, 보여지고 싶어하는 살인자의
+욕구를 충족시켜주고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='796240' id='t-796240'>참수의 희생자가 묶여서
+방어능력이 없을 때</span>
+<span class='talk-transcript__fragment' data-time='800720' id='t-800720'>그 사람은 근본적으로
+살인마의 쇼의 체스 말이 됩니다.</span>
+<span class='talk-transcript__fragment' data-time='806520' id='t-806520'>전투에서 얻는, 
+싸움에 이기기 위해 필요한</span>
+<span class='talk-transcript__fragment' data-time='809400' id='t-809400'>운과 실력을 상징하는
+전리품 머리와 달리</span>
+<span class='talk-transcript__fragment' data-time='815200' id='t-815200'>참수형이 연출될 때,</span>
+<span class='talk-transcript__fragment' data-time='817360' id='t-817360'>본질적으로 한 편의 연극일 때,</span>
+<span class='talk-transcript__fragment' data-time='820320' id='t-820320'>살인자의 힘은 공연하면서 얻는
+수신율로부터 나옵니다.</span>
+<span class='talk-transcript__fragment' data-time='826880' id='t-826880'>다른 말로, 보는 것도
+사건의 일부입니다.</span>
+<span class='talk-transcript__fragment' data-time='831640' id='t-831640'>사건은 더 이상 예전처럼
+그리고 아직도 그래보이는 것처럼</span>
+<span class='talk-transcript__fragment' data-time='835200' id='t-835200'>한 곳에서 한 시점에서만
+일어나지 않습니다.</span>
+<span class='talk-transcript__fragment' data-time='841200' id='t-841200'>이제 사건은 시공간에서 뻗어나와</span>
+<span class='talk-transcript__fragment' data-time='845160' id='t-845160'>시청하는 모두가 각자 역할을 맡습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='849520' id='t-849520'>우리는 그만 봐야하지만</span>
+<span class='talk-transcript__fragment' data-time='852120' id='t-852120'>그러지 않을 거라는 걸 압니다.</span>
+<span class='talk-transcript__fragment' data-time='854440' id='t-854440'>역사도 똑같이 말하죠.</span>
+<span class='talk-transcript__fragment' data-time='856920' id='t-856920'>살인자들도 압니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='859240' id='t-859240'>감사합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='860480' id='t-860480'>(박수)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='865000' id='t-865000'>BG: 감사합니다. 이것 좀 돌려받을게요.
+FL: 감사합니다.</span>
+<span class='talk-transcript__fragment' data-time='867920' id='t-867920'>BG: 다음 강연을 준비할
+때까지 여기로 옮기죠.</span>
+<span class='talk-transcript__fragment' data-time='870840' id='t-870840'>여기 있는 많은 사람들이 물어보았을
+질문을 하나 하고 싶은데요,</span>
+<span class='talk-transcript__fragment' data-time='873720' id='t-873720'>어떻게 이 주제에 흥미를 갖게 됐나요?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='878360' id='t-878360'>FL: 저는 박물관에서 일했었습니다.</span>
+<span class='talk-transcript__fragment' data-time='880400' id='t-880400'>옥스포드에 있는 피트 리버스 박물관인데</span>
+<span class='talk-transcript__fragment' data-time='882360' id='t-882360'>남아메리카에서 온 쪼그라든 머리를
+전시하는 것으로 유명합니다.</span>
+<span class='talk-transcript__fragment' data-time='886240' id='t-886240'>사람들은 주로 이렇게 말했습니다.
+&quot;쪼그라든 머리 박물관이다!&quot;</span>
+<span class='talk-transcript__fragment' data-time='890200' id='t-890200'>당시에 저는 해골의 과학적 수집품의</span>
+<span class='talk-transcript__fragment' data-time='893840' id='t-893840'>역사와 관련된 작업을 했습니다.</span>
+<span class='talk-transcript__fragment' data-time='895880' id='t-895880'>두개골 수집품의 작업을 하고 있었는데</span>
+<span class='talk-transcript__fragment' data-time='898480' id='t-898480'>자신이 정말 무엇을 보는지</span>
+<span class='talk-transcript__fragment' data-time='900320' id='t-900320'>이해하지도 못하면서 잔혹하고
+원시적이고 야만적인 문화에</span>
+<span class='talk-transcript__fragment' data-time='905120' id='t-905120'>환상을 가지고 사람들이
+보러온다는 것이</span>
+<span class='talk-transcript__fragment' data-time='909960' id='t-909960'>모순적으로 느껴졌습니다</span>
+<span class='talk-transcript__fragment' data-time='912365' id='t-912365'>그동안 이 많은 유럽과
+미국 전역에서 온</span>
+<span class='talk-transcript__fragment' data-time='915960' id='t-915960'>우리 박물관에 있는
+수 백, 수 천개의 해골들이</span>
+<span class='talk-transcript__fragment' data-time='920120' id='t-920120'>어떻게 보면 과학적 합리성의
+계몽적 추구를 지지하고 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='925400' id='t-925400'>그래서 저는 그걸 돌려서 
+&quot;우리를 봅시다.&quot;라고 말하고 싶었어요.</span>
+<span class='talk-transcript__fragment' data-time='930480' id='t-930480'>우리는 유리 상자 속의
+쪼그라든 머리를 보고 있어요.</span>
+<span class='talk-transcript__fragment' data-time='933400' id='t-933400'>우리의 역사와 이것에 
+매료되는 문화를 봅시다.</span>
+<span class='talk-transcript__fragment' data-time='937960' id='t-937960'>BG: 같이 공유해주셔서 감사합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='939802' id='t-939802'>FL: 감사합니다.</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

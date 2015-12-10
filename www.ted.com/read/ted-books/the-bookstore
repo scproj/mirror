@@ -1,0 +1,1723 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>The Bookstore | TED Books | Read | TED</title>
+<meta content="The Bookstore | TED Books | Read | TED" name="title" />
+<meta content="Browse new and classic books by your favorite TED speakers. These titles on science, social change and more are filled with fascinating facts and laugh-out-loud moments — published around the world, collected here. " name="description" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design, Books, Book store, Read, Written by, Reading, Gift, Buy" name="keywords" />
+<meta content="http://assets.tedcdn.com/images/ted_amp_network.gif" name="thumbnail" />
+<meta content="http://assets.tedcdn.com/images/ted_amp_network.gif" property="og:image" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="The Bookstore | TED Books | Read | TED" property="og:title" />
+<meta content="Browse new and classic books by your favorite TED speakers. These titles on science, social change and more are filled with fascinating facts and laugh-out-loud moments — published around the world, collected here. " property="og:description" />
+<meta content="http://www.ted.com/read/ted-books/the-bookstore" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/pages-ie.css?1449612281">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/pages.css?1449612281">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612281,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?bd6b90efccb6b196b5ce73684719c8c3","Swipe":"Swipe.js?b746c9e9c38bd13ef622cfeed09ba6bf","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","tedx":"tedx.js?27a3d0c882820e1a4ee6a7aad1d95d48","flot":"flot.js?cc487fa44adf9da4523f900fe26c7c0d","hbs":"hbs.js?62ffd6dc422a088483ef7863de071d9e","transit":"transit.js?1bb6034bee2f350ddcc3876a929ed54c","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","pages":"pages.js?17cdddd45428c47b7469c56c84257ae1","deferLink":"deferLink.js?e753127d1427d48d2dba8b3f593baec2","libs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","jquery":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","swfobject":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","Mailcheck":"Mailcheck.js?4752d459b0ac03f738bb7db1571d9a00","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","jqueryujs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","Backbone":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","swatch":"swatch.js?af26d6cbf9673f6060dfc8b18154c39c","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","search":"search.js?06cfabf03223b309e632669510068bde","profiles":"profiles.js?456ec8e9c630a07c9b3a83c468f029c3","newsletter":"newsletter.js?51e416cf51603cd78b8ab750e35c8f5f","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","ZeroClipboard":"ZeroClipboard.js?65f3b285606bcf3acd44bb2c25a6406d","spinjs":"spinjs.js?0f67f5820075f88643c601a4284d14b2","home":"home.js?1241a7e9294d8677392f76b903746a75","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","numeral":"numeral.js?611d7abced1fea00d28e10252bff308e","waypoints":"waypoints.js?a6a99f3a64e668c5afdfe0aaa1245215","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Modernizr":"Modernizr.js?8d4a21cfb9a3fcefdabddaac961016fe","menuAim":"menuAim.js?a94480af4d342b45c24626ac8f6a1f80","global":"global.js?a8f475509c478d1b04dd10477b2510e3","dashboard_hotels":"dashboard_hotels.js?d19435a801331067f5048d1c7b3bb747","dashboard":"dashboard.js?286613b789f90d9c8b906950c59bfb05","dq":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","pages/dynamic/dummy":"pages/dynamic/dummy.js?3967fae7f441a192ac0a2b697e4e7a3d","talk":"talk.js?51221de80bbdf101073772b806dcd5d2","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","lodash":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","surprise_me":"surprise_me.js?07929707d7c91175cb34732107402b0b","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","SwipeView":"SwipeView.js?3d6ab40c7f02be91047f9e6802690af6","depot":"depot.js?6d97c6ff1eb27088493186e2db478ee0","autosize":"autosize.js?c463a94f6da61cb86e53ea61dbcb6735","talks":"talks.js?d20a21859341240c8901c77effade7f8","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Cookies":"Cookies.js?ec959f431471b295566bcf6ad4298fcb","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","embed":"embed.js?23f83514c0a631545d35c263790da013","settings":"settings.js?e3325b55ee4c74c02a9feaf0e5bcba53","touchPunch":"touchPunch.js?47b6211b7aef9750ac4f6613a4256cc9","moment":"moment.js?408f6a21d69b26bb98a3c705e51e7764","dashboard_sessions":"dashboard_sessions.js?ec189bd2ee9f9489834ccd2aee456c31","crushinator":"crushinator.js?2b8d78a40a52bb661b0b4fcf32e166c9","hbs/handlebars":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="pages"
+</script>
+<script async="async" data-main="pages" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612281"></script></head>
+<body class='pages-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main pages-main' role='main'>
+<!-- PB:T: one_column_left_nav -->
+<div class='container'>
+<div class='row'>
+<div class='col-lg-3'>
+<nav class='submenu' id='submenu'>
+<h3 class='submenu__heading'><a class='l3 submenu__link submenu__heading__link' href='/read/ted-books'>TED Books</a></h3>
+<div class='submenu__lists'>
+<ul class='submenu__list'>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/read/ted-books/ted-books-library">TED Books library
+</a><ul class='submenu__list'>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/read/ted-books/ted-books-library/beyond-measure">Beyond Measure
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/read/ted-books/ted-books-library/follow-your-gut">Follow Your Gut
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/read/ted-books/ted-books-library/how-we-ll-live-on-mars">How We'll Live on Mars
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/read/ted-books/ted-books-library/judge-this">Judge This
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/read/ted-books/ted-books-library/the-art-of-stillness">The Art of Stillness
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/read/ted-books/ted-books-library/the-future-of-architecture">The Future of Architecture
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/read/ted-books/ted-books-library/the-laws-of-medicine">The Laws of Medicine
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/read/ted-books/ted-books-library/the-mathematics-of-love">The Mathematics of Love
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/read/ted-books/ted-books-library/the-terrorist-s-son">The Terrorist's Son
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/read/ted-books/ted-books-library/why-we-work">Why We Work
+</a></li>
+</ul>
+
+</li>
+<li class='submenu__item submenu__item--active'>
+<a class="l3 submenu__link" href="/read/ted-books/the-bookstore">The Bookstore
+</a><ul class='submenu__list'>
+</ul>
+
+</li>
+</ul>
+
+</div>
+</nav>
+<script>q("pages.submenu")</script>
+
+</div>
+<div class='col-lg-9 pages-content'>
+<div class='m1 module'>
+<nav class='breadcrumb m4 show-lg'>Read&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;<a class="breadcrumb__link" href="/read/ted-books" rel=" up">TED Books</a>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;</nav>
+
+<h1 class='h1 h1--alt m2'>
+The Bookstore
+</h1>
+<!-- PB:B: copy --><div class='p2'>
+<p>Now in beta: Browse new and classic books by some of your favorite TED speakers. This page is a work in progress; if you have comments, please <a href="/about/our-organization/contact-us">let us know</a>. We’ll be adding many more books soon — including the full slate of TED Books releases.</p>
+
+</div>
+
+
+</div>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Art &amp; photography</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/genesis?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/948/original/book_salgado_genesis.jpg?w=320" alt="Genesis" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/genesis?track=bookstore">Genesis</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/sebastiao_salgado_the_silent_drama_of_photography">by Sebastião Salgado</a></h6>
+
+<p><a href="http://geni.us/genesis?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/manufacturedlandscapes?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/998/original/book_burtinsky_manufacturedlandscapes.jpg?w=320" alt="Manufactured Landscapes" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/manufacturedlandscapes?track=bookstore">Manufactured Landscapes</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/edward_burtynsky_on_manufactured_landscapes">by Edward Burtynsky</a></h6>
+
+<p><a href="http://geni.us/manufacturedlandscapes?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5"><a href="http://geni.us/oldestlivingthings?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/935/original/book_sussman_oldestlivingthing.jpg?w=320" alt="The Oldest Living Things in the World" class="image"></a></h4>
+
+<h5 class="h10 m5"><a href="http://geni.us/oldestlivingthings?track=bookstore">The Oldest Living Things in the World</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/rachel_sussman_the_world_s_oldest_living_things">by Rachel Sussman</a></h6>
+
+<p><a href="http://geni.us/oldestlivingthings?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5"><a href="http://geni.us/tibetonedge?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/001/original/book_borges_tibet.jpg?w=320" alt="Tibet: Culture on the Edge" class="image"></a></h4>
+
+<h5 class="h10 m5"><a href="http://geni.us/tibetonedge?track=bookstore">Tibet: Culture on the Edge</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/phil_borges_on_endangered_cultures">by Phil Borges</a></h6>
+
+<p><a href="http://geni.us/tibetonedge?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Architecture &amp; design</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/highline?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/990/original/book_david_hammond_highline.jpg?w=320" alt="High Line" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/highline?track=bookstore">High Line</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/robert_hammond_building_a_park_in_the_sky">by Joshua David and Robert Hammond</a></h6>
+
+<p><a href="http://geni.us/highline?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/makeitbigger?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/946/original/book_scher_makeitbigger.jpg?w=320" alt="Make It Bigger" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/makeitbigger?track=bookstore">Make It Bigger</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/paula_scher_gets_serious">by Paula Scher</a></h6>
+
+<p><a href="http://geni.us/makeitbigger?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/lawsofsimplicity?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/966/original/book_maeda_simplicity.jpg?w=320" alt="The Laws of Simplicity" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/lawsofsimplicity?track=bookstore">The Laws of Simplicity</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/john_maeda_on_the_simple_life">by John Maeda</a></h6>
+
+<p><a href="http://geni.us/lawsofsimplicity?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/YesisMore?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/971/original/book_ingels_yesismore.jpg?w=320" alt="Yes Is More" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/YesisMore?track=bookstore">Yes Is More</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/bjarke_ingels_3_warp_speed_architecture_tales">by Bjarke Ingels</a></h6>
+
+<p><a href="http://geni.us/YesisMore?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Biographies &amp; memoirs</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/astronautsguide?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/978/original/book_hadfield_astronautsguide.jpg?w=320" alt="An Astronaut's Guide to Life on Earth" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/astronautsguide?track=bookstore">An Astronaut's Guide to Life on Earth</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/chris_hadfield_what_i_learned_from_going_blind_in_space">by Chris Hadfield</a></h6>
+
+<p><a href="http://geni.us/astronautsguide?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/eatpraylove?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/982/original/book_gilbert_eatpraylove.jpg?w=320" alt="Eat, Pray, Love" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/eatpraylove?track=bookstore">Eat, Pray, Love</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/elizabeth_gilbert_on_genius">by Elizabeth Gilbert</a></h6>
+
+<p><a href="http://geni.us/eatpraylove?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/strokeofinsight?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/924/original/book_bolte-taylor_strokeofinsight.jpg?w=320" alt="My Stroke of Insight" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/strokeofinsight?track=bookstore">My Stroke of Insight</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/jill_bolte_taylor_s_powerful_stroke_of_insight">by Jill Bolte Taylor</a></h6>
+
+<p><a href="http://geni.us/strokeofinsight?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/noondaydemon?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/007/original/book_solomon_noondaydemon.jpg?w=320" alt="The Noonday Demon" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/noondaydemon?track=bookstore">The Noonday Demon</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/andrew_solomon_depression_the_secret_we_share">by Andrew Solomon</a></h6>
+
+<p><a href="http://geni.us/noondaydemon?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Biology &amp;</h4>
+
+<h4 class="h7 m5">life sciences</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/neanderthalman?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/959/original/book_paabo_neanderthalman.jpg?w=320" alt="Neanderthal Man" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/neanderthalman?track=bookstore">Neanderthal Man</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/frans_de_waal_do_animals_have_morals">by Svante Pääbo</a></h6>
+
+<p><a href="http://geni.us/neanderthalman?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5"><a href="http://geni.us/bonoboandatheist?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/989/original/book_dewaal_bonoboandtheatheist.jpg?w=320" alt="The Bonobo and the Atheist" class="image"></a></h4>
+
+<h5 class="h10 m5"><a href="http://geni.us/bonoboandatheist?track=bookstore">The Bonobo and the Atheist</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/frans_de_waal_do_animals_have_morals">by Frans de Waal</a></h6>
+
+<p><a href="http://geni.us/bonoboandatheist?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5"><a href="http://geni.us/sportsgene?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/006/original/book_epstein_sportsgene.jpg?w=320" alt="The Sports Gene" class="image"></a></h4>
+
+<h5 class="h10 m5"><a href="http://geni.us/sportsgene?track=bookstore">The Sports Gene</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/david_epstein_are_athletes_really_getting_faster_better_stronger">by David Epstein</a></h6>
+
+<p><a href="http://geni.us/sportsgene?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5"><a href="http://geni.us/zoobiquity?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/964/original/book_matterson-horowitz_bowers_zoobiquity.jpg?w=320" alt="Zoobiquity" class="image"></a></h4>
+
+<h5 class="h10 m5"><a href="http://geni.us/zoobiquity?track=bookstore">Zoobiquity</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/barbara_natterson_horowitz_what_veterinarians_know_that_doctors_don_t">by Barbara Natterson-Horowitz and Kathryn Bowers</a></h6>
+
+<p><a href="http://geni.us/zoobiquity?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Business</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/drive?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/926/original/book_pink_drive.jpg?w=320" alt="Drive" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/drive?track=bookstore">Drive</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/dan_pink_on_motivation">by Daniel Pink</a></h6>
+
+<p><a href="http://geni.us/drive?track=bookstore"><strong>Buy now</strong></a> </p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/leaderseatlast?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/941/original/book_sinek_leaderseatlast.jpg?w=320" alt="Leaders Eat Last" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/leaderseatlast?track=bookstore">Leaders Eat Last</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/simon_sinek_why_good_leaders_make_you_feel_safe">by Simon Sinek</a></h6>
+
+<p><a href="http://geni.us/leaderseatlast?track=bookstore"><strong>Buy now</strong></a> </p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/leanin?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/947/original/book_sandberg_leanIn.jpg?w=320" alt="Lean In" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/leanin?track=bookstore">Lean In</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/sheryl_sandberg_why_we_have_too_few_women_leaders">by Sheryl Sandberg</a></h6>
+
+<p><a href="http://geni.us/leanin?track=bookstore"><strong>Buy now</strong></a> </p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/happinessadvantage?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/004/original/book_anchor_happinessadvantage.jpg?w=320" alt="The Happiness Advantage" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/happinessadvantage?track=bookstore">The Happiness Advantage</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/shawn_achor_the_happy_secret_to_better_work">by Shawn Achor</a></h6>
+
+<p><a href="http://geni.us/happinessadvantage?track=bookstore"><strong>Buy now</strong></a> </p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Collections &amp; exhibitions</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/beforeidie?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/993/original/book_chang_beforeidie.jpg?w=320" alt="Before I Die" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/beforeidie?track=bookstore">Before I Die</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/candy_chang_before_i_die_i_want_to">by Candy Chang</a></h6>
+
+<p><a href="http://geni.us/beforeidie?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/howmusicworks?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/997/original/book_byrne_howmusicworks.jpg?w=320" alt="How Music Works" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/howmusicworks?track=bookstore">How Music Works</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/david_byrne_how_architecture_helped_music_evolve">by David Byrne</a></h6>
+
+<p><a href="http://geni.us/howmusicworks?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/postsecret?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/934/original/book_warren_postsecret.jpg?w=320" alt="PostSecret: Confessions on Life, Death, and God" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/postsecret?track=bookstore">PostSecret: Confessions on Life, Death, and God</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/frank_warren_half_a_million_secrets">by Frank Warren</a></h6>
+
+<p><a href="http://geni.us/postsecret?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/newyorkercartoons?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/965/original/book_mankoff_cartoonsnewyorker.jpg?w=320" alt="The Complete Cartoons of The New Yorker" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/newyorkercartoons?track=bookstore">The Complete Cartoons of The New Yorker</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/bob_mankoff_anatomy_of_a_new_yorker_cartoon">by Bob Mankoff</a></h6>
+
+<p><a href="http://geni.us/newyorkercartoons?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Computers &amp; technology</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/consentofnetworked?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/967/original/book_mackinnon_consentofthenetworked.jpg?w=320" alt="Consent of the Networked" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/consentofnetworked?track=bookstore">Consent of the Networked</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/rebecca_mackinnon_let_s_take_back_the_internet">by Rebecca MacKinnon</a></h6>
+
+<p><a href="http://geni.us/consentofnetworked?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/fleshandmachines?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/999/original/book_brooks_fleshandmachines.jpg?w=320" alt="Flesh and Machines" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/fleshandmachines?track=bookstore">Flesh and Machines</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/rodney_brooks_why_we_will_rely_on_robots">by Rodney Brooks</a></h6>
+
+<p><a href="http://geni.us/fleshandmachines?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/rewire?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/930/original/book_zuckerman_rewire.jpg?w=320" alt="Rewire" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/rewire?track=bookstore">Rewire</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/ethan_zuckerman">by Ethan Zuckerman</a></h6>
+
+<p><a href="http://geni.us/rewire?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/superintelligence?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/000/original/book_bostrom_superintelligence.jpg?w=320" alt="Superintelligence" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/superintelligence?track=bookstore">Superintelligence</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/nick_bostrom_on_our_biggest_problems">by Nick Bostrom</a></h6>
+
+<p><a href="http://geni.us/superintelligence?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Economics</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/capital?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/957/original/book_piketty_capital.jpg?w=320" alt="Capital in the Twenty-First Century" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/capital?track=bookstore">Capital in the Twenty-First Century</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century">by Thomas Piketty</a></h6>
+
+<p><a href="http://geni.us/capital?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/happymoney?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/987/original/book_dunn_norton_happymoney.jpg?w=320" alt="Happy Money" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/happymoney?track=bookstore">Happy Money</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/michael_norton_how_to_buy_happiness">by Elizabeth Dunn and Michael Norton</a></h6>
+
+<p><a href="http://geni.us/happymoney?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/ninetypercent?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/925/original/book_george_ninetypercent.jpg?w=320" alt="Ninety Percent of Everything" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/ninetypercent?track=bookstore">Ninety Percent of Everything</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/rose_george_inside_the_secret_shipping_industry">by Rose George</a></h6>
+
+<p><a href="http://geni.us/ninetypercent?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/stealthofnations?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/961/original/book_neuwirth_stealthofnations.jpg?w=320" alt="Stealth of Nations" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/stealthofnations?track=bookstore">Stealth of Nations</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/robert_neuwirth_the_power_of_the_informal_economy">by Robert Neuwirth</a></h6>
+
+<p><a href="http://geni.us/stealthofnations?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Education</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/outofourminds?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/952/original/book_robinson_outofourminds.jpg?w=320" alt="Out of Our Minds" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/outofourminds?track=bookstore">Out of Our Minds</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/ken_robinson_says_schools_kill_creativity">by Ken Robinson</a></h6>
+
+<p><a href="http://geni.us/outofourminds?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/learningbrain?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/002/original/book_blakemore_firth_learningbrain.jpg?w=320" alt="The Learning Brain" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/learningbrain?track=bookstore">The Learning Brain</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/sarah_jayne_blakemore_the_mysterious_workings_of_the_adolescent_brain">by Sarah-Jayne Blakemore and Uta Frith</a></h6>
+
+<p><a href="http://geni.us/learningbrain?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/oneworldschoolhouse?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/970/original/book_khan_oneworldschoolhouse.jpg?w=320" alt="The One World Schoolhouse" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/oneworldschoolhouse?track=bookstore">The One World Schoolhouse</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/salman_khan_let_s_use_video_to_reinvent_education">by Salman Khan</a></h6>
+
+<p><a href="http://geni.us/oneworldschoolhouse?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/worldpeace?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/972/original/book_hunter_worldpeace.jpg?w=320" alt="World Peace and Other 4th-Grade Achievements" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/worldpeace?track=bookstore">World Peace and Other 4th-Grade Achievements</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/john_hunter_on_the_world_peace_game">by John Hunter</a></h6>
+
+<p><a href="http://geni.us/worldpeace?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Environment</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/climatechange?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/945/original/book_schmidt_climatechange.jpg?w=320" alt="Climate Change: Picturing the Science" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/climatechange?track=bookstore">Climate Change: Picturing the Science</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/gavin_schmidt_the_emergent_patterns_of_climate_change">by Gavin Schmidt and Joshua Wolfe</a></h6>
+
+<p><a href="http://geni.us/climatechange?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/stormsgrandchildren?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/976/original/book_hansen_storms.jpg?w=320" alt="Storms of My Grandchildren" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/stormsgrandchildren?track=bookstore">Storms of My Grandchildren</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/james_hansen_why_i_must_speak_out_about_climate_change">by James Hansen</a></h6>
+
+<p><a href="http://geni.us/stormsgrandchildren?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/botanyofdesire?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/955/original/book_pollan_botonyofdesire.jpg?w=320" alt="The Botany of Desire" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/botanyofdesire?track=bookstore">The Botany of Desire</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/michael_pollan_gives_a_plant_s_eye_view">by Michael Pollan</a></h6>
+
+<p><a href="http://geni.us/botanyofdesire?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/cloudcollectors?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/956/original/book_pinney_cloudcollector.jpg?w=320" alt="The Cloud Collector's Handbook" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/cloudcollectors?track=bookstore">The Cloud Collector's Handbook</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/gavin_pretor_pinney_cloudy_with_a_chance_of_joy">by Gavin Pretor-Pinney</a></h6>
+
+<p><a href="http://geni.us/cloudcollectors?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">History &amp; philosophy</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/eternitytohere?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/996/original/book_carroll_frometernity.jpg?w=320" alt="From Eternity to Here" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/eternitytohere?track=bookstore">From Eternity to Here</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/sean_carroll_distant_time_and_the_hint_of_a_multiverse">by Sean Carroll</a></h6>
+
+<p><a href="http://geni.us/eternitytohere?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/consciousmind?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/994/original/book_chalmers_consciousmind.jpg?w=320" alt="The Conscious Mind" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/consciousmind?track=bookstore">The Conscious Mind</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/david_chalmers_how_do_you_explain_consciousness">by David Chalmers</a></h6>
+
+<p><a href="http://geni.us/consciousmind?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/breakfastclub?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/939/original/book_snyder_breakfastclub.jpg?w=320" alt="The Philosophical Breakfast Club" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/breakfastclub?track=bookstore">The Philosophical Breakfast Club</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/laura_snyder_the_philosophical_breakfast_club">by Laura Snyder</a></h6>
+
+<p><a href="http://geni.us/breakfastclub?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5"><a href="http://geni.us/whydoestheworldexist?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/974/original/book_hold_whydoestheworldexist.jpg?w=320" alt="Why Does the World Exist?" class="image"></a></h4>
+
+<h5 class="h10 m5"><a href="http://geni.us/whydoestheworldexist?track=bookstore">Why Does the World Exist?</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/jim_holt_why_does_the_universe_exist">by Jim Holt</a></h6>
+
+<p><a href="http://geni.us/whydoestheworldexist?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Humor &amp; entertainment</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/moreinfo?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/975/original/book_hodgman_moreinfo.jpg?w=320" alt="More Information than You Require" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/moreinfo?track=bookstore">More Information than You Require</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/john_hodgman_s_brief_digression">by John Hodgman</a></h6>
+
+<p><a href="http://geni.us/moreinfo?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/visualmisc?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/963/original/book_mccandless_visualmisc.jpg?w=320" alt="The Visual Miscellaneum" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/visualmisc?track=bookstore">The Visual Miscellaneum</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/david_mccandless_the_beauty_of_data_visualization">by David McCandless</a></h6>
+
+<p><a href="http://geni.us/visualmisc?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/whatifscience?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/962/original/book_munroe_whatif.jpg?w=320" alt="What If?" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/whatifscience?track=bookstore">What If?</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/randall_munroe_comics_that_ask_what_if">by Randall Munroe</a></h6>
+
+<p><a href="http://geni.us/whatifscience?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/servethewine?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/988/original/book_donnelly_whendotheyservethewine.jpg?w=320" alt="When Do They Serve the Wine?" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/servethewine?track=bookstore">When Do They Serve the Wine?</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/liza_donnelly_drawing_upon_humor_for_change">by Liza Donnelly</a></h6>
+
+<p><a href="http://geni.us/servethewine?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Law &amp; human rights</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/halfthesky?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/931/original/book_wudunn_halfthesky.jpg?w=320" alt="Half the Sky" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/halfthesky?track=bookstore">Half the Sky</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/sheryl_wudunn_our_century_s_greatest_injustice">by Nicholas Kristoff and Sheryl WuDunn</a></h6>
+
+<p><a href="http://geni.us/halfthesky?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/justmercy?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/936/original/book_stevenson_justmercy.jpg?w=320" alt="Just Mercy" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/justmercy?track=bookstore">Just Mercy</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/bryan_stevenson_we_need_to_talk_about_an_injustice">by Bryan Stevenson</a></h6>
+
+<p><a href="http://geni.us/justmercy?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/theinnocents?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/943/original/book_simon_theinnocents.jpg?w=320" alt="The Innocents" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/theinnocents?track=bookstore">The Innocents</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/taryn_simon_photographs_secret_sites">by Taryn Simon</a></h6>
+
+<p><a href="http://geni.us/theinnocents?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/ruleofnobody?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/973/original/book_howard_ruleofnobody.jpg?w=320" alt="The Rule of Nobody" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/ruleofnobody?track=bookstore">The Rule of Nobody</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/philip_howard">by Philip K. Howard</a></h6>
+
+<p><a href="http://geni.us/ruleofnobody?track=bookstore"><strong>Buy now</strong></a> </p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Medicine</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/badpharma?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/979/original/book_goldacre_badpharma.jpg?w=320" alt="Bad Pharma" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/badpharma?track=bookstore">Bad Pharma</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/ben_goldacre_what_doctors_don_t_know_about_the_drugs_they_prescribe">by Ben Goldacre</a></h6>
+
+<p><a href="http://geni.us/badpharma?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/ghostmap?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/005/original/book_johnson_ghostmap.jpg?w=320" alt="The Ghost Map" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/ghostmap?track=bookstore">The Ghost Map</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/steven_johnson_tours_the_ghost_map">by Steven Johnson</a></h6>
+
+<p><a href="http://geni.us/ghostmap?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/checklistmanifesto?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/984/original/book_gawande_checklistmanifesto.jpg?w=320" alt="The Checklist Manifesto" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/checklistmanifesto?track=bookstore">The Checklist Manifesto</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/atul_gawande_how_do_we_heal_medicine">by Atul Gawande</a></h6>
+
+<p><a href="http://geni.us/checklistmanifesto?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/docsdontlisten?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/933/original/book_wen_kosowsky_whendoctorsdontlisten.jpg?w=320" alt="When Doctors Don't Listen" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/docsdontlisten?track=bookstore">When Doctors Don't Listen</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/leana_wen_what_your_doctor_won_t_disclose">by Leana Wen and Joshua Kosowsky</a></h6>
+
+<p><a href="http://geni.us/docsdontlisten?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Philanthropy &amp; social change</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/charitycase?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/958/original/book_pallotta_charitycase.jpg?w=320" alt="Charity Case" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/charitycase?track=bookstore">Charity Case</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/dan_pallotta_the_way_we_think_about_charity_is_dead_wrong">by Dan Pallotta</a></h6>
+
+<p><a href="http://geni.us/charitycase?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/giving?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/991/original/book_clinton_giving.jpg?w=320" alt="Giving" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/giving?track=bookstore">Giving</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/bill_clinton_on_rebuilding_rwanda">by Bill Clinton</a></h6>
+
+<p><a href="http://geni.us/giving?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/bluesweater?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/960/original/book_novogratz_bluesweater.jpg?w=320" alt="The Blue Sweater" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/bluesweater?track=bookstore">The Blue Sweater</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/jacqueline_novogratz_on_an_escape_from_poverty">by Jacqueline Novogratz</a></h6>
+
+<p><a href="http://geni.us/bluesweater?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/lifeyoucansave?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/942/original/book_singer_thelifeyoucansave.jpg?w=320" alt="The Life You Can Save" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/lifeyoucansave?track=bookstore">The Life You Can Save</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/peter_singer_the_why_and_how_of_effective_altruism">by Peter Singer</a></h6>
+
+<p><a href="http://geni.us/lifeyoucansave?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Politics &amp; government</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/greennewred?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/954/original/book_potter_greenisthenewred.jpg?w=320" alt="Green Is the New Red" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/greennewred?track=bookstore">Green Is the New Red</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/will_potter_the_shocking_move_to_criminalize_non_violent_protest">by Will Potter</a></h6>
+
+<p><a href="http://geni.us/greennewred?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/runtheworld?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/969/original/book_khanna_howtoruntheworld.jpg?w=320" alt="How to Run the World" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/runtheworld?track=bookstore">How to Run the World</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/parag_khanna_maps_the_future_of_countries">by Parag Khanna</a></h6>
+
+<p><a href="http://geni.us/runtheworld?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/noplacetohide?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/923/original/book_greenwald_noplacetohide.jpg?w=320" alt="No Place to Hide" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/noplacetohide?track=bookstore">No Place to Hide</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/glenn_greenwald_why_privacy_matters">by Glenn Greenwald</a></h6>
+
+<p><a href="http://geni.us/noplacetohide?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/revolutiontwo?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/983/original/book_ghonim_revolution2.0.jpg?w=320" alt="Revolution 2.0" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/revolutiontwo?track=bookstore">Revolution 2.0</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/wael_ghonim_inside_the_egyptian_revolution">by Wael Ghonim</a></h6>
+
+<p><a href="http://geni.us/revolutiontwo?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Psychology &amp; human behavior</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/hallucinations?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/950/original/book_sacks_hallucinations.jpg?w=320" alt="Hallucinations" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/hallucinations?track=bookstore">Hallucinations</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/oliver_sacks_what_hallucination_reveals_about_our_minds">by Oliver Sacks</a></h6>
+
+<p><a href="http://geni.us/hallucinations?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/stumblingonhappiness?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/981/original/book_gilbert_stumblingonhappiness.jpg?w=320" alt="Stumbling on Happiness" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/stumblingonhappiness?track=bookstore">Stumbling on Happiness</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/dan_gilbert_asks_why_are_we_happy">by Dan Gilbert</a></h6>
+
+<p><a href="http://geni.us/stumblingonhappiness?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/centercannothold?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/949/original/book_saks_centercannothold.jpg?w=320" alt="The Center Cannot Hold" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/centercannothold?track=bookstore">The Center Cannot Hold</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/elyn_saks_seeing_mental_illness">by Elyn Saks</a></h6>
+
+<p><a href="http://geni.us/centercannothold?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/psychopathinside?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/986/original/book_fallon_psychopath.jpg?w=320" alt="The Psychopath Inside" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/psychopathinside?track=bookstore">The Psychopath Inside</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/jim_fallon_exploring_the_mind_of_a_killer">by Jim Fallon</a></h6>
+
+<p><a href="http://geni.us/psychopathinside?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Religion &amp; spirituality</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/afterjihad?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/985/original/book_feldman_afterjihad.jpg?w=320" alt="After Jihad" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/afterjihad?track=bookstore">After Jihad</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/noah_feldman_says_politics_and_religion_are_technologies">by Noah Feldman</a></h6>
+
+<p><a href="http://geni.us/afterjihad?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/beingwithdying?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/977/original/book_halifax_beingwithdying.jpg?w=320" alt="Being with Dying" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/beingwithdying?track=bookstore">Being with Dying</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/joan_halifax">by Joan Halifax</a></h6>
+
+<p><a href="http://geni.us/beingwithdying?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/immortality?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/995/original/book_cave_immortality.jpg?w=320" alt="Immortality" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/immortality?track=bookstore">Immortality</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/stephen_cave_the_4_stories_we_tell_ourselves_about_death">by Stephen Cave</a></h6>
+
+<p><a href="http://geni.us/immortality?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/shoesofservant?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/003/original/book_benscoter_shoesofaservant.jpg?w=320" alt="Shoes of a Servant" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/shoesofservant?track=bookstore">Shoes of a Servant</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/ex_moonie_diane_benscoter_how_cults_think">by Diane Benscoter</a></h6>
+
+<p><a href="http://geni.us/shoesofservant?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Science &amp; space</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/newkindofscience?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/932/original/book_wolfram_newkindofscience.jpg?w=320" alt="A New Kind of Science" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/newkindofscience?track=bookstore">A New Kind of Science</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/stephen_wolfram_computing_a_theory_of_everything">by Stephen Wolfram</a></h6>
+
+<p><a href="http://geni.us/newkindofscience?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/zeptospaceodyssey?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/980/original/book_giudice_sptospaceodyssey.jpg?w=320" alt="A Zeptospace Odyssey" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/zeptospaceodyssey?track=bookstore">A Zeptospace Odyssey</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/gian_giudice_why_our_universe_might_exist_on_a_knife_edge">by Gian Giudice</a></h6>
+
+<p><a href="http://geni.us/zeptospaceodyssey?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/alienhunter?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/944/original/book_shostak_alilenhunter.jpg?w=320" alt="Confessions of an Alien Hunter" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/alienhunter?track=bookstore">Confessions of an Alien Hunter</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/seth_shostak_et_is_probably_out_there_get_ready">by Seth Shostak</a></h6>
+
+<p><a href="http://geni.us/alienhunter?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5"><a href="http://geni.us/mapsoftime?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/992/original/book_christian_mapsoftime.jpg?w=320" alt="Maps of Time" class="image"></a></h4>
+
+<h5 class="h10 m5"><a href="http://geni.us/mapsoftime?track=bookstore">Maps of Time</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/david_christian_big_history">by David Christian</a></h6>
+
+<p><a href="http://geni.us/mapsoftime?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">Sex, love &amp; relationships</h4>
+
+<hr>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/bonk?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/953/original/book_roach_bonk.jpg?w=320" alt="Bonk" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/bonk?track=bookstore">Bonk</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/mary_roach_10_things_you_didn_t_know_about_orgasm">by Mary Roach</a></h6>
+
+<p><a href="http://geni.us/bonk?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/crazylove?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/937/original/book_steiner_crazylove.jpg?w=320" alt="Crazy Love" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/crazylove?track=bookstore">Crazy Love</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/leslie_morgan_steiner_why_domestic_violence_victims_don_t_leave">by Leslie Morgan Steiner</a></h6>
+
+<p><a href="http://geni.us/crazylove?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/farfromtree?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/938/original/book_solomon_farfromthetree.jpg?w=320" alt="Far from the Tree" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/farfromtree?track=bookstore">Far from the Tree</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/andrew_solomon_love_no_matter_what">by Andrew Solomon</a></h6>
+
+<p><a href="http://geni.us/farfromtree?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/sexatdawn?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/951/original/book_ryan_sexatdown.jpg?w=320" alt="Sex at Dawn" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/sexatdawn?track=bookstore">Sex at Dawn</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/christopher_ryan_are_we_designed_to_be_sexual_omnivores">by Christopher Ryan and Cacilda Jethá</a></h6>
+
+<p><a href="http://geni.us/sexatdawn?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><hr>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row row-xs-2up row-lg-5up'>
+<div class='col'>
+<div class="text-left"><h4 class="h7 m5">TED Books collection</h4>
+
+<hr>
+
+<p><a href="/read/ted-books/ted-books-library">View the entire TED Books collection</a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/ArtofStillness?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/927/original/book_iyer_artofstillness.jpg?w=320" alt="The Art of Stillness" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/ArtofStillness?track=bookstore">The Art of Stillness</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/pico_iyer_the_art_of_stillness">by Pico Iyer</a></h6>
+
+<p><a href="http://geni.us/ArtofStillness?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/FutureofArchitecture?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/001/929/original/book_kushner_futureofarch.jpg?w=320" alt="The Future of Architecture" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/FutureofArchitecture?track=bookstore">The Future of Architecture</a></h5>
+
+<h6 class="h12 m5">by Marc Kushner</h6>
+
+<p><a href="http://geni.us/FutureofArchitecture?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/TheTerroristsSon?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/008/original/book_ebrahim_terroristsson.JPG?w=320" alt="The Terrorist's Son" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/TheTerroristsSon?track=bookstore">The Terrorist's Son</a></h5>
+
+<h6 class="h12 m5"><a href="/talks/zak_ebrahim_i_am_the_son_of_a_terrorist_here_s_how_i_chose_peace">by Zak Ebrahim</a></h6>
+
+<p><a href="http://geni.us/TheTerroristsSon?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+<div class='col'>
+<div class="text-left"><h5 class="h10 m5"><a href="http://geni.us/MathematicsofLove?track=bookstore"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/048/original/TEDBooks_HannahFry_Cover_230x316.jpg?w=320" alt="The Mathematics of Love" class="image"></a></h5>
+
+<h5 class="h10 m5"><a href="http://geni.us/MathematicsofLove?track=bookstore">The Mathematics of Love</a></h5>
+
+<h6 class="h12 m5">by Hannah Fry</h6>
+
+<p><a href="http://geni.us/MathematicsofLove?track=bookstore"><strong>Buy now</strong></a></p>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

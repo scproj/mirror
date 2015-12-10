@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Scott Dinsmore: How to find work you love</title>
+  <description>Scott Dinsmore quit a job that made him miserable, and spent the next four years wondering how to find work that was joyful and meaningful. He shares what he learned in this deceptively simple talk about finding out what matters to you — and then getting started doing it.</description>
+  <url>http://www.ted.com/talks/scott_dinsmore_how_to_find_work_you_love</url>
+  <author-name>Scott Dinsmore</author-name>
+  <author-url>http://www.ted.com/speakers/scott_dinsmore</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/0a10f577bc9e505ae6556f252e6292c531fe2cda_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/scott_dinsmore_how_to_find_work_you_love.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

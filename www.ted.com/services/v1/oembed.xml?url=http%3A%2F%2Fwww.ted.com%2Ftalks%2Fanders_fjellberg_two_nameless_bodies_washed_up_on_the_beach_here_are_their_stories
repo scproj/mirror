@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Anders Fjellberg: Two nameless bodies washed up on the beach. Here are their stories</title>
+  <description>When two bodies wearing identical wetsuits washed ashore in Norway and the Netherlands, journalist Anders Fjellberg and photographer Tomm Christiansen started a search to answer the question: who were these people? What they found and reported in Norway’s “Dagbladet” is that everybody has a name, everybody has a story and everybody is someone.</description>
+  <url>http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories</url>
+  <author-name>Anders Fjellberg</author-name>
+  <author-url>http://www.ted.com/speakers/anders_fjellberg</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/d930a159788ed34c55f22db6086f6fb21d667d56_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>앤더스 프젤버그: 해변에 쓸려온 이름 모르는 두 시신. 그 사연을 들려드립니다</title>
+  <description>노르웨이와 네덜란드 해안에 같은 잠수복을 입은 두 구의 시신이 떠내려 왔을 때, 저널리스트 앤더스 프젤버그와 사진작가 톰 크리스챤슨이 이들이 누구였는지 조사하기 시작했습니다. 노르웨이의  “Dagbladet” 에 실린 보고 내용은 모두 이름과 사연이 있고 모든 사람은 특별한 사람이라는 것을 알게 해 줍니다.</description>
+  <url>http://www.ted.com/talks/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories?language=ko</url>
+  <author-name>앤더스 프젤버그</author-name>
+  <author-url>http://www.ted.com/speakers/anders_fjellberg</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/d930a159788ed34c55f22db6086f6fb21d667d56_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/anders_fjellberg_two_nameless_bodies_washed_up_on_the_beach_here_are_their_stories.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

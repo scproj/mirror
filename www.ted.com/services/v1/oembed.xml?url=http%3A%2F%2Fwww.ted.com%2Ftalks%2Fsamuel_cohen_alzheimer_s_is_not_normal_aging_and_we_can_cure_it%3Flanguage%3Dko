@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>사무엘 코헨: 알츠하이머는 보통의 노화가 아니며 치료가 가능합니다</title>
+  <description>4천만 명이 넘는 사람들이 전 세계적으로 알츠하이머로 고통받고 있으며 그 수는 앞으로 급격하게 증가할 겁니다. 하지만 의학계에는 100년 전 병을 진단한 이후 이렇다 할 진전이 없습니다. 과학자 사무엘 코헨이 연구소에서 발견한 알츠하이머 연구의 새로운 혁신과 희망의 메세지를 전합니다. "알츠하이머는 질병이며 치료할 수 있습니다." 라고 말합니다. </description>
+  <url>http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it?language=ko</url>
+  <author-name>사무엘 코헨</author-name>
+  <author-url>http://www.ted.com/speakers/samuel_cohen</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/cdfd8f85018527b66a0c64209f1a51a4507e2184_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>페이션스 므툰지(Patience Mthunzi): 레이저로 HIV를 치료할 수 있을까요?</title>
+  <description>약 복용으로  알약을 삼키는 건 빠르고 고통이 없지만, 종종 병을 치료하는데 완전히 효과적인 것은 아닙니다. 잠재적인 더 나은 방법은요? 레이저입니다. 이 열정적인 강연에서 TED 펠로우인 페이션스 므툰지는 HIV에 감염된 세포로 레이저를 이용해 바로 약물을 전달하는 아이디어를 설명합니다. 아직은 이르지만 치료가 가능해 질 수 있게 될까요? </description>
+  <url>http://www.ted.com/talks/patience_mthunzi_could_we_cure_hiv_with_lasers?language=ko</url>
+  <author-name>페이션스 므툰지(Patience Mthunzi)</author-name>
+  <author-url>http://www.ted.com/speakers/patience_mthunzi</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/7b96988f23398c0a486f595db7f29facb0e85ced_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/patience_mthunzi_could_we_cure_hiv_with_lasers.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

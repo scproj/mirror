@@ -1,0 +1,1133 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Can you believe your eyes? | Playlist | TED.com</title>
+<meta content="Can you believe your eyes? | Playlist | TED.com" name="title" />
+<meta content="app-id=376183339,app-argument=http://www.ted.com/playlists/71/can_you_believe_your_eyes" name="apple-itunes-app" />
+<meta content="Magic tricks, optical illusions, death-defying feats, digital lies. Believe it or not." name="description" />
+<meta content="art, art, beauty, beauty, demo, demo, magic, magic, science, science" name="keywords" />
+<meta content="video" name="medium" />
+<meta content="TED" name="author" />
+<meta content="Can you believe your eyes?" property="og:title" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/can_you_believe_your_eyes_268x268.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/can_you_believe_your_eyes_268x268.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="Magic tricks, optical illusions, death-defying feats, digital lies. Believe it or not." property="og:description" />
+<meta content="video.other" property="og:type" />
+<meta content="9055" property="video:duration" />
+<meta content="1405093315" property="video:release_date" />
+<meta content="art" property="video:tag" />
+<meta content="beauty" property="video:tag" />
+<meta content="demo" property="video:tag" />
+<meta content="magic" property="video:tag" />
+<meta content="science" property="video:tag" />
+<meta content="376183339" name="twitter:app:id:iphone" />
+<meta content="376183339" name="twitter:app:id:ipad" />
+<meta content="com.ted.android" name="twitter:app:id:googleplay" />
+<meta content="TED" name="twitter:app:name:ipad" />
+<meta content="TED" name="twitter:app:name:iphone" />
+<meta content="TED" name="twitter:app:name:googleplay" />
+<meta content="ted://x-callback-url/playlist?playlistID=71&amp;source=twitter" name="twitter:app:url:ipad" />
+<meta content="ted://x-callback-url/playlist?playlistID=71&amp;source=twitter" name="twitter:app:url:iphone" />
+<meta content="TED" property="al:ios:app_name" />
+<meta content="376183339" property="al:ios:app_store_id" />
+<meta content="ted://x-callback-url/playlist?playlistID=71&amp;source=facebook" property="al:ios:url" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="http://www.ted.com/playlists/71/can_you_believe_your_eyes" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/playlist-ie.css?1449612282">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/playlist.css?1449612282">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?372e9c1ad21862103d589d49af44d28b","Swipe":"Swipe.js?73df4e5005408bc203e969751fc55e26","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","tedx":"tedx.js?f71e6b01e6becadca27fe635865d10df","flot":"flot.js?f327c555b811f034d94bfac8b6931307","hbs":"hbs.js?e36c0e0e09a79031f61eb328fc4c5a7b","transit":"transit.js?68aa867b464466c3dc98c60e068b7f68","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","pages":"pages.js?1fc3f19849913b97ac49d754f65aec11","deferLink":"deferLink.js?7adfdb9374698e3ee45ae2f72a9554ff","libs":"libs.js?f72f9becee377a41f67a0821d60cbca5","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","jquery":"libs.js?f72f9becee377a41f67a0821d60cbca5","swfobject":"libs.js?f72f9becee377a41f67a0821d60cbca5","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","Mailcheck":"Mailcheck.js?e8314a0c5bb92079c911a261b2afb289","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","jqueryujs":"libs.js?f72f9becee377a41f67a0821d60cbca5","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","Backbone":"libs.js?f72f9becee377a41f67a0821d60cbca5","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","swatch":"swatch.js?afe36518ad071cd727e0d83732239cf1","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","search":"search.js?c35ef36e1163fdd700e9e4597c54670c","profiles":"profiles.js?97fae740b654fe9b080dc4f3a40845e2","newsletter":"newsletter.js?08d8ae7a1c6482d7beb3002fcfaacdc2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","ZeroClipboard":"ZeroClipboard.js?7c36a7eb020bbb97dafee4153f46c87d","spinjs":"spinjs.js?e1cc3dce984cd870d9d02be288d0dbdd","home":"home.js?a022cc3647e176df139a95305436b5c6","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","numeral":"numeral.js?a222da10e94e967e928aca44d69ce0f5","waypoints":"waypoints.js?70444276da7d7de57b7c670dc053f1f5","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Modernizr":"Modernizr.js?08cd3d9d0df1143464d1ca8ce01fed50","menuAim":"menuAim.js?2dae90e87689e70126a38328bac9a5ee","global":"global.js?32acea94e04f0857ff698086dbba7d47","dashboard_hotels":"dashboard_hotels.js?614e7f024aef5688437f667f857da860","dashboard":"dashboard.js?58449ad35e4a86ebfe91a29034a7dcc7","dq":"libs.js?f72f9becee377a41f67a0821d60cbca5","pages/dynamic/dummy":"pages/dynamic/dummy.js?db40c2c843286b433bfd906e6c74f1b3","talk":"talk.js?793f7a7423e25ccba43a4234f4e8d5b6","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","lodash":"libs.js?f72f9becee377a41f67a0821d60cbca5","surprise_me":"surprise_me.js?15d20c1a672006281855579474bac1f3","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","SwipeView":"SwipeView.js?4f04041392bfc7c535ae4f55e7b1e055","depot":"depot.js?429a4bc85cfbcc083d5278526d66123d","autosize":"autosize.js?609924fea6718a2ff0e8e32677bc132b","talks":"talks.js?7cfcd598f4b654af6f9e8e15e3d916c0","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Cookies":"Cookies.js?b331f247439cf974333a98958d35790d","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","embed":"embed.js?20b97011a03e61004d7d6e6c762667f9","settings":"settings.js?a16ac9e15c9eb86bf133c722366eb96e","touchPunch":"touchPunch.js?0374f5fc70a9e5ada6b9c6721e4ca424","moment":"moment.js?2901d956628d5071fcb01d19a2e6b9d6","dashboard_sessions":"dashboard_sessions.js?16f3e4102d4092e240177a42e696104c","crushinator":"crushinator.js?6780e5d6c8daac982c107577b713686a","hbs/handlebars":"libs.js?f72f9becee377a41f67a0821d60cbca5"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="playlists";TED["zone"]={"api_key":"playlist_page_2","ga_category":"videoplayer","ad_unit_path":"playlists","ad_targeting":{}}
+</script>
+<script async="async" data-main="playlists" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612282"></script></head>
+<body class='playlists-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main playlists-main' role='main'>
+<script>
+  __ga('set', "dimension5", 71);
+</script>
+<div class='player-hero player-hero--unactivated' id='player-hero'>
+<div class='player-hero__contents'>
+<div class='player-hero__banner'>
+<div class='player'>
+<div class='player__container'>
+<div class='player-pip'>
+<div class='player-pip__container'>
+<div class='player__container__placeholder'></div>
+</div>
+</div>
+<div class='player__container__cursor-killer'></div>
+<div class='controls--mini'></div>
+</div>
+</div>
+<div class='player-hero__poster' id='player-hero-poster' style='background-image:url(https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/can_you_believe_your_eyes.jpg?quality=89&amp;w=500)'>
+<div id='player-hero-poster-video'></div>
+</div>
+<div class='player-hero__preroll'>
+<div class='player-hero__preroll__wrapper'>
+<div class='player-hero__preroll__container' id='player-hero-preroll-video'></div>
+</div>
+</div>
+<script>
+  function playerHeroPlay() {
+    document.getElementById('player-hero').className += ' player-hero--early-request';
+  }
+</script>
+<a class='player-hero__play' href='#' id='player-hero-play' onclick='playerHeroPlay()' ontouchend='playerHeroPlay()' role='button' tabindex='1' title='Play'>
+<div class='g-button-play player-hero__play__button player-hero__play__button--animated'>
+<svg x="0" y="0" width="100px" height="100px" viewBox="0 0 200 200" class="play play--ripple">
+ <circle fill="transparent" stroke="#FFFFFF" stroke-width="8" cx="100" cy="100" r="96"/>
+ <circle clip-path="url(#clipper)" fill="url(#ripple)" cx="100" cy="100" r="130" />
+  <polygon fill="#FFFFFF" points="70.993,60.347 153.398,102.384 70.993,144.42   "/>
+</svg>
+<svg x="0" y="0" width="0" height="0">
+  <defs>
+    <clipPath id="clipper">
+      <circle cx="100" cy="100" r="93" />
+    </clipPath>
+    <radialGradient id="ripple">
+      <stop offset="0%" stop-color="#000" stop-opacity="0.25">
+        <animate attributeName="offset" values="0;0.70" begin="0.2s" dur="2.1s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="5%" stop-color="#888" stop-opacity="0.35">
+        <animate attributeName="offset" values="0.05;0.75" begin="0" dur="2.1s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="10%" stop-color="#000" stop-opacity="0.25">
+        <animate attributeName="offset" values="0.10;1" begin="0" dur="2.1s" repeatCount="indefinite" />
+      </stop>
+    </radialGradient>
+  </defs>
+</svg>
+</div>
+</a>
+<div class='player-hero__early-request'>
+<div class='player-hero__early-request__content'>
+Loading&hellip;
+</div>
+</div>
+<div class='player-hero__tools'>
+<div class='player-hero__tools__list'>
+<div class='player-hero__tools__list__actions module'>
+<a class='player-hero__tools__tool watch-later-button' href='#' id='player-hero-wl' role='button'>
+<i class="icon icon_circle-watchlater player-hero__tools__icon watch-later-button__icon"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+<a class='player-hero__tools__tool favorite-button' href='#' id='player-hero-favorite' role='button'>
+<i class="icon icon_circle-favorite player-hero__tools__icon favorite-button__icon"></i>
+<span class='favorite-button__label'>
+Favorite
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class='player-hero__details playlist-hero__details'>
+<div class='player-hero__details__table player-hero__details__image'>
+<div class='player-hero__details__cell'>
+<a class='play-button' href='#' onclick='playerHeroPlay()' ontouchend='playerHeroPlay()'>
+<img class='player-hero__details__image__content' src='https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/can_you_believe_your_eyes.jpg?quality=89&amp;w=500'>
+</a>
+</div>
+</div>
+<div class='player-hero__details__table'>
+<div class='player-hero__details__cell'>
+<h1>
+<div class='playlist-hero__preable'>
+Playlist
+(10 talks)
+</div>
+<div class='player-hero__title playlist-hero__title'>
+Can you believe your eyes?
+</div>
+</h1>
+<div class='playlist-hero__description'>
+Magic tricks, optical illusions, death-defying feats, digital lies. Believe it or not.
+</div>
+<ul class='sl show-lg playlist-hero__tools'>
+<li class='playlist-hero__tool playlist-hero__tool--play'>
+<a class='play-button playlist-hero__tool__link' href='#' onclick='playerHeroPlay()' ontouchend='playerHeroPlay()'>
+<div class='playlist-hero__button'><i class="icon icon_circle-play playlist-hero__button__icon playlist-hero__button__icon--flat"></i><i class='icon playlist-hero__button__icon playlist-hero__button__icon--animated'>
+<svg width="70" height="70" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clipper">
+      <circle cx="256" cy="256" r="246" />
+    </clipPath>
+
+    <linearGradient id="shimmer" x1="0" x2="100%" y1="0" y2="40%">
+      <stop offset="0%" stop-color="#222">
+        <animate attributeName="offset" values="0;0;0.7" begin="0" dur="2s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="15%" stop-color="#666">
+        <animate attributeName="offset" values="0.15;0.15;0.85" begin="0" dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="30%" stop-color="#222">
+        <animate attributeName="offset" values="0.3;0.3;1" begin="0" dur="2s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#222"></stop>
+    </linearGradient>
+  </defs>
+
+  <circle clip-path="url(#clipper)" fill="url(#shimmer)" cx="256" cy="256" r="512" fill-opacity="0.33" />
+  <path fill="#FFFFFF" d="M255.99 12C121.247 12 12 121.247 12 256s109.247 244 243.99 244C390.753 500 500 390.753 500 256S390.753 12 255.99 12zm0 464.203c-121.597 0-220.193-98.597-220.193-220.203 0-121.617 98.597-220.192 220.193-220.192 121.627 0 220.213 98.576 220.213 220.192 0 121.606-98.586 220.203-220.213 220.203z" />
+  <path fill="#FFFFFF" d="M172.91 144.972l221.19 111.03L172.91 367.03V144.972z" />
+</svg>
+</i></div>
+<span class='play-button__label'>Watch now</span>
+</a>
+</li>
+<li class='playlist-hero__tool'>
+<a class='watch-later-button playlist-hero__tool__link' href='#' id='playlist-hero-wl'>
+<i class="icon icon_circle-watchlater playlist-hero__tool__icon watch-later-button__icon"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+</li>
+<li class='playlist-hero__tool'>
+<a class='favorite-button playlist-hero__tool__link' href='#' id='playlist-hero-favorite'>
+<i class="icon icon_circle-favorite playlist-hero__tool__icon favorite-button__icon"></i>
+<span class='favorite-button__label'>
+Favorite
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+<div class='controls--maxi'></div>
+</div>
+
+<div class='container'>
+<div class='playlist-top'>
+<div class='playlist-sharing'>
+<ul class='icon-belt'>
+<li class='icon-belt__item'>
+<span class='talk-sharing__label talk-sharing__label--cta show-lg'>
+<span class='talk-sharing__label__block'>
+Share this
+</span>
+<span class='talk-sharing__label__block'>
+playlist
+</span>
+</span>
+</li>
+<li class='icon-belt__item icon-belt__item--twitter'>
+<a class='icon-belt__link playlist-sharing__link ga-link' data-service-label='Twitter' data-service-name='twitter' href='//twitter.com/intent/tweet?url=http%3A%2F%2Fwww.ted.com%2Fplaylists%2F71%2Fcan_you_believe_your_eyes&amp;text=Can%20you%20believe%20your%20eyes%3F' target='_blank'>
+<i class="icon icon_circle-twitter-fill " title="Share on Twitter"></i><span class="screen-reader-text">Share on Twitter</span>
+</a>
+</li>
+<li class='icon-belt__item icon-belt__item--facebook'>
+<a class='icon-belt__link playlist-sharing__link ga-link' data-service-label='Facebook' data-service-name='facebook' href='//www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.ted.com%2Fplaylists%2F71%2Fcan_you_believe_your_eyes' target='_blank'>
+<i class="icon icon_circle-facebook-fill " title="Share via Facebook"></i><span class="screen-reader-text">Share via Facebook</span>
+</a>
+</li>
+<li class='icon-belt__item'>
+<a class='icon-belt__link playlist-sharing__link ga-link' data-service-label='Email' data-service-name='email' href='//api.addthis.com/oexchange/0.8/forward/email/offer?url=http%3A%2F%2Fwww.ted.com%2Fplaylists%2F71%2Fcan_you_believe_your_eyes&amp;title=Can%20you%20believe%20your%20eyes%3F' target='_blank'>
+<i class="icon icon_circle-email-fill " title="Share by Email"></i><span class="screen-reader-text">Share by Email</span>
+</a>
+</li>
+<li class='icon-belt__item'>
+<a class='icon-belt__link' href='#' id='sharing-other'>
+<i class="icon icon_circle-more-fill "></i><span class="screen-reader-text">Other sharing services</span>
+</a>
+</li>
+</ul>
+</div>
+
+<div id='sponsorship-bug-placeholder'>
+<script>
+  g('ads.createCompanionSlot', {
+    adUnit:      "/5641/ted2/playlists",
+    containerId: "sponsorship-bug-placeholder",
+    key:         "bug",
+    size:        [[120,60]],
+    targeting:   {}
+  });
+</script>
+
+</div>
+</div>
+</div>
+<div class='container'>
+<div class='row'>
+<div class='col-lg-8'>
+<h2 class='playlist-title'>
+Playlist (10 talks):
+Can you believe your eyes?
+</h2>
+<ul class='playlist-talks' id='playlist'>
+<li class='playlist-talks__talk' data-talk-id='653' id='talk-653'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/beau_lotto_optical_illusions_show_how_we_see' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="990" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/300e156af7ba3fb3d25010bc72be4d010051e525_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">16:30</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/beau_lotto" target="_blank">Beau Lotto</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/beau_lotto_optical_illusions_show_how_we_see' target='_blank'>
+Optical illusions show how we see
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Beau Lotto's color games puzzle your vision, but they also spotlight what you can't normally see: how your brain works. This fun, first-hand look at your own versatile sense of sight reveals how evolution tints your perception of what's really out there.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/beau_lotto_optical_illusions_show_how_we_see' target='_blank'>
+<span>
+220 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='310' id='talk-310'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/keith_barry_does_brain_magic' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="1189" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/ca1e26fd8ec5793c6bf2d1519700babd038c71c7_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">19:49</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/keith_barry" target="_blank">Keith Barry</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/keith_barry_does_brain_magic' target='_blank'>
+Brain magic
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+First, Keith Barry shows us how our brains can fool our bodies — in a trick that works via podcast too. Then he involves the audience in some jaw-dropping (and even a bit dangerous) feats of brain magic.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/keith_barry_does_brain_magic' target='_blank'>
+<span>
+645 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='2027' id='talk-2027'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/david_kwong_two_nerdy_obsessions_meet_and_it_s_magic' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="703" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/717a3b22d2093b07a95afd8811e7e2f018f49243_2400x1800.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">11:43</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/david_kwong" target="_blank">David Kwong</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/david_kwong_two_nerdy_obsessions_meet_and_it_s_magic' target='_blank'>
+Two nerdy obsessions meet -- and it's magic
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+David Kwong is a magician who makes crossword puzzles — in other words, a pretty nerdy guy. And for his next trick ... 
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/david_kwong_two_nerdy_obsessions_meet_and_it_s_magic' target='_blank'>
+<span>
+164 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='1921' id='talk-1921'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/aparna_rao_art_that_craves_your_attention' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="536" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/97d3d86749ad26995caa55948e45c525f453746e_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">08:56</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/aparna_rao" target="_blank">Aparna Rao</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/aparna_rao_art_that_craves_your_attention' target='_blank'>
+Art that craves your attention
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+In this charming talk, artist Aparna Rao shows us her latest work: cool, cartoony sculptures (with neat robotic tricks underneath them) that play with your perception — and crave your attention. Take a few minutes to simply be delighted.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/aparna_rao_art_that_craves_your_attention' target='_blank'>
+<span>
+51 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='199' id='talk-199'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/arthur_benjamin_does_mathemagic' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="914" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/e982353371ca063e5ffb2ab554ec91de355d29d1_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">15:14</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/arthur_benjamin" target="_blank">Arthur Benjamin</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/arthur_benjamin_does_mathemagic' target='_blank'>
+A performance of &quot;Mathemagic&quot;
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+In a lively show, mathemagician Arthur Benjamin races a team of calculators to figure out 3-digit squares, solves another massive mental equation and guesses a few birthdays. How does he do it? He’ll tell you.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/arthur_benjamin_does_mathemagic' target='_blank'>
+<span>
+574 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='741' id='talk-741'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/david_blaine_how_i_held_my_breath_for_17_min' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="1219" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/9ed8ff36f60c73ba894de8370b2ee4182a3aeece_1920x1080.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">20:19</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/david_blaine" target="_blank">David Blaine</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/david_blaine_how_i_held_my_breath_for_17_min' target='_blank'>
+How I held my breath for 17 minutes
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+In this highly personal talk from TEDMED, magician and stuntman David Blaine describes what it took to hold his breath underwater for 17 minutes — a world record (only two minutes shorter than this entire talk!) — and what his often death-defying work means to him. Warning: do NOT try this at home.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/david_blaine_how_i_held_my_breath_for_17_min' target='_blank'>
+<span>
+283 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='78' id='talk-78'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/al_seckel_says_our_brains_are_mis_wired' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="873" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/46060181dac88f2dce68702191dded7e345675dc_2880x1620.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">14:33</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/al_seckel" target="_blank">Al Seckel</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/al_seckel_says_our_brains_are_mis_wired' target='_blank'>
+Visual illusions that show how we (mis)think
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Al Seckel, a cognitive neuroscientist, explores the perceptual illusions that fool our brains. Loads of eye tricks help him prove that not only are we easily fooled, we kind of like it.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/al_seckel_says_our_brains_are_mis_wired' target='_blank'>
+<span>
+85 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='1211' id='talk-1211'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/marco_tempest_the_magic_of_truth_and_lies_on_ipods' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="307" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/d86701d1f48e7f7e9d8808cc972ee8b06182ad2e_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">05:07</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/marco_tempest" target="_blank">Marco Tempest</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/marco_tempest_the_magic_of_truth_and_lies_on_ipods' target='_blank'>
+The magic of truth and lies (and iPods)
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Using three iPods like magical props, Marco Tempest spins a clever, surprisingly heartfelt meditation on truth and lies, art and emotion. 
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/marco_tempest_the_magic_of_truth_and_lies_on_ipods' target='_blank'>
+<span>
+378 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='327' id='talk-327'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/lennart_green_does_close_up_card_magic' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="1868" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/30bd0383a3bae69754054546335f24f755648e1f_1600x1200.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">31:08</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/lennart_green" target="_blank">Lennart Green</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/lennart_green_does_close_up_card_magic' target='_blank'>
+Close-up card magic with a twist
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Like your uncle at a family party, the rumpled Swedish doctor Lennart Green says, "Pick a card, any card." But what he does with those cards is pure magic — flabbergasting, lightning-fast, how-does-he-do-it? magic.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/lennart_green_does_close_up_card_magic' target='_blank'>
+<span>
+109 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class='playlist-talks__talk' data-talk-id='1366' id='talk-1366'>
+<div class='playlist-talks__talk__wrapper'>
+<div class='playlist-talks__talk__content'>
+<a class='playlist-talks__thumb playlist-talks__play' href='/talks/shilo_shiv_suleman_using_tech_to_enable_dreaming' target='_blank'>
+<span class="thumb thumb--video thumb--crop-top thumb--autoplay"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" autoplay="autoplay" class=" thumb__image" crop="top" play="456" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/7e5896a6ead7ad1d0f09c608faf7fa1b090a8dff_800x600.jpg?quality=70&amp;w=300" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">07:36</span></span>
+<div class='playlist-talks__thumb__indicator'>Now playing</div>
+</a>
+<div class='playlist-talks__meta'>
+<span class='playlist-talks__speaker'>
+<a class="playlist-talks__speaker__link" href="/speakers/shilo_shiv_suleman" target="_blank">Shilo Shiv Suleman</a></span>
+<h9 class='playlist-talks__title'>
+<a class='playlist-talks__play' href='/talks/shilo_shiv_suleman_using_tech_to_enable_dreaming' target='_blank'>
+Using tech to enable dreaming
+</a>
+</h9>
+</div>
+<div class='playlist-talks__info'>
+<div class='playlist-talks__description m5'>
+Has our technology — our cell phones and iPods and cameras — stopped us from dreaming? Young artist Shilo Shiv Suleman says no, as she demos "Khoya," her new storybook for iPad, which floats us through a magical world in 7 minutes of pure creativity.
+</div>
+<div class='playlist-talks__actions m5'>
+<a class='watch-later-button playlist-talks__watch-later' href=''>
+<i class="icon icon_circle-watchlater watch-later-button__icon playlist-item-wl"></i>
+<span class='watch-later-button__label'>
+Watch later
+</span>
+</a>
+&middot;
+<a class='playlist-talks__comments' href='/talks/shilo_shiv_suleman_using_tech_to_enable_dreaming' target='_blank'>
+<span>
+178 comments
+</span>
+<i class="icon icon_arrow-alt-right playlist-item-comments"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+
+</div>
+<div class='col-lg-4'>
+<div class='talk-ad' id='ad-unit'>
+<script>
+  g('ads.createCompanionSlot', {
+    adUnit:      "/5641/ted2/playlists",
+    containerId: "ad-unit",
+    key:         "companion",
+    size:        [[300,250]],
+    targeting:   {}
+  });
+</script>
+
+</div>
+<div class='playlist-ad' id='ad-unit-mobile'></div>
+<div class='playlist-suggestions'>
+<h3 class='h8 m3'>Playlists to watch&hellip;</h3>
+<ul class='sl playlist-suggestions__list row'>
+<li class='playlist-suggestions__item col-sm-6'>
+<a class='playlist-suggestion media media--lg-v' data-ga-category='playlist.relatedPlaylist' href='/playlists/253/11_ted_talks_by_brilliant_wome'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class="playlist-suggestion__image thumb__image" play="false" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/women_in_stem.jpg?w=160" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<div class='p4'>Playlist</div>
+<h4 class='h9'>Talks by brilliant women in STEM</h4>
+<div class='meta'>11 talks</div>
+</div>
+</a>
+</li>
+<li class='playlist-suggestions__item col-sm-6'>
+<a class='playlist-suggestion media media--lg-v' data-ga-category='playlist.relatedPlaylist' href='/playlists/312/weird_facts_about_the_human_bo'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class="playlist-suggestion__image thumb__image" play="false" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/weird_facts_about_the_body.jpg?w=160" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<div class='p4'>Playlist</div>
+<h4 class='h9'>Weird facts about the human body</h4>
+<div class='meta'>13 talks</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<ul class='sl playlist-suggestions__list row'>
+<li class='playlist-suggestions__item col-sm-6'>
+<a class='playlist-suggestion media media--lg-v' data-ga-category='playlist.relatedPlaylist' href='/playlists/205/9_trippy_ted_talks'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class="playlist-suggestion__image thumb__image" play="false" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/8_trippy_talks.jpg?w=160" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<div class='p4'>Playlist</div>
+<h4 class='h9'>10 trippy TED Talks</h4>
+<div class='meta'>10 talks</div>
+</div>
+</a>
+</li>
+<li class='playlist-suggestions__item col-sm-6'>
+<a class='playlist-suggestion media media--lg-v' data-ga-category='playlist.relatedPlaylist' href='/playlists/144/should_we_redesign_humans'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class="playlist-suggestion__image thumb__image" play="false" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/should_we_redesign_humans_update.jpg?w=160" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<div class='p4'>Playlist</div>
+<h4 class='h9'>Should we redesign humans?</h4>
+<div class='meta'>11 talks</div>
+</div>
+</a>
+</li>
+</ul>
+<a class='l1' href='/playlists'>Browse more playlists</a>
+
+</div>
+</div>
+</div>
+<div id='master-gpt' style='height:0'>
+<script>
+  g('ads.displayMasterAd', {
+    adUnit:      "/5641/ted2/playlists",
+    containerId: "master-gpt",
+    targeting:   {"playlist":"can_you_believe_your_eyes","id":653,"talk":"beau_lotto_optical_illusions_show_how_we_see","tag":"art,brain,consciousness,mind,psychology,science,visualizations","year":"2009","event":"TEDGlobal 2009"}
+  });
+</script>
+</div>
+
+<script>q("permalink.init",{"playlist":{"id":71,"share":"http://www.ted.com/playlists/71/can_you_believe_your_eyes","title":"Can you believe your eyes?","duration":9055,"curator":"","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpf-a.akamaihd.net/images/playlists/can_you_believe_your_eyes.jpg?quality=89\u0026w=160","slug":"can_you_believe_your_eyes"},"talks":[{"id":653,"duration":990,"languages":[{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Marathi","endonym":"मराठी","languageCode":"mr","ianaCode":"mr","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/BeauLotto_2009G-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2009G/Blank/BeauLotto_2009G-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2009G/Blank/BeauLotto_2009G-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2009G/Blank/BeauLotto_2009G-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2009G/Blank/BeauLotto_2009G-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2009G/Blank/BeauLotto_2009G-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2009G/Blank/BeauLotto_2009G-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2009G/Blank/BeauLotto_2009G-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDGlobal%2B2009%26id%3D653%26tag%3Dart%2Cbrain%2Cconsciousness%2Cmind%2Cpsychology%2Cscience%2Cvisualizations%26talk%3Dbeau_lotto_optical_illusions_show_how_we_see%26year%3D2009\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/653.m3u8","metadata":"https://hls.ted.com/talks/653.json"}},"targeting":{"id":653,"talk":"beau_lotto_optical_illusions_show_how_we_see","tag":"art,brain,consciousness,mind,psychology,science,visualizations","year":"2009","event":"TEDGlobal 2009"},"canonical":"http://www.ted.com/talks/beau_lotto_optical_illusions_show_how_we_see","external":null,"name":"Beau Lotto: Optical illusions show how we see","title":"Optical illusions show how we see","speaker":"Beau Lotto","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/300e156af7ba3fb3d25010bc72be4d010051e525_1600x1200.jpg?quality=89\u0026w=600","slug":"beau_lotto_optical_illusions_show_how_we_see","event":"TEDGlobal 2009","filmed":1248307200,"published":1254992700},{"id":310,"duration":1189,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Kurdish","endonym":"کوردی","languageCode":"ku","ianaCode":"ku","isRtl":true},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/KeithBarry_2004-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2004/Blank/KeithBarry_2004-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2004/Blank/KeithBarry_2004-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2004/Blank/KeithBarry_2004-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2004/Blank/KeithBarry_2004-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2004/Blank/KeithBarry_2004-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2004/Blank/KeithBarry_2004-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2004/Blank/KeithBarry_2004-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTED2004%26id%3D310%26tag%3DTED%2BConference%2Cbrain%2Centertainment%2Cillusion%2Cmagic%26talk%3Dkeith_barry_does_brain_magic%26year%3D2004\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/310.m3u8","metadata":"https://hls.ted.com/talks/310.json"}},"targeting":{"id":310,"talk":"keith_barry_does_brain_magic","tag":"TED Conference,brain,entertainment,illusion,magic","year":"2004","event":"TED2004"},"canonical":"http://www.ted.com/talks/keith_barry_does_brain_magic","external":null,"name":"Keith Barry: Brain magic","title":"Brain magic","speaker":"Keith Barry","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/ca1e26fd8ec5793c6bf2d1519700babd038c71c7_1600x1200.jpg?quality=89\u0026w=600","slug":"keith_barry_does_brain_magic","event":"TED2004","filmed":1075680000,"published":1216366800},{"id":2027,"duration":703,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Norwegian Bokmal","endonym":"Norsk bokmål","languageCode":"nb","ianaCode":"nb","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/DavidKwong_2014-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2014/Blank/DavidKwong_2014-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2014/Blank/DavidKwong_2014-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2014/Blank/DavidKwong_2014-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2014/Blank/DavidKwong_2014-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2014/Blank/DavidKwong_2014-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2014/Blank/DavidKwong_2014-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2014/Blank/DavidKwong_2014-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTED2014%26id%3D2027%26tag%3DTED%2BConference%2Centertainment%2Cmagic%26talk%3Ddavid_kwong_two_nerdy_obsessions_meet_and_it_s_magic%26year%3D2014\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/2027.m3u8","metadata":"https://hls.ted.com/talks/2027.json"}},"targeting":{"id":2027,"talk":"david_kwong_two_nerdy_obsessions_meet_and_it_s_magic","tag":"TED Conference,entertainment,magic","year":"2014","event":"TED2014"},"canonical":"http://www.ted.com/talks/david_kwong_two_nerdy_obsessions_meet_and_it_s_magic","external":null,"name":"David Kwong: Two nerdy obsessions meet -- and it's magic","title":"Two nerdy obsessions meet -- and it's magic","speaker":"David Kwong","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/717a3b22d2093b07a95afd8811e7e2f018f49243_2400x1800.jpg?quality=89\u0026w=600","slug":"david_kwong_two_nerdy_obsessions_meet_and_it_s_magic","event":"TED2014","filmed":1395360000,"published":1405092113},{"id":1921,"duration":536,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Burmese","endonym":"မြန်မာဘာသာ","languageCode":"my","ianaCode":"my","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Kazakh","endonym":"Қазақ тілі","languageCode":"kk","ianaCode":"kk","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/AparnaRao_2013U-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2013U/Blank/AparnaRao_2013U-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2013U/Blank/AparnaRao_2013U-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2013U/Blank/AparnaRao_2013U-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2013U/Blank/AparnaRao_2013U-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2013U/Blank/AparnaRao_2013U-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2013U/Blank/AparnaRao_2013U-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2013U/Blank/AparnaRao_2013U-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTED%2BFellows%2BRetreat%2B2013%26id%3D1921%26tag%3DTED%2BFellows%2Cart%2Ccreativity%2Cinterface%2Bdesign%26talk%3Daparna_rao_art_that_craves_your_attention%26year%3D2013\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/1921.m3u8","metadata":"https://hls.ted.com/talks/1921.json"}},"targeting":{"id":1921,"talk":"aparna_rao_art_that_craves_your_attention","tag":"TED Fellows,art,creativity,interface design","year":"2013","event":"TED Fellows Retreat 2013"},"canonical":"http://www.ted.com/talks/aparna_rao_art_that_craves_your_attention","external":null,"name":"Aparna Rao: Art that craves your attention","title":"Art that craves your attention","speaker":"Aparna Rao","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/97d3d86749ad26995caa55948e45c525f453746e_1600x1200.jpg?quality=89\u0026w=600","slug":"aparna_rao_art_that_craves_your_attention","event":"TED Fellows Retreat 2013","filmed":1375747200,"published":1391789702},{"id":199,"duration":914,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Burmese","endonym":"မြန်မာဘာသာ","languageCode":"my","ianaCode":"my","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Esperanto","endonym":"Esperanto","languageCode":"eo","ianaCode":"eo","isRtl":false},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Georgian","endonym":"ქართული","languageCode":"ka","ianaCode":"ka","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Kannada","endonym":"ಕನ್ನಡ","languageCode":"kn","ianaCode":"kn","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Kurdish","endonym":"کوردی","languageCode":"ku","ianaCode":"ku","isRtl":true},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Nepali","endonym":"नेपाली","languageCode":"ne","ianaCode":"ne","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Slovenian","endonym":"Slovenščina","languageCode":"sl","ianaCode":"sl","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/ArthurBenjamin_2005-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2005/Blank/ArthurBenjamin_2005-1500k.mp4","name":"1500k","width":960,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2005/Blank/ArthurBenjamin_2005-950k.mp4","name":"950k","width":640,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2005/Blank/ArthurBenjamin_2005-600k.mp4","name":"600k","width":480,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2005/Blank/ArthurBenjamin_2005-450k.mp4","name":"450k","width":384,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2005/Blank/ArthurBenjamin_2005-320k.mp4","name":"320k","width":384,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2005/Blank/ArthurBenjamin_2005-180k.mp4","name":"180k","width":384,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2005/Blank/ArthurBenjamin_2005-64k.mp4","name":"64k","width":298,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTED2005%26id%3D199%26tag%3DTED%2BConference%2Ceducation%2Centertainment%2Cmagic%2Cmath%2Cperformance%26talk%3Darthur_benjamin_does_mathemagic%26year%3D2005\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/199.m3u8","metadata":"https://hls.ted.com/talks/199.json"}},"targeting":{"id":199,"talk":"arthur_benjamin_does_mathemagic","tag":"TED Conference,education,entertainment,magic,math,performance","year":"2005","event":"TED2005"},"canonical":"http://www.ted.com/talks/arthur_benjamin_does_mathemagic","external":null,"name":"Arthur Benjamin: A performance of \"Mathemagic\"","title":"A performance of \"Mathemagic\"","speaker":"Arthur Benjamin","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/e982353371ca063e5ffb2ab554ec91de355d29d1_1600x1200.jpg?quality=89\u0026w=600","slug":"arthur_benjamin_does_mathemagic","event":"TED2005","filmed":1107302400,"published":1197504780},{"id":741,"duration":1219,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Kurdish","endonym":"کوردی","languageCode":"ku","ianaCode":"ku","isRtl":true},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/DavidBlaine_2009P-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2009P/Blank/DavidBlaine_2009P-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2009P/Blank/DavidBlaine_2009P-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2009P/Blank/DavidBlaine_2009P-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2009P/Blank/DavidBlaine_2009P-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2009P/Blank/DavidBlaine_2009P-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2009P/Blank/DavidBlaine_2009P-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2009P/Blank/DavidBlaine_2009P-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDMED%2B2009%26id%3D741%26tag%3Dbiology%2Cmagic%2Cmedicine%2Cperformance%26talk%3Ddavid_blaine_how_i_held_my_breath_for_17_min%26year%3D2009\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/741.m3u8","metadata":"https://hls.ted.com/talks/741.json"}},"targeting":{"id":741,"talk":"david_blaine_how_i_held_my_breath_for_17_min","tag":"biology,magic,medicine,performance","year":"2009","event":"TEDMED 2009"},"canonical":"http://www.ted.com/talks/david_blaine_how_i_held_my_breath_for_17_min","external":null,"name":"David Blaine: How I held my breath for 17 minutes","title":"How I held my breath for 17 minutes","speaker":"David Blaine","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/9ed8ff36f60c73ba894de8370b2ee4182a3aeece_1920x1080.jpg?quality=89\u0026w=600","slug":"david_blaine_how_i_held_my_breath_for_17_min","event":"TEDMED 2009","filmed":1256601600,"published":1263889320},{"id":78,"duration":873,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Slovenian","endonym":"Slovenščina","languageCode":"sl","ianaCode":"sl","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/AlSeckel_2004-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2004/Blank/AlSeckel_2004-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2004/Blank/AlSeckel_2004-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2004/Blank/AlSeckel_2004-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2004/Blank/AlSeckel_2004-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2004/Blank/AlSeckel_2004-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2004/Blank/AlSeckel_2004-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2004/Blank/AlSeckel_2004-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTED2004%26id%3D78%26tag%3DTED%2BConference%2Carts%2Cbrain%2Ccognitive%2Bscience%2Cculture%2Cdesign%2Cillusion%2Cpsychology%26talk%3Dal_seckel_says_our_brains_are_mis_wired%26year%3D2004\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/78.m3u8","metadata":"https://hls.ted.com/talks/78.json"}},"targeting":{"id":78,"talk":"al_seckel_says_our_brains_are_mis_wired","tag":"TED Conference,arts,brain,cognitive science,culture,design,illusion,psychology","year":"2004","event":"TED2004"},"canonical":"http://www.ted.com/talks/al_seckel_says_our_brains_are_mis_wired","external":null,"name":"Al Seckel: Visual illusions that show how we (mis)think","title":"Visual illusions that show how we (mis)think","speaker":"Al Seckel","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/46060181dac88f2dce68702191dded7e345675dc_2880x1620.jpg?quality=89\u0026w=600","slug":"al_seckel_says_our_brains_are_mis_wired","event":"TED2004","filmed":1077753600,"published":1175731860},{"id":1211,"duration":307,"languages":[{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Armenian","endonym":"Հայրեն","languageCode":"hy","ianaCode":"hy","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Chinese, Yue","endonym":"中文 (粵語)","languageCode":"zh","ianaCode":"zh","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Esperanto","endonym":"Esperanto","languageCode":"eo","ianaCode":"eo","isRtl":false},{"languageName":"Filipino","endonym":"Filipino","languageCode":"fil","ianaCode":"fil","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"French (Canada)","endonym":"Français canadien","languageCode":"fr-ca","ianaCode":"fr-CA","isRtl":false},{"languageName":"Georgian","endonym":"ქართული","languageCode":"ka","ianaCode":"ka","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Malay","endonym":"Bahasa melayu","languageCode":"ms","ianaCode":"ms","isRtl":false},{"languageName":"Mongolian","endonym":"Монгол","languageCode":"mn","ianaCode":"mn","isRtl":false},{"languageName":"Norwegian Bokmal","endonym":"Norsk bokmål","languageCode":"nb","ianaCode":"nb","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Slovenian","endonym":"Slovenščina","languageCode":"sl","ianaCode":"sl","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Tamil","endonym":"தமிழ்","languageCode":"ta","ianaCode":"ta","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Uzbek","endonym":"O'zbek","languageCode":"uz","ianaCode":"uz","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/MarcoTempest_2011G-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2011G/Blank/MarcoTempest_2011G-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2011G/Blank/MarcoTempest_2011G-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2011G/Blank/MarcoTempest_2011G-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2011G/Blank/MarcoTempest_2011G-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2011G/Blank/MarcoTempest_2011G-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2011G/Blank/MarcoTempest_2011G-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2011G/Blank/MarcoTempest_2011G-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTEDGlobal%2B2011%26id%3D1211%26tag%3Dart%2Carts%2Cdesign%2Centertainment%2Cillusion%2Cmagic%2Cmusic%2Ctechnology%26talk%3Dmarco_tempest_the_magic_of_truth_and_lies_on_ipods%26year%3D2011\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/1211.m3u8","metadata":"https://hls.ted.com/talks/1211.json"}},"targeting":{"id":1211,"talk":"marco_tempest_the_magic_of_truth_and_lies_on_ipods","tag":"art,arts,design,entertainment,illusion,magic,music,technology","year":"2011","event":"TEDGlobal 2011"},"canonical":"http://www.ted.com/talks/marco_tempest_the_magic_of_truth_and_lies_on_ipods","external":null,"name":"Marco Tempest: The magic of truth and lies (and iPods)","title":"The magic of truth and lies (and iPods)","speaker":"Marco Tempest","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/d86701d1f48e7f7e9d8808cc972ee8b06182ad2e_1600x1200.jpg?quality=89\u0026w=600","slug":"marco_tempest_the_magic_of_truth_and_lies_on_ipods","event":"TEDGlobal 2011","filmed":1310601600,"published":1313162529},{"id":327,"duration":1868,"languages":[{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Esperanto","endonym":"Esperanto","languageCode":"eo","ianaCode":"eo","isRtl":false},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/LennartGreen_2005-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2005/Blank/LennartGreen_2005-1500k.mp4","name":"1500k","width":960,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2005/Blank/LennartGreen_2005-950k.mp4","name":"950k","width":640,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2005/Blank/LennartGreen_2005-600k.mp4","name":"600k","width":480,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2005/Blank/LennartGreen_2005-450k.mp4","name":"450k","width":384,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2005/Blank/LennartGreen_2005-320k.mp4","name":"320k","width":384,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2005/Blank/LennartGreen_2005-180k.mp4","name":"180k","width":384,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2005/Blank/LennartGreen_2005-64k.mp4","name":"64k","width":298,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DTED2005%26id%3D327%26tag%3DTED%2BConference%2Centertainment%2Chumor%2Cillusion%2Cmagic%26talk%3Dlennart_green_does_close_up_card_magic%26year%3D2005\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/327.m3u8","metadata":"https://hls.ted.com/talks/327.json"}},"targeting":{"id":327,"talk":"lennart_green_does_close_up_card_magic","tag":"TED Conference,entertainment,humor,illusion,magic","year":"2005","event":"TED2005"},"canonical":"http://www.ted.com/talks/lennart_green_does_close_up_card_magic","external":null,"name":"Lennart Green: Close-up card magic with a twist","title":"Close-up card magic with a twist","speaker":"Lennart Green","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/30bd0383a3bae69754054546335f24f755648e1f_1600x1200.jpg?quality=89\u0026w=600","slug":"lennart_green_does_close_up_card_magic","event":"TED2005","filmed":1107302400,"published":1219194000},{"id":1366,"duration":456,"languages":[{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Armenian","endonym":"Հայրեն","languageCode":"hy","ianaCode":"hy","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"French (Canada)","endonym":"Français canadien","languageCode":"fr-ca","ianaCode":"fr-CA","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":"3.33","postAdDuration":"0.83","streamer":"rtmp://cp358131.edgefcs.net/ted","resources":{"h264":[{"bitrate":320,"file":"http://download.ted.com/talks/ShiloSuleman_2011P-320k.mp4?dnt"}],"rtmp":[{"bitrate":1500,"file":"mp4:talk/stream/2011P/Blank/ShiloSuleman_2011P-1500k.mp4","name":"1500k","width":1280,"height":720},{"bitrate":950,"file":"mp4:talk/stream/2011P/Blank/ShiloSuleman_2011P-950k.mp4","name":"950k","width":854,"height":480},{"bitrate":600,"file":"mp4:talk/stream/2011P/Blank/ShiloSuleman_2011P-600k.mp4","name":"600k","width":640,"height":360},{"bitrate":450,"file":"mp4:talk/stream/2011P/Blank/ShiloSuleman_2011P-450k.mp4","name":"450k","width":512,"height":288},{"bitrate":320,"file":"mp4:talk/stream/2011P/Blank/ShiloSuleman_2011P-320k.mp4","name":"320k","width":512,"height":288},{"bitrate":180,"file":"mp4:talk/stream/2011P/Blank/ShiloSuleman_2011P-180k.mp4","name":"180k","width":512,"height":288},{"bitrate":64,"file":"mp4:talk/stream/2011P/Blank/ShiloSuleman_2011P-64k.mp4","name":"64k","width":398,"height":224}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8\u0026correlator=%5Bcorrelator%5D\u0026cust_params=event%3DINK%2BConference%26id%3D1366%26tag%3Dart%2Ccreativity%26talk%3Dshilo_shiv_suleman_using_tech_to_enable_dreaming%26year%3D2011\u0026env=vp\u0026gdfp_req=1\u0026impl=s\u0026iu=%2F5641%2Fmobile%2Fios%2Fweb\u0026output=xml_vast2\u0026sz=640x360\u0026unviewed_position_start=1\u0026url=%5Breferrer%5D","stream":"https://hls.ted.com/talks/1366.m3u8","metadata":"https://hls.ted.com/talks/1366.json"}},"targeting":{"id":1366,"talk":"shilo_shiv_suleman_using_tech_to_enable_dreaming","tag":"art,creativity","year":"2011","event":"INK Conference"},"canonical":"http://www.ted.com/talks/shilo_shiv_suleman_using_tech_to_enable_dreaming","external":null,"name":"Shilo Shiv Suleman: Using tech to enable dreaming","title":"Using tech to enable dreaming","speaker":"Shilo Shiv Suleman","thumb":"https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/7e5896a6ead7ad1d0f09c608faf7fa1b090a8dff_800x600.jpg?quality=89\u0026w=600","slug":"shilo_shiv_suleman_using_tech_to_enable_dreaming","event":"INK Conference","filmed":1323388800,"published":1329929988}]})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

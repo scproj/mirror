@@ -1,0 +1,1038 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Global impact: TED Fellows Program | TED Fellows Program | Programs &amp; Initiatives | About | TED</title>
+<meta content="Global impact: TED Fellows Program | TED Fellows Program | Programs &amp; Initiatives | About | TED" name="title" />
+<meta content="Founded in 2009, the TED Fellows program has grown into a global network of 378 innovators representing 86 countries, working across a vast range of disciplines – from the arts to science to medicine to entrepreneurship and beyond. " name="description" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design, Fellows, stats, Fellowship, TED Fellows 2015" name="keywords" />
+<meta content="/system/baubles/files/000/002/878/original/TEDFellows_2015_stats_NumberFellows.png?1439823417?w=320" name="thumbnail" />
+<meta content="/system/baubles/files/000/002/878/original/TEDFellows_2015_stats_NumberFellows.png?1439823417?w=320" property="og:image" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="Global impact: TED Fellows Program | TED Fellows Program | Programs &amp; Initiatives | About | TED" property="og:title" />
+<meta content="Founded in 2009, the TED Fellows program has grown into a global network of 378 innovators representing 86 countries, working across a vast range of disciplines – from the arts to science to medicine to entrepreneurship and beyond. " property="og:description" />
+<meta content="http://www.ted.com/about/programs-initiatives/ted-fellows-program/global-impact" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/pages-ie.css?1449612282">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/pages.css?1449612282">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"Backbone":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","embed":"embed.js?23f83514c0a631545d35c263790da013","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","swatch":"swatch.js?af26d6cbf9673f6060dfc8b18154c39c","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","libs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","touchPunch":"touchPunch.js?47b6211b7aef9750ac4f6613a4256cc9","deferLink":"deferLink.js?e753127d1427d48d2dba8b3f593baec2","swfobject":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","dq":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","surprise_me":"surprise_me.js?07929707d7c91175cb34732107402b0b","jqueryujs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","SwipeView":"SwipeView.js?3d6ab40c7f02be91047f9e6802690af6","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Swipe":"Swipe.js?b746c9e9c38bd13ef622cfeed09ba6bf","Mailcheck":"Mailcheck.js?4752d459b0ac03f738bb7db1571d9a00","depot":"depot.js?6d97c6ff1eb27088493186e2db478ee0","ZeroClipboard":"ZeroClipboard.js?65f3b285606bcf3acd44bb2c25a6406d","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","pages":"pages.js?17cdddd45428c47b7469c56c84257ae1","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","hbs":"hbs.js?62ffd6dc422a088483ef7863de071d9e","talk":"talk.js?51221de80bbdf101073772b806dcd5d2","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","Cookies":"Cookies.js?ec959f431471b295566bcf6ad4298fcb","spinjs":"spinjs.js?0f67f5820075f88643c601a4284d14b2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","tedx":"tedx.js?27a3d0c882820e1a4ee6a7aad1d95d48","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","autosize":"autosize.js?c463a94f6da61cb86e53ea61dbcb6735","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","dashboard_hotels":"dashboard_hotels.js?d19435a801331067f5048d1c7b3bb747","crushinator":"crushinator.js?2b8d78a40a52bb661b0b4fcf32e166c9","home":"home.js?1241a7e9294d8677392f76b903746a75","settings":"settings.js?e3325b55ee4c74c02a9feaf0e5bcba53","moment":"moment.js?408f6a21d69b26bb98a3c705e51e7764","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","profiles":"profiles.js?456ec8e9c630a07c9b3a83c468f029c3","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","numeral":"numeral.js?611d7abced1fea00d28e10252bff308e","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","global":"global.js?a8f475509c478d1b04dd10477b2510e3","dashboard_sessions":"dashboard_sessions.js?ec189bd2ee9f9489834ccd2aee456c31","Modernizr":"Modernizr.js?8d4a21cfb9a3fcefdabddaac961016fe","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","menuAim":"menuAim.js?a94480af4d342b45c24626ac8f6a1f80","dashboard":"dashboard.js?286613b789f90d9c8b906950c59bfb05","pages/dynamic/dummy":"pages/dynamic/dummy.js?3967fae7f441a192ac0a2b697e4e7a3d","playlists":"playlists.js?bd6b90efccb6b196b5ce73684719c8c3","lodash":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","flot":"flot.js?cc487fa44adf9da4523f900fe26c7c0d","search":"search.js?06cfabf03223b309e632669510068bde","jquery":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","newsletter":"newsletter.js?51e416cf51603cd78b8ab750e35c8f5f","transit":"transit.js?1bb6034bee2f350ddcc3876a929ed54c","talks":"talks.js?d20a21859341240c8901c77effade7f8","waypoints":"waypoints.js?a6a99f3a64e668c5afdfe0aaa1245215","hbs/handlebars":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="pages"
+</script>
+<script async="async" data-main="pages" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612282"></script></head>
+<body class='pages-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main pages-main' role='main'>
+<!-- PB:T: one_column_no_nav -->
+<div class='container'>
+<div class='m1 module'>
+<nav class='breadcrumb m4 show-lg'>About&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;<a class="breadcrumb__link" href="/about/programs-initiatives" rel=" up up">Programs &amp; Initiatives</a>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;<a class="breadcrumb__link" href="/about/programs-initiatives/ted-fellows-program" rel=" up">TED Fellows Program</a>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;</nav>
+
+<h1 class='h1 h1--alt m2'>
+Global impact: TED Fellows Program
+</h1>
+<!-- PB:B: copy --><div class='p2'>
+<p>Founded in 2009 with an inaugural class at TEDIndia, the TED Fellows program has grown into a global network of 378 innovators representing 86 countries, working across a vast spectrum of disciplines, from the arts to science to medicine to entrepreneurship and beyond. Explore the infographics below to get a sense of the unique ways that the program impacts the individuals who join the TED Fellows family, as well as how the work of Fellows is bringing positive change to every corner of the world. Additionally, you can see how the global Fellows network fosters unexpected, cross-disciplinary collaborations that would likely never have happened otherwise. </p>
+
+</div>
+
+
+
+<!-- PB:B: horizontal_rule --><hr class='pages-hr'>
+
+</div>
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--program-snapshot">Program snapshot 
+</h3>
+
+<!-- PB:B: copy --><div class='pages-giant-text'>
+<div class='copy'>
+<div class='p1'><strong>2015 Fellows statistics</strong></div>
+</div>
+</div>
+
+
+
+<!-- PB:B: copy --><div class='p2'>
+<p>Founded in 2009, The TED Fellows program has grown to become a global network of 378 innovators representing 86 countries, working across a vast spectrum of disciplines. </p>
+
+</div>
+
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-4'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/878/original/TEDFellows_2015_stats_NumberFellows.png?1439823417?w=320" alt="Number of Fellows: 378" class="image"></p>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/875/original/TEDFellows_2015_stats_Countries.png?1439823408?w=320" alt="Countries represented: 86" class="image"></p>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/876/original/TEDFellows_2015_stats_Female.png?1439823410?w=320" alt="Female: 45%" class="image"></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-4'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/912/original/TEDFellows_2015_stats_Male.png?1439827980?w=320" alt="Male: 55%" class="image"></p>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/914/original/TEDFellows_2015_stats_TedTalks.png?1439828004?w=320" alt="Number of Fellows' talks on TED.com: 98" class="image"></p>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/911/original/TEDFellows_2015_stats_CollectiveViews.png?1439827958?w=320" alt="Collective views: 87M" class="image"></p>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: copy --><div class='pages-giant-text'>
+<div class='copy'>
+<div class='p1'><strong>Personal and professional impact of program on Fellows</strong> </div>
+</div>
+</div>
+
+
+
+<!-- PB:B: copy --><div class='p2'>
+<p>Fellows report a number of significant changes to their personal and professional lives as a Result of the TED Fellows program. Here’s a statistical snapshot of the program’s influence.</p>
+
+</div>
+
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/884/original/TEDFellows_2015_dials_PositiveLifeChange.png?1439824265?w=320" alt="Positive life change: 96%" class="image"></p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/885/original/TEDFellows_2015_dials_ProfessionalReputation.png?1439824268?w=320" alt="Improved professional reputation: 91%" class="image"> </p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/886/original/TEDFellows_2015_dials_QualityofWork.png?1439824271?w=320" alt="Positive impact on quality of work: 85%" class="image"> </p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/880/original/TEDFellows_2015_dials_CollaborationOtherFellows.png?1439824253?w=320" alt="Collaboration with other Fellows: 93%" class="image"></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/887/original/TEDFellows_2015_dials_VisibilityofWork.png?1439824274?w=320" alt="Increased visibility of work: 89%" class="image"></p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/881/original/TEDFellows_2015_dials_CommunicationFellows.png?1439824255?w=320" alt="In frequent communication with other fellows: 74%" class="image"></p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/882/original/TEDFellows_2015_dials_EmotionalSupport.png?1439824258?w=320" alt="Emotional support from other Fellows: 71%" class="image"></p>
+</div>
+</div>
+<div class='col-xs-3'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/883/original/TEDFellows_2015_dials_ImpactIncome.png?1439824263?w=320" alt="Positive impact on income: 45%" class="image"></p>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: horizontal_rule --><hr class='pages-hr'>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--fellows-around-the-globe">Fellows around the globe
+</h3>
+
+<!-- PB:B: copy --><div class='p2'>
+<p>TED Fellows are working in every corner of the world (and even outer space!) on topics from prison reform to wild bird conservation to social gastronomy to the origins of the universe... and much, much more. As you can see from the maps below, there are very few places TED Fellows have yet to make an impact. </p>
+
+</div>
+
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><h3 class="h4 m4"><strong>The Americas</strong></h3>
+
+<hr>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-8'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/889/original/TEDFellows_2015_globe_America.png?1439824493?w=320" alt="Fellows around the globe: Americas" class="image"></p>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h5 class="h10 m5">Kyrsten Sinema — Maricopa County, Arizona</h5>
+
+<p>In 2012, Kyrsten Sinema became the first TED Fellow in Congress. She is currently serving as US Representative from Arizona's 9th congressional district.</p>
+
+<h5 class="h10 m5">Joe Landolina — Brooklyn, New York</h5>
+
+<p>Joe Landolina's VETIGEL is a plant polymer-based gel that can stop traumatic bleeding in under 10 seconds when applied to wounds. </p>
+
+<h5 class="h10 m5">Candy Chang — New Orleans, Louisiana</h5>
+
+<p>Since Candy Chang's first "Before I Die..." wall went up in 2011 in New Orleans, over 500 walls have been created, in more than 70 countries and 35 languages.</p>
+
+<h5 class="h10 m5">Gabriella Goméz-Mont — Mexico City, Mexico</h5>
+
+<p>Gabriella Goméz-Mont directs Laboratorio para la Ciudad, Mexico City’s creative think tank and experimental space that considers urban futures for the largest megalopolis on the American continent – including a mobility solution for a city where 5 million people use the subway daily. </p>
+
+<h5 class="h10 m5">Patricia Medici — Mato Grosso do Sul, Brazil</h5>
+
+<p>Patricia Medici's Lowland Tapir Conservation Initiative has captured and monitored over 80 tapirs in the Atlantic Forest and Pantanal biomes of Brazil, resulting in the largest existing database of information on tapir spatial ecology, intra-specific interactions and social organization. </p>
+
+<h5 class="h10 m5">David Hertz — Sâo Paulo, Brazil</h5>
+
+<p>Since launching his social gastronomy organization Gastromotiva in 2006 in São Paulo, Brazilian chef David Hertz has helped 1,245 people from vulnerable communities get vocational kitchen training, impacting 45,000 favela residents. </p>
+
+<h5 class="h10 m5">Mundano — Rio de Janeiro, Brazil</h5>
+
+<p>To date, graffiti artist Mundano's Pimp my Carroça initiative, which seeks to bring visibility to trash and recyclables collectors around the world, has “pimped” 264 carts in 13 cities around the world, involving 230 artists and 782 volunteers.</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><h3 class="h4 m4"><strong>Europe</strong></h3>
+
+<hr>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-8'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/890/original/TEDFellows_2015_globe_Europe.png?1439824499?w=320" alt="Fellows around the globe: Europe" class="image"></p>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h5 class="h10 m5">Bilge Demirkoz — Geneva, Switzerland</h5>
+
+<p>At the Large Hadron Collider near Geneva, Switzerland, physicist Bilge Demirkoz collides billions of particles moving around the 27-kilometer LHC ring at 11,200 times per second – nearly the speed of light!</p>
+
+<h5 class="h10 m5">Genevieve von Petzinger — Europe</h5>
+
+<p>Genevieve von Petzinger has documented prehistoric images at 52 Ice Age rock art sites in France, Spain, Portugal and Sicily, dating back 10,000 to 41,000 years. </p>
+
+<h5 class="h10 m5">Sergei Lupashin — Zurich, Switzerland</h5>
+
+<p>Sergei Lupashin's Fotokite – a tethered aerial camera – can fly up to 150 meters high and has the potential to revolutionize photography for journalists in the field.</p>
+
+<h5 class="h10 m5">Ziyah Gafić — Sarajevo, Bosnia and Herzegovina</h5>
+
+<p>For his project Quest for Identity, photographer Ziyah Gafić has documented more than 2,600 everyday objects like clocks, keys, combs and glasses recovered from hundreds of mass graves in Bosnia and Herzegovina, memorializing the victims of the Bosnian War.</p>
+
+<h5 class="h10 m5">Anastasia Taylor-Lind — Kiev, Ukraine</h5>
+
+<p>For her book Maidan – Portraits from the Black Square, photographer Anastasia Taylor-Lind took 400 portraits of anti-government protesters and mourners in a makeshift studio in Maidan Nezalezhnosti during the February 2014 Ukrainian revolution.</p>
+
+<h5 class="h10 m5">Cosmin Mihaiu — Cluj-Napoca, Romania</h5>
+
+<p>Cosmin Mihaiu's game-based physical therapy software MIRA is currently undergoing tests in five countries involving more than 100 patients – the oldest of whom is 92 years old.</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><h3 class="h4 m4"><strong>Middle East</strong></h3>
+
+<hr>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-8'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/892/original/TEDFellows_2015_globe_MiddleEast.png?1439824506?w=320" alt="Fellows around the globe: Middle East" class="image"></p>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h5 class="h10 m5">Aziz Abu Sarah — Israel</h5>
+
+<p>Aziz Abu Sarah's MEJDI Tours, which is focused on building cultural bridges with tourism, curated multicultural trips for over 600 people in 2014, and is now operating in Northern Ireland, Israel, Turkey, Jordan, Oman and UAE. </p>
+
+<h5 class="h10 m5">Suleiman Bakhit — Amman, Jordan</h5>
+
+<p>In 2015, Jordanian comic-book publisher Suleiman Bakhit was invited to the White House to attend the Summit on Countering Violent Extremism. </p>
+
+<h5 class="h10 m5">Walid Al-Saqaf — Yemen</h5>
+
+<p>Since launching in 2010, Walid Al-Saqaf's Alkasir, software that circumvents website censorship, has counted more than 86,000 unique downloads of the program from 143 countries – with the majority of downloads from Iran and Syria. </p>
+
+<h5 class="h10 m5">Faisal Chohan — Pakistan</h5>
+
+<p>There have been more than 70,000 successful hires through Faisal Chohan's BrightSpyre. With 1.2 million users, it’s Pakistan's largest online recruitment portal. </p>
+
+<h5 class="h10 m5">Esra'a Al Shafai — Bahrain</h5>
+
+<p>Today there are more than 1,400 bands and 7,300 original tracks on Esra'a Al Shafei's Mideast Tunes, a platform for underground musicians in the Middle East and North Africa who make music for social change.</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><h3 class="h4 m4"><strong>Africa</strong></h3>
+
+<hr>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-8'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/888/original/TEDFellows_2015_globe_Africa.png?1439824490?w=320" alt="Fellows around the globe: Africa" class="image"></p>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h5 class="h10 m5">Nizar Ibrahim – The Sahara</h5>
+
+<p>Paleontologist Nizar Ibrahim led a team that discovered new remains of Spinosaurus, a 50-foot-long carnivore that hunted its prey in rivers 97 million years ago. </p>
+
+<h5 class="h10 m5">Zubair Abubakar — Lagos, Nigeria</h5>
+
+<p>With his Nigerian Constitution app, Zubair Abubakar has helped more than 1 million Nigerians access the Constitution for free.</p>
+
+<h5 class="h10 m5">Mohammed Dalwai — Cape Town, South Africa</h5>
+
+<p>Mohammed Dalwai's apps, created with The Open Medicine Project South Africa, have been accessed more than 1 million times in 193 countries around the world by 60,000 healthcare workers. </p>
+
+<h5 class="h10 m5">Sarah Parcak — Egypt</h5>
+
+<p>Archaeologist and Egyptologist Sarah Parcak has found 3,100 settlements, thousands of tombs and 17 possible pyramids. </p>
+
+<h5 class="h10 m5">Sanga Moses — Kampala, Uganda</h5>
+
+<p>Sanga Moses's Eco-Fuel Africa has helped 2,500 smallholder farmers save $3.4 million in energy-related expenses by converting their organic waste to charcoal, mitigating 500,000 tons of CO2. </p>
+
+<h5 class="h10 m5">Erik Hersman + Juliana Rotich — Nairobi, Kenya</h5>
+
+<p>Ushahidi, founded by Erik Hersman and Juliana Rotich, had 45,000 users in Kenya when it first launched during election violence in 2008, helping to document incidents of violence as well as peace efforts. </p>
+
+<h5 class="h10 m5">Patience Mthunzi — Pretoria, South Africa</h5>
+
+<p>Dr. Patience Mthunzi, who is working in biophotonics to discover medical applications for laser technology, was the very first South African PhD student at the School of Physics and Astronomy of the University of St Andrews, Scotland.</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><h3 class="h4 m4"><strong>Asia + Australia</strong></h3>
+
+<hr>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-8'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/891/original/TEDFellows_2015_globe_Asia.png?1439824500?w=320" alt="Fellows around the globe: Asia + Australia" class="image"></p>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h5 class="h10 m5">Zubaida Bai — Chennai, India</h5>
+
+<p>Zubaida Bai's $2 clean birth kit JANMA contains six essential tools for safe and sterile childbirth conditions. It has reached more than 100,000 mothers in India, Haiti, Laos, Afghanistan and Africa. </p>
+
+<h5 class="h10 m5">Shubhendu Sharma — Bangalore, India</h5>
+
+<p>Shubhendu Sharma’s company Afforestt, which creates native wild forests at the lowest possible cost, has planted 55 urban forests in 18 cities – a total of 60,450 trees. </p>
+
+<h5 class="h10 m5">Jane Chen — Bangalore, India</h5>
+
+<p>Jane Chen's Embrace infant warmer – which costs a fraction of the price of a standard incubator – has so far saved the lives of more than 150,000 babies in 10 countries. </p>
+
+<h5 class="h10 m5">Laura Boykin — Perth, Australia</h5>
+
+<p>Laura Boykin's Whiteflybase has collected genetic information from 605 individual whiteflies from more than 70 countries. This data will help scientists prevent the insect from devastating staple crops like cassava.</p>
+
+<h5 class="h10 m5">Tran Tran — Hanoi, Vietnam</h5>
+
+<p>Since 2014, Trang Tran's Fargreen has helped farmers recycle 15 tons of rice straw to help grow 200 kilograms of mushrooms – preventing 15 tons of toxic greenhouse gases from entering the atmosphere. </p>
+
+<h5 class="h10 m5">Durreen Shahnaz — Singapore</h5>
+
+<p>Durreen Shahnaz's Impact Investment Exchange Asia has raised millions of dollars of investment capital for social enterprises through its private placement platform, reaching the lives of over 10 million people across Asia. </p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-12'>
+<div class="text-left"><h3 class="h4 m4"><strong>Outer Space</strong></h3>
+
+<hr>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-8'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/893/original/TEDFellows_2015_globe_Space.png?1439824510?w=320" alt="Fellows around the globe: Outer Space" class="image"></p>
+</div>
+</div>
+<div class='col-xs-4'>
+<div class="text-left"><h5 class="h10 m5">Jedidah Isler</h5>
+
+<p>Astrophysicist Jedidah Isler studies blazars – supermassive, hyperactive black holes that can be 1 to 10 billion times the mass of the sun, and which can shoot powerful jet streams of particles in our direction. </p>
+
+<h5 class="h10 m5">Renée Hlozek</h5>
+
+<p>Using the Atacama Cosmology Telescope in northern Chile, Renée Hlozek studies the oldest visible light in the universe, emitted when the universe was about 400,000 years old.</p>
+
+<h5 class="h10 m5">Louisa Preston</h5>
+
+<p>Louisa Preston studies Mars-like environments on Earth, such as the Dry Valleys of Antarctica, which at -20°C is still 30 degrees warmer than Mars (-55°C).</p>
+
+<h5 class="h10 m5">Aomowa Shields</h5>
+
+<p>Astrophysicist Aomowa Shields studies the climate of Kepler 62f – a planet about 1,200 light years away from Earth – with an eye toward its potential habitability. </p>
+
+<h5 class="h10 m5">Angelo Vermeulen</h5>
+
+<p>Angelo Vermeulen spent 2,800 hours in isolation as crew commander of NASA's 2013 HI-SEAS simulated Mars mission, which took place on Mauna Loa in Hawaii.</p>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: horizontal_rule --><hr class='pages-hr'>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--fellows-in-collaboration">Fellows in collaboration 
+</h3>
+
+<!-- PB:B: copy --><div class='p2'>
+<p>TED Fellows often report “finding their tribe” in the global network of other Fellows – that is, they discover a group of other multidisciplinary thinkers who are using innovative methods to leave the world a better place than when they found it. In the six years since the program was founded, TED Fellows have been a part of numerous cross-disciplinary and inspiring collaborations. </p>
+
+</div>
+
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/933/original/TEDFellows_2015_Collabs1.png?1439934260?w=320" alt="TED Fellow: Naomi Natale" class="image"></h5>
+
+<h5 class="h10 m5">Naomi + Skylar</h5>
+
+<p>Skylar Tibbit's Self-Assembly Lab at MIT helped Naomi Natale create prototypes for her One Million Bones project - which aimed to raise awareness about genocide worldwide - by producing paper-pulp bones and guiding fabrication techniques. </p>
+
+<h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/934/original/TEDFellows_2015_Collabs2.png?1439934264?w=320" alt="TED Fellow: Skylar Tibbits" class="image"></h5>
+
+<h5 class="h10 m5">Skylar + José</h5>
+
+<p>Skylar Tibbits and José Gómez-Márquez share a large lab space at MIT and have collaborated on many projects, including “biosensing” furniture – like an intelligent chair that can share information about our health as we interact with it. </p>
+
+<h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/935/original/TEDFellows_2015_Collabs3.png?1439934267?w=320" alt="TED Fellow: José Gómez-Márquez" class="image"></h5>
+
+<h5 class="h10 m5">José + Camilo</h5>
+
+<p>José Gómez-Márquez and Camilo Rodriguez-Beltran are working together to research novel ways to develop low-cost, replicable environmental and health sensors in rural and coastal communities to detect and forecast things like pollution, weather conditions and infectious diseases. </p>
+
+<h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/936/original/TEDFellows_2015_Collabs4.png?1439934270?w=320" alt="TED Fellow: Camilo Rodriguez-Beltran" class="image"></h5>
+
+<h5 class="h10 m5">Camilo + Greg</h5>
+
+<p>Camilo Rodriguez-Beltran and Greg Gage worked together at the Universidad del Desarrollo in Chile to establish Factoria, a makerspace at the university. </p>
+
+<h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/937/original/TEDFellows_2015_Collabs5.png?1439934273?w=320" alt="TED Fellow: Greg Gage" class="image"></h5>
+
+<h5 class="h10 m5">Greg + Ayah</h5>
+
+<p>Greg Gage and Ayah Bdeir worked together on the Muscle SpikerBox module for littleBits, which teaches neuroscience by letting users control littleBits modules with their muscles. </p>
+
+<h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/938/original/TEDFellows_2015_Collabs6.png?1439934277?w=320" alt="TED Fellow: Ayah Bdeir" class="image"></h5>
+
+<h5 class="h10 m5">Ayah + David</h5>
+
+<p>Ayah Bdeir introduced David Lang to eventual investors in his company OpenROV, which produces low-cost underwater robots. </p>
+
+<h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/939/original/TEDFellows_2015_Collabs7.png?1439934281?w=320" alt="TED Fellow: David Lang" class="image"></h5>
+
+<h5 class="h10 m5">David + Erik</h5>
+
+<p>Erik Hersman helped David Lang use Ushahidi's simple map-making tool Crowdmap for Lang's new OpenExplorer platform, a digital field journal for explorers around the world. </p>
+
+<p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/957/original/TEDFellows_2015_Collabs8a.png?1439998842?w=320" alt="TED Fellow: Erik Hersman" class="image"></p>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/958/original/TEDFellows_2015_Collabs8b.png?1439998878?w=320" alt="TED Fellow: Juliana Rotich" class="image"></h5>
+
+<h5 class="h10 m5">Erik + Juliana + Steve</h5>
+
+<p>Steve Boyes is using Erik Hersman and Juliana Rotich's BRCK – a rugged, cloud managed, full-featured modem and router – on his 1,700 kilometer expedition across the Okavango Delta. </p>
+
+<h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/941/original/TEDFellows_2015_Collabs9.png?1439934288?w=320" alt="TED Fellows: Steve Boyes" class="image"></h5>
+
+<h5 class="h10 m5">Steve + Andrew</h5>
+
+<p>Andrew Bastawrous is bringing his smart-phone based eye examination system Peek to hard-to-reach patients in Botswana with the aid of Steve Boyes. </p>
+
+<h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/942/original/TEDFellows_2015_Collabs10.png?1439934292?w=320" alt="TED Fellow: Andrew Bastawrous " class="image"></h5>
+
+<h5 class="h10 m5">Andrew + Robert</h5>
+
+<p>Andrew Bastawrous is working with Robert Simpson's Zooniverse to crowdsource retinal data – allowing anyone, anywhere to participate in diagnosing eye diseases.</p>
+
+<h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/943/original/TEDFellows_2015_Collabs11.png?1439934295?w=320" alt="TED Fellow: Robert Simpson" class="image"></h5>
+
+<h5 class="h10 m5">Robert + Julia</h5>
+
+<p>Julie Freeman used metadata from Robert Simpson’s citizen science site Zooniverse to create <em>We Need Us</em>, a project that explores the artistic possibilities of big data.</p>
+
+<h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/944/original/TEDFellows_2015_Collabs12.png?1439934298?w=320" alt="TED Fellow: Julie Freeman" class="image"></h5>
+
+<h5 class="h10 m5">Julia + Yana</h5>
+
+<p>Julie Freeman and Yana Buhrer Tavanier together created Fine Acts, an organization that seeks to create and commision art for social change. </p>
+
+<h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/945/original/TEDFellows_2015_Collabs13.png?1439934303?w=320" alt="TED Fellow: Yana Buhrer Tavanier" class="image"></h5>
+
+<h5 class="h10 m5">Yana + Alicia + Safwat</h5>
+
+<p>The very first Fine Acts commission was <em>The Future</em>, a sculpture that debuted at TED2015. It was the result of a collaboration between Safwat Saleem and Alicia Eggert.</p>
+
+<h5 class="h10 m5"><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/946/original/TEDFellows_2015_Collabs14.png?1439934307?w=320" alt="TED Fellow: Alicia Eggert + Safwat Saleem" class="image"></h5>
+
+<h5 class="h10 m5">Safwat + Louisa</h5>
+
+<p>Safwat Saleem is designing the cover of astrobiologist Louisa Preston’s upcoming book “Goldilocks and the Water Bears: The Search for life in the Universe,” which explores questions surrounding the search for life. </p>
+
+<p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/947/original/TEDFellows_2015_Collabs15.png?1439934311?w=320" alt="TED Fellow: Louisa Preston" class="image"></p>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: horizontal_rule --><hr class='pages-hr'>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--life-of-a-ted-fellow">Life of a TED Fellow 
+</h3>
+
+<!-- PB:B: copy --><div class='p2'>
+<p>Asha de Vos is a Sri Lankan marine biologist and TED Fellow who specializes in researching and working with marine mammals. She has degrees from the Universities of St. Andrews and Oxford, and her PhD from the University of Western Australia. She oversees the Sri Lankan Blue Whale Project, the first long-term study on blue whales within the northern Indian Ocean. </p>
+
+<p>Asha was selected as a TED Fellow in 2012. Below is a snapshot of how the TED Fellows program has impacted her life, both personally and professionally.</p>
+
+</div>
+
+
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-center"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/915/original/TEDFellows_timeline_asha1.png?1439837876?w=320" alt='2003: Asha has her "eureka moment"' class="image"></p>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-center"><p><em>In Asha's words:</em></p>
+
+<p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/053/original/tedfellows_asha_quote1.png?1441900904?w=320" alt="&quot;My eureka moment occurred when I saw a pile of blue whale poop. Fact. Not everyone can say their career was inspired by a pile of poop, but I am proud to say mine was. If I hadn't been curious about that floating pile of poop in warm tropical waters, I don't know what the heck I'd be doing with my life right now.&quot;" class="image"></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-center"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/922/original/TEDFellows_timeline_asha3.png?1439837962?w=320" alt="Each year, twenty innovators from a spectrum of disciplines are selected as TED Fellows to attend either the TED or TED Global conference, where they partake in an exclusive pre-conference where they meet, share ideas and engage in skills-building workshops. TED Fellows also present their very own TED talk at the conference - an unparalleled opportunity to spread their work." class="image"> </p>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"></div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-center"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/916/original/TEDFellows_timeline_asha2.png?1439837880?w=320" alt="2011: Asha applies to be a TED Fellow" class="image"></p>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/052/original/tedfellows_asha_quote2.png?1441900900?w=320" alt='"I loved the TED Fellows application process because it made me really think hard about my impact on the world."' class="image"></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-center"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/918/original/TEDFellows_timeline_asha4.png?1439837890?w=320" alt="March 2012: Asha is selected and attends the TED conference" class="image"> <br>
+<img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/919/original/TEDFellows_timeline_asha5.png?1439837895?w=320" alt="Each TED Fellow gets to work with a professional coach and mentor for ten sessions (and often many more) at no charge." class="image"></p>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/050/original/tedfellows_asha_quote3.png?1441900898?w=320" alt='"The opportunity to interact with other Fellows was the most rewarding part of attending the conference that first year. These are people whom I would consider role models - and I found a peer group and a tribe."' class="image"></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-center"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/921/original/TEDFellows_timeline_asha6.png?1439837904?w=320" alt="2012: Asha starts working with her executive coach" class="image"><br>
+<img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/920/original/TEDFellows_timeline_asha7.png?1439837900?w=320" alt="TED-Ed curates educational videos online, including original animated lessons created by talented educators in collaboration with world-class animators" class="image"></p>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/051/original/tedfellows_asha_quote4.png?1441900897?w=320" alt='"SupporTED has been one of the most valuable gifts from the TED Fellows program. Over the years, my coach has helped me with a range of issues, both personal and professional. Working with her has helped me discover, understand, and accept my true potential."' class="image"></p>
+
+<p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/049/original/tedfellows_asha_quote5.png?1441900892?w=320" alt="&quot;Personally, it's been a huge help for me. It's helped with self-confidence, it's helped with understanding my true potential, and accepting what my potential is. My coach has been great as a sounding board.&quot;" class="image"></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-center"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/923/original/TEDFellows_timeline_asha8.png?1439838019?w=320" alt='February 2013: Asha is turned into a puppet for her TED-Ed talk "Why are blue whales so enormous?"' class="image"><br>
+<img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/924/original/TEDFellows_timeline_asha9.png?1439838024?w=320" alt="Each year, Fellows can apply to become a Senior Fellow, a huge honor and opportunity that entitles them to an additional four TED Events and continued engagement with the larger TED Community." class="image"></p>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/048/original/tedfellows_asha_quote6.png?1441900889?w=320" alt='"I was really excited about my TED-Ed lesson because I got to teach something I think is super interesting in a really fun way. Plus, I knew that through this channel I could reach a huge and varied audience. I still have people of all ages around the world watching the video and writing to tell me what they learned and how much they enjoyed it."' class="image"></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-center"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/925/original/TEDFellows_timeline_asha10.png?1439838027?w=320" alt="February 2013: Asha is selected as a Senior Fellow" class="image"></p>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/047/original/tedfellows_asha_quote7.png?1441900887?w=320" alt='"In Sri Lanka, as in much of the developing world, being a marine biologist is highly unorthodox. Being a female marine biologist is pretty much unheard of. So I was really pushing boundaries to do what I wanted and carve a path for others to that we could change the status quo for the oceans. As I shuttle between my island home and other parts of the world, being able to tell people that I have a TED Fellowship has helped me connect with people, have conversations and open doors that may have been otherwise impossible."' class="image"></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-center"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/926/original/TEDFellows_timeline_asha11.png?1439838031?w=320" alt="All 378 (and counting) Fellows are invited to the Fellows Retreat for a week of workshops, outdoor activities, TED talks and more, yielding unique artistic collaborations, new companies and lasting friendships." class="image"><br>
+ <img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/930/original/TEDFellows_timeline_asha12.png?1439838202?w=320" alt="August 2013: Asha attends the Fellows Retreat" class="image"></p>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/046/original/tedfellows_asha_quote8.png?1441900884?w=320" alt="&quot;I live in awe of all the TED Fellows. Being among such brilliance has made me challenge myself to think more creatively about my own work and to aim much, much higher. My approach to my work has evolved: I've definitely become more entrepreneurial in my approach to science, but I've also become better at defining my unique niche on this planet.&quot;" class="image"></p>
+
+<p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/045/original/tedfellows_asha_quote9.png?1441900881?w=320" alt="&quot;TED Fellows are drawn together by common goal: to leave the world a better place than we found it. There is no such thing as status quo in this group - it's about breaking molds and challenging norms. Now imagine putting 200 of us in one splace! The Fellows Retreat was one of the most inspiring weeks of my life. Just getting the chance to be with all of these kindred spirits was pure magic.&quot;" class="image"></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-center"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/929/original/TEDFellows_timeline_asha13.png?1439838199?w=320" alt="February 2015: Asha's TED Talk goes online" class="image"><br>
+<img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/928/original/TEDFellows_timeline_asha14.png?1439838196?w=320" alt="The SupporTED Collaboratorium is an annual intensive where teams of coaches and other professionals offer their knowledge, talents and ideas to TED Fellows at a professional personal turning point." class="image"> </p>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/044/original/tedfellows_asha_quote10.png?1441900879?w=320" alt="&quot;I was thrilled to discover that my TED Talk has been lovingly subtitled into 26 languages by the volunteers from the TED Open Translation Project. The reach of TED is mind-blowing, and it allows me to get my message about the importance of the oceans for human health and well-being out to a much broader audience. More importantly, people around the world are excited about whale poop now! I'm not going to lie - that's kind of a big deal to me.&quot;" class="image"></p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-center"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/002/927/original/TEDFellows_timeline_asha15.png?1439838191?w=320" alt="May 2015: Asha attends the SupporTED Collaboratorium" class="image"></p>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><p><img src="https://tedcdnpi-a.akamaihd.net/r/pb-assets.tedcdn.com/system/baubles/files/000/003/043/original/tedfellows_asha_quote11.png?1441900875?w=320" alt="&quot;The Collaboratorium is a transformative experience for all who attend. For me, it happened at exactly the right moment as I was transitioning out of academia and into the role of heading my own organization. As much as I knew what I wanted, figuring out how to get there felt daunting. Before the Collaboratorium, I hadn't thought about certain details because I didn't know what details to think about. But since that week, I've had much more confidence about where I am heading and how to get there.&quot;" class="image"></p>
+</div>
+</div>
+</div>
+</div>
+
+</div></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

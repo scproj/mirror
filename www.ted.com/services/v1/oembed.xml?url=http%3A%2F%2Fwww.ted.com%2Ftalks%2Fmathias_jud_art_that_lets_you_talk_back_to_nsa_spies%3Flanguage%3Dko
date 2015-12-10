@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>마티아스 주드 (Mathias Jud): NSA 첩보원들에게 대항할 수 있게 해주는 예술</title>
+  <description>우리는 2013년에 미국 국가 안보국 NSA와 영국의 GCHQ가 독일 정부를 대상으로 자주 첩보활동을 했다는 것을 알게 되었습니다. 격분 가운데서, 예술가인 마티아스 주드와 크리스토프 와터는 생각했습니다. 만약 그들이 도청하고 있다면... 그들에게 말을 걸어보자. 그래서 베를린 정부 지구에 있는 스위스 대사관 옥상에 설치한 안테나로, 세계가 가까운 곳에서 듣고 있을 미국과 영국 첩보원들에게 메시지를 보낼 수 있게 해주는 개방된 네트워크를 설치했습니다. 이 작업은 강연에서 자세히 다루는 대담하고, 가끔은 웃기고, 그리고 사실 체제 전복적인 구석도 있는 세 가지 예술 작업 중 하나입니다. 이 강연은 감시와 폐쇄적인 네트워크로 인해 커져가는 이 세계의 불만에 관해 의문을 던집니다. </description>
+  <url>http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies?language=ko</url>
+  <author-name>마티아스 주드 (Mathias Jud)</author-name>
+  <author-url>http://www.ted.com/speakers/mathias_jud</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/10661f319117fb69bd50bc55894e583c0aa60642_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

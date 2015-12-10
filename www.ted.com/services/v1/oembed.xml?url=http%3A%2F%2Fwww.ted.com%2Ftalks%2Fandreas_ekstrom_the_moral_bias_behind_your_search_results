@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Andreas Ekström: The moral bias behind your search results</title>
+  <description>Search engines have become our most trusted sources of information and arbiters of truth. But can we ever get an unbiased search result? Swedish author and journalist Andreas Ekström argues that such a thing is a philosophical impossibility. In this thoughtful talk, he calls on us to strengthen the bonds between technology and the humanities, and he reminds us that behind every algorithm is a set of personal beliefs that no code can ever completely eradicate.</description>
+  <url>http://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results</url>
+  <author-name>Andreas Ekström</author-name>
+  <author-url>http://www.ted.com/speakers/andreas_ekstrom</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/1ffc899e31b37f85948bea87dd18710f1a847b4d_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

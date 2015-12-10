@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Regina Hartley: Why the best hire might not have the perfect resume</title>
+  <description>Given the choice between a job candidate with a perfect resume and one who has fought through difficulty, human resources executive Regina Hartley always gives the "Scrapper" a chance. As someone who grew up with adversity, Hartley knows that those who flourish in the darkest of spaces are empowered with the grit to persist in an ever-changing workplace. "Choose the underestimated contender, whose secret weapons are passion and purpose," she says. "Hire the Scrapper."</description>
+  <url>http://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume</url>
+  <author-name>Regina Hartley</author-name>
+  <author-url>http://www.ted.com/speakers/regina_hartley</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/938d3cf90070cb6a306ba8758dc86caf187daac1_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

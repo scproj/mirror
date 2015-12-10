@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>에밀리에 왑닉(Emilie Wapnick): 어떤 사람들에겐 하나의 천직이 없는 이유</title>
+  <description>커서 무엇이 되고 싶나요? 남은 일생동안 한 가지 일만 하고 싶은지 잘 모르겠다면, 당신만 그런 것이 아닙니다. 이 계몽적인 강연에서 작가이자 예술가인 에밀리에 왑닉은 그녀가 "다능인"이라고 부르는, 일생에 다양한 흥미와 직업을 가지는 부류의 사람들에 대해 설명합니다. 여러분도 다능인인가요?</description>
+  <url>http://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling?language=ko</url>
+  <author-name>에밀리에 왑닉(Emilie Wapnick)</author-name>
+  <author-url>http://www.ted.com/speakers/emilie_wapnick</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/40e9d0dea5f239ac7331e03102c1c35e8c216cfb_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

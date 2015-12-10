@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Kaki King: A musical escape into a world of light and color</title>
+  <description>A genre unto herself, Kaki King fuses the ancient tradition of working with one's hands with digital technology, projection-mapping imagery onto her guitar in her groundbreaking multimedia work "The Neck Is a Bridge to the Body." Using her guitar's neck like a keyboard, she plays an intricate melody as she takes the audience on a musical journey of light and sound. She calls it "guitar as paintbrush."</description>
+  <url>http://www.ted.com/talks/kaki_king_a_musical_escape_into_a_world_of_light_and_color</url>
+  <author-name>Kaki King</author-name>
+  <author-url>http://www.ted.com/speakers/kaki_king</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/a26d196d26342e69bef1d8d451b555a0a5394760_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/kaki_king_a_musical_escape_into_a_world_of_light_and_color.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

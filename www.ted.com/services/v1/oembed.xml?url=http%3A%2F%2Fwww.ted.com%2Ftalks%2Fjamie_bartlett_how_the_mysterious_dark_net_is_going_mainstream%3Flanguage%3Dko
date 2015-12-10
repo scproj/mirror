@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>제이미 바트렛(Jamie Bartlett): 어떻게 비밀한 다크넷이 주류로 진출할 수 있을까</title>
+  <description>여러분이 접근할 수 없는 평행 인터넷이 있습니다 - 특별한 브라우저를 통해 접근할 수 있고 익명의 사회운동에서 불법적인 사회운동에 이르기까지 모든 것의 집이죠. 제이미 바트렛이 다크넷에 대해 보고합니다.</description>
+  <url>http://www.ted.com/talks/jamie_bartlett_how_the_mysterious_dark_net_is_going_mainstream?language=ko</url>
+  <author-name>제이미 바트렛(Jamie Bartlett)</author-name>
+  <author-url>http://www.ted.com/speakers/jamie_bartlett</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/73e64d3098fc46d0cfa2efce8b4c5c5e91825d82_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/jamie_bartlett_how_the_mysterious_dark_net_is_going_mainstream.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

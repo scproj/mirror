@@ -1,0 +1,1161 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>마티아스 주드 (Mathias Jud): NSA 첩보원들에게 대항할 수 있게 해주는 예술 | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="마티아스 주드 (Mathias Jud): NSA 첩보원들에게 대항할 수 있게 해주는 예술 | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: 우리는 2013년에 미국 국가 안보국 NSA와 영국의 GCHQ가 독일 정부를 대상으로 자주 첩보활동을 했다는 것을 알게 되었습니다. 격분 가운데서, 예술가인 마티아스 주드와 크리스토프 와터는 생각했습니다. 만약 그들이 도청하고 있다면... 그들에게 말을 걸어보자. 그래서 베를린 정부 지구에 있는 스위스 대사관 옥상에 설치한 안테나로, 세계가 가까운 곳에서 듣고 있을 미국과 영국 첩보원들에게 메시지를 보낼 수 있게 해주는 개방된 네트워크를 설치했습니다. 이 작업은 강연에서 자세히 다루는 대담하고, 가끔은 웃기고, 그리고 사실 체제 전복적인 구석도 있는 세 가지 예술 작업 중 하나입니다. 이 강연은 감시와 폐쇄적인 네트워크로 인해 커져가는 이 세계의 불만에 관해 의문을 던집니다. " name="description" />
+<meta content="마티아스 주드 (Mathias Jud)" name="author" />
+<link href="http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies/transcript?language=ar" hreflang="ar" rel="alternate" />
+<link href="http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies/transcript?language=uk" hreflang="uk" rel="alternate" />
+<meta content="Transcript of &quot;NSA 첩보원들에게 대항할 수 있게 해주는 예술&quot;" property="og:title" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/86d74020299b5fce92e47bf9a9d9ee7a4a1a9c7b_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/86d74020299b5fce92e47bf9a9d9ee7a4a1a9c7b_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: 우리는 2013년에 미국 국가 안보국 NSA와 영국의 GCHQ가 독일 정부를 대상으로 자주 첩보활동을 했다는 것을 알게 되었습니다. 격분 가운데서, 예술가인 마티아스 주드와 크리스토프 와터는 생각했습니다. 만약 그들이 도청하고 있다면... 그들에게 말을 걸어보자. 그래서 베를린 정부 지구에 있는 스위스 대사관 옥상에 설치한 안테나로, 세계가 가까운 곳에서 듣고 있을 미국과 영국 첩보원들에게 메시지를 보낼 수 있게 해주는 개방된 네트워크를 설치했습니다. 이 작업은 강연에서 자세히 다루는 대담하고, 가끔은 웃기고, 그리고 사실 체제 전복적인 구석도 있는 세 가지 예술 작업 중 하나입니다. 이 강연은 감시와 폐쇄적인 네트워크로 인해 커져가는 이 세계의 불만에 관해 의문을 던집니다. " property="og:description" />
+<meta content="http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk-ie.css?1449612282">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk.css?1449612282">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"Backbone":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","embed":"embed.js?23f83514c0a631545d35c263790da013","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","swatch":"swatch.js?af26d6cbf9673f6060dfc8b18154c39c","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","libs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","touchPunch":"touchPunch.js?47b6211b7aef9750ac4f6613a4256cc9","deferLink":"deferLink.js?e753127d1427d48d2dba8b3f593baec2","swfobject":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","dq":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","surprise_me":"surprise_me.js?07929707d7c91175cb34732107402b0b","jqueryujs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","SwipeView":"SwipeView.js?3d6ab40c7f02be91047f9e6802690af6","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Swipe":"Swipe.js?b746c9e9c38bd13ef622cfeed09ba6bf","Mailcheck":"Mailcheck.js?4752d459b0ac03f738bb7db1571d9a00","depot":"depot.js?6d97c6ff1eb27088493186e2db478ee0","ZeroClipboard":"ZeroClipboard.js?65f3b285606bcf3acd44bb2c25a6406d","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","pages":"pages.js?17cdddd45428c47b7469c56c84257ae1","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","hbs":"hbs.js?62ffd6dc422a088483ef7863de071d9e","talk":"talk.js?51221de80bbdf101073772b806dcd5d2","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","Cookies":"Cookies.js?ec959f431471b295566bcf6ad4298fcb","spinjs":"spinjs.js?0f67f5820075f88643c601a4284d14b2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","tedx":"tedx.js?27a3d0c882820e1a4ee6a7aad1d95d48","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","autosize":"autosize.js?c463a94f6da61cb86e53ea61dbcb6735","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","dashboard_hotels":"dashboard_hotels.js?d19435a801331067f5048d1c7b3bb747","crushinator":"crushinator.js?2b8d78a40a52bb661b0b4fcf32e166c9","home":"home.js?1241a7e9294d8677392f76b903746a75","settings":"settings.js?e3325b55ee4c74c02a9feaf0e5bcba53","moment":"moment.js?408f6a21d69b26bb98a3c705e51e7764","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","profiles":"profiles.js?456ec8e9c630a07c9b3a83c468f029c3","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","numeral":"numeral.js?611d7abced1fea00d28e10252bff308e","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","global":"global.js?a8f475509c478d1b04dd10477b2510e3","dashboard_sessions":"dashboard_sessions.js?ec189bd2ee9f9489834ccd2aee456c31","Modernizr":"Modernizr.js?8d4a21cfb9a3fcefdabddaac961016fe","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","menuAim":"menuAim.js?a94480af4d342b45c24626ac8f6a1f80","dashboard":"dashboard.js?286613b789f90d9c8b906950c59bfb05","pages/dynamic/dummy":"pages/dynamic/dummy.js?3967fae7f441a192ac0a2b697e4e7a3d","playlists":"playlists.js?bd6b90efccb6b196b5ce73684719c8c3","lodash":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","flot":"flot.js?cc487fa44adf9da4523f900fe26c7c0d","search":"search.js?06cfabf03223b309e632669510068bde","jquery":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","newsletter":"newsletter.js?51e416cf51603cd78b8ab750e35c8f5f","transit":"transit.js?1bb6034bee2f350ddcc3876a929ed54c","talks":"talks.js?d20a21859341240c8901c77effade7f8","waypoints":"waypoints.js?a6a99f3a64e668c5afdfe0aaa1245215","hbs/handlebars":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612282"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies?language=ko'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Return to talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='mathias_jud_art_that_lets_you_talk_back_to_nsa_spies'>
+<option value='ar'>Arabic</option>
+<option value='en'>English</option>
+<option value='fr'>French</option>
+<option value='ja'>Japanese</option>
+<option selected value='ko'>Korean</option>
+<option value='sr'>Serbian</option>
+<option value='uk'>Ukrainian</option>
+</select>
+<p>
+Translated by
+<a href="http://www.ted.com/profiles/5090332">Hansol Ryu</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/5079421">Ju Hye Lim</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies?language=ko' language='ko'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="776" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/86d74020299b5fce92e47bf9a9d9ee7a4a1a9c7b_2880x1620.jpg?quality=89&amp;w=320" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">12:56</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>마티아스 주드 (Mathias Jud)</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/mathias_jud_art_that_lets_you_talk_back_to_nsa_spies?language=ko' lang='ko'>
+NSA 첩보원들에게 대항할 수 있게 해주는 예술
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Oct 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Inspiring, Courageous
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='999' id='t-999'>일 년 전, 베를린의 스위스 대사관에서
+저희를 초청했습니다.</span>
+<span class='talk-transcript__fragment' data-time='4365' id='t-4365'>저희의 예술 프로젝트를
+전시해 달라고요.</span>
+<span class='talk-transcript__fragment' data-time='6756' id='t-6756'>종종 초청을 받곤 했지만,
+이번에는 정말로 신났습니다.</span>
+<span class='talk-transcript__fragment' data-time='11536' id='t-11536'>베를린에 있는
+스위스 대사관은 특별합니다.</span>
+<span class='talk-transcript__fragment' data-time='14451' id='t-14451'>정부 지구에 있는 건물 중 유일하게</span>
+<span class='talk-transcript__fragment' data-time='17443' id='t-17443'>제2차 세계 대전에서 
+파괴되지 않은 옛 건물이고</span>
+<span class='talk-transcript__fragment' data-time='20679' id='t-20679'>총리 관저 바로 옆에 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='23723' id='t-23723'>스위스 외교관보다 메르켈 총리와 
+가까운 사람은 아무도 없죠.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='27453' id='t-27453'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='30656' id='t-30656'>베를린 정부 지구에는 라이히스탁, 
+그러니까 독일 의회도 있고</span>
+<span class='talk-transcript__fragment' data-time='35655' id='t-35655'>브란덴부르크 문도 있고,</span>
+<span class='talk-transcript__fragment' data-time='37570' id='t-37570'>문 바로 옆에는
+다른 대사관도 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='40515' id='t-40515'>특히 미국과 영국 대사관이 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='44657' id='t-44657'>독일이 선진화 된 
+민주주의를 갖고 있지만</span>
+<span class='talk-transcript__fragment' data-time='47897' id='t-47897'>정부 지구에서는 시민들은</span>
+<span class='talk-transcript__fragment' data-time='50262' id='t-50262'>헌법상 권리에 제한을 받습니다.</span>
+<span class='talk-transcript__fragment' data-time='52745' id='t-52745'>집회와 시위의 자유가 제한됩니다.</span>
+<span class='talk-transcript__fragment' data-time='57607' id='t-57607'>이건 예술적 관점에서
+흥미로운 부분입니다.</span>
+<span class='talk-transcript__fragment' data-time='61299' id='t-61299'>운동에 참여하고 자신을 표현할 기회는</span>
+<span class='talk-transcript__fragment' data-time='66035' id='t-66035'>항상 특정 금지령에 제한되어 있고,</span>
+<span class='talk-transcript__fragment' data-time='68535' id='t-68535'>특정 규정에 제재를 받습니다.</span>
+<span class='talk-transcript__fragment' data-time='71798' id='t-71798'>이런 규정에 속해 있다는 걸
+인식함으로써</span>
+<span class='talk-transcript__fragment' data-time='76581' id='t-76581'>우리는 새로운 관점을 얻을 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='79299' id='t-79299'>우리에게 주어진 조건과 환경은
+우리의 인식과 행동,</span>
+<span class='talk-transcript__fragment' data-time='83977' id='t-83977'>그리고 삶을 형성합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+01:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='86168' id='t-86168'>이건 다른 상황에서도 몹시 중요합니다.</span>
+<span class='talk-transcript__fragment' data-time='89299' id='t-89299'>지난 2년 동안 저희는,</span>
+<span class='talk-transcript__fragment' data-time='90801' id='t-90801'>첩보기관이 미국과 영국 대사관 지붕에서</span>
+<span class='talk-transcript__fragment' data-time='95299' id='t-95299'>그 지역 전체를 도청해왔다는 걸 
+알게 되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='100060' id='t-100060'>앙겔라 메르켈의 휴대폰까지도요.</span>
+<span class='talk-transcript__fragment' data-time='103299' id='t-103299'>영국 보안국(GCHQ)의 안테나는
+흰 원통형 덮개 속에 숨겨져있고</span>
+<span class='talk-transcript__fragment' data-time='108299' id='t-108299'>미국국가안보국(NSA)의
+정보 수집 장치는</span>
+<span class='talk-transcript__fragment' data-time='111340' id='t-111340'>방사선이 통과할 수 있는 
+스크린으로 덮여있었습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:06
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='115132' id='t-115132'>이렇게 숨어서 위장하고 있는 
+권력엔 어떻게 대응해야 할까요?</span>
+<span class='talk-transcript__fragment' data-time='118925' id='t-118925'>동료인 크리스토프 와터와 저는</span>
+<span class='talk-transcript__fragment' data-time='121299' id='t-121299'>스위스 대사관의 초청을 수락했습니다.</span>
+<span class='talk-transcript__fragment' data-time='124783' id='t-124783'>그리고 이 상황을 이용하는
+기회로 써먹기로 했습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='130238' id='t-130238'>만일 누군가 우리를 도청한다면,</span>
+<span class='talk-transcript__fragment' data-time='133674' id='t-133674'>그 사람들은 우리가 하는 말을 
+들어야 할 테니까요.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='136765' id='t-136765'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='140299' id='t-140299'>저희는 스위스 대사관 지붕에
+안테나를 여러 개 설치했습니다.</span>
+<span class='talk-transcript__fragment' data-time='146439' id='t-146439'>미국과 영국이 사용한 것만큼
+성능이 뛰어난 것은 아니었습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:42
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='151007' id='t-151007'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='152298' id='t-152298'>급조한 고철 안테나였고</span>
+<span class='talk-transcript__fragment' data-time='154045' id='t-154045'>위장시키지도 않아
+확연하게 눈에 띄었습니다.</span>
+<span class='talk-transcript__fragment' data-time='158154' id='t-158154'>예술 대학도 프로젝트에 참여해서</span>
+<span class='talk-transcript__fragment' data-time='160818' id='t-160818'>예술 대학 지붕에도 
+커다란 안테나를 설치했습니다.</span>
+<span class='talk-transcript__fragment' data-time='164532' id='t-164532'>정확히 NSA와 GCHQ의 
+장비 사이에요.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:59
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='168890' id='t-168890'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:01
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='170516' id='t-170516'>예술 작품을 설치하면서 여태껏 그렇게
+세세하게 관찰당한 것은 처음이었습니다.</span>
+<span class='talk-transcript__fragment' data-time='175299' id='t-175299'>헬리콥터가 머리 위로 날아다니면서</span>
+<span class='talk-transcript__fragment' data-time='177575' id='t-177575'>카메라로 일거수일투족을 찍었고</span>
+<span class='talk-transcript__fragment' data-time='180829' id='t-180829'>미국 대사관 지붕에서는
+경비원이 순찰을 돌았습니다.</span>
+<span class='talk-transcript__fragment' data-time='185499' id='t-185499'>정부 지구가 엄격한 
+경찰 규제를 받지만</span>
+<span class='talk-transcript__fragment' data-time='190712' id='t-190712'>디지털 통신에 관해서는 
+구체적인 법규가 없었습니다.</span>
+<span class='talk-transcript__fragment' data-time='195548' id='t-195548'>그래서 안테나 설치는
+완전히 합법적이었고</span>
+<span class='talk-transcript__fragment' data-time='199055' id='t-199055'>스위스 대사관은 메르켈 총리에게
+이 사실을 통지했습니다.</span>
+<span class='talk-transcript__fragment' data-time='202529' id='t-202529'>프로젝트 이름은
+&quot;제 말 들리세요?&quot; 입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:37
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='206111' id='t-206111'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='208805' id='t-208805'>참여하고 싶은 사람은 누구든지</span>
+<span class='talk-transcript__fragment' data-time='213090' id='t-213090'>어떤 무선공유기든지 사용해서
+제약을 받지 않고</span>
+<span class='talk-transcript__fragment' data-time='216299' id='t-216299'>그동안 주파수 대역을 가로채서
+도청하던 사람들에게</span>
+<span class='talk-transcript__fragment' data-time='219435' id='t-219435'>메시지를 보낼 수 있도록</span>
+<span class='talk-transcript__fragment' data-time='221536' id='t-221536'>안테나로 개방된 무료
+와이파이 네트워크를 구성했습니다.</span>
+<span class='talk-transcript__fragment' data-time='226510' id='t-226510'>문자 메시지, 음성 채팅, 파일 공유 등</span>
+<span class='talk-transcript__fragment' data-time='229029' id='t-229029'>무엇이든 익명으로 보낼 수 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='232852' id='t-232852'>그리고 실제로 통신이 이루어졌습니다.</span>
+<span class='talk-transcript__fragment' data-time='235299' id='t-235299'>15,000 건 이상의
+메시지가 전송되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='238299' id='t-238299'>여기 몇 가지 예시를 보시죠.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:12
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='241299' id='t-241299'>&quot;세상아 안녕, 베를린 안녕, 
+NSA 안녕, GCHQ 안녕.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='247208' id='t-247208'>&quot;NSA 요원들, 옳은 일을 하세요!
+양심선언 하세요!&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='252884' id='t-252884'>&quot;우리는 NSA. 우리는 하느님을 믿는다.
+나머지는 모두 추적하지!!!!!&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='256938' id='t-256938'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:30
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='259559' id='t-259559'>&quot;#어나니머스가 #NSA #GCHQ를
+주시하고 있다. 우린 너희 조직원이다.</span>
+<span class='talk-transcript__fragment' data-time='262566' id='t-262566'>#기다려라. 곧 #문을 닫게 하겠다.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='267483' id='t-267483'>&quot;이게 NSA의 아킬레스 건이다. 
+개방된 네트워크가.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='270967' id='t-270967'>&quot;요원들, 손주들에게 당신에 대해
+무슨 거짓말을 할 겁니까?&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='276454' id='t-276454'>&quot;@NSA 옆집이 시끄러워요.
+드론 보내서 공격해 주세요.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='281290' id='t-281290'>(웃음)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='284589' id='t-284589'>&quot;사랑을 하세요. 사이버 전쟁 말고.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='287602' id='t-287602'>저희는 대사관과 정부 
+부서에도 참여를 권했습니다.</span>
+<span class='talk-transcript__fragment' data-time='293185' id='t-293185'>그리고 놀랍게도 정말로 참여했습니다.</span>
+<span class='talk-transcript__fragment' data-time='295066' id='t-295066'>파일들이 올라왔는데,
+기밀 서류도 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='297950' id='t-297950'>국회 조사 위원회에서 유출한 것인데</span>
+<span class='talk-transcript__fragment' data-time='300978' id='t-300978'>중요한 정보를 자유롭게 
+교환하고 토론하는 일이</span>
+<span class='talk-transcript__fragment' data-time='304366' id='t-304366'>국회의원에게도 어려워진다는 것이 
+요점이었습니다.</span>
+<span class='talk-transcript__fragment' data-time='309746' id='t-309746'>또한 현장의 권력 집단을
+경험하고 발언도 해볼 수 있는</span>
+<span class='talk-transcript__fragment' data-time='312822' id='t-312822'>가이드 투어도 계획했습니다.</span>
+<span class='talk-transcript__fragment' data-time='315166' id='t-315166'>투어에서는 대사관 주변의
+제한 구역을 방문하고</span>
+<span class='talk-transcript__fragment' data-time='318527' id='t-318527'>소통의 잠재성과 장점에 관해
+논의했습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='324299' id='t-324299'>우리가 권력 집단과</span>
+<span class='talk-transcript__fragment' data-time='326602' id='t-326602'>소통의 조건에 관심을 기울이면</span>
+<span class='talk-transcript__fragment' data-time='331322' id='t-331322'>시야가 넓어질 뿐만 아니라</span>
+<span class='talk-transcript__fragment' data-time='333677' id='t-333677'>우리의 세계관과 특정한 
+사회적, 정치적, 미학적 관점을</span>
+<span class='talk-transcript__fragment' data-time='337573' id='t-337573'>제한하는 규제 너머를 볼 수 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='342461' id='t-342461'>실제 예시를 보여드리겠습니다.</span>
+<span class='talk-transcript__fragment' data-time='345383' id='t-345383'>파리 변두리의 임시 거주지에 사는</span>
+<span class='talk-transcript__fragment' data-time='348494' id='t-348494'>사람들의 삶은</span>
+<span class='talk-transcript__fragment' data-time='350245' id='t-350245'>시야에서 멀리 떨어져 숨겨져 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='353038' id='t-353038'>이것은 악순환입니다.</span>
+<span class='talk-transcript__fragment' data-time='355299' id='t-355299'>가난도, 인종 차별도, 배척도
+새로운 것은 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='358575' id='t-358575'>이처럼 세계적이고 강력한
+소통과 교환의 시대에</span>
+<span class='talk-transcript__fragment' data-time='362117' id='t-362117'>현실이 어떻게 감춰지고
+사람들이 어떻게 보이지 않게 되는지가</span>
+<span class='talk-transcript__fragment' data-time='366535' id='t-366535'>새로울 뿐입니다.</span>
+<span class='talk-transcript__fragment' data-time='368435' id='t-368435'>이런 임시 거주지는 불법이기 때문에</span>
+<span class='talk-transcript__fragment' data-time='371454' id='t-371454'>그곳에 사는 사람들은
+자신들의 목소리를 듣게 할</span>
+<span class='talk-transcript__fragment' data-time='374244' id='t-374244'>기회가 없습니다.</span>
+<span class='talk-transcript__fragment' data-time='376575' id='t-376575'>반대로, 모습을 보일 때 마다
+늘 적발될 위험을 감수해야 하며</span>
+<span class='talk-transcript__fragment' data-time='382025' id='t-382025'>더한 박해와 추방과 진압을 위한 
+구실만 제공할 뿐입니다.</span>
+<span class='talk-transcript__fragment' data-time='386809' id='t-386809'>저희는 이렇게 감추어진 면을 어떻게
+보게 해야 하는지에 관심이 갔습니다.</span>
+<span class='talk-transcript__fragment' data-time='392020' id='t-392020'>그래서 접점을 탐색했고
+하나 찾았습니다.</span>
+<span class='talk-transcript__fragment' data-time='395433' id='t-395433'>디지털이 아닌 물리적 지점이었죠.
+호텔이었습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+06:50
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='399720' id='t-399720'>저희는 이 프로젝트를 &quot;젤렘 호텔&quot;이라
+이름 붙였습니다.</span>
+<span class='talk-transcript__fragment' data-time='402764' id='t-402764'>집시 가족들과 함께 유럽에서
+젤렘 호텔을 몇 군데 만들었습니다.</span>
+<span class='talk-transcript__fragment' data-time='406766' id='t-406766'>예를 들어 독일 프라이부르크나
+파리 근처 몽트뢰유,</span>
+<span class='talk-transcript__fragment' data-time='409623' id='t-409623'>그리고 발칸 지역에도요.</span>
+<span class='talk-transcript__fragment' data-time='411299' id='t-411299'>진짜 호텔입니다.</span>
+<span class='talk-transcript__fragment' data-time='412684' id='t-412684'>사람들이 숙박할 수 있죠.</span>
+<span class='talk-transcript__fragment' data-time='414299' id='t-414299'>하지만 영리 목적의 사업은 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='416299' id='t-416299'>하나의 상징이죠.</span>
+<span class='talk-transcript__fragment' data-time='418575' id='t-418575'>온라인을 통해서, 집시 가족의 집인</span>
+<span class='talk-transcript__fragment' data-time='422251' id='t-422251'>젤렘 호텔에 와서 며칠 살면서
+같이 먹고 일하고 생활할 수 있게 하는</span>
+<span class='talk-transcript__fragment' data-time='426661' id='t-426661'>개인적인 초청을 요청할 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='430748' id='t-430748'>이 곳에서 집시 가족은
+여행자가 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='433939' id='t-433939'>방문객들이 여행자죠.</span>
+<span class='talk-transcript__fragment' data-time='435584' id='t-435584'>이곳에서 집시 가족은
+소수집단이 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='438663' id='t-438663'>방문객들이 소수집단이죠.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:32
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='441833' id='t-441833'>요점은 판단을 내리지 않고,</span>
+<span class='talk-transcript__fragment' data-time='445826' id='t-445826'>극복할 수 없을 것 같은
+너무 다른 모순점을</span>
+<span class='talk-transcript__fragment' data-time='448834' id='t-448834'>만들어낸 배경을
+찾아내려 노력하는 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='452299' id='t-452299'>세계화된 세상에서</span>
+<span class='talk-transcript__fragment' data-time='454563' id='t-454563'>대륙들은 서로 더 가까워지고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='457299' id='t-457299'>문화와 상품, 사람들이
+영구적으로 교환되고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='459847' id='t-459847'>하지만 동시에, 
+특권을 가진 사람들의 세상과</span>
+<span class='talk-transcript__fragment' data-time='463125' id='t-463125'>배제된 사람들의 세상 사이의
+간극은 커지고 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:58
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='467405' id='t-467405'>저희는 최근 호주를 방문했습니다.</span>
+<span class='talk-transcript__fragment' data-time='469299' id='t-469299'>저희에게는 입국에 
+아무 어려움이 없었습니다.</span>
+<span class='talk-transcript__fragment' data-time='471924' id='t-471924'>유럽 여권과 비자, 항공권이
+있었으니까요.</span>
+<span class='talk-transcript__fragment' data-time='474821' id='t-474821'>하지만 호주에 보트로 
+도착한 망명 희망자들은</span>
+<span class='talk-transcript__fragment' data-time='478785' id='t-478785'>추방되거나 투옥되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='481028' id='t-481028'>보트를 중간에 막은 것과</span>
+<span class='talk-transcript__fragment' data-time='483192' id='t-483192'>사람들을 감옥으로 보내 감춘 일은</span>
+<span class='talk-transcript__fragment' data-time='485903' id='t-485903'>호주 당국에 의해 묻혔습니다.</span>
+<span class='talk-transcript__fragment' data-time='489062' id='t-489062'>이 과정은 비밀 군사 작전으로
+선포되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='493768' id='t-493768'>위험 지역과 전쟁 지역에서
+극적으로 빠져나온</span>
+<span class='talk-transcript__fragment' data-time='496936' id='t-496936'>남자들, 여자들, 그리고 아이들은
+재판 없이 호주에 구금되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='501071' id='t-501071'>어떤 경우에는 수년 간이요.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+08:36
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='505036' id='t-505036'>하지만 저희는 머무는 동안</span>
+<span class='talk-transcript__fragment' data-time='507156' id='t-507156'>차단과 격리를 넘어서,
+수감되었던 망명 희망자들과</span>
+<span class='talk-transcript__fragment' data-time='509929' id='t-509929'>접촉하여 함께 작업할 수 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='514057' id='t-514057'>이러한 배경에서 저희는
+브리즈번의 퀸즐랜드 공과대학에</span>
+<span class='talk-transcript__fragment' data-time='518190' id='t-518190'>예술 공간을 설치했습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+08:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='522635' id='t-522635'>겉보기에는 매우 단순했습니다.</span>
+<span class='talk-transcript__fragment' data-time='526199' id='t-526199'>바닥에는 각 이민자 수용소로 가는</span>
+<span class='talk-transcript__fragment' data-time='528662' id='t-528662'>방향과 거리, 그리고 수용소 이름을</span>
+<span class='talk-transcript__fragment' data-time='531643' id='t-531643'>나타내도록 디자인된
+나침반을 설치했습니다.</span>
+<span class='talk-transcript__fragment' data-time='536299' id='t-536299'>하지만 전시의 단계는
+연결의 형태로 전달되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='540472' id='t-540472'>모든 바닥 표시에는
+헤드셋이 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='544299' id='t-544299'>관람객들에게는
+특정 수용소에 수감된 적 있거나</span>
+<span class='talk-transcript__fragment' data-time='546679' id='t-546679'>수감되어 있는 난민에게 직접 말하며</span>
+<span class='talk-transcript__fragment' data-time='548920' id='t-548920'>개인적인 대화를 나눌 수 있는</span>
+<span class='talk-transcript__fragment' data-time='553581' id='t-553581'>기회가 주어졌습니다.</span>
+<span class='talk-transcript__fragment' data-time='556916' id='t-556916'>예술 전시의 보호 조건 안에서
+망명 희망자들은</span>
+<span class='talk-transcript__fragment' data-time='559806' id='t-559806'>뒷일에 대한 두려움 없이 자유롭게
+자기 자신이나 자신의 사연,</span>
+<span class='talk-transcript__fragment' data-time='564043' id='t-564043'>또는 상황에 대해
+이야기할 수 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='566694' id='t-566694'>방문객들은 흩어진 가족이나
+전쟁 지역에서의 극적인 탈출,</span>
+<span class='talk-transcript__fragment' data-time='569730' id='t-569730'>자살 시도, 수감된 아이의 운명에 대해</span>
+<span class='talk-transcript__fragment' data-time='573507' id='t-573507'>나누는 긴 대화에</span>
+<span class='talk-transcript__fragment' data-time='575143' id='t-575143'>푹 빠져들었습니다.</span>
+<span class='talk-transcript__fragment' data-time='578514' id='t-578514'>감정이 깊어지고
+눈물을 흘리는 사람도 많았습니다.</span>
+<span class='talk-transcript__fragment' data-time='580626' id='t-580626'>몇몇은 전시를 다시 찾았습니다.</span>
+<span class='talk-transcript__fragment' data-time='583032' id='t-583032'>매우 강렬한 경험이었습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+09:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='586459' id='t-586459'>유럽은 현재 수많은 이민자를
+맞고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='591303' id='t-591303'>망명 희망자들의 상황은 모순적인 정책과</span>
+<span class='talk-transcript__fragment' data-time='595213' id='t-595213'>군사적 대응의 유혹으로 인해
+갈수록 나빠지고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='598964' id='t-598964'>저희는 또한 멀리 떨어진
+스위스와 그리스의</span>
+<span class='talk-transcript__fragment' data-time='602013' id='t-602013'>난민 센터에
+통신 시스템을 설치했습니다.</span>
+<span class='talk-transcript__fragment' data-time='605692' id='t-605692'>모두 기본적인 정보를 제공하기 
+위한 것입니다. 의료 비용,</span>
+<span class='talk-transcript__fragment' data-time='608877' id='t-608877'>법률 정보, 기본적인 안내 등이죠.</span>
+<span class='talk-transcript__fragment' data-time='611153' id='t-611153'>하지만 이것은 매우 의미 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='613224' id='t-613224'>위험한 경로를</span>
+<span class='talk-transcript__fragment' data-time='614553' id='t-614553'>무사히 통과하게 해줄 수 있는
+인터넷 정보는</span>
+<span class='talk-transcript__fragment' data-time='617307' id='t-617307'>검열되고 있고,</span>
+<span class='talk-transcript__fragment' data-time='618724' id='t-618724'>그러한 정보를 제공하는 일은
+점점 불법이 되고 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='624303' id='t-624303'>이것이 저희를 베를린의
+스위스 대사관 지붕의 안테나와</span>
+<span class='talk-transcript__fragment' data-time='625795' id='t-625795'>네트워크와
+&quot;제 말 들려요?&quot; 프로젝트로</span>
+<span class='talk-transcript__fragment' data-time='630075' id='t-630075'>다시 돌아오게 합니다.</span>
+<span class='talk-transcript__fragment' data-time='632725' id='t-632725'>우리는 제한 없이 연결되어 있는 것을
+당연하게 여겨서는 안 됩니다.</span>
+<span class='talk-transcript__fragment' data-time='635959' id='t-635959'>우리를 위한 연결을
+스스로 만들어내야 하고</span>
+<span class='talk-transcript__fragment' data-time='638016' id='t-638016'>평등하고 세계적으로 상호 연결된
+세상에 대한 관념을 위해 싸워야합니다.</span>
+<span class='talk-transcript__fragment' data-time='642540' id='t-642540'>이것은 우리의 침묵과,
+대립적 정치 권력이 만들어낸 단절을</span>
+<span class='talk-transcript__fragment' data-time='646235' id='t-646235'>극복하는 데에 핵심적입니다.</span>
+<span class='talk-transcript__fragment' data-time='648839' id='t-648839'>이러한 경험이 가지고 있는
+변화를 가져오는 힘에</span>
+<span class='talk-transcript__fragment' data-time='652054' id='t-652054'>우리 스스로를 온전히 맡길 때에야,</span>
+<span class='talk-transcript__fragment' data-time='654944' id='t-654944'>편견과 소외를 넘어설 수 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:09
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='658299' id='t-658299'>감사합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='659477' id='t-659477'>(박수)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='664755' id='t-664755'>브루노: 마티아스 씨, 감사합니다.</span>
+<span class='talk-transcript__fragment' data-time='665916' id='t-665916'>당신의 예술가 동료가
+이 자리에 와 계십니다.</span>
+<span class='talk-transcript__fragment' data-time='667705' id='t-667705'>크리스토프 와터 씨,
+무대 위로 올라와주십시오.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='670556' id='t-670556'>(박수)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='675938' id='t-675938'>먼저 조금 더 자세히 말씀해주세요.</span>
+<span class='talk-transcript__fragment' data-time='677367' id='t-677367'>호텔 이름을
+아무렇게나 붙인 것이 아니지요.</span>
+<span class='talk-transcript__fragment' data-time='679470' id='t-679470'>젤렘은 집시 언어에서
+특정한 무언가를 가리키죠.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:33
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='682755' id='t-682755'>마티아스: 맞습니다. 
+&quot;젤렘 젤렘&quot;은 집시 찬송가 제목입니다.</span>
+<span class='talk-transcript__fragment' data-time='687597' id='t-687597'>공식적으로 뜻은
+&quot;나는 먼 길을 갔습니다.&quot;입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='690980' id='t-690980'>브루노: 강연에 세부 사항을 조금
+보태고자 질문 드렸습니다.</span>
+<span class='talk-transcript__fragment' data-time='693223' id='t-693223'>근데 두 분은 최근에 레스보스 섬으로</span>
+<span class='talk-transcript__fragment' data-time='695931' id='t-695931'>여행을 가서 이틀 전에 돌아오셨죠.</span>
+<span class='talk-transcript__fragment' data-time='698646' id='t-698646'>지난 몇 달 사이
+그리스에 수천 명의 난민이</span>
+<span class='talk-transcript__fragment' data-time='701078' id='t-701078'>이미 도착해 있고, 
+또 지금도 오고 있는데</span>
+<span class='talk-transcript__fragment' data-time='703390' id='t-703390'>그 곳에서 무엇을 보셨고,
+무슨 일을 하셨습니까?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+11:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='705856' id='t-705856'>크리스토프: 레스보스는
+터키 근처의 그리스 섬입니다.</span>
+<span class='talk-transcript__fragment' data-time='709681' id='t-709681'>저희가 머무는 동안,</span>
+<span class='talk-transcript__fragment' data-time='711100' id='t-711100'>많은 피난민들이
+정원을 초과한 배를 타고 왔습니다.</span>
+<span class='talk-transcript__fragment' data-time='716545' id='t-716545'>그리고 배에서 내린 후,
+그들은 완전히 방치되고</span>
+<span class='talk-transcript__fragment' data-time='720228' id='t-720228'>많은 서비스를 이용할 수 없습니다.</span>
+<span class='talk-transcript__fragment' data-time='724043' id='t-724043'>예를 들어, 그들은 버스 티켓을 사거나</span>
+<span class='talk-transcript__fragment' data-time='726561' id='t-726561'>호텔 방을 빌릴 수 없습니다.</span>
+<span class='talk-transcript__fragment' data-time='727990' id='t-727990'>그래서 많은 가족들이
+말 그대로 길에서 잠을 잡니다.</span>
+<span class='talk-transcript__fragment' data-time='732700' id='t-732700'>저희는 기본적인 소통을 할 수 있도록 
+그 곳에 네트워크를 설치했습니다.</span>
+<span class='talk-transcript__fragment' data-time='737360' id='t-737360'>왜냐하면 저는</span>
+<span class='talk-transcript__fragment' data-time='739487' id='t-739487'>우리가 난민들에 대해 
+이야기해야 할 뿐만 아니라</span>
+<span class='talk-transcript__fragment' data-time='744950' id='t-744950'>그들에게도 말을 걸기 시작해야 한다고
+생각하기 때문입니다.</span>
+<span class='talk-transcript__fragment' data-time='748545' id='t-748545'>그리고 그렇게 함으로써 이것이
+인간과 그들의 삶, 그리고</span>
+<span class='talk-transcript__fragment' data-time='751555' id='t-751555'>생존을 위한 투쟁의 문제임을
+깨달을 수 있다고 생각합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='755086' id='t-755086'>브루노: 그리고 그들 또한 
+발언할 수 있게 해야 하고요.</span>
+<span class='talk-transcript__fragment' data-time='757020' id='t-757020'>크리스토프, TED에
+와 주셔서 감사합니다.</span>
+<span class='talk-transcript__fragment' data-time='758589' id='t-758589'>마티아스, TED에 오셔서
+이야기를 공유해 주셔서 감사합니다.</span>
+<span class='talk-transcript__fragment' data-time='761953' id='t-761953'>(박수)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

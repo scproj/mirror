@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>앨런 유스타스: 저는 성층권에서 뛰어내렸습니다. 그 내용을 공개합니다.</title>
+  <description>2014년 10월 21일, 앨런 유스타스는 직접 제작한 500 파운드 우주복을 입고, 풍선에 붙여서  135,000 피트 상공까지 떠올랐습니다. 이는 기존의 최고 고도 점프 기록을 깨뜨리는 것으로, 왜 그리고 어떻게 해낸 것인지 그의 이야기를 들어 보십시오.</description>
+  <url>http://www.ted.com/talks/alan_eustace_i_leapt_from_the_stratosphere_here_s_how_i_did_it?language=ko</url>
+  <author-name>앨런 유스타스</author-name>
+  <author-url>http://www.ted.com/speakers/alan_eustace</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/ffbbad8e36dbf11b1015b73082be47ca7448548c_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/alan_eustace_i_leapt_from_the_stratosphere_here_s_how_i_did_it.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

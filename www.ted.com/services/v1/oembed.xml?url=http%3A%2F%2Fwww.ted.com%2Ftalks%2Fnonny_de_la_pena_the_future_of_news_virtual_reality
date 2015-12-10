@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Nonny de la Peña: The future of news? Virtual reality</title>
+  <description>What if you could experience a story with your entire body, not just with your mind? Nonny de la Peña is working on a new form of journalism that combines traditional reporting with emerging virtual reality technology to put the audience inside the story. The result is an evocative experience that de la Peña hopes will help people understand the news in a brand new way.</description>
+  <url>http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality</url>
+  <author-name>Nonny de la Peña</author-name>
+  <author-url>http://www.ted.com/speakers/nonny_de_la_pena</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/096b3dafa24db9ad7d5cfb7f9dc70f88621a3ac0_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

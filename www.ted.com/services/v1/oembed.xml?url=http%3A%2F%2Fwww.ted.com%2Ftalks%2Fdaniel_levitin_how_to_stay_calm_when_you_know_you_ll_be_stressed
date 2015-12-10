@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Daniel Levitin: How to stay calm when you know you'll be stressed</title>
+  <description>You're not at your best when you're stressed. In fact, your brain has evolved over millennia to release cortisol in stressful situations, inhibiting rational, logical thinking but potentially helping you survive, say, being attacked by a lion. Neuroscientist Daniel Levitin thinks there's a way to avoid making critical mistakes in stressful situations, when your thinking becomes clouded -- the pre-mortem. "We all are going to fail now and then," he says. "The idea is to think ahead to what those failures might be."</description>
+  <url>http://www.ted.com/talks/daniel_levitin_how_to_stay_calm_when_you_know_you_ll_be_stressed</url>
+  <author-name>Daniel Levitin</author-name>
+  <author-url>http://www.ted.com/speakers/daniel_levitin</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/286969e487290d738793be4343176021a39167e7_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/daniel_levitin_how_to_stay_calm_when_you_know_you_ll_be_stressed.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

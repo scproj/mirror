@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Guillaume Néry: The exhilarating peace of freediving</title>
+  <description>In this breathtaking talk, world champion freediver Guillaume Néry takes us with him into the ocean's depths. Meter by meter, he explains the physical and emotional impact of water pressure, silence and holding your breath. His eloquent description of the underwater experience reveals the hidden poetry of freediving.</description>
+  <url>http://www.ted.com/talks/guillaume_nery_the_exhilarating_peace_of_freediving</url>
+  <author-name>Guillaume Néry</author-name>
+  <author-url>http://www.ted.com/speakers/guillaume_nery</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/9b1a1f9cad6e149301ac8fb94170714ac7a5c79d_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/en/guillaume_nery_the_exhilarating_peace_of_freediving.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

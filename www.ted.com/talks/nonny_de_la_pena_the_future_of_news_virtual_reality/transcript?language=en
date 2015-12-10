@@ -1,0 +1,933 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Nonny de la Peña: The future of news? Virtual reality | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="Nonny de la Peña: The future of news? Virtual reality | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: What if you could experience a story with your entire body, not just with your mind? Nonny de la Peña is working on a new form of journalism that combines traditional reporting with emerging virtual reality technology to put the audience inside the story. The result is an evocative experience that de la Peña hopes will help people understand the news in a brand new way." name="description" />
+<meta content="Nonny de la Peña" name="author" />
+<link href="http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality/transcript?language=my" hreflang="my" rel="alternate" />
+<link href="http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;The future of news? Virtual reality&quot;" property="og:title" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/ddaf3e1ce01e2c3ee875970d3c7bf8bb4e9e92c3_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/ddaf3e1ce01e2c3ee875970d3c7bf8bb4e9e92c3_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: What if you could experience a story with your entire body, not just with your mind? Nonny de la Peña is working on a new form of journalism that combines traditional reporting with emerging virtual reality technology to put the audience inside the story. The result is an evocative experience that de la Peña hopes will help people understand the news in a brand new way." property="og:description" />
+<meta content="http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk-ie.css?1449612281">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk.css?1449612281">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?372e9c1ad21862103d589d49af44d28b","Swipe":"Swipe.js?73df4e5005408bc203e969751fc55e26","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","tedx":"tedx.js?f71e6b01e6becadca27fe635865d10df","flot":"flot.js?f327c555b811f034d94bfac8b6931307","hbs":"hbs.js?e36c0e0e09a79031f61eb328fc4c5a7b","transit":"transit.js?68aa867b464466c3dc98c60e068b7f68","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","pages":"pages.js?1fc3f19849913b97ac49d754f65aec11","deferLink":"deferLink.js?7adfdb9374698e3ee45ae2f72a9554ff","libs":"libs.js?f72f9becee377a41f67a0821d60cbca5","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","jquery":"libs.js?f72f9becee377a41f67a0821d60cbca5","swfobject":"libs.js?f72f9becee377a41f67a0821d60cbca5","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","Mailcheck":"Mailcheck.js?e8314a0c5bb92079c911a261b2afb289","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","jqueryujs":"libs.js?f72f9becee377a41f67a0821d60cbca5","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","Backbone":"libs.js?f72f9becee377a41f67a0821d60cbca5","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","swatch":"swatch.js?afe36518ad071cd727e0d83732239cf1","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","search":"search.js?c35ef36e1163fdd700e9e4597c54670c","profiles":"profiles.js?97fae740b654fe9b080dc4f3a40845e2","newsletter":"newsletter.js?08d8ae7a1c6482d7beb3002fcfaacdc2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","ZeroClipboard":"ZeroClipboard.js?7c36a7eb020bbb97dafee4153f46c87d","spinjs":"spinjs.js?e1cc3dce984cd870d9d02be288d0dbdd","home":"home.js?a022cc3647e176df139a95305436b5c6","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","numeral":"numeral.js?a222da10e94e967e928aca44d69ce0f5","waypoints":"waypoints.js?70444276da7d7de57b7c670dc053f1f5","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Modernizr":"Modernizr.js?08cd3d9d0df1143464d1ca8ce01fed50","menuAim":"menuAim.js?2dae90e87689e70126a38328bac9a5ee","global":"global.js?32acea94e04f0857ff698086dbba7d47","dashboard_hotels":"dashboard_hotels.js?614e7f024aef5688437f667f857da860","dashboard":"dashboard.js?58449ad35e4a86ebfe91a29034a7dcc7","dq":"libs.js?f72f9becee377a41f67a0821d60cbca5","pages/dynamic/dummy":"pages/dynamic/dummy.js?db40c2c843286b433bfd906e6c74f1b3","talk":"talk.js?793f7a7423e25ccba43a4234f4e8d5b6","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","lodash":"libs.js?f72f9becee377a41f67a0821d60cbca5","surprise_me":"surprise_me.js?15d20c1a672006281855579474bac1f3","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","SwipeView":"SwipeView.js?4f04041392bfc7c535ae4f55e7b1e055","depot":"depot.js?429a4bc85cfbcc083d5278526d66123d","autosize":"autosize.js?609924fea6718a2ff0e8e32677bc132b","talks":"talks.js?7cfcd598f4b654af6f9e8e15e3d916c0","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Cookies":"Cookies.js?b331f247439cf974333a98958d35790d","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","embed":"embed.js?20b97011a03e61004d7d6e6c762667f9","settings":"settings.js?a16ac9e15c9eb86bf133c722366eb96e","touchPunch":"touchPunch.js?0374f5fc70a9e5ada6b9c6721e4ca424","moment":"moment.js?2901d956628d5071fcb01d19a2e6b9d6","dashboard_sessions":"dashboard_sessions.js?16f3e4102d4092e240177a42e696104c","crushinator":"crushinator.js?6780e5d6c8daac982c107577b713686a","hbs/handlebars":"libs.js?f72f9becee377a41f67a0821d60cbca5"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612281"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/nonny_de_la_pena_the_future_of_news_virtual_reality?language=en'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Return to talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='nonny_de_la_pena_the_future_of_news_virtual_reality'>
+<option value='bg'>Bulgarian</option>
+<option value='my'>Burmese</option>
+<option selected value='en'>English</option>
+<option value='it'>Italian</option>
+<option value='ko'>Korean</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ru'>Russian</option>
+<option value='tr'>Turkish</option>
+</select>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality?language=en' language='en'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="567" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/ddaf3e1ce01e2c3ee875970d3c7bf8bb4e9e92c3_2880x1620.jpg?quality=89&amp;w=320" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">09:27</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>Nonny de la Peña</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/nonny_de_la_pena_the_future_of_news_virtual_reality?language=en' lang='en'>
+The future of news? Virtual reality
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Nov 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Fascinating
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='785' id='t-785'>What if I could present you a story</span>
+<span class='talk-transcript__fragment' data-time='2689' id='t-2689'>that you would remember
+with your entire body</span>
+<span class='talk-transcript__fragment' data-time='5127' id='t-5127'>and not just with your mind?</span>
+<span class='talk-transcript__fragment' data-time='7308' id='t-7308'>My whole life as a journalist,
+I've really been compelled</span>
+<span class='talk-transcript__fragment' data-time='10007' id='t-10007'>to try to make stories
+that can make a difference</span>
+<span class='talk-transcript__fragment' data-time='12342' id='t-12342'>and maybe inspire people to care.</span>
+<span class='talk-transcript__fragment' data-time='14936' id='t-14936'>I've worked in print.
+I've worked in documentary.</span>
+<span class='talk-transcript__fragment' data-time='17286' id='t-17286'>I've worked in broadcast.</span>
+<span class='talk-transcript__fragment' data-time='18579' id='t-18579'>But it really wasn't until
+I got involved with virtual reality</span>
+<span class='talk-transcript__fragment' data-time='21665' id='t-21665'>that I started seeing
+these really intense,</span>
+<span class='talk-transcript__fragment' data-time='24530' id='t-24530'>authentic reactions from people</span>
+<span class='talk-transcript__fragment' data-time='26538' id='t-26538'>that really blew my mind.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='28237' id='t-28237'>So the deal is that with VR,
+virtual reality,</span>
+<span class='talk-transcript__fragment' data-time='32934' id='t-32934'>I can put you on scene</span>
+<span class='talk-transcript__fragment' data-time='35958' id='t-35958'>in the middle of the story.</span>
+<span class='talk-transcript__fragment' data-time='38148' id='t-38148'>By putting on these goggles
+that track wherever you look,</span>
+<span class='talk-transcript__fragment' data-time='41656' id='t-41656'>you get this whole-body sensation,</span>
+<span class='talk-transcript__fragment' data-time='44608' id='t-44608'>like you're actually, like, there.</span>
+<span class='talk-transcript__fragment' data-time='47209' id='t-47209'>So five years ago was about when
+I really began to push the envelope</span>
+<span class='talk-transcript__fragment' data-time='50635' id='t-50635'>with using virtual reality
+and journalism together.</span>
+<span class='talk-transcript__fragment' data-time='53909' id='t-53909'>And I wanted to do a piece about hunger.</span>
+<span class='talk-transcript__fragment' data-time='56481' id='t-56481'>Families in America are going hungry,
+food banks are overwhelmed,</span>
+<span class='talk-transcript__fragment' data-time='59664' id='t-59664'>and they're often running out of food.</span>
+<span class='talk-transcript__fragment' data-time='62330' id='t-62330'>Now, I knew I couldn't
+make people feel hungry,</span>
+<span class='talk-transcript__fragment' data-time='65973' id='t-65973'>but maybe I could figure out a way
+to get them to feel something physical.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+01:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='70726' id='t-70726'>So -- again, this is five years ago --</span>
+<span class='talk-transcript__fragment' data-time='73814' id='t-73814'>so doing journalism
+and virtual reality together</span>
+<span class='talk-transcript__fragment' data-time='77014' id='t-77014'>was considered
+a worse-than-half-baked idea,</span>
+<span class='talk-transcript__fragment' data-time='80021' id='t-80021'>and I had no funding.</span>
+<span class='talk-transcript__fragment' data-time='81400' id='t-81400'>Believe me, I had a lot
+of colleagues laughing at me.</span>
+<span class='talk-transcript__fragment' data-time='83923' id='t-83923'>And I did, though,
+have a really great intern,</span>
+<span class='talk-transcript__fragment' data-time='87737' id='t-87737'>a woman named Michaela Kobsa-Mark.</span>
+<span class='talk-transcript__fragment' data-time='89999' id='t-89999'>And together we went out to food banks</span>
+<span class='talk-transcript__fragment' data-time='91841' id='t-91841'>and started recording
+audio and photographs.</span>
+<span class='talk-transcript__fragment' data-time='94937' id='t-94937'>Until one day she came back to my office</span>
+<span class='talk-transcript__fragment' data-time='96881' id='t-96881'>and she was bawling, she was just crying.</span>
+<span class='talk-transcript__fragment' data-time='99300' id='t-99300'>She had been on scene at a long line,</span>
+<span class='talk-transcript__fragment' data-time='101926' id='t-101926'>where the woman running the line
+was feeling extremely overwhelmed,</span>
+<span class='talk-transcript__fragment' data-time='105895' id='t-105895'>and she was screaming,
+&quot;There's too many people!</span>
+<span class='talk-transcript__fragment' data-time='108887' id='t-108887'>There's too many people!&quot;</span>
+<span class='talk-transcript__fragment' data-time='110807' id='t-110807'>And this man with diabetes
+doesn't get food in time,</span>
+<span class='talk-transcript__fragment' data-time='114386' id='t-114386'>his blood sugar drops too low,
+and he collapses into a coma.</span>
+<span class='talk-transcript__fragment' data-time='118695' id='t-118695'>As soon as I heard that audio,</span>
+<span class='talk-transcript__fragment' data-time='120251' id='t-120251'>I knew that this would be
+the kind of evocative piece</span>
+<span class='talk-transcript__fragment' data-time='123520' id='t-123520'>that could really describe
+what was going on at food banks.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:18
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='127290' id='t-127290'>So here's the real line.
+You can see how long it was, right?</span>
+<span class='talk-transcript__fragment' data-time='130930' id='t-130930'>And again, as I said, we didn't
+have very much funding,</span>
+<span class='talk-transcript__fragment' data-time='133581' id='t-133581'>so I had to reproduce it
+with virtual humans that were donated,</span>
+<span class='talk-transcript__fragment' data-time='137355' id='t-137355'>and people begged and borrowed favors
+to help me create the models</span>
+<span class='talk-transcript__fragment' data-time='141505' id='t-141505'>and make things as accurate as we could.</span>
+<span class='talk-transcript__fragment' data-time='143688' id='t-143688'>And then we tried to convey
+what happened that day</span>
+<span class='talk-transcript__fragment' data-time='146321' id='t-146321'>with as much as accuracy as is possible.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='149680' id='t-149680'>(Video) Voice: There's too many people!
+There's too many people!</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:53
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='162340' id='t-162340'>Voice: OK, he's having a seizure.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:10
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='179023' id='t-179023'>Voice: We need an ambulance.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='182181' id='t-182181'>Nonny de la Peña: So the man on the right,</span>
+<span class='talk-transcript__fragment' data-time='184222' id='t-184222'>for him, he's walking around the body.</span>
+<span class='talk-transcript__fragment' data-time='186118' id='t-186118'>For him, he's in the room with that body.</span>
+<span class='talk-transcript__fragment' data-time='189355' id='t-189355'>Like, that guy is at his feet.</span>
+<span class='talk-transcript__fragment' data-time='191601' id='t-191601'>And even though,
+through his peripheral vision,</span>
+<span class='talk-transcript__fragment' data-time='193832' id='t-193832'>he can see that he's in this lab space,</span>
+<span class='talk-transcript__fragment' data-time='195927' id='t-195927'>he should be able to see
+that he's not actually on the street,</span>
+<span class='talk-transcript__fragment' data-time='200164' id='t-200164'>but he feels like he's there
+with those people.</span>
+<span class='talk-transcript__fragment' data-time='203084' id='t-203084'>He's very cautious not to step on this guy</span>
+<span class='talk-transcript__fragment' data-time='205118' id='t-205118'>who isn't really there, right?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:38
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='207506' id='t-207506'>So that piece ended up
+going to Sundance in 2012,</span>
+<span class='talk-transcript__fragment' data-time='210633' id='t-210633'>a kind of amazing thing,
+and it was the first virtual reality film</span>
+<span class='talk-transcript__fragment' data-time='214578' id='t-214578'>ever, basically.</span>
+<span class='talk-transcript__fragment' data-time='217062' id='t-217062'>And when we went, I was really terrified.</span>
+<span class='talk-transcript__fragment' data-time='219047' id='t-219047'>I didn't really know
+how people were going to react</span>
+<span class='talk-transcript__fragment' data-time='221508' id='t-221508'>and what was going to happen.</span>
+<span class='talk-transcript__fragment' data-time='222921' id='t-222921'>And we showed up
+with this duct-taped pair of goggles.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='225842' id='t-225842'>(Video) Oh, you're crying.
+You're crying. Gina, you're crying.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:00
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='229851' id='t-229851'>So you can hear
+the surprise in my voice, right?</span>
+<span class='talk-transcript__fragment' data-time='232595' id='t-232595'>And this kind of reaction ended up being
+the kind of reaction we saw</span>
+<span class='talk-transcript__fragment' data-time='236214' id='t-236214'>over and over and over:</span>
+<span class='talk-transcript__fragment' data-time='239008' id='t-239008'>people down on the ground
+trying to comfort the seizure victim,</span>
+<span class='talk-transcript__fragment' data-time='242738' id='t-242738'>trying to whisper something into his ear</span>
+<span class='talk-transcript__fragment' data-time='244682' id='t-244682'>or in some way help,
+even though they couldn't.</span>
+<span class='talk-transcript__fragment' data-time='248664' id='t-248664'>And I had a lot of people
+come out of that piece saying,</span>
+<span class='talk-transcript__fragment' data-time='251372' id='t-251372'>&quot;Oh my God, I was so frustrated.
+I couldn't help the guy,&quot;</span>
+<span class='talk-transcript__fragment' data-time='254120' id='t-254120'>and take that back into their lives.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='256999' id='t-256999'>So after this piece was made,</span>
+<span class='talk-transcript__fragment' data-time='260198' id='t-260198'>the dean of the cinema school at USC,
+the University of Southern California,</span>
+<span class='talk-transcript__fragment' data-time='264031' id='t-264031'>brought in the head of the World
+Economic Forum to try &quot;Hunger,&quot;</span>
+<span class='talk-transcript__fragment' data-time='268262' id='t-268262'>and he took off the goggles,</span>
+<span class='talk-transcript__fragment' data-time='269627' id='t-269627'>and he commissioned
+a piece about Syria on the spot.</span>
+<span class='talk-transcript__fragment' data-time='272691' id='t-272691'>And I really wanted to do something
+about Syrian refugee kids,</span>
+<span class='talk-transcript__fragment' data-time='275628' id='t-275628'>because children have been the worst
+affected by the Syrian civil war.</span>
+<span class='talk-transcript__fragment' data-time='280809' id='t-280809'>I sent a team to the border of Iraq
+to record material at refugee camps,</span>
+<span class='talk-transcript__fragment' data-time='284791' id='t-284791'>basically an area I wouldn't
+send a team now,</span>
+<span class='talk-transcript__fragment' data-time='287966' id='t-287966'>as that's where ISIS is really operating.</span>
+<span class='talk-transcript__fragment' data-time='290458' id='t-290458'>And then we also recreated a street scene</span>
+<span class='talk-transcript__fragment' data-time='293188' id='t-293188'>in which a young girl is singing
+and a bomb goes off.</span>
+<span class='talk-transcript__fragment' data-time='297340' id='t-297340'>Now, when you're
+in the middle of that scene</span>
+<span class='talk-transcript__fragment' data-time='299443' id='t-299443'>and you hear those sounds,</span>
+<span class='talk-transcript__fragment' data-time='302021' id='t-302021'>and you see the injured around you,</span>
+<span class='talk-transcript__fragment' data-time='304338' id='t-304338'>it's an incredibly scary and real feeling.</span>
+<span class='talk-transcript__fragment' data-time='307362' id='t-307362'>I've had individuals who have been
+involved in real bombings tell me</span>
+<span class='talk-transcript__fragment' data-time='311926' id='t-311926'>that it evokes the same kind of fear.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:27
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='316211' id='t-316211'>[The civil war in Syria may seem far away]</span>
+<span class='talk-transcript__fragment' data-time='322078' id='t-322078'>[until you experience it yourself.]</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='329062' id='t-329062'>(Girl singing)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='336037' id='t-336037'>(Explosion)</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:49
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='338839' id='t-338839'>[Project Syria]</span>
+<span class='talk-transcript__fragment' data-time='343988' id='t-343988'>[A virtual reality experience]</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:57
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='346653' id='t-346653'>NP: We were then invited to take the piece</span>
+<span class='talk-transcript__fragment' data-time='348745' id='t-348745'>to the Victoria and Albert
+Museum in London.</span>
+<span class='talk-transcript__fragment' data-time='350823' id='t-350823'>And it wasn't advertised.</span>
+<span class='talk-transcript__fragment' data-time='352204' id='t-352204'>And we were put in this tapestry room.</span>
+<span class='talk-transcript__fragment' data-time='354552' id='t-354552'>There was no press about it,</span>
+<span class='talk-transcript__fragment' data-time='355918' id='t-355918'>so anybody who happened to walk
+into the museum to visit it that day</span>
+<span class='talk-transcript__fragment' data-time='359679' id='t-359679'>would see us with these crazy lights.</span>
+<span class='talk-transcript__fragment' data-time='361466' id='t-361466'>You know, maybe they would want to see
+the old storytelling of the tapestries.</span>
+<span class='talk-transcript__fragment' data-time='365165' id='t-365165'>They were confronted
+by our virtual reality cameras.</span>
+<span class='talk-transcript__fragment' data-time='368513' id='t-368513'>But a lot of people tried it,
+and over a five-day run</span>
+<span class='talk-transcript__fragment' data-time='371664' id='t-371664'>we ended up with 54 pages
+of guest book comments,</span>
+<span class='talk-transcript__fragment' data-time='376228' id='t-376228'>and we were told by the curators there</span>
+<span class='talk-transcript__fragment' data-time='378588' id='t-378588'>that they'd never seen such an outpouring.</span>
+<span class='talk-transcript__fragment' data-time='381201' id='t-381201'>Things like, &quot;It's so real,&quot;
+&quot;Absolutely believable,&quot;</span>
+<span class='talk-transcript__fragment' data-time='385852' id='t-385852'>or, of course, the one
+that I was excited about,</span>
+<span class='talk-transcript__fragment' data-time='388336' id='t-388336'>&quot;A real feeling as if you were
+in the middle of something</span>
+<span class='talk-transcript__fragment' data-time='391209' id='t-391209'>that you normally see on the TV news.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+06:45
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='394463' id='t-394463'>So, it works, right? This stuff works.</span>
+<span class='talk-transcript__fragment' data-time='398297' id='t-398297'>And it doesn't really matter
+where you're from or what age you are --</span>
+<span class='talk-transcript__fragment' data-time='402116' id='t-402116'>it's really evocative.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+06:55
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='404343' id='t-404343'>Now, don't get me wrong -- I'm not saying
+that when you're in a piece</span>
+<span class='talk-transcript__fragment' data-time='408319' id='t-408319'>you forget that you're here.</span>
+<span class='talk-transcript__fragment' data-time='411223' id='t-411223'>But it turns out we can feel
+like we're in two places at once.</span>
+<span class='talk-transcript__fragment' data-time='414422' id='t-414422'>We can have what I call
+this duality of presence,</span>
+<span class='talk-transcript__fragment' data-time='417596' id='t-417596'>and I think that's what allows me
+to tap into these feelings of empathy.</span>
+<span class='talk-transcript__fragment' data-time='422477' id='t-422477'>Right?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:15
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='424041' id='t-424041'>So that means, of course,</span>
+<span class='talk-transcript__fragment' data-time='427256' id='t-427256'>that I have to be very cautious
+about creating these pieces.</span>
+<span class='talk-transcript__fragment' data-time='432175' id='t-432175'>I have to really follow
+best journalistic practices</span>
+<span class='talk-transcript__fragment' data-time='436461' id='t-436461'>and make sure that these powerful stories</span>
+<span class='talk-transcript__fragment' data-time='438620' id='t-438620'>are built with integrity.</span>
+<span class='talk-transcript__fragment' data-time='440230' id='t-440230'>If we don't capture
+the material ourselves,</span>
+<span class='talk-transcript__fragment' data-time='442627' id='t-442627'>we have to be extremely exacting</span>
+<span class='talk-transcript__fragment' data-time='447619' id='t-447619'>about figuring out the provenance
+and where did this stuff come from</span>
+<span class='talk-transcript__fragment' data-time='450944' id='t-450944'>and is it authentic?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='452276' id='t-452276'>Let me give you an example.</span>
+<span class='talk-transcript__fragment' data-time='453657' id='t-453657'>With this Trayvon Martin case,
+this is a guy, a kid,</span>
+<span class='talk-transcript__fragment' data-time='456618' id='t-456618'>who was 17 years old and he bought
+soda and a candy at a store,</span>
+<span class='talk-transcript__fragment' data-time='460745' id='t-460745'>and on his way home he was tracked
+by a neighborhood watchman</span>
+<span class='talk-transcript__fragment' data-time='464245' id='t-464245'>named George Zimmerman
+who ended up shooting and killing him.</span>
+<span class='talk-transcript__fragment' data-time='467657' id='t-467657'>To make that piece,</span>
+<span class='talk-transcript__fragment' data-time='468833' id='t-468833'>we got the architectural drawings
+of the entire complex,</span>
+<span class='talk-transcript__fragment' data-time='472459' id='t-472459'>and we rebuilt the entire scene
+inside and out, based on those drawings.</span>
+<span class='talk-transcript__fragment' data-time='477252' id='t-477252'>All of the action</span>
+<span class='talk-transcript__fragment' data-time='478571' id='t-478571'>is informed by the real 911
+recorded calls to the police.</span>
+<span class='talk-transcript__fragment' data-time='484411' id='t-484411'>And interestingly, we broke
+some news with this story.</span>
+<span class='talk-transcript__fragment' data-time='487212' id='t-487212'>The forensic house that did the audio
+reconstruction, Primeau Productions,</span>
+<span class='talk-transcript__fragment' data-time='491211' id='t-491211'>they say that they would testify</span>
+<span class='talk-transcript__fragment' data-time='493181' id='t-493181'>that George Zimmerman,
+when he got out of the car,</span>
+<span class='talk-transcript__fragment' data-time='495880' id='t-495880'>he cocked his gun before he went
+to give chase to Martin.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+08:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='500013' id='t-500013'>So you can see that
+the basic tenets of journalism,</span>
+<span class='talk-transcript__fragment' data-time='503442' id='t-503442'>they don't really change here, right?</span>
+<span class='talk-transcript__fragment' data-time='505339' id='t-505339'>We're still following the same principles
+that we would always.</span>
+<span class='talk-transcript__fragment' data-time='508767' id='t-508767'>What is different is the sense
+of being on scene,</span>
+<span class='talk-transcript__fragment' data-time='512094' id='t-512094'>whether you're watching
+a guy collapse from hunger</span>
+<span class='talk-transcript__fragment' data-time='514459' id='t-514459'>or feeling like you're
+in the middle of a bomb scene.</span>
+<span class='talk-transcript__fragment' data-time='516968' id='t-516968'>And this is kind of what has driven me
+forward with these pieces,</span>
+<span class='talk-transcript__fragment' data-time='521940' id='t-521940'>and thinking about how to make them.</span>
+<span class='talk-transcript__fragment' data-time='523687' id='t-523687'>We're trying to make this, obviously,
+beyond the headset, more available.</span>
+<span class='talk-transcript__fragment' data-time='527906' id='t-527906'>We're creating mobile pieces
+like the Trayvon Martin piece.</span>
+<span class='talk-transcript__fragment' data-time='530857' id='t-530857'>And these things have had impact.</span>
+<span class='talk-transcript__fragment' data-time='534430' id='t-534430'>I've had Americans tell me
+that they've donated,</span>
+<span class='talk-transcript__fragment' data-time='537026' id='t-537026'>direct deductions from their bank account,
+money to go to Syrian children refugees.</span>
+<span class='talk-transcript__fragment' data-time='541444' id='t-541444'>And &quot;Hunger in LA,&quot; well,
+it's helped start</span>
+<span class='talk-transcript__fragment' data-time='543801' id='t-543801'>a new form of doing journalism</span>
+<span class='talk-transcript__fragment' data-time='546254' id='t-546254'>that I think is going to join
+all the other normal platforms</span>
+<span class='talk-transcript__fragment' data-time='549374' id='t-549374'>in the future.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+09:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='550549' id='t-550549'>Thank you.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+09:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='551737' id='t-551737'>(Applause)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>사무엘 코헨: 알츠하이머는 보통의 노화가 아니며 치료가 가능합니다 | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="사무엘 코헨: 알츠하이머는 보통의 노화가 아니며 치료가 가능합니다 | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: 4천만 명이 넘는 사람들이 전 세계적으로 알츠하이머로 고통받고 있으며 그 수는 앞으로 급격하게 증가할 겁니다. 하지만 의학계에는 100년 전 병을 진단한 이후 이렇다 할 진전이 없습니다. 과학자 사무엘 코헨이 연구소에서 발견한 알츠하이머 연구의 새로운 혁신과 희망의 메세지를 전합니다. &quot;알츠하이머는 질병이며 치료할 수 있습니다.&quot; 라고 말합니다. " name="description" />
+<meta content="사무엘 코헨" name="author" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=sq" hreflang="sq" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=my" hreflang="my" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=zh-cn" hreflang="zh-cn" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=nl" hreflang="nl" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=fi" hreflang="fi" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=fr" hreflang="fr" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=el" hreflang="el" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=hi" hreflang="hi" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=hu" hreflang="hu" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=it" hreflang="it" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=lt" hreflang="lt" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=mk" hreflang="mk" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=ro" hreflang="ro" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=ru" hreflang="ru" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=th" hreflang="th" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=tr" hreflang="tr" rel="alternate" />
+<link href="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript?language=uk" hreflang="uk" rel="alternate" />
+<meta content="Transcript of &quot;알츠하이머는 보통의 노화가 아니며 치료가 가능합니다&quot;" property="og:title" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/621f9027fc1cc0c16483d6cb752bc2d9ed9b81a3_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/621f9027fc1cc0c16483d6cb752bc2d9ed9b81a3_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: 4천만 명이 넘는 사람들이 전 세계적으로 알츠하이머로 고통받고 있으며 그 수는 앞으로 급격하게 증가할 겁니다. 하지만 의학계에는 100년 전 병을 진단한 이후 이렇다 할 진전이 없습니다. 과학자 사무엘 코헨이 연구소에서 발견한 알츠하이머 연구의 새로운 혁신과 희망의 메세지를 전합니다. &quot;알츠하이머는 질병이며 치료할 수 있습니다.&quot; 라고 말합니다. " property="og:description" />
+<meta content="http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk-ie.css?1449612282">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk.css?1449612282">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?372e9c1ad21862103d589d49af44d28b","Swipe":"Swipe.js?73df4e5005408bc203e969751fc55e26","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","tedx":"tedx.js?f71e6b01e6becadca27fe635865d10df","flot":"flot.js?f327c555b811f034d94bfac8b6931307","hbs":"hbs.js?e36c0e0e09a79031f61eb328fc4c5a7b","transit":"transit.js?68aa867b464466c3dc98c60e068b7f68","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","pages":"pages.js?1fc3f19849913b97ac49d754f65aec11","deferLink":"deferLink.js?7adfdb9374698e3ee45ae2f72a9554ff","libs":"libs.js?f72f9becee377a41f67a0821d60cbca5","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","jquery":"libs.js?f72f9becee377a41f67a0821d60cbca5","swfobject":"libs.js?f72f9becee377a41f67a0821d60cbca5","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","Mailcheck":"Mailcheck.js?e8314a0c5bb92079c911a261b2afb289","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","jqueryujs":"libs.js?f72f9becee377a41f67a0821d60cbca5","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","Backbone":"libs.js?f72f9becee377a41f67a0821d60cbca5","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","swatch":"swatch.js?afe36518ad071cd727e0d83732239cf1","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","search":"search.js?c35ef36e1163fdd700e9e4597c54670c","profiles":"profiles.js?97fae740b654fe9b080dc4f3a40845e2","newsletter":"newsletter.js?08d8ae7a1c6482d7beb3002fcfaacdc2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","ZeroClipboard":"ZeroClipboard.js?7c36a7eb020bbb97dafee4153f46c87d","spinjs":"spinjs.js?e1cc3dce984cd870d9d02be288d0dbdd","home":"home.js?a022cc3647e176df139a95305436b5c6","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","numeral":"numeral.js?a222da10e94e967e928aca44d69ce0f5","waypoints":"waypoints.js?70444276da7d7de57b7c670dc053f1f5","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Modernizr":"Modernizr.js?08cd3d9d0df1143464d1ca8ce01fed50","menuAim":"menuAim.js?2dae90e87689e70126a38328bac9a5ee","global":"global.js?32acea94e04f0857ff698086dbba7d47","dashboard_hotels":"dashboard_hotels.js?614e7f024aef5688437f667f857da860","dashboard":"dashboard.js?58449ad35e4a86ebfe91a29034a7dcc7","dq":"libs.js?f72f9becee377a41f67a0821d60cbca5","pages/dynamic/dummy":"pages/dynamic/dummy.js?db40c2c843286b433bfd906e6c74f1b3","talk":"talk.js?793f7a7423e25ccba43a4234f4e8d5b6","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","lodash":"libs.js?f72f9becee377a41f67a0821d60cbca5","surprise_me":"surprise_me.js?15d20c1a672006281855579474bac1f3","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","SwipeView":"SwipeView.js?4f04041392bfc7c535ae4f55e7b1e055","depot":"depot.js?429a4bc85cfbcc083d5278526d66123d","autosize":"autosize.js?609924fea6718a2ff0e8e32677bc132b","talks":"talks.js?7cfcd598f4b654af6f9e8e15e3d916c0","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Cookies":"Cookies.js?b331f247439cf974333a98958d35790d","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","embed":"embed.js?20b97011a03e61004d7d6e6c762667f9","settings":"settings.js?a16ac9e15c9eb86bf133c722366eb96e","touchPunch":"touchPunch.js?0374f5fc70a9e5ada6b9c6721e4ca424","moment":"moment.js?2901d956628d5071fcb01d19a2e6b9d6","dashboard_sessions":"dashboard_sessions.js?16f3e4102d4092e240177a42e696104c","crushinator":"crushinator.js?6780e5d6c8daac982c107577b713686a","hbs/handlebars":"libs.js?f72f9becee377a41f67a0821d60cbca5"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612282"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it?language=ko'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Return to talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it'>
+<option value='sq'>Albanian</option>
+<option value='my'>Burmese</option>
+<option value='zh-cn'>Chinese, Simplified</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='nl'>Dutch</option>
+<option value='en'>English</option>
+<option value='fi'>Finnish</option>
+<option value='fr'>French</option>
+<option value='el'>Greek</option>
+<option value='he'>Hebrew</option>
+<option value='hi'>Hindi</option>
+<option value='hu'>Hungarian</option>
+<option value='it'>Italian</option>
+<option value='ja'>Japanese</option>
+<option selected value='ko'>Korean</option>
+<option value='lt'>Lithuanian</option>
+<option value='mk'>Macedonian</option>
+<option value='fa'>Persian</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='ro'>Romanian</option>
+<option value='ru'>Russian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='th'>Thai</option>
+<option value='tr'>Turkish</option>
+<option value='uk'>Ukrainian</option>
+</select>
+<p>
+Translated by
+<a href="http://www.ted.com/profiles/4089254">HAST Yun Hyuk Kim</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/2591230">Jihyeon J. Kim</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it?language=ko' language='ko'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="473" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/621f9027fc1cc0c16483d6cb752bc2d9ed9b81a3_2880x1620.jpg?quality=89&amp;w=320" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">07:53</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>사무엘 코헨</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it?language=ko' lang='ko'>
+알츠하이머는 보통의 노화가 아니며 치료가 가능합니다
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Sep 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Inspiring
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='800' id='t-800'>1901년에,</span>
+<span class='talk-transcript__fragment' data-time='2640' id='t-2640'>어거스트라는 여자가 프랑크푸르트의
+정신병동에 수용되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='6960' id='t-6960'>어거스트는 망상증이 있어서</span>
+<span class='talk-transcript__fragment' data-time='8520' id='t-8520'>그녀 인생의 가장 기본적인 것도
+기억하지 못했습니다.</span>
+<span class='talk-transcript__fragment' data-time='12280' id='t-12280'>그녀에게는 알로이스라는
+의사가 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='15840' id='t-15840'>알로이스는 어떻게 어거스트를
+도울 지 몰랐습니다.</span>
+<span class='talk-transcript__fragment' data-time='18120' id='t-18120'>그렇지만 그는 어거스트를 1906년,
+그녀가 죽을 때까지 보살폈습니다.</span>
+<span class='talk-transcript__fragment' data-time='22520' id='t-22520'>그녀가 죽은 후,
+알로이스는 부검을 실시하여</span>
+<span class='talk-transcript__fragment' data-time='25280' id='t-25280'>어거스트의 뇌에서 이상한
+판과 얽힌 것들을 발견했습니다.</span>
+<span class='talk-transcript__fragment' data-time='28520' id='t-28520'>그가 처음 보는 것들이었습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:41
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='30880' id='t-30880'>그리고 더 놀라운 사실이 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='34000' id='t-34000'>만약 어거스트가 현대에 살고 있었어도</span>
+<span class='talk-transcript__fragment' data-time='37520' id='t-37520'>알로이스가 114년 전에 했던 것보다 
+더 많은 도움을 줄 수는 없을 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='44080' id='t-44080'>알로이스의 이름은
+알로이스 알츠하이머 박사이고</span>
+<span class='talk-transcript__fragment' data-time='48520' id='t-48520'>환자 어거스트 데터는</span>
+<span class='talk-transcript__fragment' data-time='50680' id='t-50680'>우리가 이제 알츠하이머 병이라고 부르는
+병을 진단받은 최초의 환자였습니다.</span>
+<span class='talk-transcript__fragment' data-time='55680' id='t-55680'>1901년 이후로, 의학은
+굉장한 발전을 보였습니다.</span>
+<span class='talk-transcript__fragment' data-time='59200' id='t-59200'>우리는 항생제와 백신을 개발하여
+감염으로부터 인류를 보호하였고,</span>
+<span class='talk-transcript__fragment' data-time='63160' id='t-63160'>암을 치료하는 많은 방법과,
+에이즈의 확산을 저지하는 약,</span>
+<span class='talk-transcript__fragment' data-time='67040' id='t-67040'>심장병을 치료하는 방법과
+더욱 많은 것들이 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='70896' id='t-70896'>그렇지만 우리는 알츠하이머 병에 있어서는
+근본적으로 아무 진전이 없습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+01:29
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='78440' id='t-78440'>저는 연구진의 일원으로</span>
+<span class='talk-transcript__fragment' data-time='80000' id='t-80000'>저희 연구진은 알츠하이머 병의 치료약을
+개발하기 위해 10년 넘게 일해왔습니다.</span>
+<span class='talk-transcript__fragment' data-time='83800' id='t-83800'>그래서 저는 항상 이 점을 생각합니다.</span>
+<span class='talk-transcript__fragment' data-time='86280' id='t-86280'>알츠하이머 병은 현재 전세계적으로
+4천만 명을 괴롭힙니다.</span>
+<span class='talk-transcript__fragment' data-time='90360' id='t-90360'>그렇지만 2050년 쯤에는
+약 1억 5천만 명에까지 확산될 겁니다.</span>
+<span class='talk-transcript__fragment' data-time='96360' id='t-96360'>이 자리에 있는
+많은 분들을 포함하겠지요.</span>
+<span class='talk-transcript__fragment' data-time='101040' id='t-101040'>만약 여러분이 85세 이상
+살기 원하시다면</span>
+<span class='talk-transcript__fragment' data-time='105160' id='t-105160'>알츠하이머 병에 걸릴 확률은
+2명중 1명 꼴이 됩니다.</span>
+<span class='talk-transcript__fragment' data-time='111600' id='t-111600'>다시 말해, 확률적으로
+여러분은 노년을</span>
+<span class='talk-transcript__fragment' data-time='114840' id='t-114840'>알츠하이머 병에 걸려 
+고생하며 살거나</span>
+<span class='talk-transcript__fragment' data-time='117080' id='t-117080'>알츠하이머 병에 걸린 친구나
+사랑하는 이들을 돌보며 살 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='122480' id='t-122480'>벌써 미국만 하더라도,</span>
+<span class='talk-transcript__fragment' data-time='124480' id='t-124480'>알츠하이머 치료에
+연간 2천억 달러가 소비됩니다.</span>
+<span class='talk-transcript__fragment' data-time='129919' id='t-129919'>메디케어 예산의 1/5은
+알츠하이머 관리에 사용됩니다.</span>
+<span class='talk-transcript__fragment' data-time='134680' id='t-134680'>오늘날 알츠하이머 병은
+가장 비싼 병입니다.</span>
+<span class='talk-transcript__fragment' data-time='137840' id='t-137840'>또한, 2050년에는 이 비용이
+다섯 배 증가할 것이라 전망됩니다.</span>
+<span class='talk-transcript__fragment' data-time='141080' id='t-141080'>베이비 붐 세대가 늙어가기 때문입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:35
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='144000' id='t-144000'>여러분에게 놀라울지도 모르지만</span>
+<span class='talk-transcript__fragment' data-time='145840' id='t-145840'>쉽게 말해 알츠하이머 병은 우리 세대의 
+가장 큰 사회적 문제, 병 중 하나입니다.</span>
+<span class='talk-transcript__fragment' data-time='152760' id='t-152760'>그렇지만 우리는 이에 관해서
+한 것이 많지 않습니다.</span>
+<span class='talk-transcript__fragment' data-time='155960' id='t-155960'>오늘날, 전세계적인 
+사망 원인 10순위 중에</span>
+<span class='talk-transcript__fragment' data-time='159880' id='t-159880'>알츠하이머 병은 유일하게 우리가 예방하거나,
+처방하고, 저지할 수 없는 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='167800' id='t-167800'>우리는 알츠하이머의 과학에 대해서
+다른 과학들에 비해 아는 것이 없습니다.</span>
+<span class='talk-transcript__fragment' data-time='171520' id='t-171520'>우리가 많은 시간과 돈을
+투자하지 못했기 때문이죠.</span>
+<span class='talk-transcript__fragment' data-time='175240' id='t-175240'>미국 정부는 연간</span>
+<span class='talk-transcript__fragment' data-time='179400' id='t-179400'>암 연구에 대해 알츠하이머 연구의
+10배 많은 돈을 투자합니다.</span>
+<span class='talk-transcript__fragment' data-time='182400' id='t-182400'>알츠하이머 병이 훨씬 경제적
+손실이 더 큰데도 말이죠.</span>
+<span class='talk-transcript__fragment' data-time='186120' id='t-186120'>심지어 사망 횟수 역시 비슷합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+03:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='191880' id='t-191880'>자원의 부족에는 더욱
+근본적인 문제가 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='195640' id='t-195640'>관심의 부족.</span>
+<span class='talk-transcript__fragment' data-time='198600' id='t-198600'>왜냐하면 다음 사실은 소수가 알지만
+모두가 알 필요가 있기 때문입니다:</span>
+<span class='talk-transcript__fragment' data-time='203360' id='t-203360'>알츠하이머는 병이고,
+우리는 치료할 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='208320' id='t-208320'>지난 114년간</span>
+<span class='talk-transcript__fragment' data-time='210880' id='t-210880'>모든 사람들, 과학자들 역시 
+알츠하이머 병을 노화와 혼동했습니다.</span>
+<span class='talk-transcript__fragment' data-time='216360' id='t-216360'>우리는 노망이 드는 것이</span>
+<span class='talk-transcript__fragment' data-time='217861' id='t-217861'>정상적이고 불가피한 
+과정이라고 생각했습니다.</span>
+<span class='talk-transcript__fragment' data-time='221000' id='t-221000'>그렇지만 우리는 단순히</span>
+<span class='talk-transcript__fragment' data-time='223040' id='t-223040'>건강하게 노화된 뇌의 사진을 보면
+알츠하이머가 병임을 알 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='226920' id='t-226920'>병으로 인한 물리적인 피해를 말이죠.</span>
+<span class='talk-transcript__fragment' data-time='230960' id='t-230960'>기억 손실과 뇌의 역량을 제한하는</span>
+<span class='talk-transcript__fragment' data-time='234840' id='t-234840'>알츠하이머 병으로 인한 뇌의 손상은</span>
+<span class='talk-transcript__fragment' data-time='237080' id='t-237080'>심지어 인간 수명까지 줄일만큼
+치명적인 것입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:13
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='242480' id='t-242480'>알츠하이머 박사는
+이상한 판과 얽힌 것들을</span>
+<span class='talk-transcript__fragment' data-time='245560' id='t-245560'>어거스트의 뇌에서
+약 한세기 전에 발견했죠.</span>
+<span class='talk-transcript__fragment' data-time='248280' id='t-248280'>약 한 세기 동안 
+이것에 대해서 잘 몰랐습니다.</span>
+<span class='talk-transcript__fragment' data-time='252240' id='t-252240'>오늘날, 우리는 그것들이
+단백질 덩어리라는 것을 알고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='255640' id='t-255640'>단백질 덩어리를</span>
+<span class='talk-transcript__fragment' data-time='257320' id='t-257320'>아름다운 모양으로 접어지는
+종이로 생각할 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='262160' id='t-262160'>이 종이에 약간 끈적끈적한
+점들이 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='264600' id='t-264600'>만약 제대로 접어졌다면
+이 끈적끈적한 부분은 안쪽으로 들어갑니다.</span>
+<span class='talk-transcript__fragment' data-time='269560' id='t-269560'>그렇지만 가끔 일이 잘못 되어서
+끈적끈적한 것이 밖으로도 나옵니다.</span>
+<span class='talk-transcript__fragment' data-time='274040' id='t-274040'>이것은 단백질 덩어리들을
+서로 달라붙게 만듭니다.</span>
+<span class='talk-transcript__fragment' data-time='277080' id='t-277080'>이것이 점차 커져 덩어리들을 만들어
+판 모양과 얽힌 모양이 됩니다.</span>
+<span class='talk-transcript__fragment' data-time='281680' id='t-281680'>우리가 알츠하이머 병 환자들에게서
+보는 것이 바로 이것입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:56
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='285240' id='t-285240'>우리는 지난 10년간
+케임브리지 대학에서</span>
+<span class='talk-transcript__fragment' data-time='288360' id='t-288360'>어떻게 이 오류가 일어나는지
+알아내려 했습니다.</span>
+<span class='talk-transcript__fragment' data-time='291800' id='t-291800'>많은 단계들이 있고, 어떤 것을 시험해볼 지
+결정하는 것은 복잡합니다 --</span>
+<span class='talk-transcript__fragment' data-time='296520' id='t-296520'>마치 폭탄을 해체하는
+작업과도 같지요.</span>
+<span class='talk-transcript__fragment' data-time='298600' id='t-298600'>한 전선을 자르는 것으로
+아무 변화가 없을 수 있지요.</span>
+<span class='talk-transcript__fragment' data-time='300720' id='t-300720'>다른 전선을 자르면
+갑자기 폭탄이 터질 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='304160' id='t-304160'>우리는 시험해 볼 
+올바른 단계를 찾아야 하고,</span>
+<span class='talk-transcript__fragment' data-time='306360' id='t-306360'>시험에 쓰일 약을 개발해야 합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='309000' id='t-309000'>얼마 전까지만 해도 저희는</span>
+<span class='talk-transcript__fragment' data-time='311080' id='t-311080'>아무런 전선을 잘라보며
+좋은 결과를 바랐습니다.</span>
+<span class='talk-transcript__fragment' data-time='313560' id='t-313560'>하지만 지금 우리는
+다양한 분야의 사람들을 모았습니다.</span>
+<span class='talk-transcript__fragment' data-time='316440' id='t-316440'>의사, 생물학자, 유전학자, 화학자,
+물리학자, 기술자와 수학자.</span>
+<span class='talk-transcript__fragment' data-time='322040' id='t-322040'>함께, 우리는 그 과정에서 중요한 단계를
+발견하는데 성공했고</span>
+<span class='talk-transcript__fragment' data-time='326280' id='t-326280'>이제는 그 단계를 시험할
+새로운 약들을 개발하고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='330520' id='t-330520'>병을 막기 위해서.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:43
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='332360' id='t-332360'>이제 저희의 최근 결과들을
+보여드리겠습니다.</span>
+<span class='talk-transcript__fragment' data-time='334880' id='t-334880'>저희 연구소 밖에서는 아무도
+아직 이것들을 보지 못했습니다.</span>
+<span class='talk-transcript__fragment' data-time='337560' id='t-337560'>영상들을 몇 개 봅시다.
+우리가 이 신약들은</span>
+<span class='talk-transcript__fragment' data-time='342560' id='t-342560'>몇몇 건강한 지렁이들에 시험했을 때</span>
+<span class='talk-transcript__fragment' data-time='344440' id='t-344440'>정상적으로 움직이는 것을 
+볼 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='347560' id='t-347560'>이 지렁이들은, 반면에,</span>
+<span class='talk-transcript__fragment' data-time='350480' id='t-350480'>단백질 덩어리들이 서로 달라붙은
+지렁이들입니다.</span>
+<span class='talk-transcript__fragment' data-time='353600' id='t-353600'>알츠하이머 병에 걸린
+환자들처럼 말이죠.</span>
+<span class='talk-transcript__fragment' data-time='355240' id='t-355240'>그들이 투병 중이라는 것을
+볼 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='357560' id='t-357560'>그렇지만 저희가 이 신약을
+초기 단계에 이 지렁이들에게 투입하면</span>
+<span class='talk-transcript__fragment' data-time='362560' id='t-362560'>그들이 건강하게, 정상적인 수명을 유지하며
+살아간다는 것을 볼 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='367200' id='t-367200'>이것은 단지 하나의 
+긍정적인 결과지만 이러한 연구는</span>
+<span class='talk-transcript__fragment' data-time='370880' id='t-370880'>알츠하이머 병은 우리가 이제 이해하고
+치료할 수 있는 병이라는 것을 보여줍니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+06:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='375640' id='t-375640'>114년의 기다림 끝에,</span>
+<span class='talk-transcript__fragment' data-time='378560' id='t-378560'>드디어 희망이 보입니다.
+10년, 20년 안에</span>
+<span class='talk-transcript__fragment' data-time='380960' id='t-380960'>이뤄질 수 있는 희망 말입니다.</span>
+<span class='talk-transcript__fragment' data-time='384040' id='t-384040'>하지만 희망을 이루고 알츠하이머 병을 
+물리치려면 도움이 필요합니다.</span>
+<span class='talk-transcript__fragment' data-time='388920' id='t-388920'>이것은 저와 같은 과학자들에
+관한 것이 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='390800' id='t-390800'>바로 여러분에 관한 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='392600' id='t-392600'>여러분이 바로 알츠하이머 병이
+병에 불과하다는 사실을 알려</span>
+<span class='talk-transcript__fragment' data-time='396200' id='t-396200'>우리가 노력한다면, 이길 수 있다는
+사실을 전달해야 합니다.</span>
+<span class='talk-transcript__fragment' data-time='398840' id='t-398840'>다른 병들의 경우에는</span>
+<span class='talk-transcript__fragment' data-time='400680' id='t-400680'>환자들과 그들의 가족은
+더 많은 연구를 위해 핵심적인 역할을 하여</span>
+<span class='talk-transcript__fragment' data-time='403840' id='t-403840'>정부와 의학 산업에 압력을 넣었습니다.</span>
+<span class='talk-transcript__fragment' data-time='406800' id='t-406800'>과학자들과 기관들에게.</span>
+<span class='talk-transcript__fragment' data-time='409040' id='t-409040'>이것은 에이즈의 치료를 1980년대 말에
+발전시키는데 기여했습니다.</span>
+<span class='talk-transcript__fragment' data-time='413920' id='t-413920'>오늘날, 우리는 같은 현상을
+암에서 발견할 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='418320' id='t-418320'>하지만 알츠하이머 병 환자들은
+대부분 자신의 생각을 표출할 수 없습니다.</span>
+<span class='talk-transcript__fragment' data-time='422680' id='t-422680'>그리고 그들의 가족들은, 숨은 피해자,
+그들의 사랑하는 이들을 매일 보살피며</span>
+<span class='talk-transcript__fragment' data-time='427440' id='t-427440'>대부분 지쳐서 변화를
+만들 수 없습니다.</span>
+<span class='talk-transcript__fragment' data-time='431320' id='t-431320'>그래서 결국에는
+여러분에 달려 있는 일입니다.</span>
+<span class='talk-transcript__fragment' data-time='435720' id='t-435720'>알츠하이머 병은, 대부분의 경우,
+유전병이 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='439080' id='t-439080'>뇌를 가진 모든 사람은
+병에 걸릴 위험에 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='442160' id='t-442160'>오늘날, 어거스트와 같은 환자들이
+4천만 명이 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='446680' id='t-446680'>그들은 자신들을 위한 변화를
+만들지 못합니다.</span>
+<span class='talk-transcript__fragment' data-time='449600' id='t-449600'>그들을 위해 목소리를 높여주세요.</span>
+<span class='talk-transcript__fragment' data-time='452080' id='t-452080'>약을 요구해주세요.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:46
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='455346' id='t-455346'>감사합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='456520' id='t-456520'>(박수)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

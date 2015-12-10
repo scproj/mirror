@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Danit Peleg: Forget shopping. Soon you'll download your new clothes</title>
+  <description>Downloadable, printable clothing may be coming to a closet near you. What started as designer Danit Peleg's fashion school project turned into a collection of 3D-printed designs that have the strength and flexibility for everyday wear. "Fashion is a very physical thing," she says. "I wonder what our world will look like when our clothes will be digital."</description>
+  <url>http://www.ted.com/talks/danit_peleg_forget_shopping_soon_you_ll_download_your_new_clothes</url>
+  <author-name>Danit Peleg</author-name>
+  <author-url>http://www.ted.com/speakers/danit_peleg</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/6bb6c4ccf4f9083cc329c42c68e1fcabfd3479d8_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/danit_peleg_forget_shopping_soon_you_ll_download_your_new_clothes.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

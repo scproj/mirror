@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>비제이 쿠말(Vijay Kumar): 비행 로봇의 미래</title>
+  <description>펜실베니아 대학의 연구실에서 비제이 쿠말과 그의 팀은 꿀벌에서 영감을 얻은 자동 비행 로봇을 만들고 있습니다. 그들의 최근의 성과는 Precision Farming (정밀 농법)으로 벌떼같은 로봇들이 과수원의 모든 식물과 열매를 파악하고 재구성하며 분석하여 농부들에게 수확량을 향상시키고 농업용수 관리를 더 잘 할 수 있도록 제공합니다.</description>
+  <url>http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots?language=ko</url>
+  <author-name>비제이 쿠말(Vijay Kumar)</author-name>
+  <author-url>http://www.ted.com/speakers/vijay_kumar</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/432d46efab715464718f98a578c6265ccf054904_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/vijay_kumar_the_future_of_flying_robots.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

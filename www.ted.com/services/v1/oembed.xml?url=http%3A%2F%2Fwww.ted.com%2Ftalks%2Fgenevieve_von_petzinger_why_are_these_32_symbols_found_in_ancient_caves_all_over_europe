@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Genevieve von Petzinger: Why are these 32 symbols found in ancient caves all over Europe?</title>
+  <description>Written language, the hallmark of human civilization, didn't just suddenly appear one day. Thousands of years before the first fully developed writing systems, our ancestors scrawled geometric signs across the walls of the caves they sheltered in. Paleoanthropologist, rock art researcher and TED Senior Fellow Genevieve von Petzinger has studied and codified these ancient markings in caves across Europe. The uniformity of her findings suggest that graphic communication, and the ability to preserve and transmit messages beyond a single moment in time, may be much older than we think.</description>
+  <url>http://www.ted.com/talks/genevieve_von_petzinger_why_are_these_32_symbols_found_in_ancient_caves_all_over_europe</url>
+  <author-name>Genevieve von Petzinger</author-name>
+  <author-url>http://www.ted.com/speakers/genevieve_von_petzinger</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/1d89333164e0b30ae91c07d79875b777149b78d9_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/genevieve_von_petzinger_why_are_these_32_symbols_found_in_ancient_caves_all_over_europe.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Christine Sun Kim: The enchanting music of sign language</title>
+  <description>Artist and TED Fellow Christine Sun Kim was born deaf, and she was taught to believe that sound wasn't a part of her life, that it was a hearing person's thing. Through her art, she discovered similarities between American Sign Language and music, and she realized that sound doesn't have to be known solely through the ears -- it can be felt, seen and experienced as an idea. In this endearing talk, she invites us to open our eyes and ears and participate in the rich treasure of visual language.</description>
+  <url>http://www.ted.com/talks/christine_sun_kim_the_enchanting_music_of_sign_language</url>
+  <author-name>Christine Sun Kim</author-name>
+  <author-url>http://www.ted.com/speakers/christine_sun_kim</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/d7e4f88be73a3d0acc4ee579c7fbe7544c436626_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/en/christine_sun_kim_the_enchanting_music_of_sign_language.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

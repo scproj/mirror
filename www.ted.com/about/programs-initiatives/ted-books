@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>About TED Books | Programs &amp; Initiatives | About | TED</title>
+<meta content="About TED Books | Programs &amp; Initiatives | About | TED" name="title" />
+<meta content="Long enough to unleash a powerful idea, but short enough to read in a single sitting, TED Books pick up where TED talks leave off." name="description" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design, TEDBooks, TED Books, Read, Book, Writing" name="keywords" />
+<meta content="http://pb-assets.tedcdn.com/system/baubles/files/000/000/380/original/tedbooks_app.jpg" name="thumbnail" />
+<meta content="http://pb-assets.tedcdn.com/system/baubles/files/000/000/380/original/tedbooks_app.jpg" property="og:image" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="About TED Books | Programs &amp; Initiatives | About | TED" property="og:title" />
+<meta content="Long enough to unleash a powerful idea, but short enough to read in a single sitting, TED Books pick up where TED talks leave off." property="og:description" />
+<meta content="http://www.ted.com/about/programs-initiatives/ted-books" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/pages-ie.css?1449612281">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/pages.css?1449612281">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?372e9c1ad21862103d589d49af44d28b","Swipe":"Swipe.js?73df4e5005408bc203e969751fc55e26","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","tedx":"tedx.js?f71e6b01e6becadca27fe635865d10df","flot":"flot.js?f327c555b811f034d94bfac8b6931307","hbs":"hbs.js?e36c0e0e09a79031f61eb328fc4c5a7b","transit":"transit.js?68aa867b464466c3dc98c60e068b7f68","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","pages":"pages.js?1fc3f19849913b97ac49d754f65aec11","deferLink":"deferLink.js?7adfdb9374698e3ee45ae2f72a9554ff","libs":"libs.js?f72f9becee377a41f67a0821d60cbca5","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","jquery":"libs.js?f72f9becee377a41f67a0821d60cbca5","swfobject":"libs.js?f72f9becee377a41f67a0821d60cbca5","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","Mailcheck":"Mailcheck.js?e8314a0c5bb92079c911a261b2afb289","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","jqueryujs":"libs.js?f72f9becee377a41f67a0821d60cbca5","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","Backbone":"libs.js?f72f9becee377a41f67a0821d60cbca5","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","swatch":"swatch.js?afe36518ad071cd727e0d83732239cf1","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","search":"search.js?c35ef36e1163fdd700e9e4597c54670c","profiles":"profiles.js?97fae740b654fe9b080dc4f3a40845e2","newsletter":"newsletter.js?08d8ae7a1c6482d7beb3002fcfaacdc2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","ZeroClipboard":"ZeroClipboard.js?7c36a7eb020bbb97dafee4153f46c87d","spinjs":"spinjs.js?e1cc3dce984cd870d9d02be288d0dbdd","home":"home.js?a022cc3647e176df139a95305436b5c6","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","numeral":"numeral.js?a222da10e94e967e928aca44d69ce0f5","waypoints":"waypoints.js?70444276da7d7de57b7c670dc053f1f5","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Modernizr":"Modernizr.js?08cd3d9d0df1143464d1ca8ce01fed50","menuAim":"menuAim.js?2dae90e87689e70126a38328bac9a5ee","global":"global.js?32acea94e04f0857ff698086dbba7d47","dashboard_hotels":"dashboard_hotels.js?614e7f024aef5688437f667f857da860","dashboard":"dashboard.js?58449ad35e4a86ebfe91a29034a7dcc7","dq":"libs.js?f72f9becee377a41f67a0821d60cbca5","pages/dynamic/dummy":"pages/dynamic/dummy.js?db40c2c843286b433bfd906e6c74f1b3","talk":"talk.js?793f7a7423e25ccba43a4234f4e8d5b6","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","lodash":"libs.js?f72f9becee377a41f67a0821d60cbca5","surprise_me":"surprise_me.js?15d20c1a672006281855579474bac1f3","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","SwipeView":"SwipeView.js?4f04041392bfc7c535ae4f55e7b1e055","depot":"depot.js?429a4bc85cfbcc083d5278526d66123d","autosize":"autosize.js?609924fea6718a2ff0e8e32677bc132b","talks":"talks.js?7cfcd598f4b654af6f9e8e15e3d916c0","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Cookies":"Cookies.js?b331f247439cf974333a98958d35790d","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","embed":"embed.js?20b97011a03e61004d7d6e6c762667f9","settings":"settings.js?a16ac9e15c9eb86bf133c722366eb96e","touchPunch":"touchPunch.js?0374f5fc70a9e5ada6b9c6721e4ca424","moment":"moment.js?2901d956628d5071fcb01d19a2e6b9d6","dashboard_sessions":"dashboard_sessions.js?16f3e4102d4092e240177a42e696104c","crushinator":"crushinator.js?6780e5d6c8daac982c107577b713686a","hbs/handlebars":"libs.js?f72f9becee377a41f67a0821d60cbca5"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="pages"
+</script>
+<script async="async" data-main="pages" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612281"></script></head>
+<body class='pages-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main pages-main' role='main'>
+<!-- PB:T: two_column_75_25_no_nav -->
+<div class='container'>
+<div class='m1 module'>
+<nav class='breadcrumb m4 show-lg'>About&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;<a class="breadcrumb__link" href="/about/programs-initiatives" rel=" up">Programs &amp; Initiatives</a>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;</nav>
+
+<h1 class='h1 h1--alt m2'>
+About TED Books
+</h1>
+<!-- PB:B: copy --><div class='p2'>
+<p>Long enough to explore a powerful idea, but short enough to read in a single sitting, TED Books pick up where TED talks leave off. An 18-minute speech can plant a seed or spark the imagination; but many talks create a need to go deeper, to learn more, to tell a longer story. TED Books fills this need.</p>
+
+</div>
+
+
+</div>
+
+<div class='row'>
+<div class='col col-lg-sidebarred'>
+<!-- PB:B: copy --><div class='copy text-left'>
+<p>In September 2014, we published our first TED Book in print. Since then, we have been proud to release many exciting and innovative titles to the hardcover collection, with many more to come. The wide-ranging series covers everything from architecture to business, space travel to love, and is perfect for anyone with an expansive love of learning. </p>
+
+<p><strong><a href="/read/ted-books">Explore the TED Book collection</a></strong></p>
+
+</div>
+
+
+
+<!-- PB:B: horizontal_rule --><hr class='pages-hr'>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--ted-books-authors">TED Books authors
+</h3>
+
+<!-- PB:B: copy --><div class='media'>
+<div class='media__image' style='max-width: 30%'>
+<figure class='Figure'>
+<a href="/speakers/zak_ebrahim" target="_self"><img alt='TED Book author: Zak Ebrahim' class='Figure__image' src='//pb-assets.tedcdn.com/system/baubles/files/000/002/672/original/tedbooks_ebrahim_headshot_160x160.jpg?1436888841'>
+</a></figure>
+</div>
+<div class='media__message'>
+<div class='copy text-left'>
+<p><strong><a href="/speakers/zak_ebrahim">Zak Ebrahim</a></strong> was born in Pittsburgh, Pennsylvania, on March 24, 1983, the son of an Egyptian industrial engineer and an American school teacher. When Ebrahim was seven, his father shot and killed the founder of the Jewish Defense League, Rabbi Meir Kahane. From behind bars his father, El-Sayyid Nosair, co-masterminded the 1993 bombing of the World Trade Center. Ebrahim spent the rest of his childhood moving from city to city, hiding his identity from those who knew of his father. He now dedicates his life to speaking out against terrorism and spreading his message of peace and nonviolence. </p>
+
+<p><strong>TED Book: <em><a href="/read/ted-books/ted-books-library/the-terrorist-s-son">The Terrorist's Son</a></em></strong></p>
+
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: markdown --><div class='copy text-left'>
+<hr>
+
+</div>
+
+
+
+
+<!-- PB:B: copy --><div class='media'>
+<div class='media__image' style='max-width: 30%'>
+<figure class='Figure'>
+<a href="/speakers?hannah_fry" target="_self"><img alt='TED Book author: Hannah Fry' class='Figure__image' src='//pb-assets.tedcdn.com/system/baubles/files/000/002/674/original/tedbooks_fry_headshots_160x160.jpg?1436888860'>
+</a></figure>
+</div>
+<div class='media__message'>
+<div class='copy text-left'>
+<p><strong><a href="/speakers/hannah_fry">Dr. Hannah Fry</a></strong> is a mathematician at the UCL Centre for Advanced Spatial Analysis. In her day job she uses mathematical models to study patterns in human behaviour, from riots and terrorism to trade and shopping. <br>
+Alongside her academic position, she is currently a UCL public engagement fellow, taking the joy of maths into theatres, pubs and schools. She also co-presents the BBC Worldwide YouTube channel and regularly appears on TV and radio in the UK.</p>
+
+<p>Hannah lives in London with her husband Phil, who – luckily - came along at exactly 38 per cent. She has several leftover Python codes from her wedding planning, which can be distributed upon request.</p>
+
+<p><strong>TED Book: <em><a href="/read/ted-books/ted-books-library/the-mathematics-of-love">The Mathematics of Love</a></em></strong></p>
+
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: markdown --><div class='copy text-left'>
+<hr>
+
+</div>
+
+
+
+
+<!-- PB:B: copy --><div class='media'>
+<div class='media__image' style='max-width: 30%'>
+<figure class='Figure'>
+<a href="/speakers/margaret_heffernan" target="_self"><img alt='TED Book author: Margaret Heffernan' class='Figure__image' src='//pb-assets.tedcdn.com/system/baubles/files/000/002/676/original/tedbooks_heffernan_headshots_160x160.jpg?1436888881'>
+</a></figure>
+</div>
+<div class='media__message'>
+<div class='copy text-left'>
+<p><strong><a href="/speakers/margaret_heffernan">Margaret Heffernan</a></strong> is an entrepreneur, chief executive, and author. She was born in Texas, raised in Holland, and educated at Cambridge University. She worked for the BBC producing television and radio programs and also developed interactive multimedia products with Peter Lynch, Tom Peters, Standard &amp; Poors, and The Learning Company. She has served as Chief Executive Officer for InfoMation Corporation, ZineZone Corporation, and iCAST Corporation. Her book, <em>Willful Blindness</em>, was named one of the best business books of the decade by the <em>Financial Times</em>, and her most recent book, A Bigger Prize won the Transmission Prize in 2015. She blogs for the <em>Huffington Post</em> and Inc.com. </p>
+
+<p><strong>TED Book: <em><a href="/read/ted-books/ted-books-library/beyond-measure">Beyond Measure</a></em></strong></p>
+
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: markdown --><div class='copy text-left'>
+<hr>
+
+</div>
+
+
+
+
+<!-- PB:B: copy --><div class='media'>
+<div class='media__image' style='max-width: 30%'>
+<figure class='Figure'>
+<a href="/speakers/pico_iyer" target="_self"><img alt='TED Book author: Pico Iyer' class='Figure__image' src='//pb-assets.tedcdn.com/system/baubles/files/000/002/673/original/tedbooks_iyer_headshots_160x160.jpg?1436888845'>
+</a></figure>
+</div>
+<div class='media__message'>
+<div class='copy text-left'>
+<p><strong><a href="/speakers/pico_iyer">Pico Iyer</a></strong>, a British born essayist and novelist, has an entirely singular sensibility. His various books are linked by his interest in cultural crossroads and the values that transcend boundaries. He has established himself as major presence in culture life of Japan, where he is based, and in the United States, (where he lives during part of the year) Britain (where he was educated), and India where his family traces its roots. An Oxford graduate, he taught at Harvard and is one of few writers whose work, like his interests, transcend cultures. </p>
+
+<p><strong>TED Book: <em><a href="/read/ted-books/ted-books-library/the-art-of-stillness">The Art of Stillness</a></em></strong></p>
+
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: markdown --><div class='copy text-left'>
+<hr>
+
+</div>
+
+
+
+
+<!-- PB:B: copy --><div class='media'>
+<div class='media__image' style='max-width: 30%'>
+<figure class='Figure'>
+<a href="/speakers/chip_kidd" target="_self"><img alt='TED Book author: Chip Kidd' class='Figure__image' src='//pb-assets.tedcdn.com/system/baubles/files/000/002/675/original/tedbooks_kidd_headshot_160x160.jpg?1436888874'>
+</a></figure>
+</div>
+<div class='media__message'>
+<div class='copy text-left'>
+<p><strong><a href="/speakers/chip_kidd">Chip Kidd</a></strong> is a designer and writer living in New York City. His book cover designs for Alfred A. Knopf, where he has worked nonstop since 1986, have helped create a revolution in the art of American book packaging. He is the recipient of the National Design Award for Communication Design, as well as the Use of Photography in Design Award from the International Center of Photography. Kidd has published two novels, <em>The Cheese Monkeys</em> and <em>The Learners</em>. A distinguished and prolific lecturer, Kidd has spoken at Princeton, Yale, Harvard, RISD, and a zillion other places. </p>
+
+<p><strong>TED Book: <a href="/read/ted-books/ted-books-library/judge-this"><em>Judge This</em></a></strong></p>
+
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: markdown --><div class='copy text-left'>
+<hr>
+
+</div>
+
+
+
+
+<!-- PB:B: copy --><div class='media'>
+<div class='media__image' style='max-width: 30%'>
+<figure class='Figure'>
+<a href="/speakers/rob_knight" target="_self"><img alt='TED Book author: Rob Knight' class='Figure__image' src='//pb-assets.tedcdn.com/system/baubles/files/000/002/677/original/tedbooks_knight_headshot_160x160.jpg?1436888894'>
+</a></figure>
+</div>
+<div class='media__message'>
+<div class='copy text-left'>
+<p><a href="/speakers/rob_knight"><strong>Rob Knight</strong></a> is a Professor of Pediatrics and Computer Science &amp; Engineering and Director of the Microbiome Initiative at the University of California, San Diego. He is co-founder of the American Gut Project and the Earth Microbiome Project. </p>
+
+<p><strong>TED Book: <em><a href="/read/ted-books/ted-books-library/follow-your-gut">Follow Your Gut</a></em></strong></p>
+
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: markdown --><div class='copy text-left'>
+<hr>
+
+</div>
+
+
+
+
+<!-- PB:B: copy --><div class='media'>
+<div class='media__image' style='max-width: 30%'>
+<figure class='Figure'>
+<a href="/speakers/marc_kushner" target="_self"><img alt='TED Book author: Marc Kushner' class='Figure__image' src='//pb-assets.tedcdn.com/system/baubles/files/000/002/679/original/tedbooks_kushner_headshots_160x160.jpg?1436888962'>
+</a></figure>
+</div>
+<div class='media__message'>
+<div class='copy text-left'>
+<p><strong><a href="/speakers/marc_kushner">Marc Kushner</a></strong> is a practicing architect who splits his time between designing buildings at HWKN, the architecture firm he co-founded, and amassing the world's architecture on the website he runs, Architizer.com. Both have the same mission: to reconnect the public with architecture. </p>
+
+<p>Kushner's core belief is that architecture touches everyone - and everyone is a fan of architecture - even if they don't know it yet. New forms of media empower people to shape the built environment, and that means better buildings that make better cities that make a better world.</p>
+
+<p><strong>TED Book: <em><a href="/read/ted-books/ted-books-library/the-future-of-architecture">The Future of Architecture in 100 Buildings</a></em></strong></p>
+
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: markdown --><div class='copy text-left'>
+<hr>
+
+</div>
+
+
+
+
+<!-- PB:B: copy --><div class='media'>
+<div class='media__image' style='max-width: 30%'>
+<figure class='Figure'>
+<img alt='TED Book author: Sidhartha Mujherkee' class='Figure__image' src='//pb-assets.tedcdn.com/system/baubles/files/000/002/963/original/tedbooks_mujherkee_headshots_160x160.jpg?1440015399'>
+</figure>
+</div>
+<div class='media__message'>
+<div class='copy text-left'>
+<p><strong>Siddhartha Mukherjee</strong> is a cancer physician and researcher. He is the author of <em>The Emperor of All Maladies: A Biography of Cancer</em>, winner of the 2011 Pulitzer Prize in general nonfiction. Mukherjee is an assistant professor of medicine at Columbia University and a staff cancer physician at Columbia University Medical Center. A Rhodes scholar, he graduated from Stanford University, University of Oxford, and Harvard Medical School. He has published articles in Nature, <em>The New England Journal of Medicine</em>, <em>Cell</em>, and <em>The New York Times</em>. He lives in New York with his wife and daughters. </p>
+
+<p><strong>TED Book: <em><a href="/read/ted-books/ted-books-library/the-laws-of-medicine">The Laws of Medicine</a></em></strong></p>
+
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: markdown --><div class='copy text-left'>
+<hr>
+
+</div>
+
+
+
+
+<!-- PB:B: copy --><div class='media'>
+<div class='media__image' style='max-width: 30%'>
+<figure class='Figure'>
+<a href="/speakers/stephen_petranek" target="_self"><img alt='TED Book author: Stephen Petranek' class='Figure__image' src='//pb-assets.tedcdn.com/system/baubles/files/000/002/678/original/tedbooks_petranek_headshots_160x160.jpg?1436888902'>
+</a></figure>
+</div>
+<div class='media__message'>
+<div class='copy text-left'>
+<p><strong><a href="/speakers/stephen_petranek">Stephen Petranek</a></strong> forty-year career in the publishing world is marked by numerous prizes and awards for his writings on science, nature, technology, politics, economics, and more. He has been editor in chief of the world’s largest science magazine, <em>Discover</em>, editor of the <em>Washington Post’s</em> magazine, founding editor and editor in chief of <em>This Old House</em> magazine for Time Inc., senior editor for science at <em>LIFE</em> magazine, and group editor in chief of Weider History Group’s ten history magazines. His first TED Talk, "10 Ways the World Could End", has been watched more than one million times. He is now the editor of <em>Breakthrough Technology Alert</em>, for which he finds the investment opportunities that aim to create true value and move the human race forward. </p>
+
+<p><strong>TED Book: <em><a href="/read/ted-books/ted-books-library/how-we-ll-live-on-mars">How We'll Live on Mars</a></em></strong></p>
+
+</div>
+</div>
+</div>
+
+
+
+<!-- PB:B: markdown --><div class='copy text-left'>
+<hr>
+
+</div>
+
+
+
+
+<!-- PB:B: copy --><div class='media'>
+<div class='media__image' style='max-width: 30%'>
+<figure class='Figure'>
+<a href="/speakers/barry_schwartz" target="_self"><img alt='TED Book author: Barry Schwarts' class='Figure__image' src='//pb-assets.tedcdn.com/system/baubles/files/000/002/694/original/tedbooks_schwartz_headshot_160x160.jpg?1437074478'>
+</a></figure>
+</div>
+<div class='media__message'>
+<div class='copy text-left'>
+<p><strong><a href="/speakers/barry_schwartz">Barry Schwartz</a></strong> is a professor of psychology at Swarthmore College and the author of <em>Why We Work</em>, <em>The Paradox of Choice</em>, and <em>Practical Wisdom</em>. His articles have been published in <em>The New York Times</em>, <em>The New York Times Magazine</em>, <em>the Chronicle of Higher Education</em>, <em>Parade Magazine</em>, <em>USA TODAY</em>, <em>Advertising Age</em>, <em>Slate</em>, <em>Scientific American</em>, <em>The New Republic</em>, <em>Harvard Business Review</em>, and <em>The Guardian</em>, and he has appeared on dozens of TV and radio shows, including Morning Edition, Talk of the Nation, Anderson Cooper 360, the Lehrer News Hour, the Colbert Report, and CBS Sunday Morning. </p>
+
+<p><strong>TED Book: <em><a href="/read/ted-books/ted-books-library/why-we-work">Why We Work</a></em></strong></p>
+
+</div>
+</div>
+</div>
+
+
+</div>
+<div class='col col-lg-sidebar'>
+<!-- PB:B: link --><a class='media pages-featured-link' href='/read/ted-books'>
+<i class="icon icon_circle-right media__image pages-featured-link__icon"></i>
+<div class='media__message module'>
+<h4 class='h7'>Read TED Books</h4>
+<p>Explore our newest titles and learn how to get TED Books. </p>
+</div>
+</a>
+
+</div>
+</div>
+</div></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

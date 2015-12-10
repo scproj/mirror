@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>사케나 야코비: 나는 어떻게 학교를 폐쇄하려는 탈레반을 막았는가</title>
+  <description>아프가니스탄에서 모든 여학교를 탈레반이 폐쇄했을 때 사케나 야코비는 새로운 학교를 비밀리에 열고 수 천명의 남녀를 교육시켰습니다. 이 대담하고 재미있는 강연에서 그녀는 가르치지 못하도록 위협받았던 두 번의 놀라운 이야기를 들려주고 그녀의 사랑하는 조국을 재건할 꿈을 함께 나눕니다.</description>
+  <url>http://www.ted.com/talks/sakena_yacoobi_how_i_stopped_the_taliban_from_shutting_down_my_school?language=ko</url>
+  <author-name>사케나 야코비</author-name>
+  <author-url>http://www.ted.com/speakers/sakena_yacoobi</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/8a37cc1bbfb1ec3a7d15f79613613503e6589103_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/sakena_yacoobi_how_i_stopped_the_taliban_from_shutting_down_my_school.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

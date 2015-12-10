@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Jennifer Doudna: We can now edit our DNA. But let's do it wisely</title>
+  <description>Geneticist Jennifer Doudna co-invented a groundbreaking new technology for editing genes, called CRISPR-Cas9. The tool allows scientists to make precise edits to DNA strands, which could lead to treatments for genetic diseases … but could also be used to create so-called "designer babies." Doudna reviews how CRISPR-Cas9 works -- and asks the scientific community to pause and discuss the ethics of this new tool.</description>
+  <url>http://www.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely</url>
+  <author-name>Jennifer Doudna</author-name>
+  <author-url>http://www.ted.com/speakers/jennifer_doudna</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/8de5eecc12045be10b86fa354c5ed53a67259544_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/jennifer_doudna_we_can_now_edit_our_dna_but_let_s_do_it_wisely.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

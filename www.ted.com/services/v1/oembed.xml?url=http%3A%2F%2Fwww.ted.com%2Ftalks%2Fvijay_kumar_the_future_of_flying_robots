@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Vijay Kumar: The future of flying robots</title>
+  <description>At his lab at the University of Pennsylvania, Vijay Kumar and his team have created autonomous aerial robots inspired by honeybees. Their latest breakthrough: Precision Farming, in which swarms of robots map, reconstruct and analyze every plant and piece of fruit in an orchard, providing vital information to farmers that can help improve yields and make water management smarter.</description>
+  <url>http://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots</url>
+  <author-name>Vijay Kumar</author-name>
+  <author-url>http://www.ted.com/speakers/vijay_kumar</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/432d46efab715464718f98a578c6265ccf054904_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/vijay_kumar_the_future_of_flying_robots.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

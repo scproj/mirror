@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html lang='en'><!--<![endif]-->
+<head>
+<meta charset='utf-8'>
+<title>TED: Ideas worth spreading</title>
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="#000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" /><meta content="authenticity_token" name="csrf-param" />
+<meta content="K/1F81+pHWc2CQ9xIzljvDfhCtXXBhJkKy6SBsCpwP4=" name="csrf-token" /><!--[if lte IE 8]>
+<link href="https://tedcdnpk-a.akamaihd.net/assets/global-ie-495c87f38506a0237921009d314d1a32.css" media="screen" rel="stylesheet" />
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link href="https://tedcdnpk-a.akamaihd.net/assets/global-a3d75f9b75303844ab0827b782589f9d.css" media="screen" rel="stylesheet" />
+<!--<![endif]--><script>
+  _q=[];q=function(){_q.push(arguments)};
+  
+  _scripts = ["https://tedcdnpk-a.akamaihd.net/assets/jquery-c723367fbc5c1f3c2075f1a615cc32c3.js","https://tedcdnpk-a.akamaihd.net/assets/global-ef955b2641c789920023ff10ebb7ed45.js"]
+</script>
+<script async="async" src="https://tedcdnpk-a.akamaihd.net/assets/core-9b8970649bc133eec66960cb5e1b2818.js"></script></head>
+<body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+  ga('create', 'UA-40781755-2', 'ted.com');
+  ga('send', 'pageview');
+</script><header class='banner'>
+<a class='g-logo-small' href='http://www.ted.com'>
+TED
+</a>
+</header><div class='main' role='main'><div class='row'>
+<div class='intro'>
+<h1 class='h1'>Log in.</h1>
+<p>
+Don't have a TED account?
+<a href="/users/new">Sign up.</a>
+</p>
+</div>
+<div class='socialized-form'>
+<div class='socialized-form__zone socialized-form__zone--standard'>
+<form accept-charset="UTF-8" action="https://auth.ted.com/session" class="ga-form" data-ga-label="login form" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="K/1F81+pHWc2CQ9xIzljvDfhCtXXBhJkKy6SBsCpwP4=" /></div><div class='fields'>
+<div class='field true'>
+<label class="field__label" for="user_email">Email</label>
+<input autocapitalize="off" autocorrect="off" autofocus="autofocus" class="field__content ga-field" data-ga-label="login email" id="user_email" name="user[email]" type="email" value="" />
+
+</div>
+<div class='field field--last true'>
+<label class="field__label" for="user_password">Password</label>
+<input class="field__content ga-field" data-ga-label="login password" id="user_password" name="user[password]" type="password" />
+
+</div>
+</div>
+<div class='fields'>
+<div class='field field--checkbox field--last'>
+<label class="field__label" for="user_remember_me">Remember me</label>
+<input name="user[remember_me]" type="hidden" value="0" /><input checked="checked" id="user_remember_me" name="user[remember_me]" type="checkbox" value="1" />
+</div>
+</div>
+
+<div class='buttons buttons--left'>
+<input class="button" name="commit" type="submit" value="Log in" />
+<a class="button-companion" href="/account/password/new">Need help logging in?</a>
+</div>
+</form>
+
+</div>
+<div class='socialized-form__zone socialized-form__zone--social socialized-form__zone--ruled'>
+<div class='buttons'>
+<a class='button button--labeled button--facebook ga-link' data-ga-action='connect' data-ga-category='auth.social' data-ga-label='facebook' href='/account/auth/facebook'>
+<i class='button__icon g-facebook'></i>
+<span class='button__label'>
+Log in with
+Facebook
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body></html>

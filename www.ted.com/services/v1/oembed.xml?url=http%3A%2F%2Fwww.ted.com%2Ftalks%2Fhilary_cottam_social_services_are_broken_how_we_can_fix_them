@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Hilary Cottam: Social services are broken. How we can fix them</title>
+  <description>When a family falls into crisis -- and it sometimes happens, thanks to unemployment, drugs, bad relationships and bad luck -- the social services system is supposed to step in and help them get back on track. As Hilary Cottam shows, in the UK a typical family in crisis can be eligible for services from more than 70 different agencies, but it's unlikely that any one of them can really make a difference. Cottam, a social entrepreneur herself, asks us to think about the ways we solve deep and complex social problems. How can we build supportive, enthusiastic relationships between those in need and those that provide help?</description>
+  <url>http://www.ted.com/talks/hilary_cottam_social_services_are_broken_how_we_can_fix_them</url>
+  <author-name>Hilary Cottam</author-name>
+  <author-url>http://www.ted.com/speakers/hilary_cottam</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/30e3c5f4df291fb83a62aa86c845836f5b770761_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/hilary_cottam_social_services_are_broken_how_we_can_fix_them.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

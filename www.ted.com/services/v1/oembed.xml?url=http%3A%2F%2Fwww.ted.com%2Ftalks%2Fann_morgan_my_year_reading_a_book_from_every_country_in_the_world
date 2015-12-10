@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Ann Morgan: My year reading a book from every country in the world</title>
+  <description>Ann Morgan considered herself well read -- until she discovered the "massive blindspot" on her bookshelf. Amid a multitude of English and American authors, there were very few books from beyond the English-speaking world. So she set an ambitious goal: to read one book from every country in the world over the course of a year. Now she's urging other Anglophiles to read translated works so that publishers will work harder to bring foreign literary gems back to their shores. Explore interactive maps of her reading journey here: go.ted.com/readtheworld</description>
+  <url>http://www.ted.com/talks/ann_morgan_my_year_reading_a_book_from_every_country_in_the_world</url>
+  <author-name>Ann Morgan</author-name>
+  <author-url>http://www.ted.com/speakers/ann_morgan</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/fc554920ae025e169b62b0fbe8ff1cb8af047597_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/ann_morgan_my_year_reading_a_book_from_every_country_in_the_world.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

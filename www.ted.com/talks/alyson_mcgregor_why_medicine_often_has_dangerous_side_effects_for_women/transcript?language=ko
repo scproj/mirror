@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>앨리슨 맥그레거 (Alyson McGregor): 왜 약은 종종 여성에게 위험한 부작용이 있는가. | TED Talk Subtitles and Transcript | TED.com</title>
+<meta content="앨리슨 맥그레거 (Alyson McGregor): 왜 약은 종종 여성에게 위험한 부작용이 있는가. | TED Talk Subtitles and Transcript | TED.com" name="title" />
+<meta content="TED Talk Subtitles and Transcript: 지난 100년 간 승인되어 시장에 출시된 약품들은 남성 환자에게만 실험되어, 여성들에게는 복용량이 잘못 측정되거나 치명적인 부작용을 낳게 되었습니다. 남성과 여성 사이의 중요한 생리적 차이점은 최근에 와서야 의학분야에서 고려대상이 되었습니다. 응급의학과 의사인 앨리슨 맥그레거는 이 차이를 연구합니다. 이 매력적인 강연에서 앨리슨은 남성 표본이 의학 연구의 토대가 되게 만든 역사와 남성과 여성의 차이를 이해하는 것이 두 성별 모두를 위해 더 효과적인 치료법을 제공할 수 있다는 것에 대해 논의합니다." name="description" />
+<meta content="앨리슨 맥그레거 (Alyson McGregor)" name="author" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript" rel="canonical" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript" hreflang="x-default" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=bg" hreflang="bg" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=zh-tw" hreflang="zh-tw" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=hr" hreflang="hr" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=en" hreflang="en" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=he" hreflang="he" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=hi" hreflang="hi" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=ja" hreflang="ja" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=ko" hreflang="ko" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=mr" hreflang="mr" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=fa" hreflang="fa" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=pt" hreflang="pt" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=pt-br" hreflang="pt-br" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=sr" hreflang="sr" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=es" hreflang="es" rel="alternate" />
+<link href="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript?language=tr" hreflang="tr" rel="alternate" />
+<meta content="Transcript of &quot;왜 약은 종종 여성에게 위험한 부작용이 있는가.&quot;" property="og:title" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/1b1a683e5ebe9dcb2fdde87144516ce3aa0e025d_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image" />
+<meta content="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/1b1a683e5ebe9dcb2fdde87144516ce3aa0e025d_2880x1620.jpg?c=1050%2C550&amp;w=1050" property="og:image:secure_url" />
+<meta content="1050" property="og:image:width" />
+<meta content="550" property="og:image:height" />
+<meta content="article" property="og:type" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TED Talk Subtitles and Transcript: 지난 100년 간 승인되어 시장에 출시된 약품들은 남성 환자에게만 실험되어, 여성들에게는 복용량이 잘못 측정되거나 치명적인 부작용을 낳게 되었습니다. 남성과 여성 사이의 중요한 생리적 차이점은 최근에 와서야 의학분야에서 고려대상이 되었습니다. 응급의학과 의사인 앨리슨 맥그레거는 이 차이를 연구합니다. 이 매력적인 강연에서 앨리슨은 남성 표본이 의학 연구의 토대가 되게 만든 역사와 남성과 여성의 차이를 이해하는 것이 두 성별 모두를 위해 더 효과적인 치료법을 제공할 수 있다는 것에 대해 논의합니다." property="og:description" />
+<meta content="http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women/transcript" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk-ie.css?1449612282">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612282">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/talk.css?1449612282">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"playlists":"playlists.js?372e9c1ad21862103d589d49af44d28b","Swipe":"Swipe.js?73df4e5005408bc203e969751fc55e26","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","tedx":"tedx.js?f71e6b01e6becadca27fe635865d10df","flot":"flot.js?f327c555b811f034d94bfac8b6931307","hbs":"hbs.js?e36c0e0e09a79031f61eb328fc4c5a7b","transit":"transit.js?68aa867b464466c3dc98c60e068b7f68","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","pages":"pages.js?1fc3f19849913b97ac49d754f65aec11","deferLink":"deferLink.js?7adfdb9374698e3ee45ae2f72a9554ff","libs":"libs.js?f72f9becee377a41f67a0821d60cbca5","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","jquery":"libs.js?f72f9becee377a41f67a0821d60cbca5","swfobject":"libs.js?f72f9becee377a41f67a0821d60cbca5","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","Mailcheck":"Mailcheck.js?e8314a0c5bb92079c911a261b2afb289","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","jqueryujs":"libs.js?f72f9becee377a41f67a0821d60cbca5","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","Backbone":"libs.js?f72f9becee377a41f67a0821d60cbca5","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","swatch":"swatch.js?afe36518ad071cd727e0d83732239cf1","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","search":"search.js?c35ef36e1163fdd700e9e4597c54670c","profiles":"profiles.js?97fae740b654fe9b080dc4f3a40845e2","newsletter":"newsletter.js?08d8ae7a1c6482d7beb3002fcfaacdc2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","ZeroClipboard":"ZeroClipboard.js?7c36a7eb020bbb97dafee4153f46c87d","spinjs":"spinjs.js?e1cc3dce984cd870d9d02be288d0dbdd","home":"home.js?a022cc3647e176df139a95305436b5c6","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","numeral":"numeral.js?a222da10e94e967e928aca44d69ce0f5","waypoints":"waypoints.js?70444276da7d7de57b7c670dc053f1f5","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Modernizr":"Modernizr.js?08cd3d9d0df1143464d1ca8ce01fed50","menuAim":"menuAim.js?2dae90e87689e70126a38328bac9a5ee","global":"global.js?32acea94e04f0857ff698086dbba7d47","dashboard_hotels":"dashboard_hotels.js?614e7f024aef5688437f667f857da860","dashboard":"dashboard.js?58449ad35e4a86ebfe91a29034a7dcc7","dq":"libs.js?f72f9becee377a41f67a0821d60cbca5","pages/dynamic/dummy":"pages/dynamic/dummy.js?db40c2c843286b433bfd906e6c74f1b3","talk":"talk.js?793f7a7423e25ccba43a4234f4e8d5b6","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","lodash":"libs.js?f72f9becee377a41f67a0821d60cbca5","surprise_me":"surprise_me.js?15d20c1a672006281855579474bac1f3","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","SwipeView":"SwipeView.js?4f04041392bfc7c535ae4f55e7b1e055","depot":"depot.js?429a4bc85cfbcc083d5278526d66123d","autosize":"autosize.js?609924fea6718a2ff0e8e32677bc132b","talks":"talks.js?7cfcd598f4b654af6f9e8e15e3d916c0","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Cookies":"Cookies.js?b331f247439cf974333a98958d35790d","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","embed":"embed.js?20b97011a03e61004d7d6e6c762667f9","settings":"settings.js?a16ac9e15c9eb86bf133c722366eb96e","touchPunch":"touchPunch.js?0374f5fc70a9e5ada6b9c6721e4ca424","moment":"moment.js?2901d956628d5071fcb01d19a2e6b9d6","dashboard_sessions":"dashboard_sessions.js?16f3e4102d4092e240177a42e696104c","crushinator":"crushinator.js?6780e5d6c8daac982c107577b713686a","hbs/handlebars":"libs.js?f72f9becee377a41f67a0821d60cbca5"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="talks"
+</script>
+<script async="async" data-main="talk" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612282"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main talks-main' role='main'>
+<div class='talk-transcript talk-article'>
+<div class='container'>
+<div class='talk-article__container'>
+<div class='talk-article__return'>
+<a class='talk-article__return__link' href='/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women?language=ko'>
+<i class="icon icon_arrow-alt-left return-arrow" title="Return to the talk"></i><span class="screen-reader-text">Return to the talk</span>
+<span class='talk-article__return__link__text'>Return to talk</span>
+</a>
+</div>
+<div class='row'>
+<div class='col-lg-3'>
+<div class='talk-article__header module'>
+<h1 class='h3 m2'>Subtitles and Transcript</h1>
+<div class='m5'>Select language</div>
+<select class='form-control form-control--dropdown talk-transcript__language m3' data-slug='alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women'>
+<option value='bg'>Bulgarian</option>
+<option value='zh-tw'>Chinese, Traditional</option>
+<option value='hr'>Croatian</option>
+<option value='en'>English</option>
+<option value='he'>Hebrew</option>
+<option value='hi'>Hindi</option>
+<option value='ja'>Japanese</option>
+<option selected value='ko'>Korean</option>
+<option value='mr'>Marathi</option>
+<option value='fa'>Persian</option>
+<option value='pt'>Portuguese</option>
+<option value='pt-br'>Portuguese, Brazilian</option>
+<option value='sr'>Serbian</option>
+<option value='es'>Spanish</option>
+<option value='tr'>Turkish</option>
+</select>
+<p>
+Translated by
+<a href="http://www.ted.com/profiles/5079421">Ju Hye Lim</a>
+<br>
+Reviewed by
+<a href="http://www.ted.com/profiles/1636047">Gemma EJ Lee</a>
+</p>
+<div class='talk-link'>
+<div class='media media--sm-v'>
+<div class='media__image media__image--thumb talk-link__image'>
+<a class='' href='http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women?language=ko' language='ko'>
+<span class="thumb thumb--video thumb--crop-top"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" crop="top" play="929" src="https://tedcdnpi-a.akamaihd.net/r/tedcdnpe-a.akamaihd.net/images/ted/1b1a683e5ebe9dcb2fdde87144516ce3aa0e025d_2880x1620.jpg?quality=89&amp;w=320" /><span class="thumb__aligner"></span></span></span><span class="thumb__duration">15:29</span></span>
+</a>
+</div>
+<div class='media__message'>
+<h4 class='h12 talk-link__speaker'>앨리슨 맥그레거 (Alyson McGregor)</h4>
+<h4 class='h9 m5'>
+<a class='' href='http://www.ted.com/talks/alyson_mcgregor_why_medicine_often_has_dangerous_side_effects_for_women?language=ko' lang='ko'>
+왜 약은 종종 여성에게 위험한 부작용이 있는가.
+</a>
+</h4>
+<div class='meta'>
+<span class='meta__item'>
+Posted
+<span class='meta__val'>
+Oct 2015
+</span>
+</span>
+<span class='meta__row'>
+Rated
+<span class='meta__val'>
+Informative, Persuasive
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class='col-lg-7 col-lg-offset-1'>
+<div class='talk-article__body talk-transcript__body'>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='816' id='t-816'>우리는 모두 병원에 갑니다.</span>
+<span class='talk-transcript__fragment' data-time='4944' id='t-4944'>의사들이 받으라고 하는 테스트와</span>
+<span class='talk-transcript__fragment' data-time='9306' id='t-9306'>처방하는 약이
+우리를 도와준다는 증거에</span>
+<span class='talk-transcript__fragment' data-time='13188' id='t-13188'>기반한 것이라는</span>
+<span class='talk-transcript__fragment' data-time='16387' id='t-16387'>신뢰와 맹목적인 믿음을 가지고요.</span>
+<span class='talk-transcript__fragment' data-time='20338' id='t-20338'>하지만 현실은 모두에게
+언제나 해당되는 게 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='27086' id='t-27086'>만약 지난 100년 동안</span>
+<span class='talk-transcript__fragment' data-time='28405' id='t-28405'>의학 분야에서 나온 발견들이</span>
+<span class='talk-transcript__fragment' data-time='32375' id='t-32375'>인구의 절반에만 기반한 것이라면
+어떨까요?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+00:47
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='36066' id='t-36066'>저는 응급의학과 의사입니다.</span>
+<span class='talk-transcript__fragment' data-time='38749' id='t-38749'>응급 의료 상황에 준비되어 있도록
+훈련받았죠.</span>
+<span class='talk-transcript__fragment' data-time='42940' id='t-42940'>생명을 살리는 일입니다.
+얼마나 멋진가요?</span>
+<span class='talk-transcript__fragment' data-time='48492' id='t-48492'>콧물감기도 많고
+부딪힌 발가락도 많지만</span>
+<span class='talk-transcript__fragment' data-time='51676' id='t-51676'>누가 응급실로 들어오든</span>
+<span class='talk-transcript__fragment' data-time='55365' id='t-55365'>우리는 똑같은 테스트를 진행하고</span>
+<span class='talk-transcript__fragment' data-time='57841' id='t-57841'>똑같은 약을 처방합니다.</span>
+<span class='talk-transcript__fragment' data-time='59999' id='t-59999'>환자의 성별은 전혀 고려하지 않습니다.</span>
+<span class='talk-transcript__fragment' data-time='65370' id='t-65370'>왜 그럴까요?</span>
+<span class='talk-transcript__fragment' data-time='67053' id='t-67053'>남녀의 차이가 없다고
+배웠기 때문입니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+01:21
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='70818' id='t-70818'>최근 발표된 미국 감사원
+연구결과에 따르면</span>
+<span class='talk-transcript__fragment' data-time='75401' id='t-75401'>시장에서 회수된 약품의 80%는</span>
+<span class='talk-transcript__fragment' data-time='77576' id='t-77576'>여성에게 나타난
+부작용 때문이라고 합니다.</span>
+<span class='talk-transcript__fragment' data-time='81080' id='t-81080'>이것에 대해 잠시 생각해봅시다.</span>
+<span class='talk-transcript__fragment' data-time='83415' id='t-83415'>왜 약품이 시장에 출시된 후에야</span>
+<span class='talk-transcript__fragment' data-time='87313' id='t-87313'>여성에게 나타나는 부작용을
+발견하는 걸까요?</span>
+<span class='talk-transcript__fragment' data-time='91496' id='t-91496'>하나의 약이 아이디어에서 시작하여
+실험실에서 세포에 실험하고</span>
+<span class='talk-transcript__fragment' data-time='97180' id='t-97180'>동물실험을 거치고</span>
+<span class='talk-transcript__fragment' data-time='100361' id='t-100361'>인간에게 임상실험되고</span>
+<span class='talk-transcript__fragment' data-time='102353' id='t-102353'>최종적으로 기관승인을 받고</span>
+<span class='talk-transcript__fragment' data-time='104504' id='t-104504'>의사가 여러분에게 처방할 수
+있게 되기까지</span>
+<span class='talk-transcript__fragment' data-time='108399' id='t-108399'>수 년이 걸리는 거 아시나요?</span>
+<span class='talk-transcript__fragment' data-time='114170' id='t-114170'>그 과정을 거치려면 당연히
+수 백만, 수십 억 달러의</span>
+<span class='talk-transcript__fragment' data-time='117564' id='t-117564'>자금도 필요합니다.</span>
+<span class='talk-transcript__fragment' data-time='121597' id='t-121597'>그렇다면 우리는 왜
+인구의 절반에게 나타나는</span>
+<span class='talk-transcript__fragment' data-time='124573' id='t-124573'>치명적인 부작용을
+과정을 다 거친 후에야 발견할까요?</span>
+<span class='talk-transcript__fragment' data-time='131163' id='t-131163'>무슨 일이 일어나고 있는 걸까요?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='132777' id='t-132777'>실험실에서 사용하는 세포가</span>
+<span class='talk-transcript__fragment' data-time='136905' id='t-136905'>남성의 세포인 것으로 밝혀졌습니다.</span>
+<span class='talk-transcript__fragment' data-time='138859' id='t-138859'>동물실험에 사용된 동물도 수컷입니다.</span>
+<span class='talk-transcript__fragment' data-time='142285' id='t-142285'>임상실험도 거의 배타적으로
+남성을 대상으로 이루어졌습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+02:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='149176' id='t-149176'>왜 남성 표본이 의학 연구의
+뼈대가 되었을까요?</span>
+<span class='talk-transcript__fragment' data-time='154554' id='t-154554'>언론이 널리 퍼뜨린
+예시를 한 번 봅시다.</span>
+<span class='talk-transcript__fragment' data-time='158649' id='t-158649'>수면제인 앰비엔과 관련된 예입니다.</span>
+<span class='talk-transcript__fragment' data-time='161879' id='t-161879'>앰비엔은 20년 전에
+시장에 출시되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='166667' id='t-166667'>그 뒤로 수 억 번이나
+사람들에게 처방되었고</span>
+<span class='talk-transcript__fragment' data-time='171504' id='t-171504'>여성이 남성보다 수면장애를 더 많이
+겪어서 주로 여성에게 처방되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='177047' id='t-177047'>하지만 지난 해</span>
+<span class='talk-transcript__fragment' data-time='179247' id='t-179247'>식품의약국(FDA)는 여성에게만
+복용량을 절반으로 줄일 것을</span>
+<span class='talk-transcript__fragment' data-time='182695' id='t-182695'>권장했습니다.</span>
+<span class='talk-transcript__fragment' data-time='185606' id='t-185606'>여성이 남성보다 더 느린 속도로
+약을 분해하여</span>
+<span class='talk-transcript__fragment' data-time='188467' id='t-188467'>몸에 약 성분이 더 많이 남은 채로</span>
+<span class='talk-transcript__fragment' data-time='191404' id='t-191404'>아침에 일어난다는 것을</span>
+<span class='talk-transcript__fragment' data-time='193467' id='t-193467'>최근에 알았기 때문입니다.</span>
+<span class='talk-transcript__fragment' data-time='196685' id='t-196685'>그래서 졸린 채로 운전을 하게 되고</span>
+<span class='talk-transcript__fragment' data-time='200639' id='t-200639'>교통사고가 발생할 위험이 생기죠.</span>
+<span class='talk-transcript__fragment' data-time='204955' id='t-204955'>저는 응급의학과 의사로서
+이런 생각이 들 수 밖에 없네요.</span>
+<span class='talk-transcript__fragment' data-time='208923' id='t-208923'>이 약이 출시되었을 때인</span>
+<span class='talk-transcript__fragment' data-time='213740' id='t-213740'>20년 전에 이런 분석이 
+실행되어 이뤄졌다면</span>
+<span class='talk-transcript__fragment' data-time='216570' id='t-216570'>내가 수 년간 치료한
+교통사고 환자들 중에</span>
+<span class='talk-transcript__fragment' data-time='220046' id='t-220046'>사고를 막을 수 있었을
+확률이 있는 사람이</span>
+<span class='talk-transcript__fragment' data-time='225185' id='t-225185'>얼마나 있을까?</span>
+<span class='talk-transcript__fragment' data-time='229089' id='t-229089'>얼마나 더 많은 것들이
+성별에 따라 분석되야 할까?</span>
+<span class='talk-transcript__fragment' data-time='233197' id='t-233197'>또 무엇을 놓치고 있을까?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+04:08
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='237555' id='t-237555'>제2차 세계대전은 많은 걸
+바꿔놓았습니다.</span>
+<span class='talk-transcript__fragment' data-time='241255' id='t-241255'>그 중에는 충분한 정보제공 없이
+동의받아 진행되는 의학 실험의</span>
+<span class='talk-transcript__fragment' data-time='244160' id='t-244160'>피해자가 되지 않도록 
+사람들을 보호하는 것도 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='249467' id='t-249467'>그래서 매우 필요했던 
+지침과 규정이 도입되었는데</span>
+<span class='talk-transcript__fragment' data-time='253167' id='t-253167'>부분적으로 가임기의 여성이
+어떤 의학 실험에도</span>
+<span class='talk-transcript__fragment' data-time='258213' id='t-258213'>참여하지 않게 보호하려는
+바람도 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='262016' id='t-262016'>연구 도중 태아에게 문제가 생기면
+어떡해야 하는지, 누가 책임을 지는지에</span>
+<span class='talk-transcript__fragment' data-time='267366' id='t-267366'>대한 두려움이 있었습니다.</span>
+<span class='talk-transcript__fragment' data-time='269999' id='t-269999'>그래서 당대의 과학자들은 이것을</span>
+<span class='talk-transcript__fragment' data-time='272512' id='t-272512'>실제로 뜻밖의 이득이라고 생각했습니다.</span>
+<span class='talk-transcript__fragment' data-time='275152' id='t-275152'>솔직히 말해서 남자의 신체는
+호르몬 수치가 계속 변하는 일 없이</span>
+<span class='talk-transcript__fragment' data-time='280867' id='t-280867'>항상 일정하기 때문에
+남자들만 대상으로 하면</span>
+<span class='talk-transcript__fragment' data-time='284337' id='t-284337'>혼동을 주지 않는 깔끔한 데이터를
+얻을 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='289210' id='t-289210'>더 쉽고 저렴하죠.</span>
+<span class='talk-transcript__fragment' data-time='293651' id='t-293651'>이 시대에는 여성과 남성이</span>
+<span class='talk-transcript__fragment' data-time='296508' id='t-296508'>생식기와 성호르몬을 제외하고는
+모든 면에서 같다는</span>
+<span class='talk-transcript__fragment' data-time='300757' id='t-300757'>보편적인 가정이 있었다는 건
+말할 필요도 없고요.</span>
+<span class='talk-transcript__fragment' data-time='305211' id='t-305211'>그래서 정해졌습니다.</span>
+<span class='talk-transcript__fragment' data-time='309117' id='t-309117'>의학 실험은 남성에게 실행되었고</span>
+<span class='talk-transcript__fragment' data-time='312657' id='t-312657'>결과는 나중에 여성에게 적용되었습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+05:28
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='317203' id='t-317203'>이것이 여성 건강에 대한 인식에
+어떤 영향을 주었을까요?</span>
+<span class='talk-transcript__fragment' data-time='320768' id='t-320768'>여성의 건강이 생식과
+동일시되게 되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='325048' id='t-325048'>가슴, 난소, 자궁, 임신과 말이죠.</span>
+<span class='talk-transcript__fragment' data-time='330355' id='t-330355'>현재 우리가 &quot;비키니 의학&quot;이라고
+부르는 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='334461' id='t-334461'>이 개념은 1980년대까지
+유지되었는데,</span>
+<span class='talk-transcript__fragment' data-time='337129' id='t-337129'>여성을 의학연구에서 배제함으로써</span>
+<span class='talk-transcript__fragment' data-time='340638' id='t-340638'>생식에 관한 문제 이외에는</span>
+<span class='talk-transcript__fragment' data-time='344803' id='t-344803'>여성 환자의 특수한 필요에 대해
+알려진 게 거의 없어서</span>
+<span class='talk-transcript__fragment' data-time='349130' id='t-349130'>여성에게 사실상</span>
+<span class='talk-transcript__fragment' data-time='352643' id='t-352643'>피해를 초래했다는 것을 깨달은</span>
+<span class='talk-transcript__fragment' data-time='354999' id='t-354999'>의학계와
+공중 보건 정책 입안자들이</span>
+<span class='talk-transcript__fragment' data-time='357587' id='t-357587'>이의를 제기하기 전까지 였습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+06:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='360999' id='t-360999'>그 때 이후로, 남성과 여성이
+모든 면에서 얼마나 다른지</span>
+<span class='talk-transcript__fragment' data-time='366537' id='t-366537'>보여주는 엄청난 양의 증거가
+발견되었습니다.</span>
+<span class='talk-transcript__fragment' data-time='377297' id='t-377297'>의학에는 이런 말이 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='380074' id='t-380074'>아이들은 작은 어른이 아니다.</span>
+<span class='talk-transcript__fragment' data-time='384810' id='t-384810'>우리는 이 말을 아이들이 보통 어른과</span>
+<span class='talk-transcript__fragment' data-time='386771' id='t-386771'>실제로 다른 생리 기능을 가진다는 걸
+떠올리기 위해 합니다.</span>
+<span class='talk-transcript__fragment' data-time='392678' id='t-392678'>이 말 덕분에 소아과의
+의학전문성이 드러나게 되었죠.</span>
+<span class='talk-transcript__fragment' data-time='397659' id='t-397659'>그래서 우리는 이제 아이들의 삶을
+개선하기 위해 아이들을 연구합니다.</span>
+<span class='talk-transcript__fragment' data-time='405039' id='t-405039'>저는 이 말이 여성에게도 똑같이
+적용될 수 있다는 걸 압니다.</span>
+<span class='talk-transcript__fragment' data-time='407960' id='t-407960'>여성은 가슴과 난소가 달린
+남성이 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='414561' id='t-414561'>똑같은 중요도를 가지고
+연구되어 마땅한</span>
+<span class='talk-transcript__fragment' data-time='418141' id='t-418141'>여성을 위한 해부학과 생리학이
+있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+07:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='423381' id='t-423381'>일례로 심장혈관계를 살펴봅시다.</span>
+<span class='talk-transcript__fragment' data-time='426999' id='t-426999'>의학계에서 이 분야가
+여성과 남성에게 왜 완전히 다른 형태의</span>
+<span class='talk-transcript__fragment' data-time='430730' id='t-430730'>심장마비가 오는지 알기 위해
+가장 많이 연구를 했습니다.</span>
+<span class='talk-transcript__fragment' data-time='435999' id='t-435999'>심장질환은 여성과 남성 모두에게
+사망원인 1위입니다.</span>
+<span class='talk-transcript__fragment' data-time='441113' id='t-441113'>하지만 더 많은 여성이 심장마비가 온
+첫 해에 죽습니다.</span>
+<span class='talk-transcript__fragment' data-time='447049' id='t-447049'>남자들은 으스러지는 듯한
+가슴 통증을 호소합니다.</span>
+<span class='talk-transcript__fragment' data-time='451087' id='t-451087'>코끼리가 가슴에 앉아있는 것 같다고요.</span>
+<span class='talk-transcript__fragment' data-time='454455' id='t-454455'>우리는 이걸 전형적이라고 부릅니다.</span>
+<span class='talk-transcript__fragment' data-time='457622' id='t-457622'>여성들도 가슴 통증이 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='460736' id='t-460736'>하지만 이런 불평을 더 많이 합니다.
+&quot;뭔가 이상해요.&quot;</span>
+<span class='talk-transcript__fragment' data-time='468898' id='t-468898'>&quot;충분히 숨을 들이쉴 수가 없어요.&quot;</span>
+<span class='talk-transcript__fragment' data-time='471791' id='t-471791'>&quot;빨리 피곤해져요.&quot;</span>
+<span class='talk-transcript__fragment' data-time='475000' id='t-475000'>우리는 이걸 이례적이라고 부릅니다.</span>
+<span class='talk-transcript__fragment' data-time='477927' id='t-477927'>제가 말했듯이, 여성들이 인구 절반을
+차지하는데 말이죠.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+08:14
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='483537' id='t-483537'>그렇다면 이 차이를 설명하는 증거는
+무엇이 있을까요?</span>
+<span class='talk-transcript__fragment' data-time='489999' id='t-489999'>해부해보면,</span>
+<span class='talk-transcript__fragment' data-time='492554' id='t-492554'>남성보다 여성이
+심장을 둘러싼 혈관이 얇기 때문입니다.</span>
+<span class='talk-transcript__fragment' data-time='498593' id='t-498593'>이 혈관들이
+병을 진행시키는 방식도</span>
+<span class='talk-transcript__fragment' data-time='503097' id='t-503097'>여성과 남성이 다릅니다.</span>
+<span class='talk-transcript__fragment' data-time='505875' id='t-505875'>심장마비 위험이 있는지 알아내기 위해
+사용하는 테스트는</span>
+<span class='talk-transcript__fragment' data-time='511051' id='t-511051'>애초에 남성에 기반해 설계되고
+실험되고 완성된 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='515647' id='t-515647'>여성에겐 그만큼 효과적이지 않습니다.</span>
+<span class='talk-transcript__fragment' data-time='520305' id='t-520305'>우리가 사용하는 아스피린 같은</span>
+<span class='talk-transcript__fragment' data-time='523266' id='t-523266'>일반적인 의약품을 생각해 봅시다.</span>
+<span class='talk-transcript__fragment' data-time='527767' id='t-527767'>건강한 남성에게 심장마비 예방을 위해
+우리는 아스피린을 처방합니다.</span>
+<span class='talk-transcript__fragment' data-time='532318' id='t-532318'>하지만 건강한 여성에게
+아스피린을 주면</span>
+<span class='talk-transcript__fragment' data-time='536576' id='t-536576'>실제로 위험하다는 걸 아시나요?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+09:11
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='540376' id='t-540376'>이 사실은 우리가
+표면만 긁고 있다는 걸</span>
+<span class='talk-transcript__fragment' data-time='542782' id='t-542782'>알려주는 것에 불과합니다.</span>
+<span class='talk-transcript__fragment' data-time='547145' id='t-547145'>응급의학은 일이 긴박하게 진행되는
+분야입니다.</span>
+<span class='talk-transcript__fragment' data-time='551563' id='t-551563'>암이나 뇌졸중처럼</span>
+<span class='talk-transcript__fragment' data-time='554940' id='t-554940'>남성과 여성의 중요한 차이점을
+활용할 수 있는</span>
+<span class='talk-transcript__fragment' data-time='558940' id='t-558940'>생명을 구하는 의학분야가
+얼마나 많은가요?</span>
+<span class='talk-transcript__fragment' data-time='564252' id='t-564252'>아니면 심지어, 왜 어떤 사람들은
+남들보다 더 많이</span>
+<span class='talk-transcript__fragment' data-time='569080' id='t-569080'>콧물이 나올까요?</span>
+<span class='talk-transcript__fragment' data-time='571289' id='t-571289'>왜 부닺힌 발가락에 처방하는 진통제가
+어떤 사람에게는 효과가 있고</span>
+<span class='talk-transcript__fragment' data-time='574640' id='t-574640'>어떤 사람에게는 안 통할까요?</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+09:52
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='581288' id='t-581288'>의학협회는 모든 세포에
+성별이 있다고 했습니다.</span>
+<span class='talk-transcript__fragment' data-time='587820' id='t-587820'>이게 무슨 말일까요?</span>
+<span class='talk-transcript__fragment' data-time='590532' id='t-590532'>성별은 DNA입니다.</span>
+<span class='talk-transcript__fragment' data-time='592954' id='t-592954'>성은 자신을 사회에
+드러내는 방식입니다.</span>
+<span class='talk-transcript__fragment' data-time='597883' id='t-597883'>이 두 개는 항상 같지 않을 수
+있습니다.</span>
+<span class='talk-transcript__fragment' data-time='600447' id='t-600447'>트렌스젠더 인구를 보면 알 수 있죠.</span>
+<span class='talk-transcript__fragment' data-time='604740' id='t-604740'>하지만 정자와 난자가
+수정되는 순간부터</span>
+<span class='talk-transcript__fragment' data-time='609679' id='t-609679'>피부, 머리카락, 심장과 폐에 있는</span>
+<span class='talk-transcript__fragment' data-time='611825' id='t-611825'>신체의 모든 세포가
+우리 고유의 DNA를</span>
+<span class='talk-transcript__fragment' data-time='615150' id='t-615150'>가진다는 걸 아는 건 중요합니다.</span>
+<span class='talk-transcript__fragment' data-time='618461' id='t-618461'>이 DNA는 우리가 남성, 여성이 될지
+여자, 남자가 될지를</span>
+<span class='talk-transcript__fragment' data-time='622236' id='t-622236'>결정하는 염색체를 갖고 있습니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+10:39
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='628400' id='t-628400'>여기 나타나있는</span>
+<span class='talk-transcript__fragment' data-time='630012' id='t-630012'>XY면 남성이고 XX면 여성이라고
+성별을 결정하는 염색체가</span>
+<span class='talk-transcript__fragment' data-time='634364' id='t-634364'>단순히 난소를 갖고 태어날지</span>
+<span class='talk-transcript__fragment' data-time='637761' id='t-637761'>고환을 갖고 태어날지만을 결정하고</span>
+<span class='talk-transcript__fragment' data-time='642999' id='t-642999'>생식기가 분비하는 성호르몬이
+두 성별 사이에 볼 수 있는</span>
+<span class='talk-transcript__fragment' data-time='646764' id='t-646764'>차이를 만들어낸다고
+사람들은 여겼었습니다.</span>
+<span class='talk-transcript__fragment' data-time='652757' id='t-652757'>하지만 우리는 이제
+이 이론이 틀렸다는 것을 압니다.</span>
+<span class='talk-transcript__fragment' data-time='657615' id='t-657615'>아니면 적어도 약간 미완이거나요.</span>
+<span class='talk-transcript__fragment' data-time='660084' id='t-660084'>감사하게도 화이트헤드 연구소에서
+Y염색체를 연구하시는</span>
+<span class='talk-transcript__fragment' data-time='664886' id='t-664886'>페이지 교수님이나</span>
+<span class='talk-transcript__fragment' data-time='666884' id='t-666884'>UCLA의 양 교수님같은 과학자들이</span>
+<span class='talk-transcript__fragment' data-time='669075' id='t-669075'>신체의 모든 세포에 들어있는
+성별을 결정하는 염색체들이</span>
+<span class='talk-transcript__fragment' data-time='674758' id='t-674758'>평생 동안 활성화된 상태로 유지되며</span>
+<span class='talk-transcript__fragment' data-time='677379' id='t-677379'>약의 복용량에 차이가 나는
+원인일 수도 있다는 사실과</span>
+<span class='talk-transcript__fragment' data-time='684517' id='t-684517'>남성과 여성 중에
+한 성별이 어째서</span>
+<span class='talk-transcript__fragment' data-time='688116' id='t-688116'>병에 더 쉽게,</span>
+<span class='talk-transcript__fragment' data-time='690355' id='t-690355'>더 심하게 걸리는
+차이가 생기는지를</span>
+<span class='talk-transcript__fragment' data-time='693345' id='t-693345'>증명하는 증거를 발견했습니다.</span>
+<span class='talk-transcript__fragment' data-time='699032' id='t-699032'>이 사실은 판도를 뒤바꾸어 놓았습니다.</span>
+<span class='talk-transcript__fragment' data-time='705425' id='t-705425'>이제 이런 증거를 계속 찾는 것은
+이 과학자들에게 달려있습니다.</span>
+<span class='talk-transcript__fragment' data-time='708823' id='t-708823'>하지만 그 곁에서 이 데이터를
+지금부터 해석하기 시작하는 것은</span>
+<span class='talk-transcript__fragment' data-time='713000' id='t-713000'>임상의에게 달려있습니다.</span>
+<span class='talk-transcript__fragment' data-time='717168' id='t-717168'>지금 당장부터요.</span>
+<span class='talk-transcript__fragment' data-time='721450' id='t-721450'>그리고 도움이 되기 위해</span>
+<span class='talk-transcript__fragment' data-time='724498' id='t-724498'>성별 여성 건강 협력이라는 
+국가기관의 공동창립자로서</span>
+<span class='talk-transcript__fragment' data-time='727505' id='t-727505'>우리는 수업과 환자 치료에
+쓸 수 있도록</span>
+<span class='talk-transcript__fragment' data-time='732149' id='t-732149'>자료들을 수집하고</span>
+<span class='talk-transcript__fragment' data-time='734380' id='t-734380'>의학 분야의 교육자들을 논의에
+참여시키기 위해 노력하고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='739756' id='t-739756'>막중한 임무입니다.</span>
+<span class='talk-transcript__fragment' data-time='742162' id='t-742162'>의학 교육이 처음 시작된 이래로
+계속되오던 방식을 바꾸고 있죠.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+12:40
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='749039' id='t-749039'>하지만 저는 믿음을 갖고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='751882' id='t-751882'>현재 교육과정에 성별에 차이를 두는
+시각을 결합시키는 것의 가치를</span>
+<span class='talk-transcript__fragment' data-time='757503' id='t-757503'>알게 될 거라고 생각합니다.</span>
+<span class='talk-transcript__fragment' data-time='760598' id='t-760598'>이건 미래 의료인들을 올바르게
+교육시키는 것에 관한 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='768437' id='t-768437'>제가 사는 지역에서</span>
+<span class='talk-transcript__fragment' data-time='769612' id='t-769612'>저는 브라운 대의 응급의학부 안에 있는</span>
+<span class='talk-transcript__fragment' data-time='773497' id='t-773497'>'응급의학 내 성과 성별'이라는</span>
+<span class='talk-transcript__fragment' data-time='775241' id='t-775241'>학과의 공동 창립자입니다.</span>
+<span class='talk-transcript__fragment' data-time='777875' id='t-777875'>우리는 심장질환이나 뇌졸중,
+패혈증, 약물남용같은</span>
+<span class='talk-transcript__fragment' data-time='782525' id='t-782525'>응급 상황에서의</span>
+<span class='talk-transcript__fragment' data-time='784707' id='t-784707'>여성과 남성의 차이를
+알아내기 위한 연구를 합니다.</span>
+<span class='talk-transcript__fragment' data-time='789999' id='t-789999'>하지만 우리는 교육이
+가장 중요하다고 믿기 때문에</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+13:26
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='795304' id='t-795304'>360° 다면 교육 모델을
+만들었습니다.</span>
+<span class='talk-transcript__fragment' data-time='799329' id='t-799329'>의사들을 위한 프로그램도 있고
+간호사나 학생, 그리고 환자를 위한</span>
+<span class='talk-transcript__fragment' data-time='805311' id='t-805311'>프로그램도 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='807511' id='t-807511'>의료 분야의 지도자들에게만
+이 일을 맡길 수 없기 때문이죠.</span>
+<span class='talk-transcript__fragment' data-time='812315' id='t-812315'>우리 모두 변화를 가져오기 위한
+각자의 역할이 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='816650' id='t-816650'>하지만 미리 말씀드리자면
+쉽진 않습니다.</span>
+<span class='talk-transcript__fragment' data-time='821840' id='t-821840'>사실 힘들죠.</span>
+<span class='talk-transcript__fragment' data-time='825146' id='t-825146'>우리가 의학과 건강과 연구에 대해
+생각하는 방식을</span>
+<span class='talk-transcript__fragment' data-time='829562' id='t-829562'>근본적으로 바꾸는 거니까요.</span>
+<span class='talk-transcript__fragment' data-time='833711' id='t-833711'>우리와 의료 환경의 관계를
+바꾸는 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='837760' id='t-837760'>하지만 되돌아갈 순 없습니다.</span>
+<span class='talk-transcript__fragment' data-time='841339' id='t-841339'>우리가 여태까지 틀리게 하고 있었다는 걸</span>
+<span class='talk-transcript__fragment' data-time='845062' id='t-845062'>이제 충분히 알기 때문이죠.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:20
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='849672' id='t-849672'>마틴 루터 킹 주니어는
+이렇게 말했습니다</span>
+<span class='talk-transcript__fragment' data-time='852014' id='t-852014'>&quot;변화는 불가피함의 바퀴로
+굴러오는 게 아니라,</span>
+<span class='talk-transcript__fragment' data-time='856687' id='t-856687'>반복되는 투쟁으로 온다.&quot;</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+14:31
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='860314' id='t-860314'>변화로 가는 첫 단계는
+인식입니다.</span>
+<span class='talk-transcript__fragment' data-time='864116' id='t-864116'>단순히 여성의 의료 환경을
+개선하는 게 아닙니다.</span>
+<span class='talk-transcript__fragment' data-time='868702' id='t-868702'>모두를 위한 개별화된
+맞춤 의료서비스에 관한 것입니다.</span>
+<span class='talk-transcript__fragment' data-time='875090' id='t-875090'>인식은 남녀 모두를 위한 의료 환경을
+변화시키는 힘을 갖고 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='882827' id='t-882827'>이제부터 여러분은 받고 있는 치료가</span>
+<span class='talk-transcript__fragment' data-time='888539' id='t-888539'>성과 성별에 특성화된 것인지
+의사에게 물어보기 바랍니다.</span>
+<span class='talk-transcript__fragment' data-time='894246' id='t-894246'>그분들도 답을 모를 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='896959' id='t-896959'>아직은요.</span>
+<span class='talk-transcript__fragment' data-time='899101' id='t-899101'>하지만 대화는 시작되었고
+우리는 함께 배울 수 있습니다.</span>
+<span class='talk-transcript__fragment' data-time='903797' id='t-903797'>기억하세요. 이 분야에 종사하는
+저와 동료들에게</span>
+<span class='talk-transcript__fragment' data-time='908198' id='t-908198'>여러분의 성과 성별은 중요합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:22
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='911379' id='t-911379'>감사합니다.</span>
+</span>
+</p>
+<p class='talk-transcript__para'>
+<data class='talk-transcript__para__time'>
+15:23
+</data>
+<span class='talk-transcript__para__text'>
+<span class='talk-transcript__fragment' data-time='912555' id='t-912555'>(박수)</span>
+</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  q('transcript.initLanguages')
+</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

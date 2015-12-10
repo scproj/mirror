@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Carl Safina: What are animals thinking and feeling?</title>
+  <description>What's going on inside the brains of animals? Can we know what, or if, they're thinking and feeling? Carl Safina thinks we can. Using discoveries and anecdotes that span ecology, biology and behavioral science, he weaves together stories of whales, wolves, elephants and albatrosses to argue that just as we think, feel, use tools and express emotions, so too do the other creatures – and minds – that share the Earth with us.</description>
+  <url>http://www.ted.com/talks/carl_safina_what_are_animals_thinking_and_feeling</url>
+  <author-name>Carl Safina</author-name>
+  <author-url>http://www.ted.com/speakers/carl_safina</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/f604b6fa1f5c249cffe1911bdc856dd6858914c3_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/carl_safina_what_are_animals_thinking_and_feeling.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

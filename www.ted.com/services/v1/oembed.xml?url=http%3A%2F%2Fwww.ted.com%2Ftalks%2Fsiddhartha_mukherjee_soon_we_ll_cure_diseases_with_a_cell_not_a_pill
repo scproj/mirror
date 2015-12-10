@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Siddhartha Mukherjee: Soon we'll cure diseases with a cell, not a pill</title>
+  <description>Current medical treatment boils down to six words: Have disease, take pill, kill something. But physician Siddhartha Mukherjee points to a future of medicine that will transform the way we heal.</description>
+  <url>http://www.ted.com/talks/siddhartha_mukherjee_soon_we_ll_cure_diseases_with_a_cell_not_a_pill</url>
+  <author-name>Siddhartha Mukherjee</author-name>
+  <author-url>http://www.ted.com/speakers/siddhartha_mukherjee</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/da257302b276621e1854ca0bba5ddd1387e34dc8_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/siddhartha_mukherjee_soon_we_ll_cure_diseases_with_a_cell_not_a_pill.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>웬디 프리드먼: 이 새로운 망원경이 우주의 탄생을 보여줄지 모릅니다</title>
+  <description>언제 어떻게 우주가 시작되었을까요? 세계적인 그룹의 천문학자들이 커다란 새 망원경을 통해 그 당시로 돌아가 그 질문에 답하려고 합니다. 웬디 프리드먼은 남미에서 이루어지고 있는 커다란 마젤란 망원경의 제작을 총괄했습니다:  리오에서 진행되는 TED글로벌에서 마젤란 망원경이 발견하게될 우주의 비밀에 관한 비전을 공유합니다.</description>
+  <url>http://www.ted.com/talks/wendy_freedman_this_new_telescope_might_show_us_the_beginning_of_the_universe?language=ko</url>
+  <author-name>웬디 프리드먼</author-name>
+  <author-url>http://www.ted.com/speakers/wendy_freedman</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/6471975fe2d0301a5ecdfa1b9850b5e4411308a5_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/wendy_freedman_this_new_telescope_might_show_us_the_beginning_of_the_universe.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

@@ -1,0 +1,1111 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>TEDx Rules | Before you start | Organize a local TEDx event | Participate | TED</title>
+<meta content="TEDx Rules | Before you start | Organize a local TEDx event | Participate | TED" name="title" />
+<meta content="TED is a nonprofit devoted to Ideas Worth Spreading - through TED.com, our annual conferences, the annual TED Prize and local TEDx events." name="description" />
+<meta content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" name="keywords" />
+<meta content="http://assets.tedcdn.com/images/ted_amp_network.gif" name="thumbnail" />
+<meta content="http://assets.tedcdn.com/images/ted_amp_network.gif" property="og:image" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.svg" mask="mask" rel="icon" sizes="any" />
+<meta content="#E62B1E" name="theme-color" />
+<link href="https://tedcdnpa-a.akamaihd.net/favicon.ico" rel="shortcut icon" />
+<meta content="True" name="HandheldFriendly" />
+<meta content="320" name="MobileOptimized" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta content="TED.com" name="apple-mobile-web-app-title" />
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon.png" rel="apple-touch-icon" />
+<link href="https://tedcdnpa-a.akamaihd.net/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed" />
+<meta content="TED.com" name="application-name" />
+<meta content="/browserconfig.xml" name="msapplication-config" />
+<meta content="#000000" name="msapplication-TileColor" />
+<meta content="on" http-equiv="cleartype" />
+<meta content="TEDx Rules | Before you start | Organize a local TEDx event | Participate | TED" property="og:title" />
+<meta content="TED is a nonprofit devoted to Ideas Worth Spreading - through TED.com, our annual conferences, the annual TED Prize and local TEDx events." property="og:description" />
+<meta content="http://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/tedx-rules" property="og:url" />
+<meta content="201021956610141" property="fb:app_id" /><!--[if lte IE 8]>
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global-ie.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/pages-ie.css?1449612281">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/global.css?1449612281">
+<link rel="stylesheet" href="https://tedcdnpa-a.akamaihd.net/stylesheets/pages.css?1449612281">
+<!--<![endif]--><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension4","1.0.0-rc.1.1");
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"assetBuster":1449612282,"playerPath":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathRemote":"//tedcdnpb-a.akamaihd.net/assets/player/flash_hls/player_4_00_009.swf","playerPathLocal":"/assets/player/flash_hls/player_4_00_009.swf","assetHost":"https://tedcdnpa-a.akamaihd.net","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","version":"dimension4","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8"}};
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://tedcdnpa-a.akamaihd.net/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"Backbone":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","embed":"embed.js?23f83514c0a631545d35c263790da013","swfobject.js.src":"swfobject.js.src.js?8c2ec4bc2c9a39bc3f4ff92223077cf6","swatch":"swatch.js?af26d6cbf9673f6060dfc8b18154c39c","dq.js.src":"dq.js.src.js?20900afc0ab80dbb330fcde67664a6a3","crushinator.js.src":"crushinator.js.src.js?53393cd753c21a6b4b454ff4c1880a42","libs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","touchPunch":"touchPunch.js?47b6211b7aef9750ac4f6613a4256cc9","deferLink":"deferLink.js?e753127d1427d48d2dba8b3f593baec2","swfobject":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","dq":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","surprise_me":"surprise_me.js?07929707d7c91175cb34732107402b0b","jqueryujs":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","SwipeView":"SwipeView.js?3d6ab40c7f02be91047f9e6802690af6","touchPunch.js.src":"touchPunch.js.src.js?30225c78da2fa55b9f6280523fe7006c","menuAim.js.src":"menuAim.js.src.js?1b5d9275feea9a1d3bb9ff94d25366fe","Modernizr.js.src":"Modernizr.js.src.js?5bc88f4d7b86ab7371f2426944495bd5","Swipe":"Swipe.js?b746c9e9c38bd13ef622cfeed09ba6bf","Mailcheck":"Mailcheck.js?4752d459b0ac03f738bb7db1571d9a00","depot":"depot.js?6d97c6ff1eb27088493186e2db478ee0","ZeroClipboard":"ZeroClipboard.js?65f3b285606bcf3acd44bb2c25a6406d","Cookies.js.src":"Cookies.js.src.js?c9dd9a474a04929b74b9d363f8dfcf8e","autosize.js.src":"autosize.js.src.js?e3a7f4e47ca37d3dcad5da224a89362e","pages":"pages.js?17cdddd45428c47b7469c56c84257ae1","Swipe.js.src":"Swipe.js.src.js?9ce5a91df31873e94034bafb36759f30","transit.js.src":"transit.js.src.js?b2c17d2af483e0b0ec85ad9980cad508","hbs":"hbs.js?62ffd6dc422a088483ef7863de071d9e","talk":"talk.js?51221de80bbdf101073772b806dcd5d2","jqueryujs.js.src":"jqueryujs.js.src.js?c7d857a07ee95a2ea27569af02b49dea","Cookies":"Cookies.js?ec959f431471b295566bcf6ad4298fcb","spinjs":"spinjs.js?0f67f5820075f88643c601a4284d14b2","jwplayer/jwplayer.html5":"jwplayer/jwplayer.html5.js?c0969ca5364f270ed8647d28c59dc9f9","jwplayer/jwplayer":"jwplayer/jwplayer.js?06735c0a9046236cc35a724dc09c5b0d","tedx":"tedx.js?27a3d0c882820e1a4ee6a7aad1d95d48","Mailcheck.js.src":"Mailcheck.js.src.js?73fd8de859b896b01c3eda3b211a49cd","autosize":"autosize.js?c463a94f6da61cb86e53ea61dbcb6735","flot.js.src":"flot.js.src.js?b8c10fb1c177809813dadb198bcc16de","deferLink.js.src":"deferLink.js.src.js?62251a9223be6510052e464550b2716f","ZeroClipboard.js.src":"ZeroClipboard.js.src.js?0debda99a99a8aacce20868f914def7d","waypoints.js.src":"waypoints.js.src.js?f302b99ffb6e3606e9eb7ca7d82a0264","dashboard_hotels":"dashboard_hotels.js?d19435a801331067f5048d1c7b3bb747","crushinator":"crushinator.js?2b8d78a40a52bb661b0b4fcf32e166c9","home":"home.js?1241a7e9294d8677392f76b903746a75","settings":"settings.js?e3325b55ee4c74c02a9feaf0e5bcba53","moment":"moment.js?408f6a21d69b26bb98a3c705e51e7764","numeral.js.src":"numeral.js.src.js?c0e90e3e9f126d77a564afce7b9201b3","profiles":"profiles.js?456ec8e9c630a07c9b3a83c468f029c3","spinjs.js.src":"spinjs.js.src.js?4f5885262e8544079071bf4876566be7","Backbone.js.src":"Backbone.js.src.js?bad03324ce6bc1c8effa5d3b4e3c2750","numeral":"numeral.js?611d7abced1fea00d28e10252bff308e","SwipeView.js.src":"SwipeView.js.src.js?9a048263972115536ed447f9c0b7d904","moment.js.src":"moment.js.src.js?49f7c993eafe9006c9121dd4f414aa6d","global":"global.js?a8f475509c478d1b04dd10477b2510e3","dashboard_sessions":"dashboard_sessions.js?ec189bd2ee9f9489834ccd2aee456c31","Modernizr":"Modernizr.js?8d4a21cfb9a3fcefdabddaac961016fe","depot.js.src":"depot.js.src.js?b18fddcb76b2bf61cde8dcf459879846","menuAim":"menuAim.js?a94480af4d342b45c24626ac8f6a1f80","dashboard":"dashboard.js?286613b789f90d9c8b906950c59bfb05","pages/dynamic/dummy":"pages/dynamic/dummy.js?3967fae7f441a192ac0a2b697e4e7a3d","playlists":"playlists.js?bd6b90efccb6b196b5ce73684719c8c3","lodash":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","core":"core.js?dfcb641a53fe5a5c22ed16e37e7d8e2a","hbs.js.src":"hbs.js.src.js?3fc49de9f867d99109e8408170520be5","jquery.js.src":"jquery.js.src.js?7f38dcbfb11aff050652ff3b754adb63","flot":"flot.js?cc487fa44adf9da4523f900fe26c7c0d","search":"search.js?06cfabf03223b309e632669510068bde","jquery":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1","lodash.js.src":"lodash.js.src.js?e42fbb6429290cb8f1b3177a20c86ab8","newsletter":"newsletter.js?51e416cf51603cd78b8ab750e35c8f5f","transit":"transit.js?1bb6034bee2f350ddcc3876a929ed54c","talks":"talks.js?d20a21859341240c8901c77effade7f8","waypoints":"waypoints.js?a6a99f3a64e668c5afdfe0aaa1245215","hbs/handlebars":"libs.js?215ace7cc9967e1c53e5cbd144e4b6e1"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  if (false) {
+    
+  }
+  TED["controller"]="pages"
+</script>
+<script async="async" data-main="pages" src="https://tedcdnpa-a.akamaihd.net/javascripts/core.js?1449612281"></script></head>
+<body class='pages-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"\u003Cdiv class='alert alert--flash alert--warning' id='uconf'\u003E\n\u003Cdiv class='container'\u003E\n\u003Cdiv class='alert__container'\u003E\u003Ch4 class='h10 m5'\u003EYour account isn't active yet.\u003C/h4\u003EPlease click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n\u003Ca href='https://auth.ted.com/account/confirmation/new'\u003Esend it again\u003C/a\u003E.\n\u003Ca class='alert__close g g-button-modal-close' href='#' id='uconf-close'\u003EClose\u003C/a\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n\u003C/div\u003E\n"))
+</script><div class='main-nav-screen' id='main-nav-screen'></div>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<h2 class='h9'>You have JavaScript disabled</h2>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+
+<header class='banner' role='banner'>
+<div class='banner__container'>
+<a class='g-menu banner__main-nav-toggle' href='#main-nav' id='main-nav-toggle'>Navigation</a>
+<a class='g-logo-small banner__logo' href='/'>TED</a>
+<span class='banner__account'>
+<nav class='nav nav--main banner__account__nav' role='navigation'>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--disabled' role='presentation'>
+<a class='nav__link nav__link--placeheld banner__account__link banner__account__link--profile' href='/dashboard' id='account-link' role='menuitem' title='Your account'>
+<div class='banner__account__image' id='account-image'></div>
+<span class='badge banner__account__badge' id='account-badge'>1</span>
+</a>
+<span class='nav__link nav__link--placeholder'></span>
+<div class='nav__folder'></div>
+</li>
+</ul>
+</nav>
+<a class='banner__account__link banner__account__link--login auth-login' href='/session/new' id='login-link'>Log in</a>
+<a class='banner__account__link banner__account__link--signup' href='/users/new'>Sign up</a>
+</span>
+
+<div id='banner-core'>
+<form action='/search' class='main-search' id='main-search' role='search'>
+<div class='main-search__content'>
+<input class='main-search__input' name='q' placeholder='Search...' value=''>
+<input class='main-search__button g-search' type='submit' value='Search'>
+</div>
+</form>
+
+<nav class='nav nav--main' id='main-nav' role='navigation'>
+<a class='nav__link nav__skip' href='#main-nav-skip'>Skip to content&hellip;</a>
+<ul class='nav__menu' role='menubar'>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='watch' href='#' role='menuitem'>
+Watch
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/talks" href="/talks" role="menuitem"><span class="nav__item__title">TED Talks</span><div class="nav__item__info">Browse the library of TED talks and speakers</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/playlists" href="/playlists" role="menuitem"><span class="nav__item__title">Playlists</span><div class="nav__item__info">100+ collections of TED Talks, for curious minds</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/ted-ed" href="/watch/ted-ed" role="menuitem"><span class="nav__item__title">TED-Ed videos</span><div class="nav__item__info">Watch, share and create lessons with TED-Ed</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/watch/tedx-talks" href="/watch/tedx-talks" role="menuitem"><span class="nav__item__title">TEDx Talks</span><div class="nav__item__info">Talks from independently organized local events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="watch" data-ga-category="navigation.item" data-ga-label="/surpriseme" href="/surpriseme" role="menuitem"><span class="nav__item__title">Surprise Me</span><div class="nav__item__info">The easy option. Let us choose for you!</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='discover' href='#' role='menuitem'>
+Discover
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/topics" href="/topics" role="menuitem"><span class="nav__item__title">Topics</span><div class="nav__item__info">Explore TED offerings by topic</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-books" href="/read/ted-books" role="menuitem"><span class="nav__item__title">TED Books</span><div class="nav__item__info">Short books to feed your craving for ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/read/ted-studies" href="/read/ted-studies" role="menuitem"><span class="nav__item__title">TED Studies</span><div class="nav__item__info">Curated course material for educators and life long learners</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="http://ideas.ted.com" href="http://ideas.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">Ideas Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Our daily coverage of the world of ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="discover" data-ga-category="navigation.item" data-ga-label="/newsletter" href="/newsletter" role="menuitem"><span class="nav__item__title">Newsletter</span><div class="nav__item__info">Inspiration delivered straight to your inbox</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='attend' href='#' role='menuitem'>
+Attend
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/conferences" href="/attend/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">Take part in our events: TED, TEDGlobal, TEDActive and more</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/tedx/events" href="/tedx/events" role="menuitem"><span class="nav__item__title">TEDx events</span><div class="nav__item__info">Find and attend local, independently organized events</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="attend" data-ga-category="navigation.item" data-ga-label="/attend/ted-live" href="/attend/ted-live" role="menuitem"><span class="nav__item__title">TED Live</span><div class="nav__item__info">Experience the conferences from home</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='participate' href='#' role='menuitem'>
+Participate
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/nominate" href="/participate/nominate" role="menuitem"><span class="nav__item__title">Nominate</span><div class="nav__item__info">Recommend speakers, TED Prize recipients, Fellows and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/organize-a-local-tedx-event" href="/participate/organize-a-local-tedx-event" role="menuitem"><span class="nav__item__title">Organize a local TEDx event</span><div class="nav__item__info">Rules and resources to help you plan a local TEDx event</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/translate" href="/participate/translate" role="menuitem"><span class="nav__item__title">Translate</span><div class="nav__item__info">Bring TED to the non-English speaking world</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-prize" href="/participate/ted-prize" role="menuitem"><span class="nav__item__title">TED Prize</span><div class="nav__item__info">Get involved in the yearly prize for world-changing ideas</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="participate" data-ga-category="navigation.item" data-ga-label="/participate/ted-fellows-program" href="/participate/ted-fellows-program" role="menuitem"><span class="nav__item__title">TED Fellows</span><div class="nav__item__info">Join or support innovators from around the globe</div></a></li>
+</ul>
+</div>
+</li>
+<li class='nav__item nav__item--foldable' role='presentation'>
+<a aria-haspopup='true' class='nav__link' data-ga-label='about' href='#' role='menuitem'>
+About
+</a>
+<div class='nav__folder'>
+<ul class='nav__menu' role='menubar'>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/our-organization" href="/about/our-organization" role="menuitem"><span class="nav__item__title">Our organization</span><div class="nav__item__info">Our mission, history, team, and more</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/conferences" href="/about/conferences" role="menuitem"><span class="nav__item__title">Conferences</span><div class="nav__item__info">TED Conferences, past, present, and future</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/programs-initiatives" href="/about/programs-initiatives" role="menuitem"><span class="nav__item__title">Programs &amp; Initiatives</span><div class="nav__item__info">Details about TED&#39;s world-changing initiatives</div></a></li>
+<li class="nav__item nav__item--latch" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="/about/partner-with-ted" href="/about/partner-with-ted" role="menuitem"><span class="nav__item__title">Partner with TED</span><div class="nav__item__info">Learn how you can partner with us</div></a></li>
+<li class="nav__item" role="presentation"><a class="ga-link nav__link" data-ga-action="about" data-ga-category="navigation.item" data-ga-label="http://blog.ted.com" href="http://blog.ted.com" role="menuitem" target="_blank"><span class="nav__item__title">TED Blog</span><i class="icon icon_outbound nav__item__icon-outbound" title="Outbound"></i><span class="screen-reader-text">Outbound</span><div class="nav__item__info">Updates from TED and highlights from our global community</div></a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div id='main-nav-skip'></div>
+</nav>
+
+</div>
+</div>
+</header><script>
+g('floodlight.clear');
+</script><div class='main pages-main' role='main'>
+<!-- PB:T: one_column_left_nav -->
+<div class='container'>
+<div class='row'>
+<div class='col-lg-3'>
+<nav class='submenu' id='submenu'>
+<h3 class='submenu__heading'><a class='l3 submenu__link submenu__heading__link' href='/participate/organize-a-local-tedx-event'>Organize a local TEDx event</a></h3>
+<div class='submenu__lists'>
+<ul class='submenu__list'>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/before-you-start">Before you start
+</a><ul class='submenu__list'>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/before-you-start/what-is-a-tedx-event">What is a TEDx event?
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/before-you-start/organizer-responsibilities">Organizer responsibilities
+</a></li>
+<li class='submenu__item submenu__item--active'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/before-you-start/tedx-rules">TEDx rules
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/before-you-start/event-types">Event types
+</a>
+</li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/before-you-start/how-to-apply">How to apply
+</a></li>
+</ul>
+
+</li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/apply-for-a-tedx-license">Apply for a TEDx license
+</a><ul class='submenu__list'>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/apply-for-a-tedx-license/tedx-license-agreement">TEDx license agreement
+</a></li>
+</ul>
+
+</li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/tedx-organizer-guide">TEDx Organizer Guide
+</a><ul class='submenu__list'>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/volunteers-staff">Volunteers + staff
+</a>
+</li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/venue-spaces">Venue + spaces
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/speakers-program">Speakers + program
+</a>
+</li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/branding-promotions">Branding + promotions
+</a>
+</li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/audience-experience">Audience + experience
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/sponsors-finances">Sponsors + finances
+</a>
+</li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/video-photography">Video + photography
+</a>
+</li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/post-event-renewal">Post-event + renewal
+</a>
+</li>
+</ul>
+
+</li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/community-resources">Community resources
+</a><ul class='submenu__list'>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/community-resources/collaborative-learning">Collaborative learning
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/community-resources/event-type-resources">Event type resources
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/community-resources/tools-how-to-s">Tools + how-to's
+</a></li>
+</ul>
+
+</li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/tedx-innovations">TEDx Innovations
+</a><ul class='submenu__list'>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/tedx-innovations/community-projects">Community Projects
+</a></li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/tedx-innovations/tedx-incubator">TEDx Incubator
+</a></li>
+</ul>
+
+</li>
+<li class='submenu__item'>
+<a class="l3 submenu__link" href="/participate/organize-a-local-tedx-event/support">Support
+</a></li>
+</ul>
+
+</div>
+</nav>
+<script>q("pages.submenu")</script>
+
+</div>
+<div class='col-lg-9 pages-content'>
+<div class='m1 module'>
+<nav class='breadcrumb m4 show-lg'>Participate&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;<a class="breadcrumb__link" href="/participate/organize-a-local-tedx-event" rel=" up up">Organize a local TEDx event</a>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;<a class="breadcrumb__link" href="/participate/organize-a-local-tedx-event/before-you-start" rel=" up">Before you start</a>&nbsp;&nbsp;&rsaquo;&nbsp;&nbsp;</nav>
+
+<h1 class='h1 h1--alt m2'>
+TEDx Rules
+</h1>
+<!-- PB:B: copy --><div class='p2'>
+<p>TEDx is a global program that is brought to life by thousands of individuals all over the world – which calls for some ground rules. Here, you’ll find the complete set of rules for organizing a TEDx event, from start to finish. The rules are non-negotiable and mandatory for all TEDx event organizers. Because it’s both our job and yours to maintain the integrity of the TEDx vision. </p>
+
+</div>
+
+
+</div>
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--table-of-contents">Table of contents
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><p><a href="#h2--branding-positioning">Branding + positioning</a><br>
+<a href="#h2--licensing">Licensing</a><br>
+<a href="#h2--programming">Programming</a><br>
+<a href="#h2--speakers">Speakers</a><br>
+<a href="#h2--sponsors-funding">Sponsors + funding</a><br>
+<a href="#h2--website">Website</a></p>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><p><a href="#h2--social-media-event-page">Social media + event page</a><br>
+<a href="#h2--pr-press-media">PR + press + media</a><br>
+<a href="#h2--photo">Photo</a><br>
+<a href="#h2--video">Video</a><br>
+<a href="#h2--distribution">Distribution</a><br>
+<a href="#h2--webcasts">Webcasts</a></p>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: horizontal_rule --><hr class='pages-hr'>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--general">General
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Spirit/purpose:</strong> Your event must maintain the spirit of TED itself: multidisciplinary, focused on the power of ideas to change attitudes, lives and ultimately, the world. TEDx events are not agenda or single-topic driven.</li>
+<li>
+<strong>Length:</strong> Your event may not exceed one day in length.</li>
+<li>
+<strong>Location:</strong> TED allocates one location-based license series per applicant; you must live in the city for which you are applying for a license. Your TEDx event must happen in the city for which you received the license. TEDx events do not travel -- a TEDx license is valid for one city, and for one event.</li>
+<li>
+<strong>Funds:</strong> TEDx is a volunteer endeavor. You may not use your event to make money. You may not use your event to raise funds for charities or other organizations. </li>
+<li>
+<strong>Admission:</strong> Based on approval from TED, you can charge an attendance fee for a TEDx event featuring live speakers. Tickets must always be less than $100 USD and should go towards event and operating costs. In order to charge an admission fee, you must first <a href="https://spreadsheets.google.com/spreadsheet/viewform?formkey=dEFhX3U4dmwyOExkeE1aRGl3WXdhcUE6MQ">submit your proposed ticket price</a> for approval from TED.</li>
+</ul>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Attendance:</strong> Up to 100 individuals may attend your event. Only individuals who have attended an official TED conference in person may organize an event with more than 100 attendees. I.e., the primary license holder -- the individual whose name is on the application form -- must have attended a TED conference. Having attended one or multiple TEDx events or TEDWomen does not qualify you to host an event for more than 100 guests.</li>
+<li>
+<strong>Naming:</strong> TEDx events are named after locations, such as cities, neighborhoods, streets etc, and aim to serve that named community. Event names must comply with the guidelines laid out in <a href="/participate/organize-a-local-tedx-event/before-you-start/the-basics/naming-your-event">Naming your event</a>.</li>
+<li>
+<strong>Co-events:</strong> TEDx events are stand-alone events -- they may not be combined with or integrated into any pre-existing conference or event.</li>
+<li>
+<strong>Co-branding:</strong> We do not allow co-branding - either connecting the TEDx logo/identity/name to the name of another organization, non-profit, corporation or other, or presenting your TEDx event as being organized by such entities.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--branding-positioning">Branding + positioning
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>TEDx logo:</strong> Your TEDx logo should adhere to the <a href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/branding-promotions/logo-and-design/your-tedx-logo">TEDx logo style guidelines</a> and should be used to represent your event at all times.</li>
+<li>
+<strong>TEDx naming reference:</strong> You should refer to your event as TEDx(EventName), and not just TEDx. Your event name should be written as TEDx(EventName), with “TED” capitalized, “x” lowercase, and attached as one word to your location-based name.</li>
+<li>
+<strong>TED logo:</strong> Never use the TED logo in any communications or branding.</li>
+</ul>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>TED and TEDx:</strong> Never say “TED is coming to (my city)...” Make clear in all communications that you are a TEDx event, an independently organized TED-like event, and are not TED. Make clear that you are a TEDx(EventName) organizer, and not an employee of TED.</li>
+<li>
+<strong>Name abbreviation / variation:</strong> Name abbreviations and variations are not allowed. You must always refer to your event with the name you were approved for. E.g., if you are licensed for "TEDxPhoenix," you may not refer to your event as "TEDxPHX" or any other variation. You must refer to it as "TEDxPhoenix" in all copy, messaging, logos, etc.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--licensing">Licensing
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>License holder:</strong> TED considers the primary license holder the primary organizer of a TEDx event. If this is found to not be the case, TED reserves the right to revoke or not renew a license. Licensees under the age of 18 must have a supervising adult co-organizer listed on their application.</li>
+<li>
+<strong>License term:</strong> Your TEDx license is valid for one year from its date of approval, or until the conclusion of your event -- whichever comes first. You must re-apply for each subsequent event.</li>
+</ul>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>License transfers:</strong> TEDx licenses are non-transferable -- you cannot transfer your TEDx license to another individual. If you want to relinquish your license to allow another organizer to have it, you'll need to notify us first. The new licensee will need to fill out his or her own application.</li>
+<li>
+<strong>License renewal/relinquishment:</strong> If you decide not to renew your TEDx license after your TEDx event, or TED does not renew your license, you must transfer ownership of your TEDx domain name and other social properties to another TEDx licensee. TED cannot be held liable for expenses incurred during the purchase, transfer or re-sale of TEDx-related domain names or other.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--programming">Programming
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Format:</strong> Modeled after the TED format, TEDx events are a suite of short, carefully prepared talks, demonstrations and performances on a wide range of subjects to foster learning, inspiration and wonder -- and to provoke conversations that matter. The typical presentation should be an up to 18-minute talk by a single presenter. No talk should exceed 18 minutes. No panels, break-out sessions or workshops as part of general or mainstage programming. You may not pay your speakers to present.</li>
+<li>
+<strong>Multi topical and multidisciplinary:</strong> TEDx event themes should be multidisciplinary and broad. TEDx events must feature a diversity of speakers from across several disciplines that address a variety of topics. These topics should not fall under a single subject.</li>
+<li>
+<strong>Introduction video:</strong> A short, <a href="http://storage.ted.com/tedxresources/TEDx_Intro.zip">official video introduction</a> must be played at the beginning of your event. Playing this video is not optional; the purpose of the video is to make sure that your audience understands what TEDx is, and the difference between it and TED.</li>
+</ul>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>TED Talks:</strong> A minimum of two official, <a href="/talks">pre-recorded TED Talks</a> must be shown at events which are less than half a day in length. For longer events, 25% of the total number of talks must be official, pre-recorded TED Talks from the TED.com/talks library. Talks from the <a href="http://tedxtalks.ted.com/">TEDxTalks site</a> do not apply.</li>
+<li>
+<strong>Recording content:</strong> You must record all original stage content (live talks, performances, etc.) on video. After your event, you must make this video accessible to TED and the public via the TEDx YouTube channel by uploading to the TED Media Uploader. Talks from Internal TEDx events should not be uploaded to the TEDx YouTube channel or be distributed publicly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--speakers">Speakers
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Selection:</strong> TEDx Organizers are responsible for procuring and handling their own speakers. TED staff do not help identify or secure speakers. </li>
+<li>
+<strong>Event organizers:</strong> Organizers cannot be speakers at events to which they contribute.</li>
+<li>
+<strong>Payment:</strong> TEDx events may never pay speakers.
+Sponsorship: Sponsors of your event cannot be speakers. Speakers at your event cannot sponsor any part of your event, in-kind or otherwise.</li>
+<li>
+<strong>Sponsors:</strong> Sponsors have no editorial control or veto power over your speakers. Sponsors may never present from the stage. </li>
+<li>
+<strong>Duration:</strong> No talk can exceed 18 minutes in length.</li>
+<li>
+<strong>Presentations:</strong> Every talk's content must be in compliance with copyright law. Speakers must inform you beforehand of any third-party material that will be used in their presentations and seek written permissions to copyrighted materials when applicable. TED cannot assist with this process or act as a consultant on individual cases.</li>
+<li>
+<strong>Speaker waiver:</strong> All of your speakers, performers and other stage presenters must sign <a href="http://storage.ted.com/TEDx_Speaker_Release.DOC">this permission release form</a>, giving TED and others the right to edit and distribute video of their presentation. Please keep for your records, and send to TED only upon request.</li>
+<li>
+<strong>TEDx YouTube:</strong> TEDx event teams must upload videos of every talk from their event to the TEDx YouTube channel (and only the TEDxTalks YouTube channel) via the TED Media Uploader unless the content is in violation of our content rules. If an organizer chooses to withhold a talk, they are fully responsible for informing TED staff and then for communicating the reasoning of their actions to the speakers.</li>
+</ul>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Content:</strong> If talks violate the guidelines below, we reserve the right to insist on their removal from TEDx branded distribution outlets, and license renewal is unlikely.
+
+<ul>
+<li>
+<strong>No commercial agenda.</strong> Speakers should not promote their own products, books, or businesses or those of a company which employs them. The only exception is where they have specifically been invited to give a powerful product demo, or to describe the ideas in their book, and here the focus should still be on the technology and/or the ideas. </li>
+<li>
+<strong>Avoid pseudoscience.</strong> TED and TEDx are platforms for showcasing and explaining genuine advances in science, and it's important we retain the respect of the scientific community. Speakers should avoid the misuse of scientific language to make unsubstantiated claims. </li>
+<li>
+<strong>No talks with an inflammatory political or religious agenda, nor for polarizing “us vs them” language.</strong> We seek to build consensus and provide outside-the-box thinking, not to revisit familiar, unresolvable disputes on these topics. </li>
+</ul>
+</li>
+<li>
+<strong>Speaker products:</strong> Speakers' books can be part of the selection at a TEDx event bookstore, but they cannot sell books or other items individually. </li>
+<li>
+<strong>Book signings:</strong> Speakers at TEDx events can sign their books, but only as part of a larger book sale, and bookstore presence.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--sponsors-funding">Sponsors + funding
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Funding:</strong> TEDx is a volunteer endeavor. You may not use your event to make money, or to raise funds for charities or other organizations. All funds raised through your TEDx event's ticket sales and partnerships must go back into the organizing of the TEDx event.</li>
+<li>
+<strong>Fundraising and Crowdfunding:</strong> TEDx events cannot organize separate ticketed TEDx-branded fundraising events or use crowdfunding platforms -- such as IndieGoGo, Kickstarter, or other local platforms -- to raise money for any aspect of a TEDx event.</li>
+<li>
+<strong>Eligible sponsors:</strong> You <em>may not</em> approach any sponsors that fall under our <a href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/sponsors-finances/prohibited-sponsors-and-industries#h2--prohibited-sponsors">prohibited sponsor list</a> or our <a href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/sponsors-finances/prohibited-sponsors-and-industries#h2--prohibited-industries">prohibited industries list</a>. If a prospective sponsor and their industry are not listed in either of these lists, then they may be contacted without prior approval from TED. </li>
+<li>
+<strong>Contribution:</strong> There are limits on cash amounts that sponsors can contribute:
+
+<ul>
+<li>For events with less than 100 attendees, total sponsorship funding may not exceed $10,000 (in cash), this amount excludes direct cost of venue. For events with 100 attendees or less, try to reach out to as many sponsors as possible who can offer in-kind support.</li>
+<li>For events with more than 100 attendees, sponsorship funding may not exceed $20,000 (in cash) per sponsor. If your budget necessitates funding above this amount, you will need to get approval from TED.</li>
+</ul>
+</li>
+<li>
+<strong>Editorial control:</strong> Sponsors have no editorial control or veto power over your program.</li>
+<li>
+<strong>The stage:</strong> Sponsors may not present from the stage. No one can pay to be included in the program. Sponsor logos cannot be displayed on a TEDx stage.</li>
+<li>
+<strong>Bookstore partnerships:</strong> Partnerships with bookstores should be in-kind -- all revenues from book sales should go to the bookstore. In exchange, the bookstore will provide staffing and shipping (if applicable) of the books. If the bookstore provides customized items such as t-shirts or mugs for sale at the event, Organizers can set-up a revenue share deal. Bookstores would be allowed to give out coupons in the gift bags.</li>
+</ul>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Payment:</strong> Wherever possible, please have sponsors pay vendors directly.</li>
+<li>
+<strong>Social media:</strong> Do not endorse your sponsors via your event's social media properties. You are not allowed to promote your sponsors on Twitter, Facebook or any other social media properties.</li>
+<li>
+<strong>Sponsorship summary:</strong> There is a section in the <a href="https://spreadsheets.google.com/a/ted.com/viewform?formkey=dG1IS0tUdjBUa0N5VjQ1SC13aldBU0E6MQ&amp;hl=en&amp;utm_content=awesm-site&amp;utm_medium=on.ted.com-copypaste&amp;utm_source=direct-on.ted.com#gid=0">TEDx Organizer Close Out Form</a> where you can submit a summary of your event sponsorship. Sponsors must be submitted in order for your event to be considered for renewal.</li>
+<li>
+<strong>Products and giveaways:</strong> Branded products may be given away. TEDx-branded products may only be sold at your event -- not pre/post or online. Profits from these items must go back to support your event. The TEDx logo/brand may not be licensed for commercial purposes.</li>
+<li>
+<strong>Crowdfunding:</strong> TEDx events cannot use crowdfunding platforms -- such as IndieGoGo, Kickstarter, or other local platforms -- to raise money for any aspect of a TEDx event.</li>
+<li>
+<strong>Sponsor logos on your videos:</strong> Sponsor logos may only be shown on one slide at the beginning and end of each video. This slide must be 3 seconds long at maximum and adhere to our official sponsorship slide <a href="http://storage.ted.com/tedx_sponsor_cards.zip">template</a>. There may only be a single slide in your video to feature all of your sponsor logos. Sponsor logos may not appear anywhere else in the video. If you have multiple sponsors you must feature all of your sponsor logos on the one slide. Never superimpose your event logo or a sponsor logo over the speaker's talk or slides. Never feature rolling credits.
+Slides related to sponsors must appear in the following sequence:</li>
+</ul>
+
+<ol>
+<li>General event intro graphics (optional)</li>
+<li>Your TEDx event logo (Required)</li>
+<li>Sponsor pre-roll card (cannot exceed 3 seconds)</li>
+<li>Talk (Required)</li>
+<li>Sponsor pre-roll card (cannot exceed 3 seconds)</li>
+<li>Post-roll card (optional)</li>
+</ol>
+
+<ul>
+<li>The pre- and post-roll sponsor logo slides you display in your videos should use the layout of these <a href="http://storage.ted.com/tedx_sponsor_cards.zip">templates</a> (versions for 4:3 and 16:9 provided). If you are unable to edit these image files, recreate the layout in your image/slide editor of choice.
+If you are featuring multiple sponsor logos, send a still image of your slide to <a href="mailto:tedxpostevent@ted.com">tedxpostevent@ted.com</a> for approval. Sponsor logos must appear smaller than your TEDx event's logo.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--website">Website
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Domain:</strong> Do not purchase a domain name until your license has been approved. The URL of your website's homepage should be the name of your TEDx event, e.g. TEDxTokyo.com. The .com top-level domain should be your first choice, followed by the top-level domain of your country (e.g., .pl for Poland). .org and .net should be your next choices.</li>
+<li>
+<strong>Domain ownership:</strong> When you purchase your TEDx(EventName) domain name, you are entitled to keep the domain name as long as you are the TEDx licensee whose event's name corresponds exactly to the domain name in question. (E.g., as long as you are the licensee in charge of TEDx(EventName), you may keep the domain name "<a href="http://www.tedxeventname.com%22">www.tedxeventname.com"</a>).</li>
+<li>
+<strong>Domain squatting:</strong> You may only own the domain name that corresponds to your own event; you may not register domain names corresponding to other TEDx events -- including prospective events that have not yet been licensed. In other words, you may not "squat" in domain names for potential TEDx events if you are not already the licensee, even if you intend to transfer ownership, or intend to apply for a license for the event at a later point.</li>
+<li>
+<strong>Website content:</strong> Your site needs to include information about your live speakers, a description of your venue, the date and location of your event, and information <a href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/branding-promotions/your-event-website#h3--about-page">about TEDx and TED</a>.</li>
+<li>
+<strong>Unacceptable content:</strong> You may not display any content associated with:
+
+<ul>
+<li>Weapons manufacturers</li>
+<li>Ammunition companies</li>
+<li>Cigarette companies</li>
+<li>Online gambling organizations</li>
+<li>Sex-related businesses</li>
+<li>Other conferences or seminars</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Website homepage:</strong> Your site's homepage must include the following:
+
+<ul>
+<li>A visible link, on your event's homepage, to the TEDx program (/tedx)</li>
+<li>Language that describes TEDx:</li>
+<li>What is TEDx?</li>
+<li>In the spirit of ideas worth spreading, TED has created a program called TEDx. TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. Our event is called TEDx[name], where x = independently organized TED event. At our TEDx[name] event, TEDTalks video and live speakers will combine to spark deep discussion and connection in a small group. The TED Conference provides general guidance for the TEDx program, but individual TEDx events, including ours, are self-organized.</li>
+<li>Text in the footer that states "This independent TEDx event is operated under license from TED."</li>
+</ul>
+</li>
+<li>
+<strong>About page:</strong> Your site must have an "About" page that includes the <a href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/branding-promotions/your-event-website#h3--about-page">“About TED/About TEDx”</a> language. </li>
+<li>
+<strong>Images:</strong> Never use the TED logo or TED conference images on your website or any other promotional materials. You may only use your TEDx event's logo and TEDx images.</li>
+<li>
+<strong>Sponsors:</strong> Sponsor or partner logos or names may not appear on your site's homepage. Instead, create a separate page dedicated to your sponsors, and link to the page from your site's global navigation bar. Anywhere it appears, the sponsor's logo must be smaller than your TEDx event's logo.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--social-media-event-page">Social media + event page
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Sponsors:</strong> Never mention your event's sponsors on social media accounts -- including Twitter, Facebook, newsletter (mailing list) emails or on your blog.</li>
+<li>
+<strong>Facebook:</strong> The name of your Facebook account should mirror the name of your event. (Set up your Facebook account as a "Page," not as a "Group" or "Profile.") Your official TEDx event logo must appear in your Facebook image. No sponsor logos are allowed. In the "Info" tab, include the "About TED" and <a href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/branding-promotions/your-event-website#h3--about-page">"About TEDx"</a> copy.</li>
+<li>
+<strong>Twitter:</strong> Your Twitter account name must mirror the name of your TEDx event. (If your event name exceeds the 15-character limit allowed for Twitter names, contact us at <a href="mailto:tedx@ted.com">tedx@ted.com</a> with alternative suggestions, which we must approve.) You must use your official TEDx event logo as your Twitter image. </li>
+</ul>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Email lists:</strong> Never use your email list for any purpose other than communicating information specifically about your TEDx event. </li>
+<li>
+<strong>Other social media channels:</strong> All of the standard naming, sponsor and branding rules apply. </li>
+<li>
+<strong>YouTube:</strong> Adhere to YouTube's Terms of Service and Community Guidelines when promoting any video on the TEDxTalks YouTube channel.</li>
+<li>
+<strong>Event page:</strong> Filling out your event page on TED.com is mandatory. Only include links directly related to your TEDx event. Event page completion is mandatory for the renewal of your license.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--pr-press-media">PR + press + media
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Logos:</strong> Use your event's TEDx logo. Don't use the TED logo at any time, and don't allow journalists to use it (in print or on video). Supply journalists with your customized TEDx logo. Read our <a href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/branding-promotions/logo-and-design/your-tedx-logo">logo guidelines</a> to learn how to create your logo.</li>
+<li>
+<strong>Comments on TED:</strong> TED staff should be the sole official spokespeople for TED and the program as a whole; any journalist seeking comment from TED should be routed through <a href="mailto:TEDxPR@ted.com">Melody Serafino</a> and TED.</li>
+<li>
+<strong>Press releases:</strong> All press and press releases must be routed through for approval by the TEDx program's media liaison, <a href="mailto:TEDxPR@ted.com">Melody Serafino</a>. Press releases must contain the <a href="/participate/organize-a-local-tedx-event/tedx-organizer-guide/branding-promotions/your-event-website#h3--about-page">"About TED" and "About TEDx"</a> text:</li>
+<li>
+<strong>Interviews:</strong> If you are interviewed for broadcast TV or radio, clearly state that your event is a TEDx event, and explain what that means (it is independently organized, etc.). Represent yourself as a participating organizer in your specific TEDx program.
+Interview requests for TED staff: Route requests for interviews with TED staff to Melody Serafino, TEDx Media Liaison.</li>
+<li>
+<strong>Press attendance:</strong> At TED, we keep the number of journalists to a minimum. We ask you to do the same. Only invite media you know personally.</li>
+<li>
+<strong>Film/video:</strong> Members of the press are not allowed to take pictures of or film/videotape your TEDx event. Instead, find one in-house photographer and share selections with the media.</li>
+</ul>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Media section on your website:</strong> If you're planning on having media cover your event, create a media section on your website. Direct all your media requests to a single, consistent resource.</li>
+</ul>
+
+<p><strong>What your media section should say:</strong><br>
+All press requests should be sent to [name]. [Name] is the official spokesperson for TEDx[place name]. Please note that TEDx event organizers are not able to speak for the TED Conference. Any inquiry regarding TED should be sent to: <br>
+Melody Serafino <br>
+TEDx Media Liaison <br>
+<a href="mailto:TEDxPR@ted.com">TEDxPR@ted.com</a> </p>
+
+<p>While we appreciate any coverage, we kindly ask that all journalists and/or bloggers be respectful of the difference between the TED and TEDx brands. </p>
+
+<p>The 'x' in 'TEDx' stands for "independently organized events." Any headline or text which implies "TED" is coming to [location] is misleading. </p>
+
+<p>For more information on TEDx, visit <a href="http://www.ted.com/tedx">http://www.ted.com/tedx</a>.</p>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--photo">Photo
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Release form:</strong> Before covering an event, photographers must sign <a href="http://storage.ted.com//tedx_photography_release.docx">this release form</a> stating that they will release the photos under the Creative Commons "Attribution - Noncommercial - NonDerivative" license and authorize TED Conferences, LLC to replicate and distribute their photos for publicity releases, program marketing, and on print and web TED properties.</li>
+<li>
+<strong>Creative Commons:</strong> Photos of TEDx events must be released under a Creative Commons license ("Attribution - NonCommercial - NonDerivative"), so they can be freely shared and reposted.</li>
+<li>
+<strong>Credit:</strong> When posting photographs anywhere (e.g. on Flickr), clearly credit the photographer in metadata, captions and tags
+TEDx photos: If you use an image from another TEDx event, contact the event's organizer to confirm that use of the image is authorized</li>
+</ul>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Flickr:</strong> You should upload all of your TEDx event photos to Flickr before uploading them elsewhere (Facebook, etc)</li>
+<li>
+<strong>Resolution:</strong> Shoot and upload photos in the highest possible resolution. (For JPEGs to be considered "high resolution," they must meet or exceed a minimum of 7x5 @300 dpi.) If large file sizes cause problems having to do with bandwidth or storage, contact <a href="mailto:tedxpostevent@ted.com">tedxpostevent@ted.com</a>.</li>
+<li>
+<strong>Photo editing:</strong> Do not modify photos unnaturally -- e.g., do not adjust contrast, color balance, apply filters or airbrush in a way that makes them look unrealistic.</li>
+<li>
+<strong>Watermarks:</strong> Do not put watermarks, text or other labels onto the photos Do not superimpose your event logo or your photographers information.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--video">Video
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>TEDx YouTube:</strong> TEDx Talk videos should be uploaded to YouTube through the TED Media Uploader and distributed from the TEDx YouTube channel through an embed. Talks cannot be uploaded to any other platforms. Adhere to YouTube's Terms of Service and Community Guidelines with every video uploaded to the TEDx YouTube channel. Before you upload any video, you must confirm that all the images, music and video clips used in your speakers' presentations are cleared for distribution on YouTube. Securing rights to any copyrighted materials is entirely the responsibility of the TEDx organizer.</li>
+<li>
+<strong>Distribution:</strong> Talks and other content recorded at your event may not be distributed on broadcast television, cable television, satellite television or on-demand TV.</li>
+</ul>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Sponsor logos on your videos:</strong> Sponsor logos may only be shown on one slide at the beginning and end of each video. This slide must be 3 seconds long at maximum and adhere to our official sponsorship slide <a href="http://storage.ted.com/tedx_sponsor_cards.zip">template</a>. There may only be a single slide in your video to feature all of your sponsor logos. Sponsor logos may not appear anywhere else in the video. If you have multiple sponsors you must feature all of your sponsor logos on the one slide. Never superimpose your event logo or a sponsor logo over the speaker's talk or slides. Never feature rolling credits.
+Slides related to sponsors must appear in the following sequence:</li>
+</ul>
+
+<ol>
+<li>General event intro graphics (optional)</li>
+<li>Your TEDx event logo (Required)</li>
+<li>Sponsor pre-roll card (cannot exceed 3 seconds)</li>
+<li>Talk (Required)</li>
+<li>Sponsor pre-roll card (cannot exceed 3 seconds)</li>
+<li>Post-roll card (optional)</li>
+</ol>
+
+<ul>
+<li>The pre- and post-roll sponsor logo slides you display in your videos should use the layout of these <a href="http://storage.ted.com/tedx_sponsor_cards.zip">templates</a> (versions for 4:3 and 16:9 provided). If you are unable to edit these image files, recreate the layout in your image/slide editor of choice.
+If you are featuring multiple sponsor logos, send a still image of your slide to <a href="mailto:tedxpostevent@ted.com">tedxpostevent@ted.com</a> for approval. Sponsor logos must appear smaller than your TEDx event's logo.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--distribution">Distribution
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>TEDx Talks:</strong> You can use up to a 30-second excerpt from a TEDx Talk for other videos, including documentaries and promo videos.</li>
+<li>
+<strong>Television:</strong> TEDx Talks cannot be distributed on television or on-demand TV. TEDx events cannot be webcast on television or on-demand TV.</li>
+<li>
+<strong>Radio:</strong> TEDx events cannot be streamed on the radio. Radio programs cannot be made from TEDx content.</li>
+</ul>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Documentary:</strong> You can shoot a documentary specific to your TEDx event, but not a general TEDx documentary. Documentaries must abide by the following:
+
+<ul>
+<li>No use of the TED and/or plain TEDx logos.</li>
+<li>No filming inside the theatre while your event is taking place; only the designated film crew who is filming the TEDx talks is allowed into the theatre to film during talks and breaks.</li>
+<li>You can shoot b-roll in break areas, but not inside the theatre.</li>
+<li>TEDx Talks cannot be re-edited or remixed; a maximum of 30 seconds of any TEDx Talk may be featured.</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: heading --><h3 class="h4 m4" id="h2--webcasts">Webcasts
+</h3>
+
+<!-- PB:B: grid --><div class='pages-module'>
+
+<div class='row'>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Advertising:</strong> No advertising is permitted on or around your webcast. (You may not advertise inside the webcast. You may not place advertisements on the website hosting the webcast.)</li>
+<li>
+<strong>Cost:</strong> Your webcast must be free to viewers.</li>
+<li>
+<strong>Distribution:</strong> Talks and other content recorded at your event may not be distributed on broadcast television, cable television, satellite television or on-demand TV.</li>
+<li>
+<strong>Webcast services:</strong> TEDx has a webcast channel with Livestream. We recommend you <a href="mailto:tedx@livestream.com">reaching out to them</a> and they can set you up on our ad-free channel.</li>
+</ul>
+</div>
+</div>
+<div class='col-xs-6'>
+<div class="text-left"><ul>
+<li>
+<strong>Third-party webcast services:</strong> You can broadcast your event via a third-party website or with a third-party webcast service. Advertisements in, on or around the webcast are not permitted.</li>
+<li>
+<strong>Webcast archive:</strong> Archiving your TEDx event webcast for the public or your attendees is not permitted. (I.e., you are not allowed to provide a stream of your event's webcast after your event has concluded.)</li>
+<li>
+<strong>Viewing parties:</strong> You're allowed to organize viewing parties around your TEDx webcast, but no viewing party may exceed 100 attendees. Viewing parties must be free of charge to guests, and must be held in non-commercial venues such as homes, schools or libraries.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- PB:B: copy --><div class='pages-promo pages-module module inverse'>
+<h4 class="h7 m5" id="h3--">
+</h4>
+<strong><p><strong>Next:</strong> <a href="/participate/organize-a-local-tedx-event/before-you-start/event-types">Pick the right event type of your event</a></p>
+</strong>
+</div>
+
+
+</div>
+</div>
+</div></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-open-translation-project">Open Translation Project</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+<li><a class="footer__link" href="/about/programs-initiatives/ads-worth-spreading">Ads Worth Spreading</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.npr.org/programs/ted-radio-hour/" rel="nofollow" target="_blank">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+<li><a class="footer__link" href="http://developer.ted.com" target="_blank">For developers / API</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="//www.facebook.com/TED" target="_blank">Facebook</a></li>
+<li class='m5'><a class="footer__link" href="//twitter.com/tedtalks" target="_blank">Twitter</a></li>
+<li class='m5'><a class="footer__link" href="//plus.google.com/+TED" rel="publisher" target="_blank">Google+</a></li>
+<li class='m5'><a class="footer__link" href="//www.pinterest.com/tednews" target="_blank">Pinterest</a></li>
+<li class='m5'><a class="footer__link" href="//instagram.com/ted" target="_blank">Instagram</a></li>
+<li class='m5'><a class="footer__link" href="//www.youtube.com/ted" target="_blank">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/people/tedx" rel="nofollow">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/newsletter/signup' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='newsletterSignup[subscription_list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='newsletterSignup[subscription_list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='newsletterSignup[email_address]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-us">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/contact" target="_blank">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/who-we-are">Staff</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,g,a,m){a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(document,'script','//www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script></body></html>

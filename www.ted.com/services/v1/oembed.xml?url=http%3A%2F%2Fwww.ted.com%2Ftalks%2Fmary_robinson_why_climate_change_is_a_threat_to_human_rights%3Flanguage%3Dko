@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>매리 로빈슨: 기후 변화가 인권에 위협이 되는 이유</title>
+  <description>기후 변화는 불공평합니다. 부유한 나라는 높아지는 해수면과 죽어가는 경작지를 해결할 수 있지만 세계의 빈곤한 사람들은 살인 폭풍과 기아, 토지 상실로 인해 이미 삶이 뒤엎어지며 인권이 위협받고 있습니다. 매리 로빈슨이 세계적인 기후 정의를 위한 운동에 참여하기를 우리에게 요청합니다.</description>
+  <url>http://www.ted.com/talks/mary_robinson_why_climate_change_is_a_threat_to_human_rights?language=ko</url>
+  <author-name>매리 로빈슨</author-name>
+  <author-url>http://www.ted.com/speakers/mary_robinson</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/42b9a7d189168aefaef8de20b14d915d1279fc95_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/mary_robinson_why_climate_change_is_a_threat_to_human_rights.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

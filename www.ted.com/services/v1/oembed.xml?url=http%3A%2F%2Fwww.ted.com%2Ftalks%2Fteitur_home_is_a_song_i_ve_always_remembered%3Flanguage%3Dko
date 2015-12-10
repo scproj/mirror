@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>테이터(Teitur): 고향은 제가 언제나 기억하고 있는 노래입니다</title>
+  <description>음악가인 테이터에게 노래하는 것은 자신의 일부분을 다른 사람에게 주는 것입니다. 그는 이렇게 말합니다. "여러분의 목적이 사람들에게 잘 보이거나 마지막에 큰 박수를 받는 것이라면, 이건 주는 게 아니라 받는 겁니다." 그가 TED2015 무대 위에서 연주를 하며 여러분에게 주는, 사랑과 거리와 고향에 대한 두 곡을 들어보세요.</description>
+  <url>http://www.ted.com/talks/teitur_home_is_a_song_i_ve_always_remembered?language=ko</url>
+  <author-name>테이터(Teitur)</author-name>
+  <author-url>http://www.ted.com/speakers/teitur</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/3b6a7550ff348ae9a42b995b48cf47705ffdb0ab_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/teitur_home_is_a_song_i_ve_always_remembered.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>마이클 키멜(Michael Kimmel): 양성 평등이 모두에게 유익한 이유 - 남자를 포함해서</title>
+  <description>그렇습니다. 이것이 옳은 행동이라는 건 누구나 알고 있습니다. 하지만 마이클 키멜은 직장과 가정에서 남성과 여성을 평등하게 대하는 놀랍고도 흥미로운 실례를 보여줍니다. 그것은 제로섬 게임도 아니고 윈윈게임도 아니며 모두에게 더 많은 기회와 행복을 가져오는 것입니다.</description>
+  <url>http://www.ted.com/talks/michael_kimmel_why_gender_equality_is_good_for_everyone_men_included?language=ko</url>
+  <author-name>마이클 키멜(Michael Kimmel)</author-name>
+  <author-url>http://www.ted.com/speakers/michael_kimmel</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/23206cfe8a19d4ce6860a44426c3004951e5f384_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/michael_kimmel_why_gender_equality_is_good_for_everyone_men_included.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

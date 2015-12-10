@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>세쓰 버클리: 이미 개발된 백신이 너무 늦게 생산되는 골치 아픈 이유</title>
+  <description>우리는 백신 생산에 대한 진지한 토론을 하기도 전에 치명적인 질병의 급증을 앞두고 있는 것처럼 보입니다. 세쓰 버클리는 세계 최대 질병을 위한 백신을 왜 만들지 않는지에 대한 이유 뒤에 숨겨진 적자 위험요소와 시장 현실을 지적합니다.</description>
+  <url>http://www.ted.com/talks/seth_berkley_the_troubling_reason_why_vaccines_are_made_too_late_if_they_re_made_at_all?language=ko</url>
+  <author-name>세쓰 버클리</author-name>
+  <author-url>http://www.ted.com/speakers/seth_berkley</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/55f6397981de949ec8b0ca025bf3a65e01515410_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/seth_berkley_the_troubling_reason_why_vaccines_are_made_too_late_if_they_re_made_at_all.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

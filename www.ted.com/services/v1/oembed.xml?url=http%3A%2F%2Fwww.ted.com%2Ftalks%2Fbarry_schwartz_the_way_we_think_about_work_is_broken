@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Barry Schwartz: The way we think about work is broken</title>
+  <description>What makes work satisfying? Apart from a paycheck, there are intangible values that, Barry Schwartz suggests, our current way of thinking about work simply ignores. It's time to stop thinking of workers as cogs on a wheel.</description>
+  <url>http://www.ted.com/talks/barry_schwartz_the_way_we_think_about_work_is_broken</url>
+  <author-name>Barry Schwartz</author-name>
+  <author-url>http://www.ted.com/speakers/barry_schwartz</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/6d3007225f78d441151ef94f644a3292187d6f65_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/barry_schwartz_the_way_we_think_about_work_is_broken.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

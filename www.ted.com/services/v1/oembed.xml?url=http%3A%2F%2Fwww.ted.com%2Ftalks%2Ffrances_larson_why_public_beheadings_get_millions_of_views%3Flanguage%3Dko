@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>프란시스 랄슨(Frances Larson): 공개참수가 수 백만개의 조회수를 받는 이유</title>
+  <description>불편하지만 매력적인 역사 속으로의 산책에서 프란시스 랄슨은 인류와 공개 처형, 특히 참수형과의 이상한 관계에 대해 고찰합니다. 그녀가 보여주듯, 공개처형은 관중을 끌어모았고 처음에는 광장이었으나 이제는 유투브로 모이게 되었습니다. 공개처형은 무엇 때문에 끔찍하면서도 동시에 그만큼 흥미진진할까요?</description>
+  <url>http://www.ted.com/talks/frances_larson_why_public_beheadings_get_millions_of_views?language=ko</url>
+  <author-name>프란시스 랄슨(Frances Larson)</author-name>
+  <author-url>http://www.ted.com/speakers/frances_larson</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/e71bb533a3d1616065bf7e446b8ba656cc9cf8ec_240x180.jpg?lang=ko</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/lang/ko/frances_larson_why_public_beheadings_get_millions_of_views.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>

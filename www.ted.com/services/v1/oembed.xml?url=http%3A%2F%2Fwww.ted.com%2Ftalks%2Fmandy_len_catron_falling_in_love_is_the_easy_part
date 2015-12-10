@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oembed>
+  <type>video</type>
+  <version>1.0</version>
+  <width type="integer">560</width>
+  <height type="integer">315</height>
+  <title>Mandy Len Catron: Falling in love is the easy part</title>
+  <description>Did you know you can fall in love with anyone just by asking them 36 questions? Mandy Len Catron tried this experiment, it worked, and she wrote a viral article about it (that your mom probably sent you). But … is that real love? Did it last? And what’s the difference between falling in love and staying in love?</description>
+  <url>http://www.ted.com/talks/mandy_len_catron_falling_in_love_is_the_easy_part</url>
+  <author-name>Mandy Len Catron</author-name>
+  <author-url>http://www.ted.com/speakers/mandy_len_catron</author-url>
+  <provider-name>TED</provider-name>
+  <provider-url>http://ted.com</provider-url>
+  <thumbnail-url>http://tedcdnpe-a.akamaihd.net/images/ted/9f010c45e86e3adeb26352cad72c7f50bd5071b4_240x180.jpg?lang=en</thumbnail-url>
+  <thumbnail-width type="integer">240</thumbnail-width>
+  <thumbnail-height type="integer">180</thumbnail-height>
+  <html>&lt;iframe src="https://embed-ssl.ted.com/talks/mandy_len_catron_falling_in_love_is_the_easy_part.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</html>
+</oembed>
